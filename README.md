@@ -166,9 +166,3 @@ The deck and executive summaries follow a strict source-reliability hierarchy:
 - No CEE / Agence de l'Eau eligibility claim without written confirmation per basin.
 
 See appendix slide **A16** for the full allowed-vs-forbidden claims table.
-
----
-
-## 8 · Contact
-
-Project owner: Victor Pimshin (@vpimshin).
