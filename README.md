@@ -2,11 +2,11 @@
 
 **Turning dialysis from a hidden water risk into a measurable water-resilience asset.**
 
-EcoDialysis is one of the winners of **ANDCS × MIT Hacking Medicine -Track 1 Sustainable Care, Paris 2026**.
+EcoDialysis is one of the winners of **ANDCS × MIT Hacking Medicine - Track 1 Sustainable Care, Paris 2026**.
 
 A 100-patient dialysis centre quietly discharges ~4,200 m³/yr of high-purity RO reject - water already paid for and treated, then lost.
 
-Décret n°2024-796 (in force 1 Sept 2024) now authorises non-clinical reuse via the EICH (Eaux Impropres à la Consommation Humaine) framework. 
+Décret  n °2024-796 (in force 1 Sept 2024) now authorises non-clinical reuse via the EICH (Eaux Impropres à la Consommation Humaine) framework. 
 
 This repository contains the pitch, the diligence evidence library, and the Python sources used to build them.
 
