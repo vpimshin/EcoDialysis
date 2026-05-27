@@ -1,0 +1,580 @@
+Vol.:(0123456789)
+Sustainability Science (2024) 19:1103–1109 
+https://doi.org/10.1007/s11625-024-01487-5
+NOTE AND COMMENT
+Climate‑friendly healthcare: reducing the impacts of the healthcare 
+sector on the world’s climate
+Walter Leal Filho1,2  · Johannes M. Luetz3,4,5  · Urvi D. Thanekar6  · Maria Alzira Pimenta Dinis7,8  · 
+Mike Forrester9 
+Received: 28 October 2023 / Accepted: 19 February 2024 / Published online: 29 March 2024 
+© The Author(s) 2024
+Abstract
+If the global healthcare sector were a country, it would be the fifth-largest carbon emitter, also producing massive volumes of 
+waste. A revolutionary transition to an environmentally sustainable model of healthcare is required. Decarbonisation efforts 
+are initially focused on transitioning to renewable energy sources and improving energy efficiency in healthcare facilities 
+(Scopes 1 and 2). One of the major challenges is to reduce the carbon intensity of the broader healthcare sector, especially 
+operational and supply chain-related emissions, which represent 71% of the sector’s worldwide emissions (Scope 3). This 
+comment briefly describes the connections between the healthcare sector and climate change and describes several high-
+impact decarbonisation opportunities, focusing on transitioning from current resource and waste-intensive procurement 
+models and highlighting the planetary co-benefits of fostering low-emissions healthcare. To succeed, this transition will 
+require high-level advocacy and policy changes supported by international collaboration at the global level.
+Keywords Healthcare · Greenhouse gas emissions · Climate change · Decarbonisation · Sustainable procurement · 
+Planetary health
+Handled by So-Young Lee, Institute for Global Environmental 
+Strategies, Japan.
+ * Johannes M. Luetz 
+ jluetz@usc.edu.au
+ Walter Leal Filho 
+ walter.leal2@haw-hamburg.de
+ Urvi D. Thanekar 
+ uthanekar@deakin.edu.au
+ Maria Alzira Pimenta Dinis 
+ madinis@ufp.edu.pt
+ Mike Forrester 
+ m.forrester@deakin.edu.au
+1 School of Science and the Environment, Manchester 
+Metropolitan University, All Saints Building, Oxford Road, 
+Manchester M15 6BH, UK
+2 Research and Transfer Centre “Sustainable Development 
+and Climate Change Management”, Hamburg University 
+of Applied Sciences, Ulmenliet 20, 21033 Hamburg, 
+Germany
+3 Graduate Research School, Alphacrucis University College, 
+Brisbane, QLD 4102, Australia
+4 School of Social Sciences, The University of New South 
+Wales, Sydney, NSW 2052, Australia
+5 School of Law and Society, The University of the Sunshine 
+Coast, Maroochydore, QLD 4556, Australia
+6 Faculty of Health, Institute of Health Transformation, 
+Sustainable Health Network, Deakin University, Melbourne, 
+VIC 3125, Australia
+7 Fernando Pessoa Research, Innovation and Development 
+Institute (FP-I3ID), University Fernando Pessoa (UFP), Praça 
+9 de Abril 349, 4249-004 Porto, Portugal
+8 Marine and Environmental Sciences Centre (MARE), 
+University of Coimbra, Edifício do Patronato, Rua da 
+Matemática, 49, 3004-517 Coimbra, Portugal
+9 Faculty of Health, Sustainable Health Network-Institute 
+for Health Transformation, Deakin University, Geelong, 
+VIC 3220, Australia
+1104 Sustainability Science (2024) 19:1103–1109
+Healthcare and its connections with climate 
+change
+Hospitals and all healthcare services are responsible 
+for protecting health, treating patients, and saving lives. 
+Increasingly, this also means helping humans to handle 
+the effects of climate change on their health (Malik et al. 
+2018). Paradoxically, healthcare systems are highly energy 
+and resource intensive (Duindam 2022; Qin et al. 2022) 
+and are responsible for 4.4% of global greenhouse gas 
+(GHG) emissions (Karliner et al. 2020). Thus, healthcare 
+systems are facing the dual challenge of dealing with the 
+health impacts of climate change, while at the same time 
+reducing their own emissions. The Greenhouse Gas Pro-
+tocol (GHGP) classifies emissions emanating from health-
+care systems into three ‘scopes’. Table 1 below reflects the 
+categories included within the three scopes (NHS England 
+2020) and the pathways through which they contribute to 
+climate change (Karliner et al. 2021).
+Table 1  Healthcare pathways impacting climate change
+Emissions Categories included Emissions contribution
+Direct emissions
+ Scope 1: 17% of the sector’s worldwide 
+footprint
+Directly controlled or owned by the health-
+care facilities
+Fossil fuels Fossil fuels, predominantly coal combustion 
+onsite in hospital facilities, including the fuel 
+to power hospital equipment and fleet, gener-
+ate the primary drivers of climate change. 
+Resultant air pollution is the greatest source of 
+morbidity and mortality (Karliner et al. 2021)
+Hospital fleet
+Anaesthetic and propellent gases Anaesthetic and propellant gases such as nitrous 
+oxide have 268 times the global warming 
+potential of carbon dioxide (Karliner et al. 
+2019)
+Indirect emissions
+ Scope 2: 12% of the sector’s worldwide 
+footprint
+Indirectly generated through purchased 
+electricity
+Purchased electricity The large amount of energy for heating, cooling, 
+lighting, and operating medical equipment 
+massively contributes to GHG emissions (Das 
+and J 2023)
+ Scope 3: 71% of the sector’s worldwide 
+footprint
+Indirect emissions from the healthcare 
+organisations’ value chain, outside of the 
+organisations’ operations
+Waste Improper disposal of significant volumes of 
+hazardous and infectious materials leads to 
+environmental contamination and, in the 
+case of organic waste releasing methane, 
+constitutes a major source of GHG emissions 
+(Ezeudu et al. 2022)
+Water Large quantities of water used for patient care, 
+sanitation, and cleaning require energy and 
+contribute to GHG emissions (Lenzen et al. 
+2020)
+Manufacturing, pharmaceuticals, and medical 
+devices
+Manufacturing medical products, including 
+medications, medical devices, and consuma-
+bles, requires significant amounts of energy 
+and raw materials, which generate GHG emis-
+sions (Meister et al. 2023)
+Food and catering Meat-rich food options in hospital menus, food 
+waste disposal, and emissions associated with 
+food transport within hospitals, substantially 
+contribute to GHG emissions (NHS England 
+2020)
+Information and communication technology 
+(ICT)
+The manufacture, distribution, daily use, and 
+disposal of ICT within healthcare services 
+bears a crucial cost to the environment, 
+including through production, transportation, 
+use, and disposal (NHS England 2020)
+Business services and staff and patient travel The transportation of patients, medical supplies, 
+and healthcare workers also contributes to 
+GHG emissions, especially when long dis-
+tances are involved (Dacones et al. 2021)
+1105Sustainability Science (2024) 19:1103–1109 
+Given that manufacturing, operating, and disposing of 
+medical equipment contribute to greenhouse gas emissions, 
+improved design for recyclability, longer equipment life 
+spans, and sharing equipment among facilities may mitigate 
+these emissions.
+High‑impact actions to reduce 
+the healthcare sector’s share of GHG 
+emissions
+As part of the process of handling the contribution of the 
+health sector to climate change, decarbonisation—the pro-
+cess of reducing  CO2 emissions resulting from human activ-
+ity with the eventual goal of eliminating them (Chen et al. 
+2022)—is an important factor. Pursuing it, however, will 
+require high-impact actions across key areas. Figure 1 below 
+highlights the pathways through which healthcare impacts 
+climate change, categorised into Scopes 1–3 (Table  1) and 
+key decarbonisation actions. The ways through which high-
+impact decarbonisation actions may benefit society are elab-
+orated below in the same Fig.  1.
+In an era marked by escalating environmental concerns, 
+the healthcare sector emerges as a significant contributor 
+to carbon emissions and resource consumption. Address-
+ing this pivotal challenge demands a proactive approach 
+towards high-impact decarbonisation strategies. There is 
+a pressing need to transition healthcare systems towards 
+sustainability, focusing on areas with the potential for sub-
+stantial carbon reduction, described in detail below:
+1. Invest in lower embodied energy builds and energy-
+efficient infrastructure. Healthcare facilities investing in 
+good building design, master planning, and site selection 
+could lower operational carbon attributed to energy and 
+transport (Pitman and Rolf n.d.). This includes ‘Clean 
+design’ principles such as installing double-glazed 
+windows, shading, energy-efficient lighting, using low-
+energy heating, ventilating and air conditioning (HVAC) 
+systems, and utilising solar energy (Health Care Without 
+Harm 2023). Incorporating energy efficiency and mate-
+rial planning through a holistic design approach could 
+help achieve solutions that balance clinical needs and 
+achieve reductions in operational energy (Pitman and 
+Rolf n.d.).
+2. Transition to zero emissions sustainable transport.  
+Investing in an electric fleet and developing capacity for 
+charging infrastructure within hospitals can further help 
+reduce carbon emissions. Onsite electric vehicle (EV) 
+parking may also provide hospital power backup. Future 
+research into vehicle-to-grid technologies could poten-
+Fig. 1  High-impact decarbonisation actions to reduce the healthcare sector’s share of GHG emissions; mapped from HealthCare Without Harm’s 
+decarbonisation roadmap and based on data from NHS England (2020) and Karliner et al. (2021)
+1106 Sustainability Science (2024) 19:1103–1109
+tially help reduce emissions from grey fleets (Greater 
+Manchester Combined Authority 2021).
+3. Power healthcare systems with 100% renewable energy. 
+Healthcare facilities should make the switch to renew -
+able energy sources, such as wind, solar and geother -
+mal energy, including for hospital heating and cooling 
+requirements and to power medical equipment. Clean 
+energy use harmonises with the healthcare sector’s pro-
+health focus and raison d’être (Burch et al. 2021).
+4.  Provide sustainably grown food. Healthier, locally 
+sourced food could improve patient health and well -
+being. Additionally, food that is cooked on-site within 
+health services could further help reduce GHG emis-
+sions related to agriculture, transportation, storage, and 
+waste across the supply chain and healthcare services 
+sector.
+5.  Low-carbon pharmaceuticals. A small number of phar-
+maceuticals account for a large portion of GHG emis-
+sions. This includes anaesthetic gases and inhalers. 
+Interventions to reduce the emissions from their point 
+of use and supply chain include optimising prescrip-
+tion standards, opting for lower carbon alternatives, and 
+working alongside pharmaceutical companies to encour-
+age carbon transparency reporting.
+6. Waste management. Implementing the principles of cir-
+cular economy involves designing waste out of the sys-
+tem. This offers the healthcare sector a range of methods 
+for reducing GHG emissions and other pollutants in pro-
+ducing, transporting, and disposing of healthcare-linked 
+waste, conserving resources, reducing costs, and mini -
+mising waste while maintaining healthcare standards. 
+This requires an interdisciplinary, whole-of-supply-
+chain approach to healthcare system redesign.
+7.  Healthcare system effectiveness. Healthcare services 
+need to increase capacity and mobilise resources to 
+mainstream digitally enabled care, thereby developing 
+sustainable healthcare models. This could be achieved 
+through an increase in green transportation and a reduc-
+tion in hospital visits by encouraging more patients to 
+stay in their homes and receive medical care via telecon-
+ferencing, text messaging, or phone calls, thus reduc -
+ing the need for transportation to and physical stays in 
+healthcare facilities. This would significantly streamline 
+patient care and reduce patient travel-related GHG emis-
+sions (Lattie et al. 2022; Teachman et al. 2022).
+The above roadmap is briefly summarised in Fig.  2. The 
+convergence of healthcare and environmental conscious-
+ness presents an unprecedented opportunity for holistic 
+change. The roadmap illuminates high-impact decarboni-
+sation domains, underscoring the pivotal role played by 
+different healthcare stakeholders in fostering a sustain-
+able future. The journey towards sustainable healthcare 
+is underpinned by interdisciplinary collaboration, innova-
+tion, and a shared commitment to environmental steward-
+ship at different levels.
+Fig. 2  Convergence areas to decarbonising healthcare systems and services
+1107Sustainability Science (2024) 19:1103–1109 
+Maximising sustainable procurement 
+and minimising low‑value patient care
+Global healthcare systems need to recognise and redress 
+climate change-related threats by designing new climate 
+resilience programs with a focus on mitigation strategies 
+(Scott et al. 2019). As shown in Table  1 and Fig.  1, these 
+should emphasise the development of net zero roadmaps 
+and decarbonisation pathways, thus lowering GHG emis -
+sions from direct and purchased operations, i.e. Scopes 1 
+(17% of the sector’s worldwide footprint) and 2 (12% of 
+the sector’s global footprint) (The Global Climate Health 
+Alliance 2021). Although these initiatives are critical, the 
+transition to renewable energy alone will only address 
+29% of the overall healthcare sector footprint (Das and 
+J 2023; Karliner et al. 2019, 2021). In consequence, the 
+remaining 71% will need to come from Scope 3 catego-
+ries, which are generated while delivering care and using 
+medical products and materials (Pickles 2022). This high-
+lights two crucial decarbonisation Scope 3 action areas 
+for attention:
+ (i) Sustainable procurement decisions. Currently, most 
+medical products are single-use stock and designed 
+to be disposed of after use, generating a massive 
+amount of waste that is often toxic to human health 
+and the environment (McGain et al. 2017). To coun-
+ter this trend, current healthcare service and procure-
+ment approaches must transition from a linear to a 
+circular economic model (Alfina et al. 2023; Health 
+Care Without Harm 2023).
+ (ii) Emission reduction co-benefits of minimising depend-
+encies on low-value healthcare. Within developed 
+countries, 30% of healthcare is estimated to be waste-
+ful, low value or duplicative, and a further 10% is 
+considered burdensome or harmful (Jeffrey et al. 
+2020). This includes screening or diagnostic tests 
+that have not been clinically recommended. Specific 
+examples include the unnecessary prescribing of 
+antibiotics and spinal imaging or fusion for uncom-
+plicated back pain, procedures that result in signifi-
+cant costs to patients and healthcare systems while 
+at the same time burdening planetary health (Brown-
+lee et al. 2017). Efforts to change clinical behaviour 
+away from reliance on low-value care could result 
+in multiple co-benefits, including reduced inpatient 
+hospital stays, outpatient visits, catering costs, laun-
+dering, and avoided GHG emissions linked to patient 
+admissions, among others (Barratt et al. 2022; Pick -
+les 2022).
+The way ahead
+Due to climate change progressively impacting people’s 
+lives, the healthcare sector has an opportunity and a moral 
+duty to be a climate mitigation leader. By playing this 
+role, it may foster both planetary health and promote bet-
+ter health outcomes (Herrmann et al. 2022; WBGU 2023). 
+Three high-level action areas that could help the healthcare 
+system drive decarbonisation, leading to climate-friendly 
+and healthier future generations, are recommended:
+Action 1: Unifying the healthcare sector’s voice and 
+leveraging its purchasing power. Mandating role-specific 
+training of healthcare service staff would inform and 
+authorise staff on how to co-create and support context-
+specific sustainable solutions. Healthcare workers could 
+leverage their knowledge and use their influence to 
+advocate to their professional associations, significantly 
+impacting behaviour change and clinical guidelines (Her -
+rmann et al. 2022; Karliner et al. 2021).
+Action 2: Monitoring research-based decarbonisation 
+progress. Healthcare services lack research-based evidence 
+to accurately monitor the implementation and assessment 
+of carbon emission reduction initiatives over time and 
+across healthcare facilities (Herrmann et al. 2022). To 
+enhance health data monitoring, it is essential to measure 
+and monitor healthcare emissions on a national level and 
+include them in national GHG reporting inventories. An 
+example of this is the annual sustainability reporting in 
+the United Kingdom (UK), which includes key indicators 
+across clinical care and delivery, such as anaesthetics and 
+inhalers, that are reported through the Greener National 
+Health System (NHS) Dashboard and included in annual 
+reports (NHS England 2020).
+Action 3: Mobilising high-level policy action. A col-
+laborative global procurement strategy with clear direc-
+tives for healthcare suppliers and a long-term vision to 
+reduce waste is crucial to minimise the harmful impact 
+of procured products on human and planetary health. All 
+governments can start by issuing a declaration that the 
+climate crisis is a health emergency and requires global 
+action. This can obligate health authorities to take action 
+and prepare healthcare systems for the impacts of climate 
+change while at the same time lowering their own climate 
+footprint. Ministries of health and national healthcare sys-
+tems should make public commitments following the best 
+practice example set by the NHS in the UK, which has 
+declared its intent to reach net zero across Scopes 1–3 by 
+2045 and has released its initial action plan (NHS Eng-
+land 2020). Finally, the development of national-level 
+sustainable healthcare units comprising environmental 
+scientists, researchers, health professionals, administra -
+tors, and policymakers, is key to developing these action 
+1108 Sustainability Science (2024) 19:1103–1109
+plans. These may be patterned after the Sustainable Devel-
+opment Unit (SDU) in the UK, under whose guidance the 
+NHS reduced the healthcare sector’s  CO2e emissions by 
+11% between 2007 and 2015, despite an 18% increase in 
+inpatient admissions over the same period, saving 90 mil -
+lion pounds per annum (NHS England 2020). The climate-
+friendly road ahead will be significantly easier to traverse 
+when the vision and responsibility to comprehensively 
+decarbonise the healthcare sector is shared by all nations, 
+thus increasing the cumulative capacity of stakeholders to 
+take concerted action on climate change.
+As this comment has shown, globally the healthcare sec-
+tor is characterised by waste and inefficiencies that com-
+bine to perpetuate both climate change and environmen-
+tally unsustainable operations and practices. Perversely, 
+while aspiring to safeguard human health, the international 
+healthcare sector presently propagates actions that directly 
+compromise or even jeopardise human health through cor -
+ollary climate change and environmental impacts (WBGU 
+2023). Misalignment is reflected in several areas, including 
+via the sector’s production of massive volumes of waste that 
+is often toxic to human health and the environment. In addi-
+tion, the global healthcare sector ranks as the fifth-largest 
+emitter of carbon dioxide, thus manifesting the sector’s 
+enormous contribution to climate change and directly con-
+tradicting and undermining its role and self-conception as a 
+champion and propagator of health. A comprehensive transi-
+tion to an environmentally sustainable healthcare model is 
+urgently required—one that better coheres with the sector’s 
+pro-health mission and “systematically addresses planetary 
+health issues” (Herrmann et al. 2022, p. e184).
+Many developing countries face various challenges in 
+implementing climate-friendly healthcare. These are asso-
+ciated with economic, structural, technological, and policy-
+related obstacles. These difficulties are compounded by the 
+inherent vulnerability of these nations to climate change 
+impacts, which places additional strains on healthcare sys-
+tems already under stress. One major challenge is related 
+to the fact that developing countries often have limited 
+financial resources, making it difficult to invest in green 
+technologies and sustainable infrastructure for healthcare. 
+The high upfront costs associated with renewable energy 
+sources, energy-efficient buildings, and eco-friendly medi-
+cal supplies can be prohibitive in many cases. Also, many 
+healthcare facilities in developing countries operate with 
+outdated infrastructure that is ill-suited to integrate mod-
+ern, climate-friendly technologies. Upgrading these facilities 
+requires significant investment, which is often not available. 
+Moreover, it should be noted that there is a technological 
+gap seen in developing countries, which often lack access 
+to the latest eco-friendly technologies due to high costs or 
+intellectual property restrictions. This limits their ability to 
+adopt innovations in renewable energy, waste management, 
+and other areas critical to climate-friendly healthcare. To 
+address the above limitations, effective policy and regulatory 
+frameworks are needed (WHO ATACH 2023). These need to 
+be complemented by capacity building among staff working 
+in the health sector, so that they may be able to implement 
+climate-friendly healthcare practices.
+This article sheds light on the urgency for a transforma-
+tive shift toward more sustainable healthcare. The imperative 
+for a revolutionary shift towards environmentally sustainable 
+healthcare is noted via a range of required actions, includ-
+ing decarbonisation, adopting renewable energy sources, 
+and improving energy efficiency within healthcare facilities, 
+among other actions that point to the sector’s responsibil-
+ity to adopt green practices to mitigate its environmental 
+impact. The complexity of the climate-friendly healthcare 
+challenge is emphasised through the main contributors to 
+the sector’s carbon footprint. Significantly, GHG emissions 
+tied to the broader care and supply chain account for 71% 
+of the sector’s overall footprint (Scope 3, see Table  1 and 
+Fig.  1). This comment adds to the body of similar literature 
+by highlighting the necessity of a comprehensive approach 
+that targets GHG emissions from across the entire health-
+care ecosystem, stressing the need for systemic change and 
+cooperation on a global scale (Setoguchi et al. 2022). In this 
+context, adopting sustainable practices, integrating renew -
+able energy sources, reducing waste, and considering the life 
+cycle impact of medical equipment are crucial steps towards 
+building a climate-friendly and climate-resilient healthcare 
+system.
+Acknowledgements This paper was prepared in cooperation with the 
+International Climate Change Information and Research Programme 
+(ICCIRP), as part of the 100 papers to accelerate climate change miti-
+gation and adaptation initiative.
+Funding Open Access funding enabled and organized by CAUL and 
+its Member Institutions. Open Access funding enabled and organised 
+by the Council of Australian University Librarians (CAUL) and its 
+member institutions.
+Data availability The authors declare that all data supporting this study 
+are available within the paper (data sources that conceptually underpin 
+Table  1 and Fig.  1 have been provided in the respective legends).
+Declarations 
+Conflict of interest The authors declare no conflicts of interest.
+Open Access  This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article's Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article's Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+1109Sustainability Science (2024) 19:1103–1109 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+References
+Alfina KN, Ratnayake RMC, Wibisono D, Mulyono NB, Basri MH 
+(2023) On the necessity for planning and integration of manu-
+facturing tasks to align with health sector needs and CE goals: a 
+systematic literature review. In: Kim KY, Monplaisir L, Rickli J 
+(eds) Flexible automation and intelligent manufacturing. Springer, 
+Cham
+Barratt AL, Bell KJ, Charlesworth K, McGain F (2022) High value 
+health care is low carbon health care. Med J Aust 216(2):67–68. 
+https:// doi. org/ 10. 5694/ mja2. 51331
+Brownlee S, Chalkidou K, Doust J, Elshaug AG, Glasziou P, Heath 
+I et al (2017) Evidence for overuse of medical services around 
+the world. Lancet 390(10090):156–168. https:// doi. org/ 10. 1016/ 
+S0140- 6736(16) 32585-5
+Burch H, Anstey MH, McGain F (2021) Renewable energy use in Aus-
+tralian public hospitals. Med J Aust 215(4):160. https:// doi. org/ 
+10. 5694/ mja2. 51197
+Chen L, Msigwa G, Yang M, Osman AI, Fawzy S, Rooney DW, Yap 
+P-S (2022) Strategies to achieve a carbon neutral society: a review. 
+Environ Chem Lett. https:// doi. org/ 10. 1007/ s10311- 022- 01435-8
+Dacones I, Cave C, Furie GL, Ogden CA, Slutzman JE (2021) Patient 
+transport greenhouse gas emissions from outpatient care at an 
+integrated health care system in the Northwestern United States, 
+2015–2020. J Clim Change Health 3:100024. https:// doi. org/ 10. 
+1016/j. joclim. 2021. 100024
+Das KP, J C (2023) A survey on artificial intelligence for reducing the 
+climate footprint in healthcare. Energy Nexus 9:100167. https://  
+doi. org/ 10. 1016/j. nexus. 2022. 100167
+Duindam D (2022) Transitioning to sustainable healthcare: decarbon-
+ising healthcare clinics, a literature review. Challenges 13(2):68. 
+https:// doi. org/ 10. 3390/ chall e1302 0068
+Ezeudu OB, Ezeudu TS, Ugochukwu UC, Tenebe IT, Ajogu AP, Nwadi 
+UV, Ajaero CC (2022) Healthcare waste management in Nigeria: 
+a review. Recycling (Basel) 7(6):87. https:// doi. org/ 10. 3390/ recyc 
+ling7 060087
+Greater Manchester Combined Authority (2021) Hospital vehicles give 
+back to the grid. https:// social- innov ation. hitac hi/ en- eu/ stori es/ 
+energy/ manch ester- energy- market/. Accessed 25 Mar 2024
+Health Care Without Harm (2023) Global green and healthy hospitals. 
+GGHH guidance documents. https:// green hospi tals. org/ guida nce- 
+docum ents. Accessed 25 Mar 2024
+Herrmann A, Lenzer B, Müller BS, Danquah I, Nadeau KC, Muche-
+Borowski C, Traidl-Hoffmann C (2022) Integrating planetary 
+health into clinical guidelines to sustainably transform health 
+care. Lancet Planet Health 6(3):e184–e185. https:// doi. org/ 10. 
+1016/ S2542- 5196(22) 00041-9
+Jeffrey B, Paul G, Johanna W (2020) The three numbers you need 
+to know about healthcare: the 60–30-10 challenge. BMC Med 
+18(1):1–8. https:// doi. org/ 10. 1186/ s12916- 020- 01563-4
+Karliner J, Slotterback S, Boyd R, Ashby B, Steele K (2019) Health 
+care's climate footprint. Health Care Without Harm & Arup. 
+https:// noharm- global. org/ sites/ defau lt/ files/ docum ents- files/ 
+5961/ Healt hCare sClim ateFo otpri nt_ 092319. pdf. Accessed 25 
+Mar 2024
+Karliner J, Slotterback S, Boyd R, Ashby B, Steele K, Wang J (2020) 
+Health care’s climate footprint: the health sector contribution and 
+opportunities for action. Eur J Public Health. https:// doi. org/ 10. 
+1093/ eurpub/ ckaa1 65. 843
+Karliner J, Roschnik S, Boyd R, Ashby B, Steele K, Guinto R (2021) 
+Global road map for health care decarbonization. Health Care 
+Without Harm. https:// healt hcare clima teact ion. org/ sites/ defau 
+lt/ files/ 2021- 08/ Global% 20Road% 20Map% 20for% 20Hea lth% 
+20Care% 20Dec arbon izati on. pdf. Accessed 25 Mar 2024
+Lattie EG, Stiles-Shields C, Graham AK (2022) An overview of and 
+recommendations for more accessible digital mental health ser -
+vices. Nat Rev Psychol 1(2):87–100. https:// doi.  org/ 10. 1038/ 
+s44159- 021- 00003-1
+Lenzen M, Malik A, Li M, Fry J, Weisz H, Pichler P-P, Chaves LSM, 
+Capon A, Pencheon D (2020) The environmental footprint of 
+health care: a global assessment. Lancet Planet Health 4(7):e271–
+e279. https:// doi. org/ 10. 1016/ S2542- 5196(20) 30121-2
+Malik A, Lenzen M, McAlister S, McGain F (2018) The carbon foot-
+print of Australian health care. Lancet Planet Health 2(1):e27–
+e35. https:// doi. org/ 10. 1016/ S2542- 5196(17) 30180-8
+McGain F, Story D, Lim T, McAlister S (2017) Financial and environ-
+mental costs of reusable and single-use anaesthetic equipment. 
+Br J Anaesth 118(6):862–869. https:// doi. org/ 10. 1093/ bja/ aex098
+Meister JA, Sharp J, Wang Y, Nguyen KA (2023) Assessing long-term 
+medical remanufacturing emissions with life cycle analysis. Pro-
+cesses 11(1):1–27. https:// doi. org/ 10. 3390/ pr110 10036
+NHS England (2020) Delivering a ‘net zero’ national health service. 
+https:// www. engla nd. nhs. uk/ green ernhs/ publi cation/ deliv ering-a- 
+net- zero- natio nal- health- servi ce/. Accessed 25 Mar 2024
+Pickles K (2022) Decarbonising clinical care in Australia. Deeble Insti-
+tute for Health Policy Research. https:// ahha. asn. au/ system/ files/ 
+docs/ publi catio ns/ deeble_ issues_ brief_ no_ 48_ decar bonis ing_ 
+clini cal_ care_ final_0. pdf. Accessed 25 Mar 2024
+Pitman D, Rolf (n.d.) A. Net zero carbon healthcare. Arup. https://  
+www. arup. com/ persp ectiv es/ publi catio ns/ resea rch/ secti on/ net- 
+zero- carbon- healt hcare. Accessed 25 Mar 2024
+Qin RX, Velin L, Yates EF, El Omrani O, McLeod E, Tudravu J, 
+Samad L, Woodward A, McClain CD (2022) Building sustain-
+able and resilient surgical systems: a narrative review of opportu-
+nities to integrate climate change into national surgical planning 
+in the Western Pacific region. Lancet Region Health Western 
+Pac 22:100407–100407. https:// doi. org/ 10. 1016/j. lanwpc. 2022. 
+100407
+Scott V, Benjamin KS, Marilyn B (2019) Empowering the great energy 
+transition: policy for a low-carbon future. Columbia University 
+Press, New York
+Setoguchi S, Leddin D, Metz G, Omary MB (2022) Climate change, 
+health, and health care systems: a global perspective. Gastroen-
+terology 162(6):1549–1555. https:// doi. org/ 10. 1053/j. gastro. 2022. 
+02. 037
+Teachman BA, Silverman AL, Werntz A (2022) Digital mental health 
+services: moving from promise to results. Cogn Behav Pract 
+29(1):97–104. https:// doi. org/ 10. 1016/j. cbpra. 2021. 06. 014
+The Global Climate & Health Alliance (2021) Are national climate 
+commitments enough to protect our health?: global climate and 
+health alliance. https://  clima teand healt halli ance. org/ initi atives/ 
+healt hy- ndcs/ ndc- score cards/. Accessed 25 Mar 2024
+WBGU—German Advisory Council on Global Change (2023) Healthy 
+living on a healthy planet. Summary. WBGU, Berlin
+WHO ATACH—World Health Organization Alliance for Transforma-
+tive Action on Climate and Health (2023) 2022–2024 workplan 
+of the ATACH low carbon sustainable health systems working 
+group (LCSHS WG), 15 pp. https:// cdn. who. int/ media/ docs/ defau 
+lt- source/ clima te- change/ atach_ lcshs_ wg_ workp lan. pdf. Accessed 
+26 Mar 2024
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

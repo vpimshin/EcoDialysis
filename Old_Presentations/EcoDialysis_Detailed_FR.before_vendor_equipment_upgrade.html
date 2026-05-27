@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>EcoDialysis Dossier détaillé - Version renforcée (FR)</title>
+<style>
+:root{--navy:#0A2A55;--blue:#2E7FE8;--sky:#F4F8FD;--line:#D9E3EF;--ink:#10233F;--muted:#5B6E87;--ok:#1f7a47;--warn:#a26413;--risk:#9d1f1f}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:#fafbfd;color:var(--ink);margin:0;line-height:1.52}
+.wrap{max-width:1260px;margin:0 auto;padding:26px 24px 80px}
+.hero{background:linear-gradient(135deg,#0A2A55,#1f5fb5);color:#fff;padding:24px;border-radius:12px}
+h1{margin:0 0 10px;font-size:34px} h2{margin:28px 0 10px;padding-top:14px;border-top:1px solid var(--line);color:var(--navy)} h3{margin:18px 0 8px;color:var(--navy)}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:10px 0}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+table{border-collapse:collapse;width:100%;background:#fff;margin:12px 0} th,td{border:1px solid var(--line);padding:9px;vertical-align:top;text-align:left} th{background:var(--sky)}
+.small{font-size:13px;color:var(--muted)} .ok{border-left:5px solid var(--ok);background:#edf9f1} .warn{border-left:5px solid var(--warn);background:#fff7ea} .risk{border-left:5px solid var(--risk);background:#fff1f1}
+.tag{display:inline-block;background:var(--sky);border:1px solid var(--line);border-radius:999px;padding:2px 8px;font-size:12px;margin-right:6px}
+ul,ol{margin:6px 0 8px 20px}
+code{background:#f4f6fb;padding:1px 4px;border-radius:4px}
+@media(max-width:980px){.grid,.grid3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<section class="hero">
+<h1>EcoDialysis - Dossier détaillé orienté preuves (FR)</h1>
+<p><strong>Fil narratif conservé :</strong> « The sustainability label for nephrology » et « Turning wasted hospital water into measured savings, lower carbon, and brand value ».</p>
+<p><strong>Principe opératoire :</strong> « boiler rooms, not boardrooms » et séquence Mesurer -> Réduire -> Réutiliser.</p>
+<p class="small"><strong>Note preuves/hypothèses :</strong> les chiffres clés sont sourcés fichier par fichier. Les estimations CO2e du modèle financier portent sur l'alimentation en eau potable uniquement (hors traitement des eaux usées).</p>
+</section>
+
+<h2>A. Résumé exécutif</h2>
+<div class="card">
+<ul>
+<li>Base marché France retenue : ~51 700 patients dialysés ; ~77 % dans les prises en charge non autonomes (centre/UDM), donc fort potentiel de concentration hospitalière (EcoDialysis_Perplexity.pdf/.docx).</li>
+<li>Ordres de grandeur d'une séance : ~400-500 L d'eau d'alimentation, avec 50-70 % de rejet d'osmose inverse selon les installations.</li>
+<li>Modèle centre de référence : 100 patients x 156 séances/an = 15 600 séances/an.</li>
+<li>Hypothèse centrale de rejet OI : 270 L/séance soit ~4 200 m3/an potentiellement valorisables avant pertes de capture.</li>
+<li>Cas nommés robustes : Canterbury (800 L/h ; ~GBP 7 500/an), Bristol (13 140 m3/an ; >GBP 15 000/an), Ashford (coût design-in ~GBP 2 500).</li>
+<li>Levier process immédiat : ANZSN (>160 000 L/an, 6,4 MWh/an, 720 L solution acide citrique évités, ~2 400 $ de produits).</li>
+<li>Levier équipement : comparaison RO moderne vs ancien (357 L et 3,1 kWh vs 548 L et 7,2 kWh par traitement).</li>
+<li>Référence multicentrique Espagne : moyenne 476,5 L/séance ; centres ouverts quotidiennement 430,20 L/HD et 10,82 kWh/HD vs centres 3 fois/semaine 629,81 L/HD et 16,79 kWh/HD.</li>
+<li>Le cadre EICH existe (décret de juillet 2024) mais l'instruction en établissement sensible est à valider projet par projet avec ARS/préfecture.</li>
+<li><strong>Frontière de sécurité EcoDialysis :</strong> pas de réutilisation dans la production d'eau de dialyse, ni dans une voie en contact patient.</li>
+</ul>
+</div>
+
+<h2>B. Revue réglementaire française (état et trajectoire)</h2>
+<div class="card">
+<h3>Position juridique confirmée</h3>
+<ul>
+<li>Le décret n°2024-796 (12 juillet 2024, entrée en vigueur 1er septembre 2024) pose le cadre CSP des usages domestiques d'eaux impropres à la consommation humaine (EICH).</li>
+<li>Les établissements de santé relèvent des établissements sensibles dans ce dispositif.</li>
+<li>Pour un établissement sensible, l'autorisation préfectorale est en principe requise avant mise en service, avec avis/instruction ARS selon le dossier.</li>
+<li>Exigences structurantes : réseau séparé, prévention des interconnexions, signalétique eau non potable, analyse des risques, surveillance, maintenance, carnet sanitaire.</li>
+</ul>
+</div>
+<div class="grid">
+<div class="card warn"><h3>Interprétation opérationnelle probable</h3><ul><li>Cibles initiales : sanitaires, certains nettoyages, usages techniques non cliniques avec réseau dédié.</li><li>Le dossier doit documenter qualité de l'eau, schéma hydraulique, points de soutirage, plan de surveillance et gouvernance.</li></ul></div>
+<div class="card risk"><h3>Points à validation ARS/site</h3><ul><li>Périmètre exact des usages autorisables (linge, surfaces intérieures, tours de refroidissement, etc.).</li><li>Paramètres analytiques et fréquences de suivi exigés localement.</li><li>Contraintes complémentaires de l'équipe d'hygiène et de l'assureur.</li></ul></div>
+</div>
+<div class="card risk"><strong>Non autorisé / non recommandé dans le déploiement EcoDialysis actuel :</strong> réinjection vers eau de dialyse, circuit patient, ou toute revendication de remboursement CNAM non prouvée.</div>
+
+<h2>C. Problème et dimensionnement marché</h2>
+<table>
+<tr><th>Segment</th><th>Caractéristique</th><th>Priorité d'entrée</th></tr>
+<tr><td>CHU/CHRU</td><td>Gros volumes, équipes techniques structurées.</td><td>Très élevée</td></tr>
+<tr><td>Grand CH</td><td>Activité importante centre/UDM.</td><td>Élevée</td></tr>
+<tr><td>Grandes cliniques privées de dialyse</td><td>Standardisation et rapidité d'exécution.</td><td>Élevée</td></tr>
+<tr><td>Hôpitaux moyens</td><td>Pertinent si demande non clinique stable.</td><td>Moyenne</td></tr>
+<tr><td>Petites unités / auto-dialyse / domicile</td><td>Volumes faibles, capex spécifique plus lourd.</td><td>Sélective</td></tr>
+</table>
+<p class="small">Repères Perplexity intégrés : ~2 965 établissements de santé, ~1 100-1 200 unités de dialyse (à recouper selon source primaire locale).</p>
+
+<h2>D. Empreinte de référence (eau, énergie, déchets)</h2>
+<div class="grid">
+<div class="card"><h3>Eau</h3><ul><li>Référence multicentrique : 476,5 L/séance en moyenne.</li><li>Écart organisationnel marqué : 430,20 L/HD (ouverture quotidienne) vs 629,81 L/HD (3 fois/semaine).</li><li>Le gisement rejet OI est la première cible de valorisation non clinique.</li></ul></div>
+<div class="card"><h3>Énergie</h3><ul><li>10,82 kWh/HD vs 16,79 kWh/HD selon schéma d'ouverture (source multicentrique Espagne).</li><li>Comparatif RO moderne/ancien : 3,1 vs 7,2 kWh/traitement.</li><li>Échangeurs thermiques : cas East Kent ~0,86 kWh/traitement.</li></ul></div>
+</div>
+<div class="card"><h3>Déchets</h3><ul><li>Dans les benchmarks multicentriques extraits : réductions observées de 62-65 % (plastiques) et 63 % (chimique) après plans correctifs.</li><li>Données à considérer comme benchmark de potentiel, pas comme garantie automatique site par site.</li></ul></div>
+
+<h2>E. Matrice technologique et maturité</h2>
+<table>
+<tr><th>Option</th><th>Effets mesurés</th><th>Statut sanitaire/réglementaire</th><th>Maturité</th><th>Recommandation EcoDialysis</th></tr>
+<tr><td>Réutilisation des rejets OI pour sanitaires/arrosage</td><td>Canterbury 800 L/h, Bristol 13 140 m3/an, Bendigo 1,7 ML/an.</td><td>Non clinique, réseau séparé, dossier ARS/préfecture.</td><td>Prêt maintenant</td><td>Vague 1.</td></tr>
+<tr><td>Rejets OI pour linge/stérilisation/chaudière/tours</td><td>Ashford, Bristol, Barwon.</td><td>Validation qualité + usages autorisés localement.</td><td>Prometteur site-spécifique</td><td>Vague 2 ciblée.</td></tr>
+<tr><td>Optimisation RO haut rendement</td><td>357 vs 548 L/traitement; 3,1 vs 7,2 kWh.</td><td>Technique standard d'amélioration de performance.</td><td>Prêt maintenant</td><td>Intégrer au socle.</td></tr>
+<tr><td>Optimisation désinfection</td><td>>160 000 L, 6,4 MWh, 720 L, ~2 400 $.</td><td>Sous contraintes constructeur/protocole.</td><td>Prêt maintenant</td><td>Action prioritaire sans gros capex.</td></tr>
+<tr><td>Récupération de chaleur</td><td>East Kent 0,86 kWh/traitement; 27 905 kWh/an.</td><td>Risque clinique faible, dépend retrofit.</td><td>Prometteur</td><td>Déployer si ROI clair.</td></tr>
+<tr><td>Traitement d'eaux mélangées</td><td>Preuves surtout pilotes.</td><td>Complexité sanitaire plus forte.</td><td>Pilote/recherche</td><td>Hors vague 1.</td></tr>
+<tr><td>Réutilisation dialysat usé</td><td>Références conceptuelles/pilotes.</td><td>Risque et perception patient élevés.</td><td>Pilote/recherche</td><td>Non recommandé au démarrage.</td></tr>
+<tr><td>Systèmes sorbants/portables</td><td>REDY, NeoKidney, AWAK.</td><td>Parcours dispositif médical spécifique.</td><td>Précoce</td><td>Veille stratégique.</td></tr>
+</table>
+
+<h2>F. Table des cas nommés</h2>
+<table>
+<tr><th>Cas</th><th>Intervention</th><th>Eau</th><th>Énergie/carbone</th><th>Économie</th><th>Statut de preuve</th><th>Leçon</th></tr>
+<tr><td>Canterbury</td><td>Rejets OI -> toilettes</td><td>800 L/h</td><td>Gain carbone indirect</td><td>~GBP 7 500/an, capex ~GBP 15 000</td><td>Établi</td><td>Référence simple et robuste.</td></tr>
+<tr><td>Ashford</td><td>Design-in -> laverie</td><td>Capture rejets</td><td>Bénéfice rapporté</td><td>~GBP 2 500</td><td>Établi</td><td>Concevoir tôt réduit fortement le coût.</td></tr>
+<tr><td>Bristol</td><td>Rejets OI -> production vapeur</td><td>13 140 m3/an</td><td>13 836 kg CO2e/an (source cas)</td><td>>GBP 15 000/an ; capex ~GBP 45 000</td><td>Établi</td><td>Voie chaudière pertinente si retrofit gris-eau coûteux.</td></tr>
+<tr><td>Bendigo</td><td>Toilettes</td><td>1,7 ML/an</td><td>Non principal</td><td>Montage subvention</td><td>Opérationnel</td><td>Montage finance publique utile.</td></tr>
+<tr><td>Barwon</td><td>Cascade multi-usages</td><td>~100 kL/semaine</td><td>Non principal</td><td>Valeur eau citée</td><td>Opérationnel</td><td>Le mapping de demande est central.</td></tr>
+<tr><td>Queen Elizabeth Hospital</td><td>Modèle plus complexe filtré/rechloré</td><td>1,5-2 ML/an</td><td>Non principal</td><td>Capex élevé</td><td>Opérationnel complexe</td><td>À réserver aux sites très structurés.</td></tr>
+<tr><td>ANZSN</td><td>Optimisation désinfection</td><td>>160 000 L/an</td><td>6,4 MWh/an</td><td>720 L + ~2 400 $</td><td>Protocole éprouvé</td><td>Premier levier rapide.</td></tr>
+<tr><td>Espagne 20 centres</td><td>Benchmark multicentrique</td><td>476,5 ; 430,20 ; 629,81</td><td>10,82 ; 16,79 kWh/HD</td><td>Non principal</td><td>Benchmark fort</td><td>L'organisation influence fortement la performance.</td></tr>
+<tr><td>Australian modern RO</td><td>Comparatif équipement</td><td>357 vs 548</td><td>3,1 vs 7,2</td><td>Non principal</td><td>Comparatif probant</td><td>Renouvellement RO = levier structurant.</td></tr>
+<tr><td>REDY / NeoKidney / AWAK</td><td>Technos futures</td><td>Faible eau potentielle</td><td>Données hétérogènes</td><td>Parcours clinique</td><td>Pilote/futur</td><td>Veille, pas déploiement initial.</td></tr>
+</table>
+
+<h2>G. Modèle de centre de référence France</h2>
+<div class="card">
+<ul>
+<li>Entrées : 100 patients ; 3 séances/semaine ; 156 séances/an ; 15 600 séances/an.</li>
+<li>Scénarios rejet OI : 200 / 270 / 350 L/séance.</li>
+<li>Captage effectif : 50 % / 70 % / 90 %.</li>
+<li>Tarif évité : 3 / 5 / 7 EUR/m3 (hypothèse).</li>
+<li>Facteur CO2e eau potable : 0,23-0,27 kgCO2e/m3 (eau potable uniquement).</li>
+</ul>
+</div>
+<table>
+<tr><th>Scénario</th><th>Volume potentiel annuel</th><th>50 %</th><th>70 %</th><th>90 %</th></tr>
+<tr><td>Bas (200 L/séance)</td><td>3 120 m3</td><td>1 560</td><td>2 184</td><td>2 808</td></tr>
+<tr><td>Base (270 L/séance)</td><td>4 212 m3 (~4 200)</td><td>2 106</td><td>2 948</td><td>3 791</td></tr>
+<tr><td>Haut (350 L/séance)</td><td>5 460 m3</td><td>2 730</td><td>3 822</td><td>4 914</td></tr>
+</table>
+<table>
+<tr><th>Scénario base - économies annuelles</th><th>3 EUR/m3</th><th>5 EUR/m3</th><th>7 EUR/m3</th></tr>
+<tr><td>50 % capture</td><td>6 318 EUR</td><td>10 530 EUR</td><td>14 742 EUR</td></tr>
+<tr><td>70 % capture</td><td>8 844 EUR</td><td>14 740 EUR</td><td>20 636 EUR</td></tr>
+<tr><td>90 % capture</td><td>11 373 EUR</td><td>18 955 EUR</td><td>26 537 EUR</td></tr>
+</table>
+<table>
+<tr><th>Payback indicatif</th><th>Sans subvention</th><th>Subvention 50 %</th><th>Subvention 70 %</th></tr>
+<tr><td>Capex 60 kEUR</td><td>4,1 ans</td><td>2,0 ans</td><td>1,2 ans</td></tr>
+<tr><td>Capex 90 kEUR</td><td>6,1 ans</td><td>3,1 ans</td><td>1,8 ans</td></tr>
+<tr><td>Capex 120 kEUR</td><td>8,2 ans</td><td>4,1 ans</td><td>2,4 ans</td></tr>
+</table>
+<div class="card warn">Avertissement : estimations financières et carbone à usage de cadrage. Les gains carbone affichés ne couvrent pas le traitement des eaux usées ni l'analyse cycle de vie complète.</div>
+
+<h2>H. Architecture produit EcoDialysis</h2>
+<ul>
+<li>Module audit (baseline et hiérarchie des preuves).</li>
+<li>Module comptage (alimentation/rejet/usages non cliniques).</li>
+<li>Module readiness réglementaire (EICH, ARS, préfecture, établissement sensible).</li>
+<li>Module qualité eau et conductivité + journalisation.</li>
+<li>Checklist de conception projet (réseau séparé, prévention des interconnexions, maintenance).</li>
+<li>Calculateur ROI (scénarios eau, capex, subventions).</li>
+<li>Vérification des économies (ledger auditable).</li>
+<li>Dashboard benchmark inter-centres.</li>
+<li>Label EcoDialysis (éligibilité et niveau).</li>
+<li>Package de déploiement GHT/réseaux.</li>
+</ul>
+
+<h2>I. Business model</h2>
+<ul>
+<li>Frais de diagnostic initial.</li>
+<li>Abonnement SaaS de suivi et reporting.</li>
+<li>Frais d'accompagnement mise en oeuvre.</li>
+<li>Success fee sur économies vérifiées.</li>
+<li>Achats groupés / marge d'intégration.</li>
+<li>Support au montage subventions Agences de l'Eau.</li>
+<li>Package multi-sites GHT / réseaux privés.</li>
+</ul>
+<div class="card risk">Point de discipline : pas d'affirmation de remboursement CNAM « vérifié » sans source probante explicite pour le mécanisme concerné.</div>
+
+<h2>J. Go-to-market</h2>
+<div class="card">
+<ul>
+<li>3 premiers pilotes : 1 CHU/CHRU, 1 grand CH, 1 grande structure privée.</li>
+<li>Comité de décision : néphrologie, équipe technique dialyse, direction technique, hygiène, achats, finance, RSE, juridique.</li>
+<li>Parcours commercial : audit instrumenté -> dossier de conformité -> exécution avec KPI mensuels.</li>
+<li>Plan 6 mois : baseline + dossier + ingénierie + validation.</li>
+<li>Plan 12 mois : mise en service + publication résultats + préparation extension.</li>
+</ul>
+</div>
+
+<h2>K. Registre des risques</h2>
+<table>
+<tr><th>Risque</th><th>Pourquoi critique</th><th>Mitigation</th><th>Owner</th></tr>
+<tr><td>Refus / délai ARS</td><td>Bloque calendrier.</td><td>Pré-cadrage et dossier robuste.</td><td>Référent réglementaire</td></tr>
+<tr><td>Biofilm / légionelle</td><td>Risque sanitaire.</td><td>Plan surveillance, durée de séjour, maintenance.</td><td>Hygiène + technique</td></tr>
+<tr><td>Interconnexion</td><td>Risque pollution réseau potable.</td><td>Réseau séparé, anti-retour, essais de mise en service.</td><td>Direction technique</td></tr>
+<tr><td>Mauvais couplage offre/demande</td><td>Capture réelle insuffisante.</td><td>Cartographie fine des usages.</td><td>Chef de projet</td></tr>
+<tr><td>Qualité eau insuffisante</td><td>Usages restreints.</td><td>Analyse initiale + routage adapté.</td><td>Référent qualité eau</td></tr>
+<tr><td>Complexité capex retrofit</td><td>Dérive coûts.</td><td>Priorité design-in et alternatives techniques.</td><td>Technique + achats</td></tr>
+<tr><td>Tarif eau bas</td><td>ROI plus long.</td><td>Coupler avec leviers énergie/process.</td><td>Finance</td></tr>
+<tr><td>Délais achats</td><td>Retard déploiement.</td><td>Spécifications standardisées et lots-cadres.</td><td>Achats</td></tr>
+<tr><td>Surpromesse ESG/carbone</td><td>Risque crédibilité/juridique.</td><td>Tableau claims autorisés / interdits.</td><td>Com/Juridique</td></tr>
+<tr><td>Perception sécurité patient</td><td>Frein d'adhésion.</td><td>Message clair sur frontière non clinique.</td><td>Référent médical</td></tr>
+<tr><td>Partage des responsabilités</td><td>Risque exploitation.</td><td>RACI et contrat maintenance.</td><td>Direction opérationnelle</td></tr>
+</table>
+
+<h2>L. Blueprint d'implémentation</h2>
+<ol>
+<li>Mesure baseline (compteurs).</li>
+<li>Caractérisation qualité des rejets OI.</li>
+<li>Cartographie des usages non cliniques.</li>
+<li>Classement des options de réutilisation.</li>
+<li>Pré-check réglementaire ARS/préfecture.</li>
+<li>Conception technique détaillée.</li>
+<li>Validation équipe d'hygiène.</li>
+<li>Procurement et contractualisation.</li>
+<li>Mise en service et tests d'acceptation.</li>
+<li>Monitoring et reporting mensuel.</li>
+<li>Audit annuel et renouvellement label.</li>
+</ol>
+
+<h2>M. Annexes</h2>
+<h3>Table des sources (fichier par fichier)</h3>
+<p class="small">Identique à la version EN : D1-D7, G1-G3, P1-P3, R1-R5 (voir bibliographie en fin de document).</p>
+
+<h3>Données extraites clés</h3>
+<ul>
+<li>Canterbury 800 L/h, Bristol 13 140, 15 600, ~4 200, 357, 548, 3.1, 7.2, >160 000, 6.4 : toutes intégrées dans les sections F et G avec leur contexte source.</li>
+<li>Cas nommés intégrés : Canterbury, Ashford, Bristol, Bendigo, Barwon, Queen Elizabeth, ANZSN, Spain, Australian RO comparison, REDY, NeoKidney, AWAK.</li>
+</ul>
+
+<h3>Hypothèses</h3>
+<ul><li>Scénarios volumes/tarifs explicités en section G.</li><li>CO2e limité à la composante eau potable.</li><li>Aucune promesse de gain non mesuré.</li></ul>
+
+<h3>Checklist réglementaire et technique</h3>
+<ul>
+<li>établissement sensible / procédure ARS-préfecture ;</li>
+<li>carnet sanitaire ;</li>
+<li>réseau séparé ;</li>
+<li>prévention des interconnexions ;</li>
+<li>plan de surveillance ;</li>
+<li>KPI pilote.</li>
+</ul>
+
+<h3>Claims autorisés vs non autorisés</h3>
+<div class="grid">
+<div class="card ok"><strong>Autorisés</strong><ul><li>Réutilisation non clinique avec preuves chiffrées.</li><li>Scénarios financiers avec hypothèses visibles.</li></ul></div>
+<div class="card risk"><strong>Non autorisés</strong><ul><li>Réutilisation en contact patient.</li><li>Remboursement CNAM « acquis » sans preuve.</li><li>Allégations carbone globales sans périmètre explicite.</li></ul></div>
+</div>
+
+<h3>Bibliographie</h3>
+<p class="small">D1 `Deep_Research/Water Sustainability Practices in Dialysis_OpenAI.pdf` · D2 `Deep_Research/EcoDialysis_Perplexity.pdf` · D3 `Deep_Research/EcoDialysis_Perplexity.docx` · D4 `Deep_Research/Clinical and Technical Advancements in Dialysis_Gemini.pdf` · D5 `Deep_Research/Clinical and Technical Advancements in Dialysis_Gemini.docx` · D6 `Deep_Research/EcoDialysis_OpenAI.pdf` · D7 `Deep_Research/EcoDialysis_Open_AI.docx` · G1 `Guide/Guide_des_bonnes_pratiques_en_néphrologie_verte_Ve_260526_231812.pdf` · G2 `Guide/Guide_de_la_néphrologie_verte_Version_courte_2026_260526_231654.pdf` · G3 `Guide/SFNDT_guide complet-VF-HD-2_260526_231531.pdf` · P1 `EcoDialysis_Pitch_v3.pptx` · P2 `EcoDialysis-Pitch_v3.pdf` · P3 `EcoDialysis Pitch_v1.html` · R1 Décret n°2024-796 · R2 Ministère Santé EICH · R3 Arrêté du 12/07/2024 · R4-R5 Plan Eau.</p>
+
+</div>
+</body>
+</html>

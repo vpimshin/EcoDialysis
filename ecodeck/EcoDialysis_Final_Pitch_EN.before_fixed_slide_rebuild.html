@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>EcoDialysis · Final Pitch (EN)</title>
+<style>:root{--navy:#0A2A55;--navy2:#0E3C7A;--blue:#2E7FE8;--blue2:#4F9CFF;--sky:#E6F0FB;--sky2:#F4F8FD;--line:#D9E3EF;--ink:#0B1A2E;--ink2:#3A4A63;--ink3:#6A7A90;--ok:#1f7a47;--warn:#a26413;--bad:#9d1f1f}
+*{box-sizing:border-box}
+body{margin:0;background:#eef3fb;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.45}
+.deck{max-width:1240px;margin:0 auto;padding:24px 18px 60px}
+.slide{background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px 30px;margin:18px 0;page-break-inside:avoid;page-break-after:always}
+.chrome{display:flex;justify-content:space-between;align-items:center;padding-bottom:12px;border-bottom:1px solid var(--line);margin-bottom:14px;font-size:11px;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
+.chrome .mark{color:var(--navy);font-weight:700}
+.chrome .mark .dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--blue);margin-right:8px;vertical-align:middle}
+.eyebrow{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--blue);font-weight:700;margin-bottom:6px}
+.slide h2{margin:0 0 10px;color:var(--navy);font-size:28px;line-height:1.15;letter-spacing:-.01em}
+.slide h3{margin:14px 0 6px;color:var(--navy);font-size:15px}
+.answer{font-size:18px;font-weight:600;color:var(--navy2);margin:4px 0 14px;line-height:1.35}
+.proof{background:var(--sky2);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:10px 0;font-size:13px;color:var(--ink2)}
+.proof strong{color:var(--navy)}
+.proof ul{margin:4px 0 0 18px;padding:0}.proof li{margin:2px 0}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.card{border:1px solid var(--line);border-radius:10px;padding:11px 14px;background:#fbfdff;font-size:13px}
+.card h4{margin:0 0 6px;color:var(--navy);font-size:14px}
+.card ul{margin:4px 0 0 16px;padding:0}.card li{margin:2px 0}
+.good{border-left:5px solid var(--ok);background:#f1faf4}
+.mid{border-left:5px solid var(--warn);background:#fff7ea}
+.bad{border-left:5px solid var(--bad);background:#fdf1f1}
+.flow{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin:8px 0 12px}
+.box{padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--sky2);font-size:12px;font-weight:600;color:var(--navy)}
+.arrow{color:var(--blue);font-weight:700}
+.chip{display:inline-block;background:var(--sky);border:1px solid var(--line);font-size:11px;border-radius:999px;padding:1px 8px;margin:0 4px 4px 0}
+.src{font-size:10px;font-weight:700;padding:1px 6px;border-radius:999px;border:1px solid var(--line);background:#eef5ff;color:var(--blue);text-decoration:none;margin-left:3px;vertical-align:middle}
+.src:hover{background:var(--blue);color:#fff}
+.small{font-size:12px;color:var(--ink3)}
+.kpi{background:var(--navy);color:#fff;border-radius:10px;padding:14px;display:flex;flex-direction:column;justify-content:center}
+.kpi .num{font-size:30px;font-weight:700;line-height:1}
+.kpi .lbl{font-size:11px;color:#cfd9ec;margin-top:6px}
+.title-slide{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:56px 50px;border-radius:16px}
+.title-slide .eyebrow{color:var(--blue2)}
+.title-slide h1{font-size:46px;margin:0 0 14px;line-height:1.08;letter-spacing:-.02em}
+.title-slide .answer{color:#cfe0ff;font-size:21px}
+.title-slide .small{color:#9fb7da}
+.appendix table{width:100%;border-collapse:collapse;margin:8px 0;font-size:11px}
+.appendix th,.appendix td{border:1px solid var(--line);padding:5px 7px;text-align:left;vertical-align:top}
+.appendix th{background:var(--sky);color:var(--navy)}
+.src-anchor{border-top:1px solid var(--line);padding:8px 0;margin:0;font-size:12px}
+.src-anchor h4{display:inline-block;margin:0 6px 0 0;color:var(--blue);font-weight:700;font-size:13px}
+@media(max-width:900px){.grid,.grid3,.grid4{grid-template-columns:1fr}}
+@media print{
+  body{background:#fff}
+  .deck{margin:0;max-width:none;padding:0}
+  .slide{margin:0;border-radius:0;border:none;border-bottom:1px solid var(--line);page-break-after:always}
+  .title-slide{border-radius:0}
+}
+@page{size:A4 landscape;margin:8mm}
+</style>
+</head>
+<body>
+<div class="deck">
+<section class="slide title-slide" id="title">
+<div class="eyebrow">ANDCS × MIT Hacking Medicine · Track 1 · Sustainable Care · Paris 2026</div>
+<h1>Dialysis has a hidden water vulnerability.</h1>
+<div class="answer">Every day, dialysis centers discard treated water that could become a resilience asset.</div>
+<p class="small"><strong>EcoDialysis</strong> · Adaptation first, mitigation second · Measure wasted water · Reuse safely · Certify resilient dialysis.</p>
+</section>
+<section class="slide" id="agenda">
+<div class="chrome"><span class="mark"><span class="dot"></span>EcoDialysis</span><span>Agenda · 1 of 16</span></div>
+<div class="eyebrow">Strategic arc</div>
+<h2>From hidden waste to a certified water-resilience asset.</h2>
+<div class="grid3">
+<div class="card"><h4>Act 1 · The hidden vulnerability</h4><ul><li>1 · Hidden waste</li><li>2 · External shock: scarcity & regulation</li></ul></div>
+<div class="card"><h4>Act 2 · The operating problem</h4><ul><li>3 · Measurement layer</li><li>4 · Reuse decision</li><li>5 · Legal gate (EICH)</li></ul></div>
+<div class="card"><h4>Act 3 · Proof this is real</h4><ul><li>6 · International evidence (8 cases)</li><li>7 · Five playbooks</li></ul></div>
+<div class="card"><h4>Act 4 · Why EcoDialysis</h4><ul><li>8 · Why not just buy a tank</li><li>9 · Product · 10 · Supplier ecosystem</li></ul></div>
+<div class="card"><h4>Act 5 · The business</h4><ul><li>11 · Business model</li><li>12 · Risk & trust</li></ul></div>
+<div class="card"><h4>Act 6 · The ask</h4><ul><li>13 · Three pilots · 14 · Defensibility · 15 · KPIs · 16 · Close</li></ul></div>
+</div>
+<p class="small">Rich appendix follows: case-study table · equipment ecosystem · supplier landscape · maturity matrix · consumables · financial scenarios · methodology · roadmap · sources. <a class="src" href="#src-pch">Pch</a> <a class="src" href="#src-gov">Gov</a></p>
+</section>
+<section class="slide" id="problem">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 1 · The hidden vulnerability</span><span>3 of 16</span></div>
+<div class="eyebrow">The problem in one visual</div>
+<h2>Dialysis turns drinking-water infrastructure into a one-way drain.</h2>
+<div class="answer">Treated water enters · only ~30–50% reaches the patient circuit · the rest leaves to sewer at high quality.</div>
+<div class="flow">
+<div class="box">Mains water</div><span class="arrow">→</span>
+<div class="box">Pretreatment</div><span class="arrow">→</span>
+<div class="box">Reverse osmosis</div><span class="arrow">→</span>
+<div class="box" style="background:#e6f5ec;border-color:#9ec9b3">Dialysis water (patient-safe loop)</div>
+<span class="arrow">+</span>
+<div class="box" style="background:#fdf1f1;border-color:#e2b5b5">RO reject → drain</div>
+</div>
+<div class="grid4">
+<div class="kpi"><span class="num">400–500 L</span><span class="lbl">Feedwater per 4-hour session (range)</span></div>
+<div class="kpi"><span class="num">50–70 %</span><span class="lbl">Typical RO reject share of feedwater</span></div>
+<div class="kpi"><span class="num">~51,700</span><span class="lbl">French dialysis patients</span></div>
+<div class="kpi"><span class="num">~77 %</span><span class="lbl">In-center / UDM (non-autonomous) activity</span></div>
+</div>
+<div class="proof"><strong>Patient-safety boundary (non-negotiable):</strong> RO reject never touches patient or blood; no reuse into dialysis-water production; no spent dialysate reuse; no mixed wastewater reuse without advanced validation. <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-per">Per</a> <a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-s26">S26</a></div>
+</section>
+<section class="slide" id="shift">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 1 · The hidden vulnerability</span><span>4 of 16</span></div>
+<div class="eyebrow">The strategic shift</div>
+<h2>Water scarcity turns EcoDialysis from sustainability into operational resilience.</h2>
+<div class="answer">Hospitals will need to know which water flows are essential, which are wasted, and which can be reused safely.</div>
+<div class="grid">
+<div class="card"><h4>Why now (external shocks)</h4><ul><li><strong>Plan Eau 2023</strong> made water sobriety a national priority after two drought summers.</li><li>Drought + summer restrictions now reach hospital catchments.</li><li>Water + sewer tariffs trending up; basin agencies tightening.</li><li>Hospital continuity risk: a closed RO = closed dialysis.</li><li>Public accountability: nephrology must answer for water flows.</li></ul></div>
+<div class="card"><h4>Why dialysis is the right first use case</h4><ul><li><strong>Measurable</strong>: feed/permeate/reject meters; sessions are countable.</li><li><strong>Recurring</strong>: 3 sessions/week/patient → ~156 sessions/year.</li><li><strong>High-grade waste</strong>: RO reject is treated, near-potable, predictable.</li><li><strong>Non-clinical reuse is bounded</strong>: clear safety line, easier to authorize.</li><li><strong>Replicable</strong>: standard equipment classes across centers.</li></ul></div>
+</div>
+<div class="proof"><strong>One sentence:</strong> <em>In a water-constrained France, the riskiest hospital water is the water nobody measures.</em><br/>Healthcare = ~8% of national GHG (~50 MtCO2e). Adaptation first, mitigation second. <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-ird">Ird</a> <a class="src" href="#src-tsp">TSP</a> <a class="src" href="#src-hcw">HCW</a></div>
+</section>
+<section class="slide" id="measure">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 2 · The operating problem</span><span>5 of 16</span></div>
+<div class="eyebrow">The measurement answer</div>
+<h2>You cannot reuse what you cannot measure.</h2>
+<div class="answer">EcoDialysis instruments the dialysis water chain and converts flow data into liters per session, euros, risk, and reuse potential.</div>
+<div class="grid">
+<div class="card"><h4>4-point metering architecture</h4>
+<ol style="margin:4px 0 0 18px"><li>RO feedwater meter</li><li>RO permeate meter</li><li>RO reject meter</li><li>Reused-water outlet meter</li></ol>
+<p class="small" style="margin:8px 0 0"><strong>Optional layer:</strong> tank level, conductivity, temperature, microbiology sampling, pump runtime.<br/><strong>Cross-checks:</strong> session counts, machine logs, water bill, sewer bill.</p>
+</div>
+<div class="card"><h4>Core formulas (auditable)</h4>
+<ul>
+<li><code>RO reject = feedwater − permeate</code></li>
+<li><code>L/session = monthly reject ÷ monthly sessions</code></li>
+<li><code>capture rate = reused ÷ RO reject</code></li>
+<li><code>substitution rate = reused ÷ non-clinical demand</code></li>
+<li><code>savings (€) = m³ reused × (water + sewer tariff)</code></li>
+<li><strong>Carbon note:</strong> water-supply-only, <em>not</em> full pathway carbon.</li>
+</ul>
+</div>
+</div>
+<div class="proof"><strong>Reference center (transparent baseline):</strong> 100 patients · 3 sessions/week · 156 sessions/yr · <strong>15,600 sessions/yr</strong>. Low / Base / High reject per session = <strong>220 / 270 / 320 L</strong> → <strong>3,432 / 4,212 / 4,992 m³/yr</strong> before capture losses. Capture rate target 60–80% in Phase 1. <a class="src" href="#src-per">Per</a> <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-tsp">TSP</a></div>
+</section>
+<section class="slide" id="reuse">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 2 · The operating problem</span><span>6 of 16</span></div>
+<div class="eyebrow">The reuse answer</div>
+<h2>Reuse is not one solution. It is a site-specific decision.</h2>
+<div class="answer">EcoDialysis separates safe non-clinical reuse from clinically impossible or legally risky reuse.</div>
+<div class="grid3">
+<div class="card good"><h4>🟢 Green · first candidates</h4><ul><li>Toilet flushing (highest demand match)</li><li>Irrigation / green spaces</li><li>Selected technical cleaning</li><li>Compatible technical loops</li></ul></div>
+<div class="card mid"><h4>🟠 Orange · site-specific</h4><ul><li>Laundry</li><li>Boilers / steam</li><li>Cooling towers</li><li>Sterilizers</li><li>Floor cleaning · outdoor washing</li></ul></div>
+<div class="card bad"><h4>🔴 Red · not current EcoDialysis</h4><ul><li>Dialysis-water production feed</li><li>Patient-contact reuse</li><li>Spent dialysate reuse</li><li>Mixed wastewater reuse without advanced validation</li></ul></div>
+</div>
+<div class="card" style="margin-top:10px"><h4>Technical quality decision (per site)</h4>
+<p class="small">Conductivity · salinity · microbiology · storage time · temperature · biofilm risk · backflow risk · proximity & seasonality of non-clinical demand.</p>
+</div>
+<div class="proof"><strong>Decision logic:</strong> if quality + nearby demand + legal route all align → Green. If any one breaks → Orange and ask the playbook. Two never break: <strong>no patient contact</strong>, <strong>no return to dialysis-water production</strong>. <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-s26">S26</a> <a class="src" href="#src-gem">Gem</a></div>
+</section>
+<section class="slide" id="legal">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 2 · The operating problem</span><span>7 of 16</span></div>
+<div class="eyebrow">The legal gate</div>
+<h2>The new French EICH framework opens a door, but not a shortcut.</h2>
+<div class="answer">The opportunity is real, but every hospital project must pass a local safety, network, monitoring and authorization logic.</div>
+<div class="grid3">
+<div class="card"><h4>Before (current law residual)</h4><ul><li>Fragmented reuse logic, no clear non-potable framework for buildings.</li><li>Each hospital project went one-off via ARS / prefecture.</li><li>Standardization for dialysis non-clinical reuse difficult.</li></ul></div>
+<div class="card"><h4>New framework — confirmed</h4><ul><li><strong>Décret n°2024-796 · 12 July 2024</strong>, in force <strong>1 Sept 2024</strong>.</li><li>Framework for domestic uses of <strong>EICH</strong> (eaux impropres à la consommation humaine).</li><li>Health facilities = <strong>sensitive establishments</strong>.</li><li>Prefectural authorization generally required, with ARS input.</li><li>Use limited to non-potable domestic / non-clinical uses.</li></ul></div>
+<div class="card"><h4>Required controls (every site)</h4><ul><li>Separated network · anti-backflow protection</li><li>Signage · emergency shut-off</li><li>Preventive risk management · monitoring</li><li>Maintenance protocol · <em>carnet sanitaire</em></li><li>Hygiene committee (CLIN) alignment</li></ul></div>
+</div>
+<div class="flow"><div class="box">Law opens the door</div><span class="arrow">→</span><div class="box">ARS / prefecture check the site</div><span class="arrow">→</span><div class="box">EcoDialysis prepares the safe dossier</div></div>
+<div class="proof"><strong>Not allowed (and never claimed):</strong> potable use · patient-contact use · dialysis-water production feed · guaranteed approval. All quantitative claims are <em>scenario-based, site-specific, and verifiable</em>. <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-s26">S26</a> <a class="src" href="#src-ird">Ird</a></div>
+</section>
+<section class="slide" id="evidence">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 3 · Proof this is real</span><span>8 of 16</span></div>
+<div class="eyebrow">International evidence map</div>
+<h2>This is not science fiction. It is already happening.</h2>
+<div class="answer">Different countries solved the same water problem through different site-specific routes.</div>
+<div class="grid4">
+<div class="card"><h4>🇬🇧 Canterbury</h4><p class="small"><strong>800 L/h</strong> recovered · ~<strong>£7,500/yr</strong>.<br/><em>Lesson:</em> toilet reuse = practical baseline.</p></div>
+<div class="card"><h4>🇬🇧 Bristol</h4><p class="small"><strong>13,140 m³/yr</strong> · &gt;<strong>£15,000/yr</strong> · boiler/steam route.<br/><em>Lesson:</em> technical use can beat toilet reuse if demand is nearby.</p></div>
+<div class="card"><h4>🇬🇧 Ashford</h4><p class="small"><strong>Design-in</strong> approach · much lower capex than retrofit.<br/><em>Lesson:</em> new-build / renovation is the best window.</p></div>
+<div class="card"><h4>🇦🇺 Bendigo</h4><p class="small">~<strong>1.7 ML/yr</strong> reused at hospital scale.<br/><em>Lesson:</em> reuse can be integrated into hospital ops.</p></div>
+<div class="card"><h4>🇦🇺 Queen Elizabeth</h4><p class="small">~<strong>1.5–2 ML/yr</strong>.<br/><em>Lesson:</em> governance + technical ownership matter.</p></div>
+<div class="card"><h4>🇦🇺 Barwon</h4><p class="small">Technical reuse examples (sterilizer/cooling).<br/><em>Lesson:</em> demand mapping drives the best route.</p></div>
+<div class="card"><h4>🌏 ANZSN disinfection opt.</h4><p class="small">&gt;<strong>160,000 L</strong> water · <strong>6.4 MWh</strong> · <strong>720 L</strong> citric avoided · <strong>$2,400</strong> savings.<br/><em>Lesson:</em> low-capex process wins first.</p></div>
+<div class="card"><h4>🇪🇸 Spain (20 ctrs) + 🇦🇺 RO</h4><p class="small">Spain study: ops model changes L/session and kWh/session.<br/>AUS modern RO <strong>357 L · 3.1 kWh</strong> vs old <strong>548 L · 7.2 kWh</strong> per treatment.<br/><em>Lesson:</em> machines, schedules, water plants matter.</p></div>
+</div>
+<div class="proof"><strong>Pattern:</strong> there is no single winning route. The right route depends on site. That is exactly why EcoDialysis sells the playbook, not the hardware. Full case-study table in <a class="src" href="#apx-cases">Appendix B</a>. <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-gem">Gem</a></div>
+</section>
+<section class="slide" id="playbooks">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 3 · Proof this is real</span><span>9 of 16</span></div>
+<div class="eyebrow">The deeper lesson</div>
+<h2>The winning route is never generic.</h2>
+<div class="answer">EcoDialysis must choose between five playbooks: measure-only, reduce-first, toilet reuse, technical reuse, design-in.</div>
+<div class="grid">
+<div class="card"><h4>Decision logic per site</h4>
+<ul>
+<li><strong>Low capex / weak infrastructure</strong> → <em>reduce-first</em> (disinfection + RO settings)</li>
+<li><strong>Toilets nearby + simple route</strong> → <em>toilet reuse</em></li>
+<li><strong>Boiler / laundry / cooling nearby</strong> → <em>technical reuse</em></li>
+<li><strong>Renovation / new building</strong> → <em>design-in</em></li>
+<li><strong>Legal uncertainty high</strong> → <em>measure + pre-file only</em></li>
+<li><strong>RO outdated</strong> → <em>RO upgrade first</em> (357 L vs 548 L precedent)</li>
+<li><strong>Disinfection waste high</strong> → <em>schedule optimization first</em> (ANZSN precedent)</li>
+</ul></div>
+<div class="card"><h4>Technology maturity matrix (compact)</h4>
+<ul>
+<li><strong>Ready now (Phase 1):</strong> RO reject → toilets · RO high-recovery upgrade · disinfection schedule opt. · dialysate flow opt. · metering & dashboards · leak detection · waste segregation.</li>
+<li><strong>Promising / site-specific (Phase 2):</strong> RO reject → boiler/steam/cooling/sterilization/laundry · heat recovery · centralized acid concentrate.</li>
+<li><strong>Pilot / not first-wave (Phase 3–4 watchlist):</strong> sorbent / portable low-water systems · spent dialysate reuse · mixed wastewater treatment · plastic recycling pilots.</li>
+</ul>
+<p class="small">Full matrix with clinical boundary + capex / reg complexity in <a class="src" href="#apx-matrix">Appendix D</a>.</p>
+</div>
+</div>
+<div class="proof"><strong>Why this is hard to copy:</strong> the matching of site typology → playbook is the asset. Tank vendors do not produce decision logic; EcoDialysis does. <a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-s26">S26</a></div>
+</section>
+<section class="slide" id="tank">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 4 · Why EcoDialysis</span><span>10 of 16</span></div>
+<div class="eyebrow">Why not just buy a tank?</div>
+<h2>The tank is the easy part. The hard part is choosing the right route safely.</h2>
+<div class="answer">EcoDialysis sells the method, not the hardware. Tank vendors sell objects; we sell a regulated, verified, dialysis-specific decision.</div>
+<div class="grid">
+<div class="card bad"><h4>Generic tank seller</h4><ul><li>Sells equipment</li><li>No dialysis-specific baseline</li><li>Weak regulatory support</li><li>No cross-site benchmark</li><li>No label</li><li>Cannot guarantee patient-safety boundary</li><li>No verification</li></ul></div>
+<div class="card good"><h4>EcoDialysis</h4><ul><li>Measures (4-point metering + formulas)</li><li>Models (low / base / high; tariff sensitivity)</li><li>Selects playbook (5 options, site typology)</li><li>Prepares ARS / prefecture safety dossier</li><li>Coordinates suppliers (machine + RO + integrator)</li><li>Verifies savings monthly (capture, substitution, €)</li><li>Certifies the center (EcoDialysis label A–E)</li></ul></div>
+</div>
+<div class="proof"><strong>Why each site differs:</strong> dialysis machines · RO plant · building layout · non-clinical demand · water quality · ARS pathway · technical ownership · supplier landscape · ROI structure. <a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-per">Per</a> <a class="src" href="#src-s26">S26</a></div>
+</section>
+<section class="slide" id="product">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 4 · Why EcoDialysis</span><span>11 of 16</span></div>
+<div class="eyebrow">Product</div>
+<h2>EcoDialysis is a water-resilience operating system for dialysis centers.</h2>
+<div class="answer">Consulting at the start, software in the middle, certification at scale.</div>
+<div class="grid3">
+<div class="card"><h4>1 · Audit & baseline</h4><ul><li>Feed / permeate / reject metering</li><li>Session-normalized L/session</li><li>Machine + RO inventory</li><li>Non-clinical demand map</li><li>Water-quality profile</li><li>Regulatory scan</li></ul></div>
+<div class="card"><h4>2 · Playbook engine</h4><ul><li>Reduce-first</li><li>Toilet reuse</li><li>Technical reuse</li><li>RO high-recovery upgrade</li><li>Disinfection optimization</li><li>Heat recovery</li><li>Design-in (new build)</li></ul></div>
+<div class="card"><h4>3 · Implementation support</h4><ul><li>ARS / prefecture pre-file</li><li>Hygiene committee pack</li><li>Supplier shortlist</li><li>Procurement pack</li><li>Capex + subsidy scenario</li><li>Commissioning checklist</li></ul></div>
+<div class="card"><h4>4 · Monitoring (SaaS)</h4><ul><li>m³ saved / capture / substitution</li><li>Water & sewer savings (€)</li><li>Anomalies & quality incidents</li><li>Compliance log (carnet sanitaire)</li></ul></div>
+<div class="card"><h4>5 · EcoDialysis label</h4><ul><li>A–E rating (water · energy · consumables)</li><li>Annual review / re-audit gate</li><li>Center benchmark</li><li>GHT / network benchmark</li><li>Supplier benchmark</li></ul></div>
+<div class="card"><h4>Adjacent expansion (later)</h4><ul><li>Disinfection optimization at fleet scale</li><li>Centralized acid concentrate strategy</li><li>Consumables / DASRI optimization</li><li>Heat recovery</li><li>Nephrology sustainability OS</li></ul></div>
+</div>
+<div class="proof"><strong>Position:</strong> not a tank. Not an ESG report. A site-specific water-resilience playbook for dialysis centers. <a class="src" href="#src-pch">Pch</a> <a class="src" href="#src-s26">S26</a> <a class="src" href="#src-gem">Gem</a></div>
+</section>
+<section class="slide" id="supplier">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 4 · Why EcoDialysis</span><span>12 of 16</span></div>
+<div class="eyebrow">Supplier & equipment ecosystem</div>
+<h2>EcoDialysis sits between nephrology, hospital engineering, and suppliers.</h2>
+<div class="answer">The market is fragmented across machines, water plants, consumables, and building infrastructure. EcoDialysis makes it navigable.</div>
+<div class="grid">
+<div class="card"><h4>The dialysis system (audit perimeter)</h4>
+<p class="small">Dialysis generator · water-treatment plant · reverse osmosis · dialysate distribution loop · dialyzer · bloodlines · needles/catheters · acid concentrate · bicarbonate · disinfection systems · pumps / tanks / UV-C · backflow prevention · sensors & metering · waste streams (DASRI / DAOM).</p>
+</div>
+<div class="card"><h4>Supplier categories</h4><ul>
+<li>Machine producers (Fresenius, B. Braun, Baxter / Vantive, Nipro, Nikkiso · <em>Asahi, Toray</em> for dialyzers · Quanta, Outset / Tablo, NxStage, NextKidney as comparators — <em>France availability to verify</em>)</li>
+<li>RO / water-treatment suppliers (AQUAboss line, Aqua series, integrators)</li>
+<li>Hospital engineering integrators (separated networks, backflow, signage)</li>
+<li>Consumables suppliers (dialyzers, bloodlines, concentrates)</li>
+<li>Waste operators (DASRI / DAOM)</li>
+<li>Metering / IoT providers (flow, conductivity, dashboards)</li>
+</ul></div>
+</div>
+<div class="proof"><strong>EcoDialysis stance:</strong> neutral verifier. No vendor lock-in. Supplier scorecard published in the label. Full supplier table in <a class="src" href="#apx-supp">Appendix C</a>. <em>No unsupported market-share claims.</em> <a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-per">Per</a></div>
+</section>
+<section class="slide" id="business">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 5 · The business</span><span>13 of 16</span></div>
+<div class="eyebrow">Business model</div>
+<h2>EcoDialysis monetizes the adaptation journey, not only the saved water.</h2>
+<div class="answer">Hospitals pay to reduce future water risk, prepare compliance, and unlock measurable savings.</div>
+<div class="grid">
+<div class="card"><h4>Revenue streams</h4><ul>
+<li>Diagnostic audit fee (Day-1 eco-audit, A–E pre-rating)</li>
+<li>Feasibility study (playbook selection + ROI model)</li>
+<li>Implementation support (ARS dossier, procurement pack)</li>
+<li>SaaS monitoring subscription (per center, per year)</li>
+<li>Verified-savings success fee (€ on measured m³ saved)</li>
+<li>Supplier / integrator partnership fee</li>
+<li>GHT / network package (multi-site standardization)</li>
+<li>Subsidy application support (Agences de l'Eau · CEE certificates)</li>
+</ul></div>
+<div class="card"><h4>Buyer profiles</h4>
+<ul>
+<li><strong>CHU / CHRU</strong>: high technical capability, high visibility, faster ROI on big volumes.</li>
+<li><strong>Large CH / GHT</strong>: standardization and regional scale via the GHT framework.</li>
+<li><strong>Private dialysis networks</strong>: replicability and faster deployment cycles.</li>
+</ul>
+<h4>Reference economics (transparent)</h4>
+<p class="small">100-patient center base case: 4,200 m³/yr potential reject stream · capture-loss adjusted savings via water + sewer tariff. UK / IE / MY precedents show <strong>1–3.5 yr payback</strong>; France must be revalidated per site.</p>
+</div>
+</div>
+<div class="proof"><strong>What we do NOT claim:</strong> guaranteed CNAM reimbursement · guaranteed Agences de l'Eau subsidy · guaranteed payback · national market size without assumptions. <a class="src" href="#src-per">Per</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-ope">Ope</a></div>
+</section>
+<section class="slide" id="risk">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 5 · The business</span><span>14 of 16</span></div>
+<div class="eyebrow">Risk & trust</div>
+<h2>This only works if we are more conservative than the market.</h2>
+<div class="answer">EcoDialysis wins by refusing unsafe or overclaimed reuse.</div>
+<table style="width:100%;border-collapse:collapse;font-size:12px">
+<tr style="background:var(--sky);color:var(--navy)"><th style="border:1px solid var(--line);padding:6px;text-align:left">Risk</th><th style="border:1px solid var(--line);padding:6px;text-align:left">Mitigation</th></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">ARS rejection / delay</td><td style="border:1px solid var(--line);padding:6px">Pre-filing, conservative use cases, dossier template, hygiene-committee alignment.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Infection / biofilm risk</td><td style="border:1px solid var(--line);padding:6px">Separated network, anti-backflow, UV-C where required, microbiology monitoring, carnet sanitaire.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Cross-connection risk</td><td style="border:1px solid var(--line);padding:6px">Dual piping, color-coding, signage, emergency shut-off, commissioning checklist.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Demand / supply mismatch</td><td style="border:1px solid var(--line);padding:6px">Site demand map before sizing tank; buffer + drain bypass + seasonality plan.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Poor conductivity / salinity</td><td style="border:1px solid var(--line);padding:6px">Conductivity gating before reuse; route mismatch → alternative playbook.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Capex retrofit complexity</td><td style="border:1px solid var(--line);padding:6px">Design-in pathway for renovation; staged retrofit otherwise.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Low tariffs weaken ROI</td><td style="border:1px solid var(--line);padding:6px">Bundle with disinfection + RO upgrade; tariff-sensitivity in offer.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Procurement delays</td><td style="border:1px solid var(--line);padding:6px">Pre-qualified supplier shortlist; standardized procurement pack.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Overclaiming carbon</td><td style="border:1px solid var(--line);padding:6px">Water-supply-only carbon, source-labelled claims; no full-pathway claims without TSP methodology.</td></tr>
+<tr><td style="border:1px solid var(--line);padding:6px">Patient-safety perception</td><td style="border:1px solid var(--line);padding:6px">Public statement: <strong>no patient-contact reuse, ever</strong>. Reuse is non-clinical only.</td></tr>
+</table>
+<p class="small"><a class="src" href="#src-s26">S26</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-tsp">TSP</a> <a class="src" href="#src-ird">Ird</a></p>
+</section>
+<section class="slide" id="pilot">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 6 · The ask</span><span>15 of 16</span></div>
+<div class="eyebrow">Pilot ask</div>
+<h2>Start with three pilots to prove the French playbook.</h2>
+<div class="answer">We do not need national rollout first. We need measured proof in three site types.</div>
+<div class="grid3">
+<div class="card"><h4>Pilot 1 · CHU / CHRU</h4><p class="small">High-volume in-center unit · technical capacity · visibility.</p></div>
+<div class="card"><h4>Pilot 2 · Large CH / GHT</h4><p class="small">Standardization & regional scale via GHT framework.</p></div>
+<div class="card"><h4>Pilot 3 · Private dialysis center</h4><p class="small">Replicability + private-network economics.</p></div>
+</div>
+<div class="grid4">
+<div class="card"><h4>0–1 month</h4><ul><li>Site audit</li><li>Metering plan</li><li>Machine / RO inventory</li></ul></div>
+<div class="card"><h4>1–3 months</h4><ul><li>Baseline data</li><li>Water-quality characterization</li><li>Non-clinical demand map</li></ul></div>
+<div class="card"><h4>3–6 months</h4><ul><li>Playbook selection</li><li>ARS / pre-file check</li><li>ROI model</li><li>Implementation decision</li></ul></div>
+<div class="card"><h4>6–12 months</h4><ul><li>Deployment</li><li>Monitoring</li><li>Case study publication</li></ul></div>
+</div>
+<div class="card" style="margin-top:8px"><h4>KPIs (per pilot)</h4>
+<p class="small">m³ reject measured · m³ reused · capture rate · substitution rate · L/session avoided · €/yr savings · <strong>water-quality incidents = 0</strong> · <strong>patient-contact reuse = 0</strong> · time to authorization · capex & payback sensitivity.</p>
+</div>
+<p class="small"><a class="src" href="#src-per">Per</a> <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-s26">S26</a></p>
+</section>
+<section class="slide" id="close">
+<div class="chrome"><span class="mark"><span class="dot"></span>Act 6 · The ask</span><span>16 of 16</span></div>
+<div class="eyebrow">Closing</div>
+<h2>Dialysis can remain clinically safe while becoming water-resilient.</h2>
+<div class="answer">EcoDialysis helps hospitals measure the water they waste today, and reuse it safely before scarcity makes it urgent.</div>
+<div class="grid3">
+<div class="card"><h4>Thesis</h4><p>Dialysis is the first hospital department where water resilience can be measured, redesigned, and certified.</p></div>
+<div class="card"><h4>Positioning</h4><p>EcoDialysis turns wasted dialysis water into a managed resilience asset.</p></div>
+<div class="card"><h4>Contrast</h4><p>Not a tank. Not an ESG report. A site-specific water-resilience playbook for dialysis centers.</p></div>
+</div>
+<div class="proof" style="font-size:15px;text-align:center"><strong>Adaptation first. Evidence always. Patient safety never compromised.</strong></div>
+<p class="small"><a class="src" href="#src-pch">Pch</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-s26">S26</a></p>
+</section>
+<section class="slide appendix" id="apx-method">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix A</span><span>Methodology</span></div>
+<div class="eyebrow">Appendix A · How EcoDialysis calculates impact</div>
+<h2>Methodology — objective · perimeter · assumptions · sensitivity · uncertainty</h2>
+<ol>
+<li><strong>Define objective and decision use.</strong> Audit-to-decide; not academic.</li>
+<li><strong>Define perimeter.</strong> Clinical (no), technical (RO + dialysate loop + disinfection), procurement (consumables), waste (DASRI/DAOM).</li>
+<li><strong>Collect measured activity data</strong> and selected emission/tariff factors.</li>
+<li><strong>Calculate baseline and intervention scenarios</strong> (Low / Base / High).</li>
+<li><strong>Run sensitivity</strong> on tariffs, capture rates, operating profiles, downtime.</li>
+<li><strong>Run uncertainty framing</strong> and list data gaps explicitly.</li>
+<li><strong>Publish limits</strong> and non-covered dimensions.</li>
+</ol>
+<div class="proof"><strong>Discipline:</strong> follows the TSP care-pathway carbon guide. Partial water-only carbon ≠ full pathway carbon. <a class="src" href="#src-tsp">TSP</a> <a class="src" href="#src-ird">Ird</a></div>
+<h3>Core formulas</h3>
+<ul>
+<li><code>RO reject (m³) = feedwater − permeate</code></li>
+<li><code>L/session = monthly reject ÷ monthly sessions</code></li>
+<li><code>capture rate = reused ÷ RO reject</code></li>
+<li><code>substitution rate = reused ÷ non-clinical demand</code></li>
+<li><code>annual savings (€) = m³ reused × (water tariff + sewer tariff)</code></li>
+<li><code>annual CO₂ avoided (water-supply only) = m³ reused × water-supply EF</code></li>
+</ul>
+<h3>Reference baseline (transparent)</h3>
+<p>100 patients · 3 sessions/wk · 156 sessions/yr · <strong>15,600 sessions/yr</strong>. Reject scenarios per session: Low 220 L, Base 270 L, High 320 L → annual reject 3,432 / 4,212 / 4,992 m³ before capture losses. <a class="src" href="#src-per">Per</a> <a class="src" href="#src-ope">Ope</a></p>
+</section>
+<section class="slide appendix" id="apx-cases">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix B</span><span>Case studies</span></div>
+<div class="eyebrow">Appendix B · International case-study table</div>
+<h2>International dialysis water-reuse evidence (named, measured)</h2>
+<table>
+<tr><th>Site / source</th><th>Intervention</th><th>Water outcome</th><th>Energy / carbon outcome</th><th>Cost / payback</th><th>Evidence status</th><th>Lesson for EcoDialysis</th></tr>
+<tr><td>Canterbury (UK)</td><td>RO reject → toilets</td><td>~800 L/h recovered</td><td>—</td><td>~£7,500/yr</td><td>Named, quantified</td><td>Toilet reuse is a practical baseline</td></tr>
+<tr><td>Bristol (UK)</td><td>RO reject → steam / boiler</td><td>~13,140 m³/yr</td><td>—</td><td>&gt;£15,000/yr</td><td>Named, quantified</td><td>Technical use can beat toilets if demand exists</td></tr>
+<tr><td>Ashford (UK)</td><td>Design-in at new build</td><td>—</td><td>—</td><td>Much lower capex vs retrofit</td><td>Named</td><td>Renovation / new-build window matters</td></tr>
+<tr><td>Bendigo (AUS)</td><td>Hospital-scale reuse</td><td>~1.7 ML/yr</td><td>—</td><td>—</td><td>Named, quantified</td><td>Reuse can be integrated into operations</td></tr>
+<tr><td>Queen Elizabeth Hosp. (AUS)</td><td>Reject reuse w/ governance</td><td>~1.5–2 ML/yr</td><td>—</td><td>—</td><td>Named, quantified</td><td>Governance + technical ownership matter</td></tr>
+<tr><td>Barwon (AUS)</td><td>Technical reuse</td><td>—</td><td>—</td><td>—</td><td>Named</td><td>Demand mapping drives best route</td></tr>
+<tr><td>ANZSN disinfection opt.</td><td>Schedule optimization</td><td>&gt;160,000 L</td><td>6.4 MWh + 720 L citric avoided</td><td>~$2,400 savings</td><td>Named, quantified</td><td>Low-capex process wins first</td></tr>
+<tr><td>Spain 20-center study</td><td>Operations model change</td><td>L/session variable</td><td>kWh/session variable</td><td>—</td><td>Peer-reviewed style</td><td>Ops model matters as much as equipment</td></tr>
+<tr><td>Australia modern vs old RO</td><td>RO platform comparison</td><td>357 L vs 548 L / treatment</td><td>3.1 kWh vs 7.2 kWh / treatment</td><td>—</td><td>Industry comparison</td><td>Equipment refresh creates large gains</td></tr>
+</table>
+<p class="small">All evidence is named, measured, and source-tracked. <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-gem">Gem</a></p>
+</section>
+<section class="slide appendix" id="apx-supp">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix C</span><span>Equipment & supplier ecosystem</span></div>
+<div class="eyebrow">Appendix C · Dialysis equipment & supplier landscape</div>
+<h2>The dialysis system (audit perimeter)</h2>
+<table>
+<tr><th>Layer</th><th>Examples</th><th>Environmental issue</th><th>Audit data needed</th><th>Potential intervention</th><th>Patient-safety boundary</th><th>Likely owner</th></tr>
+<tr><td>Dialysis generator</td><td>HD/HDF machines, settings, standby modes</td><td>Energy, dialysate use, saline/disinfection</td><td>kWh/session, dialysate flow, disinfection cycles</td><td>Dialysate flow + machine energy optimization</td><td>No under-dialysis or unsafe settings</td><td>Nephrology + biomedical</td></tr>
+<tr><td>Water-treatment plant</td><td>RO skids, pretreatment, permeate loop</td><td>Water reject, electricity, chemicals</td><td>Feed / permeate / reject volumes, conductivity</td><td>RO high-recovery upgrade, leak detection</td><td>No quality downgrade of dialysis water</td><td>Technical services</td></tr>
+<tr><td>Dialysate distribution</td><td>Loop, pumps, pressure controls</td><td>Heat losses, flushing losses</td><td>Loop temperature, purge volumes</td><td>Heat recovery, optimized circulation</td><td>Microbiological safety preserved</td><td>Technical services + hygiene</td></tr>
+<tr><td>Dialyzer / membrane</td><td>PSf / PES / PMMA</td><td>Single-use device footprint</td><td>Units/session, waste mass</td><td>Procurement optimization</td><td>Clinical efficacy first</td><td>Nephrology + procurement</td></tr>
+<tr><td>Blood circuit</td><td>Bloodlines, needles, sets</td><td>Single-use plastics, DASRI</td><td>Set count/session, DASRI ratio</td><td>Open-pack reduction, protocol optimization</td><td>Sterility preserved</td><td>Nursing + procurement</td></tr>
+<tr><td>Concentrates</td><td>Acid concentrate, bicarbonate cartridges/bags</td><td>Packaging, logistics</td><td>Volume/session, pack type</td><td>Centralized acid concentrate</td><td>Chemical specs preserved</td><td>Technical + nephrology</td></tr>
+<tr><td>Non-clinical reuse infra</td><td>Tanks, pumps, UV-C, backflow, dual piping</td><td>Capex vs substitution</td><td>Capture ratio, uptime, quality logs</td><td>RO reject → toilets / technical</td><td>No patient-contact reuse</td><td>Technical + hygiene</td></tr>
+<tr><td>Waste management</td><td>DASRI / DAOM, packaging</td><td>Incineration/disposal footprint</td><td>kg/session by stream</td><td>Waste segregation + pathway optimization</td><td>Infection control</td><td>Waste operator + nursing</td></tr>
+</table>
+<h2 style="margin-top:14px">Producer landscape (no unsupported market-share claims)</h2>
+<table>
+<tr><th>Company</th><th>Category</th><th>Relevant products</th><th>Relevance for EcoDialysis</th><th>Caveat</th></tr>
+<tr><td>Fresenius</td><td>Machine + water systems</td><td>5008/6008, Aqua series, NxStage</td><td>Pilot machine/water partner</td><td>Site-level compatibility review needed</td></tr>
+<tr><td>B. Braun</td><td>Machine + RO + consumables</td><td>AQUAboss, Dialog, concentrates</td><td>RO + generator optimization partner</td><td>Some claims are manufacturer data</td></tr>
+<tr><td>Baxter / Vantive</td><td>Kidney-care platform</td><td>Home & in-center therapies</td><td>Home/clinic pathway</td><td>Corporate transition stage — verify scope</td></tr>
+<tr><td>Nipro</td><td>Dialyzer + blood circuit</td><td>Dialyzers, bloodlines, systems</td><td>Consumables optimization</td><td>Product-level LCA limited</td></tr>
+<tr><td>Nikkiso</td><td>Dialysis generator</td><td>DBB-EXA family</td><td>Generator / process optimization</td><td>France availability to verify</td></tr>
+<tr><td>Asahi · Toray</td><td>Dialyzer producers</td><td>PSf · PMMA membranes</td><td>Supplier-scorecard integration</td><td>Clinical appropriateness per patient</td></tr>
+<tr><td>JMS</td><td>Consumables + systems</td><td>Bloodlines, dialyzers, systems</td><td>Consumables optimization</td><td>Regional availability to verify</td></tr>
+<tr><td>Quanta · Outset / Tablo · NxStage · NextKidney</td><td>System innovators / comparators</td><td>SC+, Tablo, System One</td><td>Future-watch / benchmark only</td><td>France deployment status to verify</td></tr>
+</table>
+<p class="small"><a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-per">Per</a> <a class="src" href="#src-s26">S26</a></p>
+</section>
+<section class="slide appendix" id="apx-matrix">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix D</span><span>Maturity matrix</span></div>
+<div class="eyebrow">Appendix D · Technology & procurement maturity matrix</div>
+<h2>Intervention maturity, evidence, and phase placement</h2>
+<table>
+<tr><th>Intervention</th><th>Clinical boundary</th><th>Evidence</th><th>Water</th><th>Energy</th><th>Waste / carbon</th><th>Supplier dep.</th><th>Capex</th><th>Reg.</th><th>Phase</th></tr>
+<tr><td>RO reject → toilets</td><td>Non-clinical only</td><td>High</td><td>High</td><td>Low-med</td><td>Med</td><td>Med</td><td>Med</td><td>Med-high</td><td>Phase 1</td></tr>
+<tr><td>RO reject → boiler/steam/cooling/sterilization/laundry</td><td>Non-clinical only</td><td>Med</td><td>Med-high</td><td>Med</td><td>Med</td><td>High</td><td>High</td><td>High</td><td>Phase 2</td></tr>
+<tr><td>RO high-recovery upgrade</td><td>Dialysis-water quality preserved</td><td>Med-high</td><td>High</td><td>Med</td><td>Med</td><td>High</td><td>Med-high</td><td>Low-med</td><td>Phase 1</td></tr>
+<tr><td>Centralized acid concentrate</td><td>Chemical quality preserved</td><td>Med</td><td>Med</td><td>Low-med</td><td>Med</td><td>High</td><td>Med</td><td>Med</td><td>Phase 1/2</td></tr>
+<tr><td>Bicarbonate cartridge / bag opt.</td><td>Clinical chemistry preserved</td><td>Med</td><td>Low-med</td><td>Low</td><td>Med</td><td>High</td><td>Low</td><td>Low</td><td>Phase 1</td></tr>
+<tr><td>Dialysate flow optimization</td><td>No under-treatment</td><td>Med</td><td>Med</td><td>Low-med</td><td>Low-med</td><td>Med</td><td>Low</td><td>Med</td><td>Phase 1</td></tr>
+<tr><td>Disinfection schedule opt.</td><td>Manufacturer safety windows</td><td>High</td><td>Med</td><td>Med</td><td>Med</td><td>Med</td><td>Low</td><td>Low-med</td><td>Phase 1</td></tr>
+<tr><td>Heat recovery</td><td>No dialysate quality compromise</td><td>Med</td><td>Low</td><td>Med-high</td><td>Med</td><td>Med</td><td>Med</td><td>Low-med</td><td>Phase 2</td></tr>
+<tr><td>Real-time metering & dashboards</td><td>Operational</td><td>High</td><td>Enabler</td><td>Enabler</td><td>Enabler</td><td>Low-med</td><td>Low-med</td><td>Low</td><td>Phase 1</td></tr>
+<tr><td>Leak detection</td><td>Operational</td><td>Med-high</td><td>Med</td><td>Low</td><td>Low-med</td><td>Low-med</td><td>Low-med</td><td>Low</td><td>Phase 1</td></tr>
+<tr><td>Machine-level energy opt.</td><td>Clinical quality preserved</td><td>Med</td><td>Low</td><td>Med</td><td>Med</td><td>High</td><td>Low-med</td><td>Low</td><td>Phase 1</td></tr>
+<tr><td>Consumables procurement opt.</td><td>No compromise on care</td><td>Med</td><td>Low-med</td><td>Low</td><td>High</td><td>High</td><td>Low</td><td>Low-med</td><td>Phase 1</td></tr>
+<tr><td>Single-use reduction where safe</td><td>Legal + clinically valid only</td><td>Low-med</td><td>Low</td><td>Low</td><td>Med-high</td><td>High</td><td>Med</td><td>High</td><td>Phase 3</td></tr>
+<tr><td>Waste segregation DASRI/DAOM opt.</td><td>Infection control</td><td>High</td><td>Low</td><td>Low</td><td>Med-high</td><td>Med</td><td>Low</td><td>Med</td><td>Phase 1</td></tr>
+<tr><td>Plastic recycling pilots</td><td>Post-use safe pathways</td><td>Low-med</td><td>Low</td><td>Low</td><td>Med</td><td>Med-high</td><td>Med</td><td>High</td><td>Phase 3</td></tr>
+<tr><td>Sorbent / portable low-water systems</td><td>Device-clinical pathway</td><td>Pilot</td><td>Pot. high</td><td>Unknown</td><td>Pot. high</td><td>High</td><td>High</td><td>High</td><td>Watchlist</td></tr>
+<tr><td>Spent dialysate reuse</td><td>Not in current deployment</td><td>Pilot</td><td>Pot. high</td><td>Unknown</td><td>Unknown</td><td>High</td><td>High</td><td>Very high</td><td>Not phase 1</td></tr>
+<tr><td>Mixed wastewater treatment</td><td>Not in current deployment</td><td>Pilot</td><td>Pot. med-high</td><td>Unknown</td><td>Unknown</td><td>High</td><td>High</td><td>Very high</td><td>Not phase 1</td></tr>
+</table>
+<p class="small"><a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-ope">Ope</a> <a class="src" href="#src-s26">S26</a> <a class="src" href="#src-ird">Ird</a></p>
+</section>
+<section class="slide appendix" id="apx-cons">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix E</span><span>Consumables</span></div>
+<div class="eyebrow">Appendix E · Medical devices & consumables — water is the entry point, not the only lever</div>
+<h2>Why nephrology sustainability needs procurement discipline</h2>
+<table>
+<tr><th>Item</th><th>Waste type</th><th>Carbon / water relevance</th><th>Reduction lever</th><th>Procurement lever</th><th>Clinical / safety constraint</th></tr>
+<tr><td>Dialyzers</td><td>DASRI / mixed</td><td>High recurring single-use burden</td><td>Appropriate-product matching</td><td>Supplier questionnaire + environmental criteria</td><td>Clinical adequacy first</td></tr>
+<tr><td>Bloodlines</td><td>DASRI</td><td>High plastic mass cumulative</td><td>Open-pack discipline, inventory control</td><td>Packaging metrics in tenders</td><td>Sterility and compatibility</td></tr>
+<tr><td>Needles / catheters</td><td>DASRI sharps</td><td>Single-use safety items</td><td>Stock + expiry management</td><td>Supplier quality + LCA data</td><td>No reuse</td></tr>
+<tr><td>Bicarbonate cartridges or bags</td><td>Packaging + residual</td><td>Material + logistics</td><td>Dose / mode optimization</td><td>Contract terms on pack format</td><td>Chemical quality</td></tr>
+<tr><td>Acid concentrate</td><td>Containers + chemical handling</td><td>Packaging + transport burden</td><td>Centralized acid concentrate</td><td>Infrastructure-compatible procurement</td><td>Concentrate quality and controls</td></tr>
+<tr><td>Saline bags</td><td>Plastic + fluid handling</td><td>Use-pattern dependent</td><td>Workflow + priming optimization</td><td>Machine-set compatibility</td><td>Clinical protocols</td></tr>
+<tr><td>Disinfectants</td><td>Chemical + container</td><td>Water-energy-chemical linkage</td><td>Schedule optimization</td><td>Protocol + supplier instructions</td><td>No compromise on hygiene</td></tr>
+<tr><td>Packaging</td><td>DAOM / recyclable</td><td>Large hidden footprint</td><td>Sort, reduce contamination of recycling</td><td>Tender criteria on packaging design</td><td>Sterility barriers</td></tr>
+<tr><td>Gloves / PPE</td><td>Mostly contaminated</td><td>High recurring volume</td><td>Usage discipline where clinically appropriate</td><td>Supplier + material criteria</td><td>Infection control first</td></tr>
+<tr><td>Paper / printing</td><td>General</td><td>Low impact, easy wins</td><td>Digitalization + print controls</td><td>Policy-level procurement</td><td>Documentation compliance</td></tr>
+<tr><td>Unused opened material</td><td>Avoidable medical waste</td><td>Direct avoidable emissions</td><td>Kit optimization + opening protocol</td><td>Training + monitoring</td><td>Asepsis</td></tr>
+</table>
+<p class="small"><a class="src" href="#src-s26">S26</a> <a class="src" href="#src-tsp">TSP</a> <a class="src" href="#src-ird">Ird</a> <a class="src" href="#src-hcw">HCW</a></p>
+</section>
+<section class="slide appendix" id="apx-fin">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix F</span><span>Financial scenarios</span></div>
+<div class="eyebrow">Appendix F · Financial scenarios (transparent, site-validated)</div>
+<h2>Reference 100-patient center · low / base / high</h2>
+<table>
+<tr><th>Scenario type</th><th>Water-only saving</th><th>Water + sewer saving</th><th>Water + sewer + energy bundle</th><th>Subsidy effect</th><th>Break-even insight</th><th>What we cannot quantify yet</th></tr>
+<tr><td>CHU high-volume retrofit</td><td>High absolute volume</td><td>High</td><td>High if bundled with disinfection + machine opt.</td><td>Strong leverage if awarded</td><td>Faster break-even (throughput)</td><td>Approval timelines + tariff variability</td></tr>
+<tr><td>Medium CH retrofit</td><td>Medium</td><td>Medium</td><td>Medium</td><td>Material</td><td>Sensitive to capture rate + tariff</td><td>Infrastructure constraints + staffing</td></tr>
+<tr><td>Private network design-in / new-build</td><td>Medium-high</td><td>Medium-high</td><td>High with standardized rollout</td><td>Depends on financing model</td><td>Improved by replicable template</td><td>Contractual savings-share terms</td></tr>
+</table>
+<h3>External funding (signal only)</h3>
+<ul>
+<li><strong>Agences de l'Eau</strong> — per-basin grant programs; subject to basin priorities; <em>not guaranteed</em>.</li>
+<li><strong>CEE (Certificats d'Économies d'Énergie)</strong> — applicable to bundled energy interventions; <em>not guaranteed</em>.</li>
+<li>UK / IE / MY hospital precedents: <strong>1–3.5 yr payback</strong>; France-specific revalidation required per site.</li>
+</ul>
+<p class="small"><a class="src" href="#src-per">Per</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-ope">Ope</a></p>
+</section>
+<section class="slide appendix" id="apx-road">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix G</span><span>Roadmap & stakeholders</span></div>
+<div class="eyebrow">Appendix G · Implementation roadmap & stakeholder map</div>
+<h2>Roadmap by phase</h2>
+<table>
+<tr><th>Phase</th><th>0–3 months</th><th>3–6 months</th><th>6–12 months</th><th>12–24 months</th></tr>
+<tr><td>Main workstream</td><td>Audit baseline + supplier map</td><td>Playbook design + filing prep</td><td>Pilot implementation + verification</td><td>Network-scale procurement + label rollout</td></tr>
+<tr><td>Water / energy</td><td>Metering + reject characterization</td><td>RO + disinfection + flow optimization plans</td><td>Commissioning + capture verification</td><td>Scale + benchmark</td></tr>
+<tr><td>Medical devices / procurement</td><td>Consumables baseline + waste mapping</td><td>Tender criteria + supplier questionnaires</td><td>Contract-linked improvements</td><td>Supplier benchmark integration</td></tr>
+<tr><td>Governance</td><td>Hospital ownership matrix</td><td>ARS / prefecture + hygiene milestones</td><td>Monthly KPI review</td><td>Annual certification cycle</td></tr>
+</table>
+<h2 style="margin-top:14px">Stakeholder map</h2>
+<table>
+<tr><th>Stakeholder</th><th>What they want</th><th>What EcoDialysis offers</th><th>Commercial risk</th><th>Credibility risk</th></tr>
+<tr><td>Machine producers (Fresenius, B. Braun, Baxter/Vantive, Nipro, Nikkiso)</td><td>Installed-base value, performance differentiation</td><td>Neutral verification + co-deployment evidence</td><td>Vendor lock-in pressure</td><td>Perceived OEM bias</td></tr>
+<tr><td>Water-treatment suppliers / integrators</td><td>Capex pipeline</td><td>Prioritized project shortlist + dossiers</td><td>Retrofit cost overruns</td><td>Overpromised savings</td></tr>
+<tr><td>Purchasing groups / GHT</td><td>Comparable supplier scoring</td><td>Structured procurement packs</td><td>Long cycle times</td><td>Insufficient evidence quality</td></tr>
+<tr><td>SFNDT / green-nephrology community</td><td>Clinically safe sustainability adoption</td><td>Guideline-aligned implementation</td><td>Slow uptake</td><td>Clinical skepticism if overclaimed</td></tr>
+<tr><td>C2DS / SNITEM / AFNOR IDMD</td><td>Responsible-purchasing tools</td><td>IDMD-compatible scorecard</td><td>Method complexity</td><td>Inconsistent scoring</td></tr>
+<tr><td>Agences de l'Eau</td><td>Fundable, high-quality projects</td><td>Standardized technical + impact documentation</td><td>Subsidy uncertainty</td><td>Funding assumptions overstated</td></tr>
+<tr><td>ARS / prefecture</td><td>Sanitary safety + compliance</td><td>Conservative non-clinical deployment logic</td><td>Approval delays</td><td>Regulatory overstatement</td></tr>
+<tr><td>Patient associations</td><td>Safety + transparency</td><td>Clear patient-safety boundary + local impact</td><td>Perception risk</td><td>Trust loss if claims unclear</td></tr>
+</table>
+<p class="small"><a class="src" href="#src-s26">S26</a> <a class="src" href="#src-gem">Gem</a> <a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-ird">Ird</a></p>
+</section>
+<section class="slide appendix" id="apx-claims">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix H</span><span>Claims discipline</span></div>
+<div class="eyebrow">Appendix H · What EcoDialysis claims · what it does not claim</div>
+<h2>Allowed vs not-allowed claims</h2>
+<div class="grid">
+<div class="card good"><h4>Allowed</h4><ul>
+<li>Non-clinical RO reject reuse can reduce potable demand, with named international evidence.</li>
+<li>Scenario-based savings with explicit assumptions, sensitivity, and uncertainty framing.</li>
+<li>French regulation has opened a pathway (Décret 2024-796), with site authorization required.</li>
+<li>Maturity-based recommendation levels.</li>
+<li>EcoDialysis starts with audit, metering, and non-clinical reuse feasibility.</li>
+</ul></div>
+<div class="card bad"><h4>Not allowed (today)</h4><ul>
+<li>Guaranteed ARS approval.</li>
+<li>Guaranteed Agences de l'Eau or CEE subsidies.</li>
+<li>Guaranteed CNAM reimbursement.</li>
+<li>Full carbon neutrality claim.</li>
+<li>Patient-contact water reuse.</li>
+<li>Unqualified national market-size certainties without assumptions.</li>
+<li>Unverified supplier performance claims.</li>
+</ul></div>
+</div>
+<h2 style="margin-top:14px">Remaining legal uncertainties to verify per site</h2>
+<ul>
+<li>Exact ARS / prefecture pathway for a given basin and establishment type.</li>
+<li>Local water + sewer tariff structure and indexation.</li>
+<li>Monitoring frequency requirements per use case (toilet vs technical).</li>
+<li>Interaction with hygiene-committee policy (CLIN) and biomedical engineering.</li>
+<li>Eligibility criteria for Agences de l'Eau by basin and CEE category for bundled interventions.</li>
+</ul>
+<p class="small"><a class="src" href="#src-gov">Gov</a> <a class="src" href="#src-s26">S26</a> <a class="src" href="#src-tsp">TSP</a></p>
+</section>
+<section class="slide appendix" id="apx-sources">
+<div class="chrome"><span class="mark"><span class="dot"></span>Appendix I</span><span>Source registry</span></div>
+<div class="eyebrow">Appendix I · Source registry — clickable from body chips</div><h2>Source registry</h2><div class="src-anchor" id="src-per"><h4>Per</h4><strong>Perplexity — France market deep research</strong><div class="small">Files: <code>Deep_Research/EcoDialysis_Perplexity.pdf</code></div><div class="small">Used for: France market segmentation, 100-patient model anchor, in-center/UDM share.</div><div class="small">Reliability: Medium — strategic synthesis; primary statistics should be revalidated per use.</div></div><div class="src-anchor" id="src-gem"><h4>Gem</h4><strong>Gemini — Clinical & technical advancements in dialysis</strong><div class="small">Files: <code>Deep_Research/Clinical and Technical Advancements in Dialysis_Gemini.pdf</code></div><div class="small">Used for: Technology taxonomy, machine families, RO comparisons (357 L + 3.1 kWh modern vs 548 L + 7.2 kWh old).</div><div class="small">Reliability: Medium-high — some figures depend on source-chain integrity.</div></div><div class="src-anchor" id="src-ope"><h4>Ope</h4><strong>OpenAI — Water sustainability practices in dialysis</strong><div class="small">Files: <code>Deep_Research/Water Sustainability Practices in Dialysis_OpenAI.pdf</code></div><div class="small">Used for: International case studies (Canterbury, Bristol, Ashford, Bendigo, QEH, Barwon, ANZSN), Spain 20-center study.</div><div class="small">Reliability: Medium-high — strong quantitative cases; secondary synthesis requires careful wording.</div></div><div class="src-anchor" id="src-s23"><h4>S23</h4><strong>SFNDT 2023 — Toward Green Dialysis (complete guide)</strong><div class="small">Files: <code>Guide/SFNDT_guide complet-VF-HD-2_260526_231531.pdf</code></div><div class="small">Used for: Clinical practice baseline, dialysis-water chain definition.</div><div class="small">Reliability: High — professional guideline; local adaptation needed.</div></div><div class="src-anchor" id="src-s26"><h4>S26</h4><strong>SFNDT 2026 — Guide des bonnes pratiques en néphrologie verte (long + short)</strong><div class="small">Files: <code>Guide/Guide_des_bonnes_pratiques_en_néphrologie_verte_Ve_260526_231812.pdf · Guide/Guide_de_la_néphrologie_verte_Version_courte_2026_260526_231654.pdf</code></div><div class="small">Used for: Operational levers: disinfection optimization, dialysate flow, centralized acid concentrate, RO recovery, non-clinical reuse.</div><div class="small">Reliability: High — operationally rich; some items remain case-specific.</div></div><div class="src-anchor" id="src-gov"><h4>Gov</h4><strong>French government — Planification écologique du système de santé</strong><div class="small">Files: <code>old/Impact environnemental/Planification écologique du système de santé.pdf</code></div><div class="small">Used for: National policy framing: ~50 MtCO2e (~8% national GHG), Plan Eau 2023, sensitive establishments framework. Reference for Décret n°2024-796 (12 July 2024, in force 1 Sept 2024) on EICH (eaux impropres à la consommation humaine).</div><div class="small">Reliability: High — strategic orientation; legal text must be re-checked with ARS at filing.</div></div><div class="src-anchor" id="src-tsp"><h4>TSP</h4><strong>The Shift Project — Pathway carbon methodology + sector reports</strong><div class="small">Files: <code>old/Impact environnemental/[PPJS] Guide méthodologique pour l_évaluation carbone des parcours de soin.pdf · old/Impact environnemental/TSP-Decarbonons-les-industries-des-medicaments-RF.pdf · old/Impact environnemental/240404-Rapport-Decarbonons-lAutonomie-The-Shift-Project-1-1.pdf</code></div><div class="small">Used for: Impact accounting methodology (objective/perimeter/assumption/sensitivity/uncertainty), supply-chain & medicines decarbonisation.</div><div class="small">Reliability: High — not dialysis-specific; used for methodology discipline.</div></div><div class="src-anchor" id="src-ird"><h4>Ird</h4><strong>IRDES — Soutenabilité environnementale des systèmes de santé</strong><div class="small">Files: <code>old/Impact environnemental/La soutenabilité environnementale des systèmes de santé. Une revue de littérature sur l’empreinte écologique des systèmes de santé et un cadre d’action pour la France.pdf</code></div><div class="small">Used for: Literature review of healthcare ecological footprint, French action framework.</div><div class="small">Reliability: High — mixes international contexts; direct transfer needs caution.</div></div><div class="src-anchor" id="src-hcw"><h4>HCW</h4><strong>Health Care Without Harm — Climate footprint of the health sector</strong><div class="small">Files: <code>old/Impact environnemental/L_empreinte climatique du secteur de la santé Health Care Without Harm.pdf</code></div><div class="small">Used for: Global Scope 3 and procurement context.</div><div class="small">Reliability: Medium-high — macro, not dialysis-granular.</div></div><div class="src-anchor" id="src-pch"><h4>Pch</h4><strong>Internal pitch materials (v1, v3)</strong><div class="small">Files: <code>EcoDialysis Pitch_v1.html · EcoDialysis-Pitch_v3.pdf · EcoDialysis_Pitch_v3.pptx</code></div><div class="small">Used for: Original narrative anchors, three-step service idea, EcoDialysis label A–E concept.</div><div class="small">Reliability: High (internal) — external claims still evidence-checked.</div></div>
+</section>
+<script type="application/json" id="speaker-notes">[
+  {
+    "slide": "1",
+    "note": "Open with the adaptation thesis. Water — not carbon — is the next operational constraint for dialysis. EcoDialysis is positioned as a hospital water-resilience startup that begins with dialysis because dialysis has measurable, recurring, high-grade water waste."
+  },
+  {
+    "slide": "2",
+    "note": "Set the strategic arc, not a boring agenda. Each act answers one investor/hospital question."
+  },
+  {
+    "slide": "3",
+    "note": "Show the flow, name the boundary. The boundary is what makes EcoDialysis a credible clinical-safe project, not a generic water start-up."
+  },
+  {
+    "slide": "4",
+    "note": "Reframe from ESG to resilience. Lead with continuity, not carbon. Carbon stays a secondary quantified co-benefit."
+  },
+  {
+    "slide": "5",
+    "note": "Concrete architecture and formulas. Hospitals trust meters and formulas, not slogans. Show low/base/high right here, not only in appendix."
+  },
+  {
+    "slide": "6",
+    "note": "Traffic light frames the safety logic visually. Make the red line clinically credible."
+  },
+  {
+    "slide": "7",
+    "note": "Investors fear regulatory risk. Show the legal gate, the controls, and what we will never claim."
+  },
+  {
+    "slide": "8",
+    "note": "Eight credibility cards, named, with measured numbers. Avoid the unsupported global market-size trap."
+  },
+  {
+    "slide": "9",
+    "note": "Decision matrix + maturity table. Stress that the matching logic is the moat."
+  },
+  {
+    "slide": "10",
+    "note": "Direct contrast. Pre-empt the obvious investor question."
+  },
+  {
+    "slide": "11",
+    "note": "Five layers: audit → playbook → implementation → monitoring → label."
+  },
+  {
+    "slide": "12",
+    "note": "Show we understand the equipment stack and supplier politics. Neutrality is part of credibility."
+  },
+  {
+    "slide": "13",
+    "note": "Show diversified revenue and disciplined non-claims."
+  },
+  {
+    "slide": "14",
+    "note": "Risk register matters. Conservative posture is a feature."
+  },
+  {
+    "slide": "15",
+    "note": "3 sites × 4 phases × clean KPIs. Two KPIs always = 0."
+  },
+  {
+    "slide": "16",
+    "note": "Three pillars: adaptation, evidence, safety."
+  }
+]</script>
+</div>
+</body>
+</html>

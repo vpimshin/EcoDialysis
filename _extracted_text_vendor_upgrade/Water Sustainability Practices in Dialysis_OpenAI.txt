@@ -1,0 +1,1365 @@
+Water Sustainability Practices in Dialysis
+Executive summary
+The strongest implemented water-sustainability practices in dialysis today are not the most futuristic
+ones. They are the pragmatic measures applied around the dialysis water plant: reusing reverse
+osmosis reject water for non-patient-contact purposes, upgrading or optimizing reverse osmosis
+systems, avoiding redundant disinfection cycles, and recovering heat from warm effluent. These
+measures are already producing quantified results in routine care. UK and Australian case studies
+report reject-water reuse ranging from about 1,000 L/week in a small rural unit to 13,140 m³/year in a
+children’s hospital; direct cost savings range from £7,500/year at Canterbury to more than £15,000/
+year at Bristol, with some projects showing payback in a few years rather than decades. Operational
+optimization also matters: a multicentre Spanish study found that centres operating daily used
+materially less water and energy per dialysis session than centres opening only three times weekly,
+indicating that scheduling and asset utilization are themselves sustainability levers. 
+On the technology side, the best current evidence favors “reduce and reuse” rather than full “recycle”
+of patient-contact effluent. Newer water plants and machine configurations can materially reduce
+resource intensity: a recent Australian comparison reported 357 L of RO water and 3.1 kWh of RO
+power per treatment with a modern RO system versus 548 L and 7.2 kWh with an older one.
+Manufacturers such as B. Braun and Fresenius Medical Care advertise up to 85% RO water recovery on
+newer systems, and Fresenius reports wider deployment of heat disinfection and water metering in
+water-stressed clinics. Heat-recovery interventions are also maturing: retrofitted dialysis-machine heat
+exchangers in NHS services saved 0.5–0.86 kWh per treatment, while a 2026 simulation/experimental
+validation for a four-station clinic projected >15 kWh/session and ~63,200 kWh/year recovered. 
+By contrast, closed-loop spent-dialysate regeneration, forward osmosis, and portable sorbent
+hemodialysis remain promising but comparatively immature. Sorbent systems can dramatically cut
+water demand: the legacy REDY system required about 6 L of untreated water per dialysis, and
+NextKidney’s NeoKidney reports 4.5–5 L of dialysate per session with no separate home water
+treatment system, but the company also states that the device is not yet for sale and that regulatory
+approvals are pending. The clinical safety evidence retrievable in this review is still limited: an AWAK
+peritoneal dialysis pilot reported no serious adverse events in 15 patients but did report frequent
+abdominal discomfort, underscoring that regenerative approaches are not yet “drop-in” replacements
+for conventional dialysis infrastructure. 
+The policy picture is mixed. Water-quality regulation for dialysis is already strict and well established;
+sustainability regulation and incentives are newer and more fragmented. Current rules mainly act as a 
+boundary condition: they protect patient safety, but they also make any reuse that re-enters patient-
+contact pathways far more complex than reusing reject water for toilets, boilers, irrigation, or laundry.
+The most scalable implementation pattern emerging from the evidence is therefore: measure first,
+optimize existing plants and schedules second, reuse non-patient-contact streams third, and
+reserve closed-loop patient-contact systems for controlled pilots until the clinical, regulatory, and
+economic evidence base is stronger.
+1
+2
+3
+4
+1
+Scope and evidence base
+This report prioritizes peer-reviewed papers, official hospital and dialysis-service case studies,
+manufacturer technical documentation, professional-society guidance, and government or health-
+system documents. The primary evidence retrieved clusters around several source types: multicentre
+observational studies from Spain and Australia; hospital implementation case studies from the UK and
+Australia; official technical or sustainability material from Fresenius Medical Care, B. Braun, DaVita, and
+NextKidney; and guidance from WHO, the NSW Agency for Clinical Innovation, ANZSN, ERA/SFNDT,
+KDIGO, and ISN GREEN-K. 
+A key limitation of the literature is its asymmetry. Quantified evidence is comparatively strong for RO
+reject reuse, water-plant upgrades, disinfection scheduling, and heat recovery. It is weaker for 
+patient-level clinical outcomes directly attributable to sustainability interventions, and much weaker
+still for closed-loop spent-dialysate recycling and portable sorbent hemodialysis. Where sources did
+not specify a result, this report records it as unspecified rather than inferring it. 
+Assumption used in this report Treatment of the issue
+Scalability is rated qualitatively
+It reflects technical/regulatory replicability, not
+guaranteed business-case attractiveness in every water
+tariff or building context.
+Manufacturer performance claims are
+not treated as field-validated by
+default
+They are labelled as manufacturer-reported unless an
+independent implementation study was also retrieved.
+“Patient grouping” is discussed as an
+operational inference
+It is inferred from utilization and scheduling evidence, not
+from a standalone trial explicitly randomizing grouping
+strategies.
+Corporate sustainability metrics may
+include extrapolation
+Reported exactly as disclosed by the company, with
+method caveats where stated by the source.
+Technical practices
+The dialysis water chain has several intervention points, and the evidence suggests that the most robust
+gains come from intervening at the RO plant boundary and the effluent/heat boundary, not from
+modifying the patient-contact dialysate loop itself. The most mature practices are therefore: increasing
+RO efficiency, reusing reject water , right-sizing and scheduling disinfection, and recovering thermal
+energy from wastes. More ambitious approaches—direct spent-dialysate purification, forward osmosis
+regeneration, and sorbent recirculation—remain largely in pilot, prototype, or early clinical stages. 
+5
+6
+7
+Mains
+water
+Pretreatment
+Reverse
+osmosis
+Product
+water
+for
+dialysate
+RO
+reject
+water
+Dialysis
+machine
+Warm
+spent
+dialysate
+/
+effluent
+Toilets
+/
+laundry
+/
+sterilizers
+/
+boilers
+/
+irrigation
+Storage
+or
+reinjection
+to
+RO
+inlet
+Heat
+exchanger
+to
+preheat
+incoming
+water
+Spent-dialysate
+regeneration
+pilots
+FO
+or
+sorbent
+loop
+2
+This schematic reflects intervention points described in hospital case studies, operational handbooks,
+and manufacturer materials. The practical divide is important: RO reject water has never contacted the
+patient and is usually treated as a fit-for-purpose reuse stream after local assessment; spent dialysate
+is a much more demanding technical and regulatory challenge, even when its resource content is
+attractive. 
+Technology comparison
+Practice What is being doneMeasured or reported effectSafety and evidence status
+RO reject-
+water reuse
+Recover reject
+water from the RO
+plant for toilets,
+laundry, sterilizers/
+steam, cooling
+towers, irrigation,
+or other non-
+patient-contact
+uses
+Real-world projects report 
+800 L/h recovered at
+Canterbury; 1.7 ML/year at
+Bendigo; 1.1 ML/year
+estimated at Barwon; 1.5–2
+ML/year at Queen Elizabeth
+Hospital; 13,140 m³/year at
+Bristol. 
+Strongest real-world
+evidence base. Safety case
+is strongest when reuse
+remains outside patient-
+contact pathways; site-
+level water-quality and
+plumbing controls remain
+necessary. 
+RO
+optimization
+and high-
+recovery
+systems
+Replace legacy
+plants, optimize
+recovery settings,
+reduce
+unnecessary
+regeneration/
+disinfection, and
+specify newer RO
+designs
+A recent Australian
+comparison reported 357 L
+RO water and 3.1 kWh RO
+power per treatment with a
+modern system versus 548 L
+and 7.2 kWh with an older
+system. B. Braun and
+Fresenius report designs
+with up to 85% water
+recovery. 
+Good evidence for
+resource savings; mixed
+evidence on site-specific
+payback because costs
+depend on plant age,
+tariffs, and retrofit
+complexity. Manufacturer
+recovery claims are not
+the same thing as
+independently audited
+field averages. 
+Disinfection
+optimization
+Move scheduled
+disinfections to
+times that target
+only idle machines;
+eliminate
+redundant cycles
+while staying
+within
+manufacturer
+instructions
+ANZSN case study: 25%
+fewer disinfections, >8,000
+fewer cycles/year, >160,000
+L water saved, 6.4 MWh
+power saved, 720 L citric
+acid solution avoided, and 
+$2,400 product savings.
+Home HD example: 30%
+fewer disinfections for
+thrice-weekly patients. 
+High scalability because it
+uses existing equipment
+and manufacturer
+guidance. Patient-safety
+risk is manageable only if
+schedule changes remain
+within machine-specific
+requirements; ANZSN
+explicitly states there is no
+patient-safety benefit
+from redundant
+disinfections. 
+8
+9 10
+11
+12
+13
+13
+3
+Practice What is being doneMeasured or reported effectSafety and evidence status
+Heat recovery
+Install machine-
+level or central
+heat exchangers to
+transfer heat from
+spent dialysate/
+wastewater to
+incoming water
+East Kent retrofits saved 0.86
+kWh/treatment and
+projected 27,905 kWh/year
+across 52 machines.
+Newcastle home HD
+observed 0.625 kWh/
+treatment in summer . B.
+Braun reports up to 17%
+annual savings from central
+heat recovery. A 2026 model
+validated experimentally
+projected >15 kWh/session
+and ~63,200 kWh/year for a
+four-station clinic. 
+Moderate-to-strong
+evidence for engineering
+feasibility and energy
+benefit. Real-world data
+exist, but patient-centre
+adoption is still limited
+compared with reject-
+water reuse. 
+Closed-loop
+or near-
+closed-loop
+reuse
+Retreatment of
+reject water and
+reintegration into
+wider facility
+supply; blending
+with rainwater or
+other sources; in
+research,
+purification of
+spent dialysate
+Queen Elizabeth Hospital in
+Adelaide filtered,
+rechlorinated, and blended
+RO reject with rainwater
+before return to site supply,
+saving 1.5–2 ML/year; capex
+for the broader water-
+recovery plan was estimated
+at A$500,000–A$1 million. 
+Technically possible, but
+capital- and governance-
+intensive. Evidence is
+sparse and site-specific.
+Safety assurance is much
+more demanding than
+simple non-potable reuse. 
+Sorbent
+dialysis and
+portable low-
+water
+systems
+Regenerate a small
+dialysate volume
+using sorbents
+rather than single-
+pass large-volume
+water
+The REDY system used about
+6 L untreated water per
+dialysis versus 400–600 L/
+treatment for conventional
+single-pass systems.
+NeoKidney reports 4.5–5 L/
+session, ~10 kg weight, and
+no separate water-treatment
+system. 
+Resource potential is very
+large, but implementation
+maturity is still limited.
+NeoKidney states that CE/
+FDA approval is pending
+and the device is not yet
+commercially available. 
+Batch/low-
+flow home
+systems
+Use batch
+preparation and
+lower dialysate-
+flow prescriptions
+to reduce source-
+water demand
+relative to
+conventional home
+RO setups
+Fresenius’ NxStage materials
+state that PureFlow prepares
+40/50/60 L batches, can
+support up to three
+treatments, converts source
+water to product water on a 
+1:1 basis, and “requires less
+water than an RO machine
+to produce the same amount
+of product water .” NxStage
+guidance also notes that
+slower dialysate flow allows
+efficient clearance with less
+fluid. 
+Moderate maturity in
+home HD, but this is
+water-reduction rather
+than a reuse technology.
+Savings depend heavily on
+prescription, frequency,
+and local home setup. 
+14
+15
+16
+17
+18
+19
+20
+21
+4
+What the current evidence says
+The evidence hierarchy is clear . Reject-water reuse and disinfection optimization are today’s
+highest-confidence measures because they avoid patient-contact water pathways, use familiar
+engineering, and already have repeated service-level case studies with water , cost, and sometimes
+carbon metrics. Heat recovery is a credible next tier: good engineering logic, some implementation
+evidence, but still fewer large-scale replications. Portable sorbent systems and spent-dialysate
+regeneration offer the largest theoretical water savings, but the present evidence base is still too early
+for broad implementation recommendations outside controlled pilots. 
+Operational practices
+Operational practice is not a side issue in dialysis sustainability; it is often the reason identical
+equipment performs very differently across sites. The most consistent operational findings in the
+retrieved literature are that higher utilization, fewer redundant cleaning cycles, formal training and
+competency systems, continuous monitoring, and good maintenance discipline all reduce resource
+intensity without lowering the patient-safety bar . 
+Operational
+lever What the source says Reported outcome
+Scheduling and
+asset utilization
+In the Spanish 20-centre study, centres
+opening daily had lower resource intensity
+than centres opening only three days/week.
+This is best interpreted as a load-factor effect:
+central plant fixed consumption is diluted
+over more treatments when equipment is
+used more continuously. 
+430.20 L/HD and 10.82 kWh/
+HD in daily-opening centres
+versus 629.81 L/HD and 
+16.79 kWh/HD in centres
+opening three days/week. 
+Patient
+grouping and
+fuller shifts
+No retrieved trial explicitly randomized
+patient grouping, but the same multicentre
+data imply that grouping treatments to
+improve daily utilization should reduce
+resource intensity per session. This is
+therefore an inference rather than a
+standalone tested intervention. 
+Quantitative effect not
+separately reported; inferred
+from daily-use advantage.
+Staff training
+and
+sustainability
+engagement
+ERA/SFNDT states that staff involvement and
+training are “fundamental”; ACI NSW requires
+educated, trained, and accredited operators,
+multidisciplinary committee review, annual
+audits, and documented policies. 
+Direct savings unspecified,
+but these are enabling
+conditions for safe
+implementation.
+Water testing,
+trending, and
+accreditation
+ACI NSW requires routine chlorine testing,
+trending of results, operator accreditation,
+maintenance records, and multidisciplinary
+review. It notes that >95% rejection is an
+adequate RO-performance indicator and that
+all interventions must be logged. 
+Direct savings unspecified;
+risk reduction and early fault
+detection are the main
+operational benefits.
+22
+23
+24
+24
+24
+25
+26
+5
+Operational
+lever What the source says Reported outcome
+Disinfection
+schedule
+redesign
+ANZSN shows that moving automated
+disinfection so that only idle machines run the
+extra cycle can materially reduce water , power ,
+and chemical use. 
+25% fewer disinfections, 
+>160,000 L water and 6.4
+MWh power saved annually
+in one service. 
+Maintenance
+discipline
+Bendigo’s reuse project required infection-
+prevention involvement, risk-management
+plans, dual-pipe guidance, and routine checks
+on pumps, bearings, pipelines, and tanks; ACI
+NSW requires log books and recorded
+interventions for all water-plant work. 
+Direct savings unspecified;
+the point is reliability and
+safety, not merely
+conservation.
+Design-in versus
+retrofit
+Ashford’s reuse system cost £2,500 because
+water recovery was designed into a new build;
+Canterbury’s retrofit cost £15,000. Bristol also
+reported that retrofitting a greywater system
+was prohibitively expensive, leading the team
+to redirect reject water to steam production
+instead. 
+Strong evidence that
+greenfield designs improve
+economics.
+A second operational lesson is that supply-demand matching matters as much as supply volume.
+The Australian handbook emphasizes that RO reject water is generated predictably during the working
+day and often matches toilet-flushing demand well, whereas irrigation is seasonal and may need
+storage or may not actually substitute potable demand. It therefore recommends evaluating projects by
+the percentage of reject water used, not merely the amount generated. 
+A third lesson is that monitoring should be institutionalized, not improvised. The Spanish
+multicentre study concludes that annual monitoring of environmental key performance indicators is
+necessary to detect variation and guide action plans. Fresenius reports automated water meters in
+water-stressed U.S. clinics to improve treatment-level visibility and intervention targeting. These are
+signs that dialysis sustainability is moving from anecdotal “green projects” toward operational
+management. 
+Policy drivers and stakeholder landscape
+Dialysis sustainability is shaped by two different policy layers. The first is the traditional water-quality
+and infection-control layer, which is already mature and non-negotiable. ACI NSW requires written
+policies, trained and accredited operators, routine chlorine and post-RO testing, trending, audits,
+committee review, and maintenance logs; it also references ISO 13959 for contaminant control. These
+rules are the reason why sustainability measures that remain outside the patient-contact water loop
+scale more easily than measures that try to re-enter it. 
+The second layer is the climate, reporting, procurement, and resilience layer, which is newer . WHO’s
+guidance for climate-resilient and environmentally sustainable health facilities explicitly frames water ,
+energy, procurement, staff training, and monitoring as central operational tasks. Fresenius Medical
+Care’s 2025 sustainability statement is prepared under the EU CSRD/ESRS reporting regime. DaVita cites
+the U.S. Health Sector Climate Pledge. ISN’s GREEN-K initiative is explicitly pushing a procurement
+13 13
+27
+28
+29
+30
+26
+6
+agenda so that manufacturers deliver more climate-resilient kidney care systems, and the ERA/SFNDT
+guide is trying to translate this into dialysis-centre action plans. 
+A practical implication follows from this layered policy structure: dialysis-specific safety regulation is
+already detailed, while dialysis-specific sustainability incentives are still mostly indirect. The
+clearest explicit incentives identified in the retrieved primary material were project grants and invest-to-
+save mechanisms rather than direct reimbursement: the Victorian Greening Our Hospitals grants, 
+Smart Water Fund, Stormwater and Urban Water Conservation Fund, and UK-style internal
+business-case funding and interest-free efficiency loans such as Salix Finance. 
+Key stakeholders and what they are doing
+Stakeholder Specific program
+or project What they are doingReported result
+East Kent
+Hospitals
+University NHS
+Foundation Trust
+and Centre for
+Sustainable
+Healthcare
+Canterbury/
+Ashford reject-
+water recovery;
+Kent heat-
+exchanger retrofit
+Reuse RO reject for
+toilets and laundry;
+retrofit heat
+exchangers to
+existing machines
+Canterbury: 800 L/h reject-
+water recovery, £7,500/year
+savings; Ashford new-build
+reuse cost £2,500; 52-
+machine heat-exchanger
+retrofit projected 27,905
+kWh/year and £2,498.60/
+year savings. 
+University
+Hospitals Bristol
+NHS Foundation
+Trust
+Bristol Royal
+Hospital for
+Children reject
+water to steam
+Redirect reject water
+to boiler-house
+steam generation
+after greywater
+retrofit proved too
+costly
+13,140 m³/year water saving,
+>£15,000/year, 13,836 kg
+CO₂e/year, £45,000 capex. 
+Barwon Health,
+Bendigo Health,
+East Wimmera,
+Queen Elizabeth
+Hospital
+Australian public-
+service reuse
+projects
+Large-scale reuse for
+sterilizers, toilets,
+cooling towers,
+irrigation, and
+blended retreated
+supply
+Barwon measured about 100
+kL/week across facilities and
+homes; Bendigo 1.7 ML/
+year; Donald 1,000 L/week;
+QEH 1.5–2 ML/year. 
+ANZSN
+Dialysis machine
+disinfection
+scheduling guide
+Standardize lower-
+waste disinfection
+scheduling without
+violating
+manufacturer
+requirements
+One case study saved 
+>160,000 L water and 6.4
+MWh power annually. 
+Fresenius Medical
+Care
+Water-stress
+assessments,
+newer RO systems,
+water metering,
+heat disinfection
+Corporate water-risk
+planning; newer
+systems with higher
+recovery; site
+metering in water-
+stressed clinics
+Company reports 34.8
+million m³ withdrawal and 
+106.9 million m³ water
+reused/recycled in 2025, with
+method caveats; newer RO
+systems reported with up to
+85% recovery. 
+31
+32
+33
+34
+35
+13
+36
+7
+Stakeholder Specific program
+or project What they are doingReported result
+DaVita
+Water-efficiency
+projects and
+broader ESG
+program
+Corporate water-
+reduction program
+across outpatient
+centres; renewable-
+energy and net-zero-
+centre work
+>75 million gallons saved in
+2024 and 240 million
+gallons since 2021; also
+opened the first U.S. all-
+electric net-zero dialysis
+centre. 
+B. Braun
+AQUAboss RO and
+central heat
+recovery
+High-recovery RO
+systems and central
+wastewater heat
+recovery concept
+AQUAboss claims up to 85%
+recovery; central heat-
+recovery concept reports up
+to 17% annual energy
+savings. 
+NextKidney and
+sorbent
+developers
+NeoKidney
+portable HD;
+legacy REDY
+concept
+Low-water sorbent
+regeneration to avoid
+large home water-
+treatment systems
+REDY: ~6 L/treatment;
+NeoKidney: 4.5–5 L/session,
+not yet for sale, approvals
+pending. 
+SFNDT, ERA, ISN
+GREEN-K, KDIGO
+Green dialysis
+guides and
+procurement
+agenda
+Professional
+guidance, education,
+and a push to
+influence
+procurement and
+innovation
+ERA/SFNDT identifies staff
+training as fundamental; ISN
+GREEN-K focuses on
+sustainable procurement;
+KDIGO’s 2026 conference
+report elevates green dialysis
+to international policy
+discussion. 
+Quantified outcomes, geography, and scalability
+The measured outcomes retrieved in this review are concentrated in a few geographies. The UK
+provides some of the clearest business-case case studies for reject-water reuse and heat exchangers. 
+Australia contributes much of the best implementation detail on RO-reject reuse, reuse handbooks,
+water-safety governance, and disinfection optimization. Spain contributes the best multicentre
+observational data on how plant choices and operations change environmental intensity. The
+Netherlands, Singapore, Morocco, and the U.S. are more visible in emerging-device and system-level
+innovation than in fully mature scaled deployment. 
+37
+38
+39
+40
+41
+8
+Measured outcomes table
+Site or studyPractice Water
+outcome
+Energy /
+carbon
+outcome
+Cost outcome Safety / clinical
+note
+Canterbury
+Dialysis Unit,
+UK
+RO reject
+reused for
+hospital
+toilets
+800 L/h
+recovered Unspecified
+£15,000 capex; 
+£7,500/year
+savings; system
+operated for
+>10 years
+Source states
+reject water
+poses no
+infection risk
+because it does
+not contact the
+patient. 
+Ashford
+Dialysis Unit,
+UK
+New-build
+reject-water
+reuse to
+laundry
+Water
+quantity
+unspecified
+Unspecified
+£2,500
+implementation
+cost
+Demonstrates
+design-in
+advantage;
+safety outcomes
+unspecified. 
+Bristol Royal
+Hospital for
+Children, UK
+Reject water
+diverted to
+boiler house
+for steam
+13,140 m³/
+year
+13,836 kg
+CO₂e/year
+>£15,000/year
+savings; 
+£45,000 capex;
+~67% five-year
+ROI calculation
+reported
+Non-patient-
+contact reuse;
+no infection
+outcome
+reported. 
+East Kent
+renal service,
+UK
+Machine heat-
+exchanger
+retrofit
+Water
+unspecified
+0.86 kWh/
+treatment;
+27,905
+kWh/year
+across 52
+machines; 
+16.46 t
+CO₂e/year
+£48.05/
+machine/year
+and £2,498.60/
+year across 52
+machines;
+device payback
+<4 years
+No adverse
+patient-safety
+signal reported;
+intervention
+affects heating
+efficiency, not
+water purity. 
+Newcastle
+home HD,
+UK
+Home-
+machine heat-
+exchanger
+retrofit
+Water
+unspecified
+0.625 kWh/
+treatment
+observed in
+summer; 
+97.5 kWh/
+year/
+machine at
+3 sessions/
+week; 
+1.207 t
+CO₂e/year
+across 21
+machines
+~£15.60/year/
+machine at the
+quoted tariff; 
+£327.60/year
+across 21
+machines
+Savings likely
+larger in winter
+because colder
+incoming water
+increases
+baseline energy
+use. 
+42
+42
+34
+43
+44
+9
+Site or studyPractice Water
+outcome
+Energy /
+carbon
+outcome
+Cost outcome Safety / clinical
+note
+Barwon
+Health,
+Australia
+Reuse cascade
+for sterilizing
+water , cooling
+towers, toilets,
+irrigation
+>20 kL/
+week at
+one site
+(~1.1 ML/
+year)
+reported;
+broader
+service
+measured 
+~100 kL/
+week
+Unspecified
+~$36,000
+annual water
+value cited for
+one site
+Illustrates
+cascading reuse
+and multi-end-
+use operation;
+direct infection
+outcomes
+unspecified. 
+Bendigo
+Health,
+Australia
+RO reject to
+toilet flushing
+~1.7 ML/
+year
+potable
+substitution
+Unspecified
+Funding via
+Stormwater
+and Urban
+Water
+Conservation
+Fund; direct
+operating
+savings
+unspecified
+Formal
+infection-
+prevention, risk-
+management,
+and dual-pipe
+guidance were
+part of
+implementation.
+Donald,
+Australia
+Small-unit RO
+reject to
+irrigation
+~1,000 L/
+week Unspecified
+A$4,110 system
+cost, funded by
+Greening Our
+Hospitals
+Good example
+of small rural-
+unit feasibility;
+clinical
+outcomes
+unspecified. 
+Queen
+Elizabeth
+Hospital,
+Australia
+Filtered/
+rechlorinated
+reject water
+blended with
+rainwater and
+returned to
+site supply
+1.5–2 ML/
+year Unspecified
+Broader water-
+recovery plan
+estimated at 
+A$500,000–A$1
+million
+High-
+governance,
+high-capex
+model; much
+more complex
+than non-
+potable reuse. 
+ANZSN case
+study,
+Australia
+Disinfection
+scheduling
+optimization
+>160,000 L/
+year
+6.4 MWh/
+year
+$2,400 product
+savings; 720 L
+citric acid
+avoided
+ANZSN explicitly
+says redundant
+disinfections
+provide no
+patient-safety
+benefit. 
+45
+46
+46
+16
+13
+10
+Site or studyPractice Water
+outcome
+Energy /
+carbon
+outcome
+Cost outcome Safety / clinical
+note
+Multicentre
+Spain study,
+20 HD
+centres
+Facility and
+operational
+optimization
+over five years
+Mean 476.5
+L/HD
+across all
+centres; 
+430.20 L/
+HD in daily-
+opening
+centres vs 
+629.81 L/
+HD in
+centres
+open three
+times
+weekly
+Mean 12.6
+kWh/HD
+overall; 
+10.82 kWh/
+HD daily vs 
+16.79 kWh/
+HD three
+times
+weekly
+Site-specific
+cost data
+unspecified
+Corrective
+actions reduced 
+energy 6–30%, 
+plastic waste
+62–65%, and 
+chemical waste
+63%. 
+Spanish
+multicentre
+extrapolation
+Annualized
+burden per
+patient on in-
+centre HD
+74,326.2 L/
+patient/
+year
+1,962.5
+kWh/
+patient/
+year
+Unspecified
+Waste burden
+also quantified
+at 376.4 kg/
+patient/year. 
+Modern
+versus older
+Australian
+RO systems
+RO-plant
+modernization
+357 L/
+treatment
+versus 548
+L/
+treatment
+3.1 kWh/
+treatment
+versus 7.2
+kWh/
+treatment
+Unspecified
+Independent
+comparison
+supports plant
+renewal as a
+major
+sustainability
+lever . 
+AWAK PD
+pilot,
+Singapore
+Sorbent/
+regenerative
+dialysis
+platform
+Water use
+not
+reported in
+the trial
+abstract
+retrieved
+here
+Not
+reported Unspecified
+15 patients; no
+serious
+adverse
+events;
+abdominal pain/
+discomfort in 
+60%; significant
+reductions in
+serum urea,
+creatinine,
+phosphate, and
+β2-
+microglobulin. 
+Geographic distribution and scalability
+The highest-scalability practices are the ones that require the smallest change to the regulated
+patient-contact pathway: disinfection scheduling, metering, staff training, maintenance, and
+24
+24
+47
+48
+11
+specification of better RO plants. Those can often be rolled out service-wide with modest capital
+spending and little regulatory novelty. The next tier is RO reject-water reuse, which scales well where a
+stable nearby demand exists—especially toilets, laundry, sterilizers, and boilers. Scalability drops when
+storage, pumping, or long-distance conveyance is needed, or when local non-potable plumbing
+standards become stringent. 
+The lowest current scaling readiness belongs to patient-contact closed-loop concepts. Even where the
+technical promise is strong, the evidence base is still too concentrated in engineering studies, prototype
+brochures, conference abstracts, and small pilots. That does not make them unimportant; it means they
+are better treated today as strategic innovation tracks rather than as default infrastructure choices
+for broad service rollouts. 
+Barriers and best-practice recommendations
+Main barriers and risks
+Barrier Why it matters Evidence
+Retrofit cost and
+building
+constraints
+Reuse can be cheap when
+designed into a new unit but
+expensive when storage,
+pumps, pipework, and
+approvals are retrofitted into
+an existing hospital
+Ashford cost £2,500 as a new-build feature
+versus £15,000 at Canterbury; Bristol
+explicitly said a greywater retrofit was
+prohibitively expensive, so it chose the
+boiler-house route instead. 
+Demand-supply
+mismatch
+Reject water is useful only if
+there is a nearby, steady
+demand; irrigation often has
+poor temporal alignment
+The Australian handbook notes that RO
+reject is predictable in daytime and well
+matched to toilet demand, whereas
+irrigation is seasonal and may not
+substitute potable demand. 
+Water-quality and
+safety governance
+Any change in water routing
+requires fit-for-purpose
+testing, documented
+procedures, and operator
+competency; patient-contact
+reuse is especially demanding
+ACI NSW requires testing, trending,
+accredited operators, multidisciplinary
+review, and maintenance logs; the
+handbook recommends direct
+measurement where consequences of
+poor water are significant. 
+Aging plants and
+legacy settings
+Old plants tend to have poorer
+recovery and higher water/
+energy use; bad settings can
+wash out sustainability gains
+ERA/SFNDT cites a French survey in which 
+33% of responding units had water-
+treatment plants older than 15 years with
+poor environmental performance;
+independent data show large differences
+between old and modern RO systems. 
+Limited clinician
+and organizational
+engagement
+Sustainability programs stall
+without champions, data, and
+staff buy-in
+A multinational survey summarized in 
+Blood Purification found only 22% of
+participants involved in sustainable kidney
+care initiatives and 14% in climate-change-
+and-kidney-health initiatives. 
+49
+50
+28
+29
+51
+52
+53
+12
+Barrier Why it matters Evidence
+Economic signal
+problems
+Water savings do not always
+translate proportionally into
+bill savings because fixed
+service charges can rise or
+dominate
+Barwon noted that later water-authority
+service-charge increases meant dollar
+savings no longer tracked liters saved
+exactly. 
+Immature
+evidence for
+emerging low-
+water systems
+Innovative options can
+promise dramatic water
+savings but still lack mature
+clinical, regulatory, or
+commercial proof
+NeoKidney is still pending regulatory
+approval; AWAK required device
+alterations during the pilot and further
+enhancements to reduce adverse events;
+forward-osmosis regeneration remains
+largely research-stage. 
+Best-practice recommendations
+Start with measurement, not ideology. Every unit should baseline at least four indicators: water per
+treatment, RO reject volume, energy per treatment, and number of disinfection cycles. The Spanish
+multicentre study and Fresenius’ meter rollout both point in the same direction: the units that can see
+their water and energy use are the ones that can manage it. 
+Optimize before you invent. The fastest wins usually come from adjusting schedules, removing
+redundant disinfection, renewing aging RO plants, optimizing regeneration frequencies, and fixing
+leaks or overuse. These are lower-risk measures than closed-loop recycling and often deliver immediate
+water and energy reductions. 
+Reuse only the safest streams first. The best near-term default is to prioritize RO reject water and
+other non-patient-contact streams. The economic and safety evidence is strongest there. Reserve
+patient-contact closed-loop approaches for research or carefully governed pilots until more clinical and
+regulatory evidence accumulates. 
+Design sustainability into new builds. New unit design should explicitly include reject-water reuse,
+storage, meters, and heat recovery opportunities where feasible. The cost gap between Ashford and
+Canterbury is a powerful reminder that sustainability is much cheaper when planned before the walls
+are closed. 
+Match reuse to stable demand. Toilet flushing, sterilizer/cooling water , boilers, and laundry typically
+beat irrigation because they provide predictable year-round demand and avoid overbuilding storage.
+Project appraisal should focus on utilization rate of recovered water , not on gross reject-water
+generation. 
+Institutionalize competence and governance. A multidisciplinary water committee, operator
+accreditation, annual audits, and a maintenance logbook are not bureaucratic extras; they are the
+controls that make sustainability changes safe enough to scale. 
+Use procurement strategically. When renewing plants or machines, require evidence on recovery rate,
+heat-disinfection capability, telemetry/metering, and compatibility with heat-recovery or reuse
+architectures. This aligns with ISN GREEN-K’s explicit procurement strategy and with the direction of
+European and corporate sustainability reporting. 
+54
+55
+30
+56
+57
+42
+58
+26
+59
+13
+Open questions and assumptions
+Direct patient safety, infection, and hospitalization outcomes attributable to sustainability measures
+remain underreported. Most retrieved sources demonstrate safety through water-quality control
+protocols or by keeping reuse outside the patient-contact pathway, rather than through comparative
+infection studies. That is a meaningful evidence gap. 
+Evidence for closed-loop spent-dialysate recycling, forward osmosis, and portable sorbent
+hemodialysis is still not robust enough to support broad deployment advice on its own. The resource
+potential is substantial, but the field still needs more peer-reviewed clinical data, better published
+lifecycle assessments, and transparent cost comparisons at scale. 
+A final practical limitation is that some corporate and manufacturer metrics are company-reported and
+sometimes extrapolated, not independently audited at the level of each dialysis session or each site.
+They are useful directional signals, but they should not be treated as identical in evidentiary weight to a
+fully published multicentre observational study. 
+https://production.networks.sustainablehealthcare.org.uk/
+resources/case-study-reuse-ro-reject-water-two-haemodialysis-units
+https://production.networks.sustainablehealthcare.org.uk/resources/case-study-reuse-ro-reject-water-two-haemodialysis-
+units
+https://www.sciencedirect.com/science/article/pii/S0085253826000797
+https://www.sciencedirect.com/science/article/pii/S0085253826000797
+https://pubmed.ncbi.nlm.nih.gov/20609091/
+https://pubmed.ncbi.nlm.nih.gov/20609091/
+https://aci.health.nsw.gov.au/__data/assets/pdf_file/0007/306088/ACI-Water-dialysis.pdf
+https://aci.health.nsw.gov.au/__data/assets/pdf_file/0007/306088/ACI-Water-dialysis.pdf
+https://fundacionrenal.com/wp-content/uploads/2025/02/sfae407-1.pdf
+https://fundacionrenal.com/wp-content/uploads/2025/02/sfae407-1.pdf
+https://catalogs.bbraun.com/en-01/p/PRID00007661/aquaboss-eco-ro-dia-i-ii-ht-hemodialysis-
+water-treatment-system
+https://catalogs.bbraun.com/en-01/p/PRID00007661/aquaboss-eco-ro-dia-i-ii-ht-hemodialysis-water-treatment-system
+https://d122d2wjqead0l.cloudfront.net/AP/Int/anzsn/uploads/Green%20Neph/
+ESC%20Optimising%20Disinfection%20of%20Dialysis%20machines.pdf
+https://d122d2wjqead0l.cloudfront.net/AP/Int/anzsn/uploads/Green%20Neph/
+ESC%20Optimising%20Disinfection%20of%20Dialysis%20machines.pdf
+https://map.sustainablehealthcare.org.uk/east-kent-hospitals-university-nhs-trust/retro-fit-
+heat-exchangers-haemodialysis-machines-case-study
+https://map.sustainablehealthcare.org.uk/east-kent-hospitals-university-nhs-trust/retro-fit-heat-exchangers-haemodialysis-
+machines-case-study
+https://www.clearwatervic.com.au/user-data/research-projects/swf-
+files/62r-2056-handbook.pdf
+https://www.clearwatervic.com.au/user-data/research-projects/swf-files/62r-2056-handbook.pdf
+https://nextkidney.com/wp-content/uploads/2025/05/Nextkidney-Brochure-2024.pdf
+https://nextkidney.com/wp-content/uploads/2025/05/Nextkidney-Brochure-2024.pdf
+60
+61
+62
+1 6 8 9 10 22 28 33 41 42 57
+2 7 11 47
+3 18 39
+4 26 51 60
+5 23 24 30
+12 38
+13 49 56
+14 15 43
+16 17 27 29 32 35 45 46 54 58
+19 55
+14
+https://freseniusmedicalcare.com/content/dam/nxstage/training---resources/home-
+hemodialysis-dosing/APM3429_NxStage%20Therapy%20Handbook_RevC_US%20Only.pdf
+https://freseniusmedicalcare.com/content/dam/nxstage/training---resources/home-hemodialysis-dosing/
+APM3429_NxStage%20Therapy%20Handbook_RevC_US%20Only.pdf
+https://www.era-online.org/wp-content/uploads/2023/09/SFNDT_EN_guide-
+complet_VF_HD.pdf
+https://www.era-online.org/wp-content/uploads/2023/09/SFNDT_EN_guide-complet_VF_HD.pdf
+https://www.who.int/docs/default-source/climate-change/2833-phe-300920-electronic.pdf?
+sfvrsn=e7af874
+https://www.who.int/docs/default-source/climate-change/2833-phe-300920-electronic.pdf?sfvrsn=e7af874
+https://networks.sustainablehealthcare.org.uk/sites/default/files/resources/
+Reuse%20of%20reject%20water%20from%20reverse%20osmosis%20for%20steam%20production.pdf
+https://networks.sustainablehealthcare.org.uk/sites/default/files/resources/
+Reuse%20of%20reject%20water%20from%20reverse%20osmosis%20for%20steam%20production.pdf
+https://freseniusmedicalcare.com/content/dam/fresenius-medical-care/global/en/04_media/pdf/
+publications/2025/FME_Sustainability_Statement_2025_EN.pdf
+https://freseniusmedicalcare.com/content/dam/fresenius-medical-care/global/en/04_media/pdf/publications/2025/
+FME_Sustainability_Statement_2025_EN.pdf
+https://newsroom.davita.com/2025-05-20-davita-releases-annual-community-care-report-highlights-
+achievements-in-corporate-citizenship/
+https://newsroom.davita.com/2025-05-20-davita-releases-annual-community-care-report-highlights-achievements-in-
+corporate-citizenship/
+https://map.sustainablehealthcare.org.uk/newcastle-upon-tyne-hospitals-nhs-foundation-trust/
+retrofit-heat-exchangers-dialysis-machines
+https://map.sustainablehealthcare.org.uk/newcastle-upon-tyne-hospitals-nhs-foundation-trust/retrofit-heat-exchangers-
+dialysis-machines
+https://journals.sagepub.com/doi/abs/10.1177/08968608211019232
+https://journals.sagepub.com/doi/abs/10.1177/08968608211019232
+https://indianjnephrol.org/recovery-of-thermal-energy-from-hemodialysis-wastewater-a-technical-
+and-economic-simulation/
+https://indianjnephrol.org/recovery-of-thermal-energy-from-hemodialysis-wastewater-a-technical-and-economic-simulation/
+https://www.theisn.org/wp-content/uploads/2025/06/Abraham-water-utilization-in-HD-Blood-
+Purification-2025.pdf
+https://www.theisn.org/wp-content/uploads/2025/06/Abraham-water-utilization-in-HD-Blood-Purification-2025.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7765897/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7765897/
+20 21
+25 40 52
+31
+34
+36 62
+37
+44
+48
+50
+53 59
+61
+15

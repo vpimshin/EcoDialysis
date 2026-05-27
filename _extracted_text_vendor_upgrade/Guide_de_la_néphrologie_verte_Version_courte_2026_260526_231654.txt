@@ -1,0 +1,2116 @@
+GUIDE DES BONNES 
+PRATIQUES
+POUR UNE 
+NÉPHROLOGIE VERTE
+2026 Version courte
+Par le groupe Néphrologie verte de la SFNDT
+Le guide des bonnes pratiques pour une 
+dialyse verte a été édité pour la première 
+fois en mars 2023.
+Guide des des bonnes pratiques pour une 
+dialyse verte 2023
+Son objectif était d’aider les 
+structures d’hémodialyse à implémenter 
+une démarche écologique en proposant 
+des mesures de complexité variable, 
+allant de simples changements de 
+comportement à des mesures 
+techniques, coûteuses mais ayant un 
+impact plus significatif et étant 
+souvent des économies de long-terme.
+Guide des des bonnes pratiques pour 
+une dialyse verte 2023 version 
+anglaise
+les néphrologues européens et au-delà.
+Le guide laissait certaines questions en 
+suspens, avançait des idées qui avaient 
+besoin d’être approfondies, validées. 
+Le groupe Néphrologie verte , par ses 
+différents sous-groupes de travail, a
+essayé d’apporter des réponses. 
+La création de Green T eams  dans les 
+centres de dialyse a aussi fait émerger de 
+nouvelles expériences qui méritent 
+d’être partagées. Enfin, les publications 
+concernant les soins environnementaux 
+durables en néphrologie se multiplient à 
+grande vitesse.
+Une grande partie des mesures 
+proposées dans cette nouvelle édition 
+guide concernent à nouveau la
+dialyse mais très souvent aussi la 
+transplantation et toute la néphrologie. 
+Des travaux du Shift Project , nous 
+savons que les médicaments et 
+dispositifs médicaux rendent compte à 
+eux seuls de près de 50 % des émissions 
+de gaz à effet de serre du système de 
+santé. Ils doivent donc être  les cibles de sa
+décarbonation dans les années à venir.
+Les membres du groupe Néphrologie 
+Verte ont été invités par de nombreuses 
+associations de dialyse et centres 
+hospitaliers à présenter le guide, 
+assurant sa diffusion auprès des 
+néphrologues mais aussi de tous les 
+intervenants d’un établissement de
+dialyse. 
+Au-delà du milieu néphrologique, le 
+guide a attiré l’attention d’instances 
+décisionnaires (CNAM, ANAP ,  Ministère 
+de la santé) et partenaires comme la  
+Fédération Hospitalière de France qui lui a 
+dédié un webinaire.
+La reconnaissance du guide a dépassé la 
+France, raison pour laquelle le groupe a 
+rédigé une version anglaise, 
+accessible sur le site de l’European Renal 
+Association (ERA) et disponible pour tous
+INTRODUCTION
+INTRODUCTION
+1
+
+Le calcul de l’empreinte carbone de toute la pharmacopée française ouvre le champ encore 
+inexploré de l’éco-prescription et va nous inciter à prescrire autrement. De nouveaux 
+domaines comme la recherche clinique ou les congrès sont aussi abordés.
+Ce deuxième guide se présente comme une grande revue de la littérature associée à des
+propositions d’actions concrètes. Il se décline en deux versions : une version longue 
+approfondie et une version courte qui est un résumé de la précédente pour une lecture 
+rapide.
+Pour accéder aux articles référés dans la bibliographie, il faut cliquer sur le chiffre de la 
+référence figurant dans le texte.
+INTRODUCTION
+Rédacteurs du guide
+Didier AGUILERA
+Alain BIRBES
+Anne-Laure CAMARROQUE
+Guillaume CAMBIEN
+Philippe CARENCO
+Charles CHAZOT
+Pauline DHALLUIN
+Isabelle ETHIER
+Maxime ESPI
+Pierre FILIPOZZI
+Christophe FOUCAULT
+Hafsah HACHAD
+Maryvonne HOURMANT
+Fabrice HURE
+Perrine JULIEN
+Catherine LASSEUR
+Jonas MARTZLOFF
+Pierre NIZET
+Jocelyne REY
+Tristan VERITE
+Romain VIAL
+INTRODUCTION2
+Liste des membres
+Le groupe Néphrologie verte comporte 33 membres intervenant dans les différents 
+domaines de la néphrologie. C’est un groupe multiprofessionnel incluant des patients.
+Didier AGUILERA, Néphrologue. CH de 
+Vichy
+Thierry BARRANGER, Néphrologue. 
+Clinique   Bordeaux Nord. Bordeaux
+Laurent BEL VAL, Directeur administratif 
+AFIDTN
+Alain BIRBES, T echnicien de la 
+dialyse,  représentant de l’Association 
+des T echniciens de la Dialyse T oulouse
+Flora BRUNNER, Néphrologue. Clinique 
+Bouchard. Marseille
+
+INTRODUCTION3
+Anne-Laure CAMARROQUE, 
+Responsable du groupe 
+Développement Durable.  
+Association de dialyse Calydial. Vienne
+Philippe CARENCO, Médecin 
+Hygièniste. CHU de Nice
+Charles CHAZOT, Néphrologue. 
+Clinique Charcot. Sainte Foy-Les-Lyons
+Cécile COUCHOUD, 
+Néphrologue, administratrice du 
+ registre REIN à l’Agence de 
+Biomédecine. La Plaine Stade de        
+ France 
+Karim DARDIM, Pharmacien, 
+Président de l’Association des 
+Pharmaciens de la Dialyse. Alurad. 
+Limoges
+Bruno DALLAPORTA, Néphrologue et 
+philosophe. Paris
+Carole DAVID, Cadre en hémodialyse. 
+CHU de Nantes
+Pauline DHALLUIN, 
+Néphrologue. CH de Bayonne 
+Maxime ESPI, Néphrologue. Hôpital 
+Lyon-Sud
+Isabelle ETHIER, Néphrologue CHU de 
+Montréal, Canada
+Pierre FILIPOZZI, Néphrologue. 
+Association UNEOS. Metz
+Christophe FOUCAULT, Ingénieur à 
+l’association ECHO. Nantes
+Hafsah HACHAD, 
+Néphrologue. Hôpital T enon, Paris
+Anne HIEGEL, Patiente, présidente 
+France-Rein Pays de Loire
+Maryvonne HOURMANT, 
+Néphrologue. CHU de Nantes
+Fabrice HURE, 
+Patient dialysé. Rennes 
+Perrine JULIEN, Néphrologue. Artic 42. 
+Saint Priest-en-Jarez
+Catherine LASSEUR, Néphrologue 
+Maison du Rein. Aurad Aquitaine. 
+Gradignan
+Cécile LEGALAIS, Enseignante-
+chercheuse Université des 
+T echnologies de Compiègne. 
+Compiègne 
+Jonas MARTZLOFF, 
+Néphrologue. CHU de Strasbourg 
+Romain PSZCZOLINSKI, 
+Néphrologue. CHU de Strasbourg
+Hubert METAYER, T echnicien de la 
+dialyse. Représentante de 
+l’association des T echniciens de la 
+Dialyse. Centre de dialyse La Dialoise, 
+Compiègne.
+Jocelyne REY, Cadre Médico-
+T echnique. Représentante de 
+l’association des T echniciens de la 
+Dialyse. ARTIC 42. Saint Priest
+-en-Jarez
+Sébastien RUBIN, Néphrologue. CHU 
+de Bordeaux
+
+INTRODUCTION4
+Dominique SCHMITT, 
+Cadre Hémodialyse chronique. 
+Vice-présidente AFIDTN. CHU de 
+Srasbourg.
+Tristan VERITE, Infirmier, 
+responsable du groupe 
+développement durable en 
+hémodialyse. CHU de Nantes
+Emmanuelle VIAL, 
+Interne en Néphrologie. Présidente du 
+SNIN (Syndicat National des 
+Internes en Néphrologie)
+Romain VIAL, Néphrologue. 
+Assistance Publique des Hôpitaux de 
+Marseille
+Lexique
+ACV
+Analyse du cycle de vie
+ADEME
+Agence de la transition écologique
+ANAP
+Agence Nationale d’Appui à la 
+Performance des établissements de 
+santé et médicaux sociaux
+ATD
+Association des T echniciens de la Dia-
+lyse
+BEGES
+Bilan des Emissions de Gaz à Effet de 
+Serre
+CO2
+Dioxide de carbone
+CO2e
+CO2 équivalent
+DAE
+Déchets d’Activités Economiques
+DAS
+Déchets d’Activité de Soins
+DASRI
+Déchets d’Activités de Soins à Risque 
+Infectieux
+DASRIA
+Déchets d’Activités de Soins à Risque 
+Infectieux et Assimilés
+DRR
+Déchets à Risque Radioactif
+DRCT
+Déchets d’activités de soins à Risques 
+Chimiques et T oxiques
+DM
+Dispositif médical
+ETE
+Eco Energie T ertiaire
+GES
+Gaz à effet de serre
+MNU
+Médicaments non utilisés
+OI
+osmose inverse
+tCO2e
+T onne de CO2 équivalent
+
+Les risques du changement climatique 
+pour la santé humaine
+L ’objectif fixé en 2015 lors des accords 
+de Paris sur le climat était de limiter le 
+réchauffement moyen   à 1.5°C    d’ici 
+2100. 
+Moins de 10 ans après, cet objectif 
+est déjà dépassé. Selon les scénarii
+d’émission de GES dans les prochaines
+années, le réchauffement moyen sera
+probablement entre 2°C et 4°C en 2100   . 
+Parmi les zones du globe les plus touchées,
+se trouvent le pourtour méditerranéen et
+l’Europe, dans sa partie Est
+surtout, englobant la France.
+L ’impact des hautes températures sur
+la santé et non lasante des populations
+est documenté . En ce qui concerne
+notre spécialité, il est attendu une
+augmentation significative, lors des
+épisodes de forte chaleur, du nombre de
+cas de lithiases, d’infections urinaires,
+d’insuffisance rénale aigue et de
+détérioration de la fonction rénale
+chez des patients atteints de
+MRC ; la survenue de pathologies
+inhabituelles soit d’origine
+infectieuse (dengue, leptospirose etc)
+soit liées au stress thermique
+CINAC) , soit toxiques (cadmium,
+PFAS, microplastiques, PM 2,5)
+En 2024, en France, les données
+de REIN montre déjà une augmentation
+de la mortalité des patients dialysés (mais
+non des transplantés) parallèlement à
+l’augmentation de la température   .
+PARTIE 1 - Rappel sur les enjeux environnementaux
+PARTIE 1
+Rappel sur les enjeux 
+environnementaux
+5
+Rappel sur les enjeux 
+environnementaux
+Décarbonons le système de santé. 
+Un rapport du Shift Project (2023)
+Pour atteindre les objectifs de décarbonation fixés par l’Union Européenne, soit zéro 
+émission de GES en 2050, le Shift Project propose une série d’actions, chiffrées et 
+regroupées en quatre domaines :
+PARTIE 1 - Rappel sur les enjeux environnementaux
+PARTIE 1 - Rappel sur les enjeux environnementaux6
+1. Mesures générales concernant la réduction de la consommation d’énergie, des 
+transports, de l’empreinte carbone de l’alimentation et de la gestion des déchets. 
+2. Réduction de l’empreinte carbone de l’industrie des médicaments et des dispositifs 
+médicaux.
+3. Réduction des volumes de médicaments et dispositifs médicaux prescrits
+4. Développement de la prévention et juste soin. 
+Elles ne devraient pas tout à fait permettre atteindre le Net-Zéro mais elles ont le mérite de 
+donner un cap.
+PARTIE 2
+ Les bonnes pratiques
+7
+L ’article l 229- 25 du code de 
+l’environnement rend obligatoire 
+l’établissement d’un BEGES tous les 4
+ans pour :
+• Les entreprises de plus de 500     
+salariés en métropole.
+• Les entreprises de de 200 salariés
+en outre-mer.
+Le même article rend le PS obligatoire 
+tous les 3 ans pour :
+• Les services de l'État.   
+• Les collectivités territoriales de
+plus de 50 000 habitants.
+• Les établissements publics et autres
+personnes morales de droit public 
+de plus de 250 agents.
+Comment faire le BEGES de son 
+centre :
+PARTIE 2 - Les bonnes pratiques
+La faisabilité des actions
+Mesurer son empreinte environnementale
+Mesurer son empreinte carbone :
+les obligations
+• Engager une agence spécialisée.    
+            Le coût est à considérer.
+• Utiliser l’outil «Mon empreinte 
+ carbone » de l’ANAP . Disponible 
+actuellement pour le secteur
+public seulement
+• Le faire soi même en formant une
+ressource
+Les scores et index à connaître
+• Le Score DD de l’ANAP
+Score DD de l’ANAP
+Ce score permet d’identifier les 
+enjeux du développement durable 
+d’un établissement, évaluer sa 
+conformité réglementaire, faire un 
+autodiagnostic puis planifier des 
+actions en définissant des
+priorités. Il n’explore pas la partie 
+spécifique de la dialyse.
+Le temps de mise en cuvre a été estimé en prenant en compte les critères liés à  (i) la difficulté 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire
+ Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques8 PARTIE 2 - Les bonnes pratiques
+• L ’Index DM durable (IDMD)
+index d’achat des DM. 
+• ICHD Carbon Calculator in   
+ hemodialysis
+ICHD
+Créé par le « Sustainable Healthcare 
+coalition » organisme britannique, 
+c ’est un outil on line, gratuit, de 
+calcul de l’empreinte carbone d’un 
+centre lourd d’hémodialyse. 
+Il mesure l’empreinte globale de 
+l’unité, d’une séance de dialyse d’un 
+patient et identifie les principaux 
+contributeurs.
+• EcoHD : l’Ecoscore de         
+ l’HémoDialyse
+Créé par le groupe 
+Néphrologie verte   à partir 112  
+actions du guide des bonnes 
+pratiques pour une dialyse 
+verte. Chaque action est classée 
+en obligatoire, recommandée, 
+conseillée et pondérée en fonction 
+de son niveau, 100 % si 
+obligatoire, 60 % si recommandée, 
+25 % si conseillée. Une
+deuxième note, de 0 à 3, est 
+attribuée en fonction de son état 
+d’avancement : non initiée, planifiée,
+en cours, atteinte. Le calcul, réalisé 
+automatiquement via un tableur 
+(type Excel), permet d’obtenir
+un score par critère, un score global 
+pondéré et une représentation 
+graphique. EcoHD est fondé sur
+l’expertise de terrain. Il est gratuit, 
+simple, visuel, accessible sur le 
+site et l’application de la SFNDT.
+Son objectif n’est pas la comparaison 
+et la visualisation de sa propre 
+progression.
+L ’analyse du cycle de vie (ACL) : 
+qu’est ce ?
+L ’ACL mesure une série de paramètres :
+•  Le potentiel de réchauffement lié
+à l’émission des GES
+•  La déplétion de la couche d’ozone
+•  L ’acidification des terres ou des       
+           eaux
+•  La formation d’un « smog » 
+photochimique
+•  L ’eutrophysation marine et des
+eaux douces : multiplication 
+excessive par excès de nutriments. 
+Le meilleur exemple est la 
+multiplication des algues marines
+•  L ’utilisation des terres
+•  La déplétion des ressources en eau
+•  La déplétion des ressources 
+abiotiques (def : ressource liée au 
+milieu, indépendante du vivant),
+ressources minérales, métaux, et 
+énergie fossile
+•  La toxicité humaine et de
+l’environnement
+•  La formation de particules 
+et pollution atmosphérique
+Créer sa green team
+1.
+ 2. 3. 4. 5.
+ 6.
+Une démarche en 6 points :
+1. Une démarche portée par la direction
+À qui il revient de fixer les grandes orientations stratégiques, allouer les ressources 
+nécessaires (humaines, financières, matérielles), incarner et légitimer la démarche auprès 
+de l’ensemble des acteurs de l’établissement.
+2. Une organisation interne structurée
+Désigner un(e) référent(e) RSE qui va piloter et coordonner les initiatives, animer une 
+dynamique transversale au sein des équipes, faire le lien entre toutes les parties 
+prenantes. Mettre en place des groupes de travail thématiques autour d’objectifs concrets 
+3. Un diagnostic pour bien démarrer
+Identifier par un état des lieux initial les pratiques existantes, les points forts et les axes
+d’amélioration. 
+4. Un plan d’action ciblé et réaliste
+Proposer une démarche adaptée aux ressources et aux priorités de l’établissement.
+5. Une mobilisation des équipes et communication
+Créer une culture développement durable, donner un sens à la démarche, obtenir 
+l’adhésion active des équipes et des patients en valorisant leurs initiatives.
+6. Une mesure des résultats
+Déterminer et suivre les indicateurs de performance.
+PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques 9
+
+PARTIE 3
+Les leviers d’action
+Gérer la prévention et le traitement de 
+l’insuffisance rénale avancée
+PARTIE 3 - Les leviers d’action10
+La meilleure manière de réduire l’impact environnemental de la dialyse est d’en limiter la 
+nécessité.
+Prévenir et retarder l’évolution de la maladie rénale chronique
+• Interventions non médicamenteuses :
+Développer la prévention primaire : conseils de vie en population générale ; 
+optimisation diététique ; activité physique adaptée ; détection et réduction des 
+expositions à la pollution, sources d’atteinte rénale (particules fines aériennes, 
+pesticides, perturbateurs endocriniens)
+• Interventions médicamenteuses :
+Néphroprotection, incluant les gliflozines
+Aux stades 4 et 5 de la MRC
+• Un choix de traitement guidé par une
+information loyale s’appuyant sur 
+l’accompagnement et l’éducation 
+thérapeutique du patient et de ses 
+aidants. La question écologique 
+devrait y être abordée.
+• Une bonne orientation du patient
+convient au mieux. Mais aussi
+orientation vers le traitement 
+conservateur chez le patient âgé en 
+particulier.
+vers la modalité d’épuration qui lui 
+• Dialyse à domicile chaque fois que 
+c’est pertinent. Les données 
+d’empreinte carbone ne sont pas
+encore solidement établies, 
+notamment en France mais, en 
+évitant les transports répétés des
+patients, la dialyse à domicile a un 
+avantage écologique certain.
+•  Dialyse incrémentale quelque soit la 
+ la technique      .
+•   Transplantation rénale en privilégiant
+la transplantation de donneur 
+vivant, moins émettrice de GES    et 
+la transplantation préemptive, qui 
+évite la dialyse (étude à faire)
+PARTIE 2 - Les bonnes pratiques
+Enfin il est primordial de rappeler que la réduction de l’impact environnemental de la 
+dialyse ou de la transplantation ne doit bien entendu en aucun cas s’accompagner d’une 
+diminution de la qualité de la prise en charge du patient.
+L ’empreinte carbone du traitement de suppléance
+Quelques publications sur le parcours de soins du patient en IRCT sont disponibles, 
+rapportant les empreintes carbone de l’HD et de la DP mais aussi de la transplantation 
+pour celles parues en 2025     . Il en ressort que :
+•  L ’HD en centre émet plus de GES que 
+les autres modalités de dialyse, 
+liés au transport des patients et 
+aux consommables (+ 74 % vs la 
+transplantation, + 46 % vs la DP).
+• La DP est 2 fois moins émettrice que
+l’HD.
+• La DPCA est la technique qui émet le
+moins de GES. Selon une publication, 
+la DPA ne serait pas moins émettrice 
+que l’HD à domicile.
+•  En HD, Il est constaté que passer la
+durée d’une séance de 4 à 6 ou 8 
+heures a peu de conséquences
+sur l’empreinte carbone 
+contrairement à la fréquence des 
+séances (3 à 6 par semaine) qui a un
+impact plus marqué.
+• La transplantation a le plus faible
+impact sur l’environnement 
+pour tous les éléments de l’ACV 
+considérés sauf en ce qui concerne 
+l’écotoxicité terrestre.
+L ’évaluation de l’empreinte carbone des techniques de remplacement apporte des 
+arguments en faveur de la DP et de la transplantation rénale. En France, la dialyse à 
+domicile, qui est principalement basée sur la DP , est insuffisamment répandue : 7 % des 
+patients dialysés vs 14 % en moyenne en Europe. Sa faible empreinte carbone au regard 
+de celle de l’HD est un argument supplémentaire fort pour la développer. Sur un plan 
+purement écologique, la DPCA devrait être privilégiée. Pour les patients qui en relèvent, la 
+transplantation rénale est l’option la plus écologique.
+Recommandations
+PARTIE 3 - Les leviers d’action 11
+Les leviers d’action pour gérer 
+sa consommation d’eau
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action12
+À côté des petits gestes pour économiser l’eau largement décrits dans le guide de 2023, 
+voici les actions qui nous apparaissent les plus marquantes pour l’économie d’eau.
+Réduire sa consommation d’eau
+1. Choisir des générateurs de dialyse      
+      économes en eau 
+Soit ceux comportant un système qui 
+permet d’interrompre la circulation du 
+dialysat une fois que le dialysat et le 
+générateur sont prêts après la phase 
+de tests et avant que le patient ne soit 
+branché. 
+2. Renouveler les centrales de 
+      traitement d’eau
+• Choix d’un système d'OI avec un
+taux de récupération élevé (80 %) 
+et un faible taux de rejet. Eviter les 
+systèmes surdimensionnés.
+• Réparation des fuites, utilisation de
+régulateurs de débit, recyclage 
+du rejet du second osmoseur, 
+optimisation de la sélection 
+et de l’agencement des 
+membranes d’osmose inverse 
+selon le lexique, optimisation du 
+fonctionnement des dispositifs de 
+pré-traitement, adoucisseurs et
+déchloreurs ainsi que surveillance 
+des disconnecteurs, permettant 
+des économies (nous les 
+estimons de l’ordre de 15-20 %).
+3. Optimiser la désinfection des 
+     traitements d’eau et des 
+     générateurs
+• Désinfection thermique plutôt que 
+chimique.
+• Ajustement de la fréquence
+hebdomadaire de désinfection des 
+boucles et du système d’OI,
+optimisation de l’efficacité de ce 
+dernier et du volume de rinçage 
+des boucles. Une diminution de la 
+consommation d’eau de 14 à 20 % 
+est ainsi possible sans incidence sur 
+les exigences de qualité de l’eau   . 
+• Ajustement du calendrier de
+désinfection des appareils de dialyse 
+(recommandation de la Société 
+Australienne et Néo-Zélandaise de 
+Néphrologie).
+• Dispositifs avec automatisation de 
+la norme AO (voir chapitre 
+« énergie ») 
+4. Réduire le débit du dialysat et 
+      comment prescrire son 
+      hémodialyse
+• La réduction du QD de 500 à 400 
+ml/min permet d’économiser 60 à 
+100 litres d’eau prétraitée.
+•  Les études de réduction du débit de 
+dialysat publiées ne montrent pas 
+de retentissement sur le KT/V urée 
+à court et moyen terme (voir tableau 
+1 de la version longue du guide) 
+mais les résultats des études les plus 
+récentes sont contradictoires 
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 13
+sur le KT/V urée et le potassium.
+Une étude associant 13 centres 
+et englobant 250 patients, 
+randomisés entre un Qd à 400 
+vs 500mL/min va être lancée en 
+2026 sous le pilotage de l’équipe de
+Marseille (financement PREPS). 
+• L ’HDF en ligne (HDF-OL) augmente 
+la quantité d’eau consommée. 
+Mais l’utilisation d’un système de 
+régulation permet d’en réduire 
+le volume. Ces résultats ont été 
+confirmés en vie réelle avec le 
+système autoflow des machines 
+Fresenius avec un réglage QD/
+QB de 1,1 (99 litres de dialysat 
+produit et un KT/V urée de 1,65)    . 
+Ces résultats ont été confirmés en vie
+5. Délivrance centralisée de 
+     concentré acide et économie d’eau
+La délivrance centralisée d’acide
+évite le gaspillage (25-37 % d’acide 
+non utilisé selon les études) et 
+permet des économies d’eau.
+Selon une étude réalisée par 
+l’association de dialyse Santelys dans son 
+centre de Sens, l’économie de concentré 
+serait de 6412 litres/an  pour une unité 
+de 18 postes. Une description des 
+critères de choix du local et du matériel 
+est donnée dans la version longue par 
+l’équipe de l’ARTIC 42 de StEtienne.
+6. Réutiliser les rejets d’eau de 
+     l’osmose inverse
+La réutilisation des rejets du système 
+d’eau de la dialyse est actuellement 
+interdite. 
+• C’est une eau conforme aux critères  
+concentration élevée en sel (détails 
+sur sa composition dans la version 
+longue).
+• Un algorithme de réutilisation de
+l’eau du traitement d’eau à été 
+proposé par F T arrass pour
+déterminer le choix de l’usage    .
+• Un arrêté ministériel devrait voir le 
+jour en 2026 avec une nouvelle 
+réglementation encadrant
+l’utilisation des eaux non 
+conventionnelles impropres à la 
+consommation humaine (EICH).
+Bien qu’il ne soit pas encore sorti, ses 
+grandes lignes sont déjà connues. Les 
+eaux rejetées par l’OI seront, selon 
+toute vraisemblance, autorisées 
+pour la réutilisation en interne à
+l’établissement mais pas en externe. 
+Seraient exclues les eaux issues 
+du lavage des membranes et les 
+eaux de rejets des phases de 
+désinfections chimiques de ces 
+osmoseurs, de même que la dialysat 
+usé pour le moment. Les usages 
+autorisés seraient : le lavage 
+des sols intérieurs et surfaces 
+extérieures, l’évacuation des excretas, 
+l’arrosage des espaces verts et murs 
+végétalisés. 
+• Les expériences connues de 
+réutilisation :
+• La réutilisation de l’eau de l'OI 
+est interdite au Maroc mais un 
+article de F T arrass au Maroc en 
+chiffre les gains potentiels sur 
+le volume et la facture globale 
+de la consommation d’eau, 
+si elle était autorisée  et un
+autre étudie la faisabilité de la 
+de l’eau potable mais ayant une 
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action14
+• La réutilisation de l’eau de l'OI 
+• En France, celles de la Clinique
+St-Exupéry à T oulouse et les 
+projets du CHU de Marseille
+d’utilisation des 45 000 
+m³ annuels pour l’arrosage 
+interne de l’établissement et le 
+nettoyage des voiries.
+• L ’arrosage des espaces verts est 
+déjà réalisé dans certains pays. 
+Un guide australien précise les 
+conditions de stockage et 
+d’utilisation de l’eau.
+7.  Récupérer le dialysat usé
+L ’utilisation du dialysat usé à des fins 
+collectives, industrielles ou agricoles 
+est limitée par sa conductivité et sa 
+forte teneur en sulfates et phosphates, 
+limitant son utilisation pour l’irrigation 
+par exemple. Le mélange du dialysat 
+usé avec des eaux de rejet ou de l’eau de 
+pluie collectée pourrait être une solution. 
+La présence de médicaments est une limite 
+à son utilisation.
+Le dialysat usé pourrait être source 
+d’engrais (struvite et nitrates) et de 
+récupération potentielle d’énergie
+thermique et hydraulique    .
+8. L ’innovation : la régénération du      
+     dialysat
+Cette machine, pesant 13 kg (au lieu
+des 24-36 kg  du matériel actuel), réalise
+une séance de dialyse avec 4,5 
+litres de dialysat (vs 20-30 litres). 
+L ’épuration obtenue est comparable à celle 
+des machines de dialyse 
+habituelles ; le profil sodé est stable ; 
+les effets indésirables ont été légers
+(hyperammoniémies asymptomatiques 
+et transitoires, acidose métabolique 
+corrigée). Les résultats sont très 
+prometteurs.
+La régénération du dialysat par la 
+technique des sorbents permet de 
+dialyser avec peu d‘eau. L ’équipe de 
+Caen a présenté, au cours d’une réunion 
+sur la dialyse à domicile, la première 
+réutilisation de l’eau de l’OI
+pour la culture des pommes
+de terre à l’échelon national.
+expérience mondiale d’une machine 
+de dialyse portable pour le domicile 
+(Maxence Faucheux. La Dialyse à
+Domicile. Paris 2025).  
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 15
+La gestion de l’énergie
+Les leviers d’action pour gérer sa consommation d’énergie
+La loi éco-énergie tertiaire
+Réglementation : Le dispositif Eco-Energie T ertiaire
+Une réglementation progressive impose une réduction des consommations d’énergie 
+finales de l’ensemble du parc tertiaire de - 40 % en 2030, -50 % en 2040 et -60 % en 2050 
+(par rapport à l’année de référence 2010). Sont concernées toutes les constructions 
+existantes ou neuves, dont les bâtiments ont une surface d’activité tertiaire (ou un cumul 
+de surfaces) égale ou supérieure à 1000 m².
+Legifrance.fr
+Recommandations
+• Investir dans l’isolation des bâtiments.
+Coût important mais rentabilisé en 
+8-10 ans.
+• Investir dans les panneaux 
+photovoltaïques, soit sur le toit, soit 
+en ombrières. Leur durée de
+vie est de 25 à 30 ans. Il existe 
+plusieurs formules soit en auto-
+consommation totale, soit en
+autoconsommation partielle et en 
+revente du surplus mais aussi en 
+autoconsommation
+collective.
+• Mesures spécifiques de la dialyse
+• En complément de celles
+listées dans le guide 2023.
+• Récupérer les calories du 
+• Utiliser des pompes, en 
+ particulier dans les 
+osmoseurs, économes en 
+électricité. Exemple pompes à 
+haut rendement et/ou à débit 
+ variable     .
+• Optimiser la désinfection des
+dispositifs par la chaleur, 
+application de la méthode du 
+l’A0* (norme EN ISO 15883).
+• Investir dans les bâtiments à haute
+qualité énergétique en cas de 
+nouvelle construction.
+Expérience de l’Artic 42 St-Etienne 
+(Centre François Berthoux)     et de 
+Santelys (Unité de dialyse de Sens) 
+dispositifs par la chaleur, 
+application de la méthode du A0 * 
+1,norme EN ISO 15883
+1 
+La méthode du l’A0 permet de garantir l’adéquation du couple durée/température dans le processus de 
+désinfection thermique. Les fabricants de systèmes de traitement d’eau préconisent généralement une dose 
+désinfectante de 12 000 A0, correspondant par exemple à 3 h 20 à 80 °C ou à 20 minutes à 90 °C. Ces 
+couples durée/température sont suffisants pour assurer une désinfection efficace et n’ont pas vocation à être 
+dépassés, afin de maîtriser la consommation d’énergie électrique.
+dialysat sortant en adoptant les 
+systèmes d’échangeurs de
+chaleur.
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action16
+Les leviers d’action pour 
+optimiser la qualité de l’air
+Réglementation
+La réglementation imposant une surveillance obligatoire de la qualité de l’air intérieur 
+(QAI) dans certains établissements recevant du public (ERP), est étendue depuis le 1er 
+janvier 2025 aux établissements de santé.
+La réglementation QAI repose principalement sur le Code de l’environnement (articles 
+L.221-8 et R.221-30 à R.221-37) et comporte plusieurs volets              :
+• Évaluation annuelle des moyens
+d’aération et mesure du taux de 
+dioxyde de carbone (CO2) comme 
+indicateur de confinement (≥1000 
+ppm : alerte).
+• Autodiagnostic qualité de l’air (QAI).
+A faire tous les 4 ans (via plateforme 
+Diag’QAI).
+• Mesures ponctuelles de polluants,
+en cas de travaux de rénovation 
+lourds, lorsqu’un risque sanitaire est 
+suspecté, en cas de non-conformité 
+persistante au CO2. Les substances
+recherchées sont principalement : 
+formaldéhyde, benzène, CO2, 
+particules fines (PM), radon. 
+Recommandations
+•  Assurer un renouvellement d’air 
+constant (ouvrir et/ou ventiler selon 
+une procédure définie).
+La ventilation naturelle régulière par 
+les ouvrants du bâti est le système le 
+plus économique et le plus efficace 
+pour maintenir une bonne qualité de 
+l’air.
+• Suivre le taux de CO2 et agir dès
+1000 ppm
+• Intégrer la QAI dans les décisions
+en lien avec les travaux et les achats
+• Former et sensibiliser tout le
+personnel. Communiquer.
+Figure 1
+Figure 1 : Des bon gestes à la réglementation
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 17
+Les leviers d’action pour améliorer 
+la gestion des déchets
+La production de déchets du système de santé est estimée à 700 000 tonnes par an, dont 
+116 000 de DASRI. L ’établissement de santé qui en est producteur a obligation d’en faire 
+le tri à la source jusqu’à son élimination finale. La réglementation impose l’orientation des 
+déchets selon 14 filières.
+Parmi les déchets, les DASRI sont les plus difficiles et plus onéreux à éliminer ; leur gestion 
+émet 3 fois plus de GES que les autres déchets. 
+Réduire la production de déchets
+1.  Respecter la définition des DASRI 
+telle qu’inscrite dans le code la santé 
+publique et confirmée par le rapport de 
+la DGOS juillet 2025.
+Sante.gouv.fr
+•  Des exemples de DASRI
+• Un masque de soins utilisé 
+par un patient souffrant 
+d’une infection respiratoire. ; 
+sont les plus difficiles et
+plus onéreux à éliminer ; leur
+gestion émet 3 fois plus de
+GES que les autres déchets.
+• Un abaisse langue utilisé 
+pour un patient présentant 
+une infection du rhino-
+pharynx ;
+• Un pansement utilisé pour
+un patient présentant une 
+infection cutanée ou une 
+plaie colonisée pouvant 
+s’infecter.
+•  Les plaies colonisées 
+nécessitant des soins de 
+détersion mécanique avec 
+débridement de zones de 
+nécrose.
+• Les déchets d’activités de
+présentant une diarrhée 
+d’origine infectieuse.
+Mais surtout 
+Par contre : ne sont pas des DASRI
+•  Les équipements utilisés en 
+pratique courante pour 
+protéger des personnes 
+autres que le patient 
+présentant une pathologie 
+infectieuse (tels que les 
+masques chirurgicaux ou les 
+gants utilisés pour protéger 
+les autres patients 
+hospitalisés)
+• Les seringues non montées
+d’une aiguille 
+• Les sondes vésicales et poches
+vidangées 
+• Les tubulures de perfusion
+non déconnectées de la 
+poche vide de perfusion
+•  Les canules, masque à 
+oxygène, sondes
+• Les sachets d’examen,
+soins contenant des selles 
+provenant des patients 
+plâtres…
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action18
+Plus spécifiquement en dialyse
+•  Les lignes et membranes 
+de dialyse d’un patient 
+non infecté ou ayant une 
+infection localisé sans 
+contamination sanguine ne 
+sont pas des DASRI
+• Le matériel de soins , 
+branchement/débranchement 
+ou pose de cathéter chez un 
+patient non infecté ne sont 
+pas des DASRI
+• Le matériel de soins utilisé
+chez un patient connu comme 
+HCV + ou porteur de l’antigène 
+HbS doit être éliminé dans la 
+filière DASRI
+Le rapport de la DGOS  aborde 
+aussi le sujet des DSARI produits à 
+domicile, soit par les 
+professionnels de santé, soit par 
+les patients.
+2.  Remplacer le matériel de soins à usage 
+unique par du matériel réutilisable
+3. Identifier dans sa structure de santé, , 
+centre de dialyse, service hospitalier, et 
+en particulier unité de soins intensifs, 
+clinique, les « hot spots »de  
+consommables et mettre en place des 
+actions pour les réduire    
+4.  Utiliser les gants stériles et non-
+stériles de façon raisonnée : voir figure 
+dans  la version longue. 
+5. Repenser les sets de branchement/
+débranchement.
+5.2 Repenser ses sets de 
+branchement/débranchement :
+• Eléments de réflexion
+• Retours d’expérience d’équipes 
+ayant repensé leurs sets de
+branchement/débranchement : 
+Centre Hospitalier Côte 
+Basque et Saint-Palais
+(Pyrénées Atlantiques), 
+Groupe GBNA santé 
+(Nouvelle-Aquitaine), Centre 
+Hospitalier de Vichy
+• Une recommandation de
+l’Australian and New-Zealand 
+Society of Nephrology : les
+microchamps
+6. Passer de la délivrance d’acide à partir 
+de poches par une délivrance 
+centralisée soit à partir de conteneurs 
+livrés (exemple : octabin) soit à partir 
+d’une production locale. Expériences 
+Artic 42 et Santelys détaillées dans la 
+version longue.  
+•  Passer à la délivrance 
+ centralisée de bicarbonate
+• Produire le dialysat à domicile 
+en DP comme en HD• Un exemple de bilan en
+dialyse
+5.1 Une étude du groupe Néphrologie 
+verte dans 62 structures (intégrant 
+composition et poids) montre que 
+les pratiques sont très diverses 
+dans le matériel de branchement/
+débranchement de la dialyse.
+7. En cours d’étude : 
+• la réutilisation des membranes
+de dialyse
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 19
+8. Quelques bonnes idées venant du 
+terrain :
+• Les mugs de France-Rein pour la
+collation en dialyse
+Eliminer ses déchets
+Les obligations
+Après les démarches de réduction et de prévention des déchets, le tri à la source est une 
+étape essentielle permettant d’orienter les déchets vers la filière de gestion appropriée, 
+en vue de leur valorisation. Au même titre que tous les professionnels et établissements 
+recevant du public, les structures sanitaires productrices de déchets y sont soumises.
+L ’ ANAP met à disposition sur son site des documents d’information complets :
+Anap.fr
+• L ’élimination des DASRI :
+le rapport de la DGOS de juillet 2025 sur les DASRI aborde les modalités de leur 
+élimination
+•  Les banaliseurs : 
+L’ANAP a publié en 2022 deux documents d’aide à la décision d’acquisition d’un
+banaliseur. Il existe des obstacles à leur utilisation expliquant une très faible diffusion 
+en France : leur coût, la disposition d’un local spécifique et de ressources humaines. 
+Cependant, des solutions commencent à être proposées.
+Anap.fr
+Former le personnel soignant et non-soignant
+• Former l’ensemble du personnel sur :
+• Les objectifs du juste tri
+• La définition et réglementation
+des DAS, DASRI…
+• Les matériels concernés et
+destination d’élimination 
+selon le risque (cf chapitre 
+précédent)
+• La conception de documents 
+internes d’aide au tri (exemple 
+de scénettes Tik-T ok du CH de
+Vichy)
+•  Une mise en situation sous
+forme de jeux
+• Une journée de sensibilisation
+contrôle à 3 mois de la mise en 
+place puis tous les ans
+• la prolongation de la durée de vie
+des générateurs
+•  La gestion des couvertures en
+hémodialyse en entre au CHU de
+Bordeaux
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action20
+Gérer les déchets de la dialyse à domicile
+•  Réduire les livraisons et optimiser
+la logistique des flux.
+• Mettre en place un système de 
+reprise des déchets lors de la 
+livraison.
+•  Produire le dialysat à domicile
+plutôt que d’utiliser le dialysat en 
+poches.
+• Savoir à quoi on s’engage quand on
+prescrit.
+• Lors de la visite de faisabilité 
+au domicile du patient, évaluer 
+la zone de stockage du matériel
+de dialyse mais aussi 
+d’entreposage des déchets 
+jusqu’à leur enlèvement.
+• Inclure dans formation/
+éducation  du patient la gestion
+écoresponsable des déchets de 
+soin (tri, choix des contenants, 
+dépôt en pharmacie de 
+certaines DASRI, dépose en 
+déchetterie des volumineux si 
+possible…).
+• Sensibiliser les prescripteurs et
+équipes IDE aux aspects 
+volumes de déchets générés 
+selon la prescription, difficultés 
+locales des filières 
+d’élimination. La version longue 
+donne le volume des déchets 
+générés selon le matériel 
+prescrit en DPA et DPCA.
+Les plastiques : 
+Le plastique est un composant essentiel d’une grande variété de produits médicaux, 
+en général à usage unique. Ils génèrent une quantité importante de déchets (23 000 à 
+170 000 tonnes/an) qui, à l’heure actuelle, ne sont pas pleinement recyclés et valorisés 
+et finissent souvent par être enfouis ou incinérés. Des initiatives et projets pilotes se 
+multiplient aussi pour trouver des solutions de recyclage : nouvelles compositions de 
+plastiques, économie circulaire, systèmes de tri automatisé mais à date aucune filière n’est 
+déployée à une échelle importante.
+• L ’ONG Health Care without Harm propose aux structures de santé une démarche
+démarche d’audit de la présence et de la composition en plastique des matériels de 
+soins
+• Recyclage des déchets plastiques d’hémodialyse : Que nous apprend l’étude de
+Calydial :
+• La majorité, en poids et en
+ nombre, provient des sets de 
+branchement / 
+débranchement, des sets de 
+ponction, des cartouches de 
+bicarbonate et des dialyseurs 
+et dans une moindre mesure, 
+des seringues, des poches. 
+Mais le plus gros volume est lié 
+aux lignes des circuits de
+dialyse.
+• La majorité des dispositifs 
+médicaux contiennent 
+plusieurs types de plastiques 
+imbriqués et souvent non 
+séparables manuellement.
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 21
+Dans l’absolu, une filière pourrait être créée pour chacune des 8 familles de plastique, mais 
+dans les faits la séparabilité manuelle est parfois impossible et le risque d’erreur, donc de 
+pollution des filières, est élevé. La faisabilité par les soignants est également contestable, 
+en termes de charge de travail, de place logistique et de compétences.
+Une solution semble être la mise en place d’une filière industrielle, à coût maîtrisé, et 
+surtout envisager la recyclabilité des dispositifs médicaux en amont (séparabilité, pas de 
+PVC, pas de phtalates…), au stade de la conception.
+Finalement, la meilleure solution est d’en consommer moins.
+L ’expérience de Cosmolys
+•  Cosmolys a été créé par l’association
+de dialyse Santelys.
+• Cosmolys détruit les DASRI par
+banalisation mais selon une 
+technique d’induction, 60 %
+moins carbonée que la technique 
+micro-ondes habituelle.
+• Un système de séparation des
+matières permet de séparer les 
+plastiques. Le taux de récupération 
+actuel du polypropylène est de 10 % 
+mais l’ambition est d’atteindre 60 % 
+dans les années à venir. 
+• L ’enchevêtrement des plastiques
+dans les DM de la dialyse rend leur 
+séparation et récupération 
+impossibles. La progression du 
+recyclage du plastique dépend 
+beaucoup des innovations de 
+l’industrie des DM. Un début avec 
+le matériel de DP en polyoléfines 
+(Biofine de Fresenius), présenté 
+comme un matériel bicompatible 
+mais qui est aussi entièrement
+recyclable.
+L ’Impact environnemental des effluents liés à 
+l’entretien des locaux en hémodialyse
+L ’entretien des locaux en hémodialyse génère des effluents contenant détergents et 
+désinfectants dont l’écotoxicité est 5 à 15 fois supérieure à celle des effluents urbains. 
+Ces biocides exercent un triple impact : 
+• environnemental par altération des
+capacités épuratoires des stations
+d’assainissement, 
+• sanitaire par sélection de bactéries
+génétique
+ antibiorésistantes via des 
+mécanismes de corésistance
+• professionnel par leur potentiel 
+irritant et allergisant.
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action22
+L ’efficacité de la désinfection des sols est limitée :
+2 heures après l'entretien, le niveau de contamination se reconstitue à l'identique avec 
+ou sans désinfectant. Les revues systématiques ne démontrent aucun bénéfice sur les 
+infections associées aux soins.
+• Utiliser des microfibres humides 
+sans produit, nettoyage mécanisé à 
+l’eau, nettoyage vapeur     .
+Ces méthodes ont permis une 
+réduction de 45 % des produits 
+utilisés dans 267 établissements en
+région PACA   .
+• Les désinfectants doivent être 
+réservés aux surfaces hautes 
+fréquemment touchées et aux
+situations épidémiques.
+Les perturbateurs endocriniens (PE)
+Les effets néfastes des PE sur la santé 
+humaine sont bien documentés. 
+Les patients dialysés sont
+particulièrement exposés et dans 
+une moindre mesure les patients 
+en IRC par réduction de leur
+excrétion urinaire.
+Le Bisphénol A (BPA) a été quantifié dans 
+le dialysat et dans le sang de patients au 
+cours de séances de dialyse   . 
+L ’exposition parentérale est massive 
+(pouvant atteindre 140 ng/kg/jour, alors 
+que la dose journalière tolérable après
+exposition orale est fixée à 0,2 ng/kg/
+jour), plus importante encore en HDF. 
+Les sources de BPA sont l’eau ultrapure 
+servant à la fabrication du dialysat, les 
+liquides de substitution mais aussi les 
+générateurs de dialyse (par l’intermédiaire 
+des circuits et ultrafiltres), les membranes 
+en polysulfone, les dialyseurs composés de 
+coques en polycarbonate et les cartouches
+de solutés. Aucune technique de dialyse 
+n’est capable d’éliminer le BPA.
+Des travaux sont en cours à l’Université de 
+Poitiers pour proposer des solutions.
+Les leviers d’action pour le développement 
+de la mobilité durable
+Le contexte
+Le coût total des dépenses d’assurance maladie liées au traitement de l’IRCT a atteint 4,4 
+Md en 2021 ; les transports des patients y représentant 18 %. Dans un but d’économies 
+grâce au déploiement du transport partagé, le PLFSS 2024 a introduit des contraintes 
+financières (Article 69 - LOI n° 2023-1250 du 26 décembre 2023 de financement de la 
+sécurité sociale pour 2024) :
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 23
+« Lorsqu’un patient refuse le transport partagé que lui propose une entreprise de transport 
+sanitaire ou une entreprise de taxi conventionnée, alors que son état de santé n’est pas 
+incompatible avec une telle solution de transport et que la proposition répond à des 
+conditions de mise en œuvre du transport tenant en particulier aux caractéristiques du trajet 
+et à l’organisation de la prise en charge sur le lieu de soins, ses frais de transport sont pris en 
+charge après application au prix facturé d’un coefficient de minoration. »  
+Des expériences de covoiturage en dialyse
+Mise en place du transport sanitaire en covoiturage avec un mono-prestataire entre 2015 
+et 2019, passage de 20 % à 61 % de patients covoiturés et de 200 0000 kms à 119 000  
+km comptabilisés  soit 200 000 € d’économie sur 5 ans (Charles-Antoine NEBHAMOU, 
+directeur général adjoint).
+Hôpital Privé de Sarcelles
+(article du Parisien du 17/04/2017)
+AURAL stasbourg
+Anap.fr
+Déploiement opérationnel en 2024 en partenariat avec l’ARS Grand EST et l’assurance 
+maladie dans le cadre d’une expérimentation concernant uniquement la dialyse et basé sur 
+neuf principes de fonctionnement :
+Une expérimentation incluant les patients dialysés du CH Vichy a été débutée en 2024. Elle 
+a été réalisée avec un seul prestataire de transport et n’a concerné que les trajets aller sur le 
+périmètre de l’agglomération de Vichy avec l’appui d’une infirmière de coordination.
+Etude préliminaire au CH de Vichy en 2024
+Pour le centre lourd le transport partagé 
+passe de 1 % à 19 % des trajets aller et de 
+12 % à 45 % des trajets aller pour l’unité 
+d’auto dialyse et dialyse assistée.
+Les économies sont d’environ 29 531 €/an 
+et de 2400 km/ an.
+Les résultats à 6 mois
+Les Freins
+• Difficulté à organiser les retours
+en raison des décalages d’horaires de 
+sortie limitant rapidement
+l’expérimentation aux trajets aller
+• Facturation défavorable quand un
+patient hors agglomération est 
+covoituré avec un patient pris en 
+charge en proximité de l’établissement 
+avec une perte pour le transporteur 
+limitant l’expérimentation au secteur 
+à tarification unique
+•  Motiver et faire participer 
+l’ensemble  des prestataires de 
+transport
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action24
+• Facturation défavorable quand un
+•  Motiver et faire participer 
+Les solutions
+• Création d’une cellule de
+régulation de flux de transport 
+•  Élargissement de la population
+de patients éligibles en intégrant 
+dans un premier temps
+l’hémodialyse du site, les patients 
+d’oncologie en traitement, les 
+hôpitaux de jour de médecine. 
+• En s’assurant des critères 
+d’éligibilités des patients aux 
+transports
+• Autonomie avec 4 variables
+(Marche, Déambulateur, Chaise 
+roulante, Brancard) effets 
+personnels, contraintes 
+opérationnelles
+La sobriété numérique
+Le numérique : savoir pour mieux agir
+Le numérique représente environ 4 % des émissions mondiales des GES, avec une 
+croissance annuelle de 8 à 9 %. Les équipements représentent 79 % de l’empreinte carbone 
+du numérique, et les datacenters 16 %. La consommation d’eau du numérique est aussi à 
+prendre en considération, les datacenters consommant entre 1,7 et 3 millions de m³ d’eau 
+par an en France, principalement pour leur refroidissement.
+Gestes simples, impact réel
+Voici quelques gestes faciles à adopter pour réduire votre impact numérique :
+• Limiter la taille et la redondance
+des fichiers
+•  Éviter les mails inutiles, notamment
+ceux avec de grosses pièces jointes 
+ou signatures graphiques Mais pas 
+seulement : les mails avec un simple 
+« merci » devraient être abandonnés
+• Organiser des journées 
+sans mail (journée  internationale 
+sans mail est le dernier vendredi de 
+novembre depuis plus de 10 ans)
+• Mettre des liens plutôt que
+des pièces jointes quand le 
+document est disponible sur le web
+mail, se désabonner des 
+newsletters non lues et archiver
+localement
+• Nettoyer régulièrement sa boîte
+• Utiliser des plates formes
+collaboratives.
+• Utiliser des outils de compression
+ou des  services de transfert de 
+fichiers quand les PJ sont 
+volumineuses
+• Stockage des données :
+attention à l’Infobésité = réfléchir à 
+ce que l’on stocke. Plutôt que
+de recourir au Cloud, stocker 
+localement.
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 25
+• Éteindre les appareils inutilisés 
+ordinateurs, box, imprimantes)
+• Privilégier les connexions filaires
+plutôt que le Wi-Fi ou la 4G
+• Limiter la qualité vidéo en
+streaming et couper la caméra lors 
+des visios passives
+• Réparer, reconditionner, réemployer
+ses appareils pour allonger leur 
+durée de vie ; en clair définir une 
+politique des achats 
+responsables.
+La téléconsultation
+Les publications, rares encore, rapportent 
+que la télémédecine permet de réduire les 
+émissions de GES des consultations, 
+essentiellement par la réduction des 
+transports des  patients      . Le matériel de 
+télémédecine et l’utilisation du système 
+sont très peu  émetteurs. Les gains obtenus 
+(liés au transport) sont dépendants du 
+contexte  géographique et de l’étendue 
+de la zone de recrutement du centre de 
+consultation, très ou moins spécialisé.
+En néphrologie, elle peut être utilisée à
+tous les stades de la maladie. On peut citer 
+le travail de l’équipe de transplantation 
+du CHU de St-Etienne : L ’impact carbone 
+de la télésurveillance des transplantés  
+(Présentation C Mariat. Symposium 
+CHIESI. Congrès de la SFT. Marseille 
+2024). En dialyse, la télésurveillance limite 
+les déplacements des patients en DP ou 
+HD à domicile mais elle est utile aussi pour 
+la supervision à distance des dispositifs de 
+traitement d’eau, générateurs et cycleurs 
+de DP , limitant les déplacements des 
+soignants et techniciens.
+L ’Intelligence artificielle
+Ses gains d’efficacité en santé sont réels (administratif, recherche, organisation des soins) . 
+Mais l’IA pose des problèmes environnementaux et éthiques.
+En 2024, l’Union européenne a adopté un compromis historique sur l’encadrement de l’IA 
+(source : France Info, 2024)       .
+Franceinfo.fr
+Objectifs :
+• Interdire certains usages à risque 
+• Encadrer les IA « à usage général » comme ChatGPT
+• Renforcer la transparence et la sécurité
+Le numérique doit rester un outil au service de l’humain et de la planète — pas l’inverse.
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action26
+Au bout du compte, sur quelques 
+actions faut-il surtout miser ? 
+Dans une publication de 2025 dans CKJ, le consortium européen KiNewCare s’est donné 
+pour objectif de reprendre les principales bonnes pratiques de la dialyse (eau, énergie, 
+gestion des déchets, transport des patients) et de calculer leur ACV    .
+Les postes les plus significatifs sur le plan des émissions de GES et les plus intéressants à 
+viser dans un plan de décarbonation sont :
+• Le transport des patients de par l’émission des GES mais aussi de la consommation 
+d’eau lors de la fabrication des véhicules. Les solutions proposées pour les réduire 
+sont : 
+• Les transports en commun ou
+partagés (des calculs sont faits 
+avec l’utilisation d’un minibus 
+pour 10 % -50 % des patients.
+•  La dialyse de proximité 
+ou à domicile 
+• La télémédecine
+• La dialyse incrémentale
+• Les panneaux solaires 
+particulièrement intéressants dans 
+les pays dont le mix énergétique 
+reste très carboné. 
+En ce qui concerne l’eau, l’étude plaide en faveur de la fabrication locale du dialysat.
+En ce qui concerne les déchets, les mesures les plus significatives sont la réduction des 
+DASRI, en revoyant entre autres choses leur définition, l’abandon de l’usage unique et le 
+remplacement de l’incinération par la pyrolyse.
+Une étude allemande,   basée sur les données de 5 centres, évalue l’empreinte carbone 
+annuelle d’un patient en HD en centre, et détermine les postes principaux d’émission de 
+GES. Les données du calcul ayant été collectées entre 2015 et 2023, il a été possible aux 
+auteurs de constater une réduction de 9,1 % de l’empreinte carbone. Les mesures qui l’ont 
+permis sont :
+•  La réduction du débit du dialysat :
+0,16 tCO2/patient/an
+•  L ’installation de panneaux
+solaires :
+0,21 tCO2/patient/an
+• L ’évolution de l’alimentation
+distribuée en cours de dialyse vers 
+une alimentation de fruits,
+légumes :
+0,10 tCO2e/patient/an
+•  Le transport des patients ne
+ressort pas comme un enjeu
+important car les patients 
+pratiquaient déjà le covoiturage et la 
+distance moyenne entre leur 
+domicile et le centre de dialyse était 
+de 13 km.
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 27
+Les auteurs ont utilisé le calculateur pour déterminer le potentiel maximal de 
+réduction de l’empreinte carbone. Ils calculent ainsi que, si tous les centres participants 
+exploitent au maximum les solutions possibles dans chaque catégorie, mettent 40 % de 
+leurs patients en DPA et adoptent une stratégie d’HD incrémentale à l’initiation de la 
+dialyse (50 % des patients dialysés 2 fois par semaine durant les 6 premiers mois, 10 % 
+durant 2 ans), la réduction serait de 38,7 % soit 1,7 tCO2e/ patient/an et donc insuffisante 
+pour l’objectif global fixé par l’Union Européenne de zéro émission en 2050.
+Les médicaments
+Empreinte environnementale
+Selon les estimations du Shift Project, le secteur des médicaments a émis 9,1 millions 
+de tCO2e en 2023 (29 % de celles du système de santé) et l’augmentation de la 
+consommation est de 6 % par an en France     . Le poste le plus émetteur de GES est la 
+fabrication du principe actif (25 %), réalisée en Chine ou Inde pour 60-80 %. 
+Le Shift Project affirme que le potentiel de décarbonation du secteur des médicaments 
+serait de 68 % d’ici 2050. Son rapport propose les actions qui pouraient permettre 
+d’atteindre cet objectif, diminution de l’empreinte carbone de l’industrie pharmaceutique 
+et diminution des volumes prescrits. 
+L ’ACL des 12 646 médicaments administrés PO et 3909 administrés IV en France étant 
+connue, le choix écoresponsable d’un médicament dans une prescription pourrait devenir 
+possible.
+Recommandations: l’écoprescription en 10 points
+• Suivre les règles de bonne prescription,
+en particulier en évitant les 
+prescriptions inappropriées (âge du 
+patient, niveau de fonction rénale)
+• Evaluer la balance bénéfice-risque
+de la prescription
+• Limiter l’impact environnemental 
+de la prescription
+• Prendre en compte l’empreinte 
+carbone de la prescription 
+• Privilégier les médicaments combinant
+2 molécules (chiffres disponibles 
+pour perindopril + hydrochlorothia-
+zide).
+• Privilégier les formes à libération 
+prolongée.
+• Privilégier les formes à fort dosage 
+ d’un médicament, le couper en 2 
+étant plus intéressant sur le plan 
+écologique que donner 2 
+médicaments pour la même dose 
+quotidienne.
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action28
+En pratique
+•  Privilégier la forme orale d’un
+médicament à sa forme injectable 
+autant que possible (chiffres
+disponibles pour le paracetamol).
+• Dans une même classe, privilégier le
+médicament ayant l’empreinte 
+carbone la plus basse (chiffres
+disponibles pour IEC et ARA2) .
+• Dans l'administration des 
+antibiotiques, préférer une 
+administration sur 24 heures à la 
+seringue électrique que plusieurs 
+perfusions discontinues de quelques 
+heures chaque fois que c’est 
+possible.
+Recommandations sur la gestion des médicaments
+•  Informer les patients sur l'élimination 
+des médicaments non utilisés (MNU) 
+à domicile.
+•  En milieu hospitalier, associatif, 
+clinique privée: mettre en place des 
+plans d’utilisation des médicaments 
+proches de la date de péremption.
+•  Etre vigilant sur les prescription 
+inappropriées, que les médicaments 
+aient été prescris en néphrologie, 
+dans un autre service hospitalier ou 
+par le médecin généraliste du 
+patient.
+• Savoir déprescrire des médicaments
+•  Penser à les remplacer par des 
+stratégies thérapeutiques non 
+médicamenteuses
+Ils l’ont fait
+• le travail des réanimateurs sur le 
+le paracetamol :
+1 comprimé de 1 g émet 38 g de 
+CO2e, la même dose buvable 151 g, 
+la forme IV 310-628 g
+• la réutilisation des médicaments
+hospitaliers avec ré-étiquetage. 
+Etude du CHU de Besançon : 75 %
+des MNU ont été réutilisés
+inutiles, inefficaces ou mal tolétés.
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action 29
+Les dispositifs médicaux
+Contexte environnemental
+Selon le Shift Project, 7,4 millions tCO2e ont été émis en France en 2023 par les DM 
+consommés, soit autant que l’industrie agro-alimentaire. Le premier poste émetteur de 
+GES est la matière première (41 %). Le Shift Project propose des leviers d’action, estimant 
+le potentiel de décarbonation à 72 % d’ici à 2050. Les leviers proposés par le Shift Project 
+sont : engager les fournisseurs, décarboner l’énergie et relocaliser les productions, au 
+moins pour certains DM stratégiques    . 
+Recommandations
+•  Utiliser IDMD mis au point par le C2DS et le SNITEM lors des achats des 
+matériels de soins, quelques ils soient (dont membranes de dialyse). 
+Boutique.afnor.org
+• Remplacer le matériel de soins à usage unique par du réutilisable 
+Empreinte carbone des examens 
+biologiques et radiologiques
+Les laboratoires de biologie médicale sont particulièrement émetteurs de GES (14 % 
+des GES de l’APHP), énergivores (4 % de la consommation énergétique d’un hôpital), 
+consommateurs de ressources (jusqu’à cinq fois plus d’eau que les activités de bureaux) et 
+sources très importantes de déchets plastiques et de déchets dangereux.
+L ’imagerie médicale représente 4 % de la consommation d’énergie d’un hôpital (Société 
+Française de Radiologie).
+Contexte environnemental
+Recommandations
+• Ne prescrire que ce qui est justifié et nécessaire.
+• Prendre en compte l'empreinte carbone de chaque examen de son bilan biologique,
+celle-ci étant connue maintenant pour les tests les plus courants    :
+• créatinine 67,8 g CO2e
+• inogramme 11,5 g CO2e
+• Calcium 17,4 g CO2e
+• phosphore 33,3 g CO2e
+• Abord veineux 150 g CO2e
+
+PARTIE 3 - Les leviers d’action
+PARTIE 3 - Les leviers d’action30
+• Privilégier dans la mesure du possible l’examen radiologique ayant l’empreinte
+carbone la plus faible, soit l’échographie plutôt que le scanner. ( 4-7 plus d’émissions 
+de GES). L ’examen le plus émetteur est l’IRM (16-34 fois plus)      avec de plus 
+l’inconvénient de la persistance du gadolinium dans l’environnement.
+Ils l’ont fait
+Le centre hospitalier de Salon-de-Provence a montré qu’il existe aussi un levier de 
+réduction des GES dans les modalités du prélèvement sanguin en – modifiant les horaires 
+de prélèvement, en remplaçant le matériel à usage unique par du réutilisable (en particulier 
+corps de pompe) – remplaçant les aiguilles à ailettes à usage unique par des aiguilles 
+droites. A noter que la mise en place de cette action a réduit le nombre de prescriptions. 
+PARTIE 4
+La recherche clinique
+Dix propositions pour réduire l’empreinte 
+carbone de la recherche clinique
+En 2021, les 350 000 études enregistrées dans clinical trials.gouv auraient totalisé 27,5 
+millions tCO2e, soit un tiers des émissions du Bangladesh. Quelques études, dont une en 
+néphrologie, ont montré qu’on pouvait les réduire considérablement par une digitalisation 
+intensive de l’étude et la suppression totale des transports des patients et de l’équipe de 
+recherche. 
+Contexte environnemental
+Recommandations en 10 proposition pour réduire l’empreinte carbone
+•  Ne pas faire d’études inutiles, 
+n’apportant pas de connaissances 
+nouvelles 
+• Réduire les déplacements  de 
+l’équipe de monitoring et des 
+patients
+• Digitaliser la procédure à tous les
+niveaux : réunions virtuelles, 
+réponses aux queries, télémédecine. 
+•  Intégrer les nouveaux outils
+digitaux et les concepts nouveaux 
+comme les études en ombrelle 
+(umbrella trial), panier (basket trial) 
+ou plateforme (platform trial). 
+•  Appliquer des mesures non 
+spécifiques de réduction de l’impact 
+environnemental (eau, énergie).
+•  Intégrer l’intelligence artificielle 
+ de façon raisonnable en raison de 
+son coût environnemental.
+•  Informer les néphrologues  et les
+chercheurs.
+•  Impliquer l’industrie 
+pharmaceutique et des dispositifs 
+médicaux.
+• Faire pression sur les financeurs 
+institutionnels (PHRC, PREPS) et 
+autres ainsi que sur les revues
+médicales pour intégrer un critère 
+d’évaluation écologique dans les 
+études financées ou publiées.
+•  Alléger les contraintes 
+réglementaires qui peuvent être un 
+obstacle dans l’amélioration de
+l’empreinte carbone des études de 
+recherche clinique.
+PARTIE 4 - La recherche clinique 31
+
+La recherche clinique
+PARTIE 4 - La recherche clinique32
+ PARTIE 4 - La recherche clinique
+Ils sont en train de le faire
+• Dans le cadre d’un PREPS, validation d’un outil de mesure de l’empreinte carbone          
+• Le dossier de demande d’un financement PHRC en 2025 comporte la 
+   recommandation :
+d’une étude de recherche clinique.
+« Impact environnemental de la recherche et transition écologique du système de santé. Il est  
+souhaité de la part des candidats une description de la réflexion conduite sur la réduction de 
+l’impact environnemental de leur projet de recherche et de sa construction (impact carbone, 
+consommation de ressources, production de déchets, démarche de soins écoresponsables, 
+transports, ressources informatiques …). Il sera également attendu une mise en lumière des 
+éventuels impacts du projet sur la transition écologique du système de santé. Ces éléments 
+seront attendus pour la phase des dossiers complets. »
+PARTIE 5
+Les congrès
+Les congrès
+PARTIE 5 - Les congrès 33
+L’European Renal Association (ERA) a montré que ses congrès annuels contribuent de 
+façon significative aux émissions de GES    .
+Le congrès ERA 2024 (Stockolm, 7187 participants). Les émissions de GES d’un participant 
+ont été chiffrées à 2,083 tCO2e. Le poste principal a été le transport (89 % des emissions 
+de GES), d’autant plus que la ville est excentrée en Europe et pour l’atteindre, l’avion est le 
+moyen de transport le plus rapide, tout en étant le plus émetteur de GES.
+Les recommandations pour réduire l’empreinte carbone des congrès sont :
+•  La réduction des transports :
+• Choisir une ville facile d’accès
+et par des moyens de transport 
+bas-carbone comme le train. 
+• Un site de congrès bien
+desservi dans la ville par les 
+transports en commun, en vélo 
+ou à pied.
+• Les congrès hybrides ou
+totalement virtuels sont 
+à considérer sur un plan 
+écologique pur,
+réduisant les émissions de GES 
+de respectivement 60-70 % et 
+94 %.
+• Un hébergement des congressistes
+écoresponsable. L ’hébergement des 
+congressistes à Stockholm
+a représenté 8 % des émissions
+• La réduction de la consommation 
+d’énergie sur tous les lieux du 
+congrès (éclairage, chauffage,
+climatisation).
+• La réduction de la production de
+déchets. Elimination des plastiques, 
+tri sélectif. Version papier ou
+virtualisation du programme.
+• Une alimentation végétarienne et
+le don de la nourriture non 
+consommée.
+Les congrès de la SFNDT : Il n’a pas été fait d’évaluation de ses émissions de ses GES mais la 
+grande majorité des recommandations citées ci-dessus sont respectées par le prestataire 
+des congrès et les Palais des Congrès. En ce qui concerne les transports, l’interdiction, 
+votée par l’Assemblée Nationale en 2021, des vols aériens pour lesquels un trajet en train 
+équivalent est accessible en moins de 2 heures 30 favorise les déplacements les plus 
+écologiques.
+
+Les congrès
+PARTIE 6
+L ’information – formation
+A destination des patients
+Une enquête de France-Rein chez des patients dialysés en Pays de Loire
+Les patients ne sont qu’en partie conscients des enjeux du changement climatique et de 
+son impact sur la santé et les soins. En grande majorité, ils souhaitent être informés et sont 
+prêts à accepter des modifications des pratiques de soins pour plus de soutenabilité 
+(20 % pas d’accord), à condition de ne pas altérer la qualité de la prise en charge. 
+L ’exemple du covoiturage leur est soumis ; 10 % seulement le refusent.
+Recommandations
+•  Expliquer aux patients la 
+démarche écologique
+•  Leur rappeler les écogestes du
+quotidien et les mesures de 
+prévention face à des conditions
+climatiques extrêmes
+• Leur proposer de participer à celle
+mise en place dans leur centre/
+service
+• Proposer des actions ludiques :
+la journée sans mail, jeux de cartes 
+etc
+• Leur expliquer et les préparer
+à certaines mesures possiblement 
+impopulaires comme le covoiturage
+Le groupe Néphrologie verte l’a fait : Un message écologique dans les programmes 
+d’éducation thérapeutique
+Le groupe Néphrologie verte propose un diaporama aux formateurs/trices des patients, 
+intervenant en hémodialyse, en transplantation, ou aux stades 4-5 de la MRC, dans le cadre 
+d’un programme ETP ou pas. Ce diaporama se veut une base de données où le 
+formateur/trice peut piocher les diapositives qui l’aideront à construire son message. 
+Le diaporama comporte 3 parties :
+•  Des informations générales sur le
+changement climatique et ses 
+conséquences, en particulier sur
+la santé.
+• La démarche écologique en cours
+dans le centre de dialyse ou le 
+service qui suit le patient.
+PARTIE 6 - L ’information-formation34
+
+PARTIE 6 -L’information – formation 
+PARTIE 6 - L’information – formation 35
+• Ce que le patient lui-même peut 
+faire : écogestes du quotidien et de 
+la maladie ou de son traitement, 
+gestion des médicaments, 
+co-voiturage, téléconsultation pour 
+les transplantés en particulier
+•  Lorsque l’empreinte carbone de
+toutes les modalités de la dialyse 
+aura été calculée, le choix de sa
+technique de dialyse par le patient 
+pourra intégrer un indicateur 
+écologique à côté de la qualité de
+l’épuration et de la qualité de vie
+Le diaporama est disponible sur le site de la SFNDT :
+Sfndt.org
+Il est associé à un livret à destination des patients et une fiche d’explication à destination 
+des formateurs.
+A destination des soignants
+Les soignants face au défi écologique
+Selon une enquête internationale, les soignants ne connaissent pas encore bien les impacts 
+du changement climatique sur la santé. Ils souhaitent pouvoir disposer de formations et 
+d’outils pour lancer une démarche écologique dans leur pratique    .
+La formation des soignants
+•  Guide des Bonnes Pratiques 
+pour une dialyse verte du groupe 
+Néphrologie verte de la SFNDT en
+2023, Guide des Bonnes Pratiques 
+pour une néphrologie verte en 2025
+•  Congrès annuel de la SFNDT :
+un atelier Néphrologie verte
+• Webinaires de la SFNDT :
+2 par an consacrés à la Néphrologie 
+verte
+•  Formations de l’AFIDTN consacrés
+à la Néphrologie verte
+• A destination des internes :
+e-learning en cours de préparation 
+par l’ERA
+•  Intégration d’un cours sur les
+bonnes pratiques de la dialyse verte 
+dans le DU Dialyse de Strasbourg
+
+30 PARTIE 7 - Ecologie et gouvernance36
+PARTIE 7
+Ecologie et gouvernance
+Gouvernance, écologie et imagination politique : 
+les valeurs du soin sont les valeurs de demain
+Nous avions autrefois un agir technique 
+à faible portée : le cercle de notre 
+responsabilité était à court terme et à 
+courte distance. A l’époque moderne et 
+thermo-industrielle, notre agir technique
+a franchi un seuil de puissance et 
+provoque à présent des dommages 
+très éloignés de nous dans les échelles 
+spatiales, temporelles et phylogénétiques. 
+C’est un fait physique et métaphysique
+absolument inédit dans l’histoire de 
+l’humanité : nous avons les moyens de 
+tout détruire. Cette responsabilité d’un 
+genre nouveau est extravagante en ceci 
+qu’elle est non-synchrone, nonsimultanée 
+car les êtres à venir ne sont pas encore 
+là pour réclamer leurs droits à vivre 
+et habiter une T erre vivante. Cette 
+responsabilité est un soin, un souci à 
+l’égard de la vulnérabilité des autres. 
+Cette valeur essentielle du soin est 
+bien connue des professionnel-les 
+de santé qui se rendent
+responsables de la personne malade, 
+mais elle doit être élargie au lointain : 
+des humains aux non humains et à notre 
+monde commun, présent et à venir .
+La question à ce stade est : comment 
+instituer cette responsabilité 
+soignante à l’égard du long terme ?
+comment l’inscrire dans nos 
+gouvernances ? Comment faire en 
+sorte qu’elle ne soit pas seulement
+un sentiment ou une volonté 
+mais une obligation morale avec 
+une force politique concrète de
+décisions et d’actions ?
+Une proposition serait de créer 
+un Parlement du soin dans chaque 
+établissement de santé. Cette instance 
+devrait s’assurer que les décisions prises 
+par le Directoire considèrent aussi les
+conséquences à long terme de nos agir 
+techniques. L ’hôpital, avec cette innovation 
+institutionnelle, pourrait ainsi tester un 
+démonstrateur d’un nouveau type de 
+gouvernance (articulant court terme/long 
+terme) qui pourrait servir de modèle pour 
+être diffusé ensuite à d’autres institutions
+voire même au sommet de l’état    .
+Face aux multicrises que nous traversons 
+et qui vont probablement s’aggraver, il 
+s’agit aujourd’hui de ne plus céder à la 
+déploration, mais d’oser l’imagination. 
+PARTIE 7 -Ecologie et gouvernance
+PARTIE 7 - Ecologie et gouvernance
+ 37
+Cette riposte poétique est une réponse profonde et créative à nos défis contemporains tels 
+que les crises climatiques, sociales, économiques, sanitaires et démocratiques. Elle s’appuie 
+sur une vision où les valeurs du soin — qu’il s’agisse du soin envers les personnes, la société, ou 
+la planète — sont les valeurs de demain     . La riposte poétique n’est pas une utopie lointaine, mais 
+une incitation à réenchanter le présent et l’avenir en plaçant concrètement le soin au cœur 
+des récits, des décisions, des institutions et des gouvernances.
+ANNEXES
+
+Rapport GIEC 2023
+1.
+Moderately elevated ambient 
+temperature is associated with mortality 
+in dialysis patients, but not in transplant 
+patients. Clinical Kidney J 2025 ; 18(2) : 
+sfae428
+3. Borg M, Bi P , Nitschke M, Williams S, 
+McDonald S. The impact of daily 
+temperature on renal disease incidence: 
+an ecological study. Environmental Health 
+2017. 
+Doi.org
+4. Semenza JC, Menne B. Climate change 
+and infectious diseases in Europe. Lancet 
+Infect Dis 2009;9: 365–75
+6. Couchoud C , Lobbedez T , Bayat S, 
+Glowacki F , Brunet P , Frimat L. 
+5. Johnson RJ, Wesseling C, Newman L. 
+Chronic Kidney Disease of Unknown 
+Cause in Agricultural Communities. N 
+Engl J Med 2019;380:1843-52.
+Doi.org
+1. The Shift Project. Décarboner la santé 
+pour soigner durablement. 2023. 
+Theshiftproject.org
+ANNEXES
+Bibliographie
+1. Fernández-Fernandez et al, CKJ 2023. 
+Estimations du gain de temps hors IRCt 
+grâce aux iSGLT2.
+Doi.org
+2. T albot et al, Lancet plan Earth 2024 : 
+calcul du gain théorique d’impact carbone 
+des iSGLT2 dans l’IRC
+3. Fernández Lucas M, Muriel A, Merino JL, 
+Sánchez R , Collado A , Herrero JA, et al. 
+Randomized Trial of Twice-Weekly 
+Versus Thrice-Weekly Hemodiafiltration 
+for Initiation of Renal Replacement
+Therapy. Kidney Int Rep (2025) 10, 
+4188–4198; 
+Doi.org
+ANNEXES 39
+Dernier accès 01/02/2026
+2. Faurie C, Varghese BM, Liu J et al. 
+Association between high temperture and 
+heatwaves with heat-related illnesses: a 
+systematic review and meta-analysis. Sci 
+T otal Environ 2022; 852 :158332.
+Doi.org
+Décarbonons le système de santé. Un rapport du Shift Project (2023)
+Doi.org
+
+ANNEXES
+5. Garcia Sanchez et al, Adv Ther 2025 :
+analyse cycle de vie et comparaison 
+de l’impact carbone des différentes 
+modalités de prise en charge de l’IRCT
+4. Nardelli L, Scalamogna A, Cicero E, 
+Castellano G. Incremental peritoneal 
+dialysis allows to reduce the time spent 
+for dialysis, glucose exposure, economic 
+cost, plastic waste and water 
+consumption. Journal of Nephrology 
+2023; 36:263–273
+Doi.org
+ANNEXES
+40
+Doi.org
+1. Connor A, Lillywhite R, Cooke MW. The 
+carbon footprints of home and in-center 
+maintenance hemodialysis in the United 
+Kingdom. Hemodialysis International 
+2011; 15:39-51.
+2. McAlister S, T albot B, Knight J, Blair S, 
+McGain F, Knight R, Nelson C, McDonald 
+S, Barraclough KA. The Carbon Footprint 
+of Peritoneal Dialysis in Australia. 
+Doi.org
+JASN 2024; 35: 1095–1103. 
+3. Barraclough KA, T albot B, Knight J, Blair 
+S, McGain F, Masterson R, Knight R, 
+Nelson C, McDonald S, McAlister S, 
+Carbon Emissions From Different 
+Dialysis Modalities: A Life Cycle 
+Assessment, American Journal of 
+Kidney Diseases (2025).
+Doi.org
+Doi.org
+4. Garcia-Sanchez JJ, Barraclough KA, Cases 
+A et al. Using chronic kidney disease as a a 
+model framework to estimate healthcare-
+related environmental impact. Adv Ther 
+2024;
+5. Saleem S, Stigant C, Rajan T, Hewage 
+K, Sadiq R, MacNeill AJ, Nguan C. 
+Environmental Impacts of Kidney 
+Replacement Therapies: A Comparative 
+Lifecycle Assessment. AJKD 2025 (in 
+press).
+1. Couret A: Optimisation des Réglages 
+Osmoseurs en 2023. Résultats sur les 
+Consommation d’EAU 2024 In: Première 
+journée régionale de la transformation 
+écologique du système de santé: 12 Juin 
+2025; Bordeaux: Agence Régionale de 
+Santé Nouvelle Aquitaine.
+2. Canaud B, Gagel A, Peters A, Maierhofer 
+A, Stuard S: Does online high-volume 
+hemodiafiltration offer greater efficiency 
+and sustainability compared with 
+high-flux hemodialysis? A detailed
+simulation analysis anchored in 
+real-world data. Clin Kidney J 2024, 
+17(6):sfae147.
+ANNEXES
+ANNEXES 41
+3. T arras F, Benjelloun O, Benjelloun M. 
+Sustainable Water Usage in 
+Hemodialysis: Innovations for Resource 
+Conservation. ASN Kidney News 2025.
+Doi.org
+4. T arrass F, Benjelloun H, Benjelloun M: 
+Nitrogen and phosphorus recovery from 
+hemodialysis wastewater to use as an 
+agricultural fertilizer. Nefrologia (Engl Ed) 
+2023, 43 Suppl 2:32-37.
+1. Moign A. Pompes : comment améliorer 
+leur efficacité énergétique ? L ’EAU, 
+L ’INDUSTRIE, LES NUISANCES. N° 485 
+du 31 octobre 2025.
+2. Jullien P , Rey J, Mariat C. Vers une 
+néphrologie plus verte : appliquer le 
+modèle des maisons passives à un 
+établissement de dialyse. Néphrologie et 
+Thérapeutique 2021
+Doi.org
+1. Hourmant M, Aguilera D, Carenco 
+P , Deltombe C, Vérité T, Filipozzi P . 
+Remplacement de l’usage unique par du 
+réutilisable dans les soins en néphrologie. 
+2025. Volume 21(1): 49-52.
+Doi.org
+2. Burguburu A, T anné C , Bosc K, et al 
+Analyse du cycle de vie comparative 
+entre les pyjamas de bloc opératoire 
+réutilisables et jetables, utilisés dans les 
+hôpitaux Cleaner Environmental System
+2021
+Doi.org
+3. Hunfeld N , Diehl JC , Timmermann M, et 
+al. Circular material fow in the intensive 
+care unit—environmental effects and 
+identifcation of hotspots. Intensive Care 
+Med 2023; 49:65–74
+Les «Green cards»: site de la Société 
+Française d’Anesthésie Réanimation
+Doi.org
+4. Measuring and reducing plastics in the 
+healthcare sector, Health Care Without 
+Harm, 2021 
+Europe.noharm.org
+1. Rutala WA, Gergen MF, Weber DJ. 
+Microbiologic evaluation of microfiber 
+mops for surface disinfection. Am J Infect 
+Control 2007; 35(9): 569-573
+2. SF2H. Avis sur un procédé de nettoyage 
+et désinfection à la vapeur -2004.
+3. ARS PACA. Pratiques et achats 
+responsables en établissements de santé 
+et médico-sociaux, 2017
+ANNEXES
+ANNEXES
+42
+1. Bacle A, Thevenot S, Grignon C, 
+Belmouaz M, Bauwens M, T eychene B, et 
+al. Determination of bisphenol A in water 
+and the medical devices used in 
+hemodialysis treatment. Int J Pharm. 
+2016; 505(1-2): 115-21.
+1. Rodler S, Ramacciotti LS, Maas M, 
+Mokhtar D et al. The Impact of 
+T elemedicine in Reducing the Carbon 
+Footprint in Health Care: A Systematic 
+Review and Cumulative Analysis of 68 
+Million Clinical Consultations. Europeau 
+Urology Focus 2023 ; 9(6) : 873-887
+2. Purohit A, Smith J, Hibble A. Does 
+telemedicine reduce the carbon footprint 
+of healthcare? A systematic review. 
+Future Healthcare Journal 2021 ; 8(1): 
+e85–91 
+3. Laranjinha I , Peired AJ, Knoeller 
+S Ferreira AC, Gracin S, Demirtas 
+G, Hourmant M; On behalf of the 
+Sustainable Nephrology T ask Force of the 
+ERA. Nephrology meets AI—environmen-
+tal perspective, Nephrol Dial Transplant 
+2025. 40: 1449–1451
+4. T angri N, Cheungpasitporn W, Crittenden 
+SD, Fornoni A for the Artificial Intelli-
+gence (AI) Workgroup et al. Responsible 
+Use of Artificial Intelligence to Improve 
+Kidney Care. A Statement from the 
+American Society of Nephrology. JASN 
+2025.
+Doi.org
+Pour aller plus loin :
+Reboot – Guide pour repenser l’impact environnemental du numérique
+Numeriqueethique.fr
+1. But how green is it actually? Calculating 
+the environmental footprint of kidney 
+care environmental optimizations within 
+haemodialysis. Duane B, Larkin J , Caiazzo 
+M , Arenas M et al. Clinical Kidney 
+Journal 2025, 18(9,) sfaf220. 
+Doi.org
+2. Beige J, Knöller S, Pachmann M, Sommer 
+F, Barth HP , Masanneck M et al. A website 
+calculator to benchmark the carbon 
+footprint of haemodialysis. Nephrol Dial 
+Transplant 2026. 
+Doi.org
+
+ANNEXES
+ANNEXES 43
+1. The Shift project. Décarbonons les 
+industries du médicament. Rapport final 
+2025
+Theshiftproject.org
+2. Bounoure F et al. Eco-prescription, a new 
+major skill for healthcare professionals. 
+Annales Pharmaceutiques Françaises 
+2025 
+Doi.org
+3. Hourmant M, T aillemitte S, Bounoure 
+F. How the Carbon Footprint of 
+Medications Can Be Integrated into Our 
+Prescriptions. Article soumis à Kidney 
+International
+1. The Shift Project. Décarbonons les 
+industries des dispositifs médicaux. 
+Rapport final 2025
+Theshiftproject.org
+2. Hourmant M, Aguilera D, Carenco 
+P , Deltombe C, Vérité T, Filipozzi P . 
+Remplacement de l’usage unique par du 
+réutilisable dans les soins en néphrologie. 
+2025. Volume 21(1): 49-52
+Doi.org
+1. Karina Spoyalo K, Lalande A, Rizan C, 
+Park S, Simons J, Dawe P , Brown CJ, 
+Lillywhite R, MacNeill AJ . Patient, 
+hospital and environmental costs of 
+unnecessary bloodwork: capturing the 
+triple bottom line of inappropriate care 
+in general surgery patients. BMJ Quality 
+Doi.org
+2. Elmar M. et al. The Impact of Modern 
+Imaging T echniques on Carbon 
+Footprints: Relevance and Outlook. 
+European Urology Focus 2023 ; 9(6)
+2023 : 891-3
+4. Bouvet L et al Juif-Clement M, Breant 
+V , Zieleskiewicz L, Lê MG,Cottinet PJ. 
+Environmental impact of intravenous 
+versus oral administration materials for 
+acetaminophen and ketoprofen in a
+French university hospital: an eco-audit 
+study using a life cycle analysis Can J 
+Anesth/J Can Anesth (2024) 71:1457–
+1465.
+Doi.org
+
+1. Hourmant M, Peired AJ. Dix propositions pour réduire l’empreinte carbone des études de 
+recherche clinique. Néphrologie&Thérapeutique 2025. 
+21(2) : 123-126
+ANNEXES
+ANNEXES
+44
+1. Pettinelli P , Fontana M, Peired AJ, Laranjinha I et al. T owards carbon Footprint measurement 
+of the ERA Congress. Five Key strategies for greener events. Nephrol Dial Transplant 2025
+Doi.org
+1. Sandal S, Ethier I, Ugochi O Fung Winston et al. Climate Change, Kidney Health, and
+Environmentally Sustainable Kidney Care. A Multinational Survey of Health Care 
+Professionals J American Soc Nephrol 2024
+Doi.org
+1. Dallaporta B. Prendre soin du prochain, 
+prendre soin du lointain. Paris, Bayard, 
+2021.
+2. Bourg D. Inventer la démocratie du XXIe 
+siècle. L ’assemblée citoyenne du futur, Les 
+liens qui libèrent. 2017
+3. Dallaporta B, Hocini F. Riposte poétique 
+et imagination politique : les valeurs du 
+soin sont les valeurs de demain, Crise des 
+institutions de soin. Au cœur des enjeux 
+civilisationnels et écologiques. Edition in 
+Press, 2025.
+Le groupe Néphrologie verte  remercie l’entreprise Meditor pour son soutien dans la 
+rédaction de ce guide.
+REMERCIMENT
+107
+La mise en page de ce guide à été réalisé par Créa Design Manon.

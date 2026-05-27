@@ -1,0 +1,283 @@
+Deep Research Prompt: Reusing Dialysis RO-
+Reject Water in France
+You are an expert in health systems, nephrology, and sustainability, supporting a hackathon pitch for
+reducing the environmental footprint of dialysis in France. 
+Project goal: Build a slide-ready, evidence-based analysis around one focused idea: capture and reuse
+the clean Reverse Osmosis (RO) reject water from hospital hemodialysis for non-clinical uses (e.g.
+cooling towers, toilets, irrigation) in French hospitals. The story must be realistic, technically feasible,
+and tailored to the French context.
+Important Context & Constraints
+Focus: Only France. Include recent drivers like Plan Eau 2023 and summer droughts as catalysts
+for action. 
+Regulatory: Consider ARS guidelines on non-potable water reuse (since new 2024 regulations
+govern “eaux impropres à la consommation humaine” for domestic uses). Emphasize
+that reuse is for non-clinical purposes only (never recycling back into dialysis). 
+Funding: Incorporate French subsidies/grants (e.g. Les Agences de l’Eau water agencies) and 
+CEE (energy savings certificates) in the business model. 
+Organization: Use the GHT (Groupement Hospitalier de Territoire) framework to explain scaling
+from large university hospitals (CHU/CHR) to smaller regional hospitals (inequality/equity
+considerations). 
+Hardware: Identify actual equipment needed (e.g., holding tanks, UV-C sterilizers or filtration to
+prevent biofilms, dual piping for non-potable loop, additional pumps). 
+Sources: Use only high-quality, recent sources (PubMed, French government/health agency
+reports, peer-reviewed papers, credible technical reports). Provide citations for all key data.
+Methodology (Research Approach)
+Use a structured search approach (PubMed, official French statistics, technical literature).
+Search French sources for hospital/dialysis data (e.g. DREES reports, REIN registry).
+Search PubMed for “dialysis water reuse”, “RO reject water reuse”, “hemodialysis sustainability”,
+etc.
+Search French regulations (Plan Eau 2023, ARS guidelines, code de la santé publique for EICH).
+Cross-check data across multiple sources. If numbers conflict or are missing, state assumptions
+clearly.
+Distinguish evidence vs assumptions. Label uncertain or pilot-stage ideas as such.
+Required Final Output (Slide-by-Slide)
+Write the output as if it will be turned into slides. Use headings and bullet points. Include evidence and
+concise explanations.
+• 
+• 
+1 2
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1
+Slide 1: The Problem & The Catalyst
+Headline: Why hospital dialysis wastes water – and why action is urgent in France.
+Bullet points should include: 
+Water use per session: ~400 liters of water needed per hemodialysis treatment, of which 50–
+70% can be RO reject water. 
+Environmental issue: This discard is potable water drawn for treatment and then mostly
+dumped, increasing water stress. 
+French context: France’s Plan Eau 2023 (launched March 2023) makes water resilience a national
+priority . Exceptional droughts (summer 2022, 2023) led to restrictions, pressuring hospitals
+to save water . 
+Regulatory push: New 2024 EICH regulations (décret/arrêté 12 July 2024) ease use of non-
+potable water for domestic purposes, under ARS oversight. This makes institutional
+reuse legally feasible (with safeguards). 
+Slide 2: France Market Size & First Adopters
+Provide a compact table or bullet summary. Key data (with sources): 
+Dialysis patients: ~51,700 in 2022. 
+Modality split: ~51.9% in-center HD, 25.9% UDM, 15.1% autodialysis (in-center), 6% peritoneal,
+1.5% home HD. (About 79% in hospital-based modalities.) 
+Hospitals: ~2,965 total health establishments; among public hospitals: 184 CHR, 924 CH, etc. 
+Large sites: Many dialysis centers have 30–100+ patients (the median center has ~25 patients,
+but large CHU/CHR handle 100+). 
+First adopters:Large CHU/CHR and major private clinics should pilot first: they have higher
+patient volumes (justifying capex) and existing infrastructure (space, tech teams) to implement
+reuse. 
+Smaller sites: Small rural clinics or UDMs (autodialysis units) have low volumes (<10 patients) –
+not cost-effective for full systems, but can later adopt modular solutions (e.g. small buffer tanks
+for toilet flushing).
+Slide 3: The Technology & Hardware
+Ranked options for RO-reject reuse: (score 1–5; higher is better) 
+1. Capture & reuse for non-potable uses (cooling, toilets, irrigation): Impact★5, Ease★3,
+Safety★4, Cost★3, Time-to-pilot★4. Requires a buffer tank and dual plumbing to segregate RO
+reject. Needs UV-C or equivalent sanitization to prevent microbial growth. Proven tech in water
+treatment. 
+2. Onsite storage & treatment (microfiltration/UV):Impact★4, Ease★2, Safety★4, Cost★2,
+Time-to-pilot★3. More complex (filtration units, regular maintenance), but higher purity of reused
+water . 
+3. Limited reuse (e.g., only for irrigation or outdoor cleaning):Impact★3, Ease★5, Safety★5,
+Cost★4, Time-to-pilot★5. Simplest (just collect reject into cistern, use on gardens or external
+cleaning). Very safe due to distance from people. Lower impact (smaller reuse volume). 
+Hardware components needed (for option 1, the preferred solution): 
+Holding/storage tanks: e.g., 1–2 m³ buffer tanks to collect RO reject from dialysis units. 
+• 
+• 
+• 
+3
+• 
+4 5
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+2
+Dual-piping network: Separate non-potable loop (toilets, cooling, irrigation) with backflow
+prevention. 
+Disinfection: UV-C or chlorine system to control pathogens in stored water . ARS requires
+preventing cross-contamination. 
+Pumps & controls: To move water into reused circuits on demand. 
+Monitoring: Simple sensors for level/flow to optimize use. 
+(Important: Under no circumstance is reused water sent back into dialysis machines. All reuse is external, non-
+clinical.)
+Slide 4: Evidence & ROI
+Present data points with sources and confidence levels. For example: 
+Water saved: A 100-patient hospital HD center uses ~40,000 sessions/year (~16 million L water/
+year). If 60% is rejected and reused, ~9.6 million L saved/year (≈6,400 tons of water). 
+CO₂ reduction: Assuming ~0.5 kg CO₂e per m³ of treated potable water (production + heating),
+saving 9,600 m³ yields ~4.8 tCO₂e saved/year . (Plus energy savings in pumping and heating.) 
+Financials: Case studies (e.g., a dialysis unit in Lyon, 173 patients) show ROI in ~5–6 years.
+Smaller pilots report 1–3 year payback due to high water/energy costs. 
+Existing pilots: International examples (e.g. UK, Netherlands) and one French center (Lyon) have
+implemented reject water reuse with positive results. 
+Confidence: High for basic volumes (patient counts, water use per session). Moderate for
+financials (depends on local water/sewer tariffs and capex). Clearly cite data (e.g. for water
+usage; for example study).
+Slide 5: The Roadmap (Pilot → Scale)
+Time
+Horizon Key Actions Expected ImpactMain Blockers Next Steps to
+Prove
+0–6
+months:
+- Conduct site audits at 
+3 large CHUs<br>-
+Secure ARS approval for
+pilot reuse (submit
+EICH usage plan)
+<br>- Apply for Agence
+de l’Eau subsidies and
+CEE financing programs
+- Identify realistic
+volumes and
+costs<br>- Begin
+small-scale
+collection (proof
+of concept)
+- Regulatory
+approval
+timelines<br>-
+Capex sourcing
+(navigate grants)
+- Finalize
+hardware
+design<br>-
+Demonstrate
+water quality
+safety
+~3
+years:
+- Deploy systems across
+the GHT: equip medium
+hospitals and
+polyclinics<br>- Expand
+to interested private
+clinics in large cities
+(Paris, Lyon, etc.)<br>-
+Integrate reuse into
+hospital environmental
+management
+- Save 20–30% of
+dialysis water
+nationally<br>-
+Build expertise
+and lower unit
+costs
+- Coordination
+across
+hospitals<br>-
+Standardizing
+procurement
+and
+maintenance
+- Show multi-site
+success (e.g., 5+
+hospitals)<br>-
+Adjust
+regulations if
+needed
+• 
+• 
+1 5
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+4
+3
+Time
+Horizon Key Actions Expected ImpactMain Blockers Next Steps to
+Prove
+5–7
+years:
+- Advanced integration:
+use reject for heat
+recovery (preheating
+incoming water)<br>-
+Explore effluent
+recirculation (using
+treated spent dialysate
+in sorbent
+systems)<br>-
+Mandatory water-reuse
+targets in hospital
+planning (national
+policy)
+- Maximize
+sustainability (up
+to 40%+ water
+reduction)<br>-
+Embed practice as
+standard care
+- Technology
+readiness for
+advanced
+reuse<br>- Need
+for regulatory
+updates
+- Long-term
+performance
+data<br>- Policy
+incentives or
+regulations
+(Note: ARS = Agence Régionale de Santé; GHT = Groupement Hospitalier de Territoire.)
+Slide 6: Business Model & Equity Lens
+Who pays: Hospital or hospital group (CHU/GHT) makes the capital investment, offset by 
+Agence de l’Eau grants and CEE subsidies. Maintenance costs could be shared with water utility
+partners. 
+Who benefits: The hospital saves on water and sewage bills immediately (lower OPEX) and gains
+resilience against water restrictions. Patients benefit indirectly from more sustainable care. 
+Partners:
+Public: ARS (regulatory approval), Agences de l’Eau (funding), ADEME (possibly), local
+municipalities for irrigation. 
+Private: Water service companies (could install/maintain systems under contract), dialysis
+equipment vendors (for integration). 
+Equity (GHT approach): Use each GHT as an umbrella: large CHUs lead pilot, then share or lease
+equipment to smaller member hospitals. Rural or poorer hospitals get support via GHT budgets
+and national grants. 
+Ensure urban vs rural: Town hospitals with small UDM units can use modular micro-tanks and
+simple UV units (lower cost, CEE-supported). Pooling via GHT ensures all regions (Paris/regions)
+can participate, not just rich centers.
+Slide 7: Final Pitch Message (20–30s)
+Craft a concise spoken summary. For example:
+“In France, a single dialysis session uses ~400 liters of water , half of which is clean RO-
+reject water . With water shortages mounting (Plan Eau 2023, 2022–24 droughts), we
+propose capturing that unused water in large hospitals and reusing it for toilets, cooling,
+and irrigation. This avoids millions of liters of fresh water per year per hospital, cutting
+costs and CO₂ emissions. Implementation is straightforward: buffer tanks, UV sterilizers,
+and dual plumbing, fully compliant with ARS regulations. We pilot at big CHUs (using
+Agence de l’Eau subsidies), then scale through each regional GHT to smaller hospitals.
+The result: greener dialysis without compromising care. Our solution meets today’s crises
+and builds long-term resilience.” 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+4
+Output style: Use slide-friendly bullet points. Every key claim or number must be supported by a cited
+source (e.g. scientific paper , official statistic, case study). Avoid vague language. Focus on the French
+healthcare/regulatory context and concrete evidence.
+Réutilisation des eaux non conventionnelles : nouveaux usages domestiques des eaux
+impropres à la consommation humaine | Agence régionale de santé Ile-de-France
+https://www.iledefrance.ars.sante.fr/reutilisation-des-eaux-non-conventionnelles-nouveaux-usages-domestiques-des-eaux-
+impropres-la
+1 2 3 4 5
+5

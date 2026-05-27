@@ -1,0 +1,4788 @@
+GUIDE DES 
+BONNES 
+PRATIQUES DE 
+LA DIALYSE 
+VERTE 
+2023
+TABLES DES MATIERES   ¦ ¦
+TABLE DES 
+MATIÈRES
+PARTIE 1 - INTRODUCTION
+Présentation de la SFNDT         02
+Présentation du guide & remerciements      03
+Rappel sur les enjeux environnementaux, sociaux et sociétaux des centres de dialyse 04
+Réduire sa consommation d’eau        18
+Réduire sa consommation d’énergie       26
+Optimiser la qualité de l’air        33
+Optimiser la gestion des déchets       33
+Promouvoir des achats durables       43
+Promouvoir la mobilité durable        48
+Pousser à la sobriété numérique       51
+Préserver la biodiversité         53
+Optimiser les relations avec son écosystème et ses parties prenantes  55
+Optimiser les conditions sociales internes      58
+PARTIE 3 - LES LEVIERS D’ACTION
+Réaliser son bilan de gaz à effet de serre      08
+Elaborer une stratégie développement durable ou RSE et embarquer en interne 14
+PARTIE 2 - LES BONNES PRATIQUES
+Liste des gaz réfrigérants et de leur Potentiel Réchauffement Global  60
+Liste des analyses physico-chimiques à effectuer pour s’assurer de la 
+qualité de l’eau rejetée par osmose inverse      60 
+Les questions non résolues dans ce guide      61
+Diagnostic RSE : Grille d’analyse de l’état initial de la stratégie RSE  61
+Pour aller plus loin : structures à suivre, contacts et liens utiles   84
+Liste des abréviations         86
+Références           87
+ANNEXES
+AVANT-PROPOS
+
+TABLES DES TABLEAUX    ¦ ¦
+TABLE DES 
+TABLEAUX
+Tableau 1 : Comparaison des études sur l’évaluation de l’empreinte carbone 
+de l’hémodialyse
+Tableau 2 : Liste d'actions permettant d'optimiser la consommation en eau
+Tableau 3 : Retours d'expérience d’actions permettant de réduire la 
+consommation en eau
+Tableau 4 : Liste d'actions permettant d'optimiser la consommation en 
+énergie
+Tableau 5 : Retours d'expérience d'optimisation de la consommation en 
+énergie 
+Tableau 6 : Liste d'actions permettant d'améliorer la qualité de l'air
+Tableau 7 : Liste d'actions permettant d'optimiser la gestion des déchets
+Tableau 8 : Retour d'expérience d'actions d'optimisation de la gestion des 
+déchets
+Tableau 9 : Liste d'actions permettant de promouvoir des achats durables
+Tableau 10 : Retours d'expérience d'actions pour les achats durables
+Tableau 11 : Liste d'actions pour la mobilité durable
+Tableau 12 : Retours d'expérience d'actions pour la mobilité durable
+Tableau 13 : Liste d'actions pour la sobriété numérique
+Tableau 14 : Retours d'expérience d'actions réduisant l'impact du numérique
+Tableau 15 : Liste d'actions pour préserver la biodiversité
+Tableau 16 : Retours d'expérience d'actions permettant de préserver la 
+biodiversité
+Tableau 17 : Liste d'actions permettant d'optimiser les relations avec son 
+écosystème et ses parties prenantes
+Tableau 18 : Retours d'expérience d'action pour le bien être des patients
+Tableau 19 : Liste d'actions permettant d'améliorer les conditions sociales 
+internes
+Tableau 20 : Liste des gaz réfrigérants et de leur Potentiel Réchauffement 
+Global
+Tableau 21 : Paramètres physico-chimiques de l'eau rejetée par osmose 
+inverse à analyser
+07
+20
+24
+27
+31
+33
+36
+40
+43
+47
+48
+50
+51
+52
+53
+54
+55
+57
+58
+60
+60
+TABLES DES FIGURES & FICHES FOCUS   ¦  ¦
+TABLE DES 
+FIGURES
+TABLE DES 
+FICHES FOCUS
+Figure 1 : Les flux liés aux établissements de santé et médico-sociaux
+Figure 2 : Répartition des émissions de GES du secteur de la santé
+Figure 3 : Impacts du changement climatique sur les maladies rénales
+Figure 4 : Classification des différentes émissions de GES selon l’ADEME
+Figure 5 : Répartition des émissions du secteur de la santé en fonction des 3 
+scopes
+Figure 6 : Emissions de GES par poste d'émission au sein de l'ARTIC 42
+Figure 7 : Design d'un système de traitement d'eau en dialyse
+Fiche focus 1 : Renouveler les centrales de traitement d’eau
+Fiche focus 2 : Réutiliser l’eau de rejet de l’osmose inverse
+Fiche focus 3 : Réduire le débit de dialysat lors du traitement
+Fiche focus 4 : Construire un centre de dialyse passif (le cas du Centre 
+François Berthoux)
+Fiche focus 5 : Réaliser un catalogue produit en interne
+Fiche focus 6 : Acquérir un dispositif de banalisation des DASRI en DAOM
+Fiche focus 7 : Systématiser la démarche d'achat responsable
+Fiche focus 8 : Favoriser la distribution centralisée des concentrés d'acide
+5
+21
+22
+23
+29
+38
+39
+44
+46
+5
+6
+9
+10
+11
+18
+» 
+« 
+L’industrie a l’obligation, depuis plusieurs années, 
+de prendre toutes les mesures susceptibles de 
+réduire son empreinte environnementale. Le 
+secteur de la santé a initialement été préservé, 
+mais au vu de ses émissions de gaz à effet 
+de serre (GES), qui sont importantes (8 % de 
+l’émission de l’ensemble de la France), ces 
+exigences le concernent aujourd’hui. 
+La SFNDT, par son groupe Néphrologie verte, 
+a identifié la dialyse comme un traitement 
+à fort impact environnemental. 
+Son premier objectif, après la 
+réalisation du Bilan Carbone® de 
+plusieurs unités d’hémodialyse, 
+a été la rédaction de ce guide 
+de bonnes pratiques pour 
+une hémodialyse plus éco-
+responsable. Il permettra à la 
+communauté des néphrologues 
+de s’impliquer dès maintenant 
+dans le développement durable 
+de notre pratique médicale, 
+avant que les évolutions 
+institutionnelles nous y obligent.
+Ce guide est une première version et est 
+amené à évoluer. Il s’enrichira des retombées 
+de ses premières mesures, des expériences 
+que les néphrologues voudront bien nous 
+communiquer ainsi que des dispositions 
+réglementaires nouvelles. Il a été conçu 
+pour l’hémodialyse et surtout l’hémodialyse 
+en centre. Le groupe Néphrologie verte va 
+poursuivre son travail, suivant la même 
+démarche, avec la dialyse péritonéale et les 
+différentes modalités de l’hémodialyse, dont 
+le domicile. L’ambition est de proposer un 
+indicateur écologique dans le choix d’une 
+technique de dialyse, à côté de l’efficacité de 
+l’épuration ou encore de la qualité de vie du 
+patient. La robustesse de nos évaluations ne 
+sera suffisante que lorsque nous disposerons 
+de l’empreinte environnementale, en amont 
+du centre de dialyse, des dispositifs médicaux, 
+médicaments, etc., ce qui ne sera effectif que 
+dans 12 à 18 mois (pour le Bilan Carbone® dans 
+un premier temps). Nous imaginons déjà mettre 
+alors à votre disposition un « écodialyscore ». 
+Ce guide est essentiellement 
+consacré aux mesures 
+spécifiques à la dialyse mais 
+des liens utiles pour des actions 
+éco-responsables plus générales 
+sont listées en annexe.
+Comme vous le lirez dans le 
+guide, l’implication, la conviction 
+et la formation du personnel 
+soignant et non-soignant sont 
+fondamentales pour la réussite 
+de tels plans d’action. Tout le monde doit 
+participer et tout le monde peut participer. Il 
+y a tellement de choses à faire !
+Peu de spécialités médicales ont effectué ce 
+travail de pionnier et nous pouvons en être fiers. 
+Le groupe Néphrologie verte de la SFNDT
+L’implication, 
+la conviction 
+et la formation 
+du personnel 
+soignant et non-
+soignant sont 
+fondamentales
+AVANT-
+PROPOS
+¦ 1 ¦    AVANT-PROPOS 
+
+PARTIE 1
+Introduction
+Présentation de la 
+SFNDT
+La SFNDT (Société Francophone de Néphrologie 
+Dialyse Transplantation) est une société savante 
+spécialisée en néphrologie, ayant pour but de 
+faire reculer les maladies rénales. 
+Son implication dans l’acquisition de 
+connaissances, la diffusion des savoirs et dans 
+la recherche permet d’améliorer la prise en 
+charge des patients atteints de maladie 
+rénale, et leur offrir, au stade avancé, le 
+meilleur accès possible à la dialyse et à la 
+transplantation. 
+La SFNDT compte plus de 1200 néphrologues 
+adhérents, exerçant en France et dans toute 
+la Francophonie (Europe, Maghreb, Liban, 
+Afrique subsaharienne, Amérique du Nord, 
+Asie), mettant en commun les forces vives 
+de la néphrologie française et francophone, 
+en lien avec les associations de patients et 
+les autorités de santé.
+Pour encourager l’innovation et soutenir la recherche, la SFNDT a créé, en 2021, un Fonds de 
+Dotation dédié à la recherche en santé rénale. 
+Les 4 projets prioritaires financés grâce aux dons portent sur la recherche et la formation, la 
+qualité de vie des patients, la solidarité internationale et la néphrologie verte. 
+Ce dernier volet concerne plus particulièrement l’intégration des enjeux de développement 
+durable en dialyse, pratique de soin très consommatrice en eau, en énergie, productrice 
+de déchets et de GES. 
+Les principales missions 
+de la SFNDT :
+Former les néphrologues tout au long 
+de leur carrière, à travers des congrès 
+et des webinaires, des formations DPC 
+pratiques.
+Éclairer les pratiques et les parcours 
+de soins, grâce à des recommandations 
+et des publications, tels les livres blancs 
+de la dialyse à domicile en 2021 et 
+de la transplantation rénale en 2022. 
+Innover en soutenant la recherche 
+à trouver les traitements de demain, 
+avec des bourses, des appels d'offre 
+recherche et des Prix, destinés en 
+particulier aux jeunes praticiens. 
+PARTIE 1 - Introduction    ¦ 2 ¦
+Dans le but de promouvoir les bonnes 
+pratiques écologiques en dialyse, la SFNDT 
+a créé un groupe Néphrologie verte en 
+2020 ayant pour objectif l’évaluation des 
+impacts écologiques de la dialyse en France 
+et l’accompagnement à la transition vers des 
+pratiques plus sobres et durables.
+A ce titre, le groupe a décidé de déployer un 
+guide complet destiné aux centres de dialyse 
+(publics, privés et associatifs).
+Ce guide reprend les leviers d’action à 
+mettre en place pour réduire les impacts 
+environnementaux. Cependant, la démarche 
+RSE telle qu’on la conçoit aujourd’hui encourage 
+aussi à s’intéresser aux enjeux sociétaux et 
+sociaux. La crise que connaissent actuellement 
+les structures de soins nous pousse à ne pas faire 
+l’impasse sur cet aspect de l’activité de dialyse. 
+Ces enjeux ne sont pas traités en profondeur 
+dans cette première version du guide mais le 
+seront lors d’une actualisation ultérieure.
+La dialyse englobe différentes pratiques 
+et modalités de soins (dialyse péritonéale, 
+hémodialyse en centre lourd, allégé ou à domicile, 
+etc.), chacune ayant des contraintes propres 
+pour lesquelles il serait nécessaire de déployer 
+des actions adaptées. En effet, dépendant du 
+matériel utilisé, de la durée de traitement, de 
+la localisation du soin, etc., les impacts, directs 
+et indirects, ne sont pas similaires. Ce guide 
+se focalise en grande partie sur la pratique 
+d’hémodialyse en centre, même si plusieurs 
+des actions détaillées sont généralisables. 
+Il contient des éléments permettant de mieux 
+comprendre les enjeux de développement 
+durable des centres de dialyse, le contexte 
+réglementaire actuel et les enjeux associés à 
+son évolution, les méthodes d’évaluation des 
+émissions de GES et les leviers à activer pour 
+réduire leurs impacts. 
+Le travail engagé s’efforce de décrire un 
+ensemble d’actions à mettre en place, allant 
+des plus connues et faciles à déployer aux plus 
+innovantes, identifiées par les acteurs de la 
+« dialyse verte ». Ces actions peuvent être 
+coûteuses dans la phase initiale d’installation 
+mais elles sont souvent génératrices d’économies 
+dans le long-terme. Appuyé par des retours 
+d’expériences tirés d’actions clés et nourri 
+des contributions d’acteurs de la dialyse, 
+ce guide a pour ambition d’éclairer les 
+professionnels du secteur concernant les 
+enjeux de développement durable associés à 
+la dialyse et les guider dans le déploiement 
+d’actions adaptées. Il va conduire à la révision 
+des pratiques internes afin de les améliorer et 
+les faire progresser en fédérant l’ensemble des 
+équipes et des décideurs institutionnels, ainsi 
+que les patients. Dans cette optique, la SFNDT 
+s’inscrit dans une démarche écoresponsable 
+et montre le chemin pour la néphrologie 
+de demain.
+Présentation du guide
+Remerciements
+¦ 3 ¦    PARTIE 1 - Introduction
+PARTIE 1 - Introduction
+Ce travail a été entamé en mai 2022 par 
+Maryvonne Hourmant, présidente du groupe 
+de Néphrologie verte au sein de la SFNDT, en 
+collaboration avec le cabinet de conseil en 
+innovation durable, In Extenso Innovation 
+Croissance. De nombreux professionnels du 
+secteur de la dialyse ont contribué à l’écriture 
+et à la relecture du guide. Leur connaissance 
+du secteur a permis de mettre en avant les 
+enjeux liés à la dialyse verte, les principaux 
+freins et leviers à la transition. Les expériences 
+de chacun ont aidé à nourrir le guide par des 
+exemples d’actions concrètes à mettre en place 
+avec les retours d’expérience associés. 
+Nous tenons particulièrement à remercier 
+pour leur contribution active : 
+Didier Aguilera, Néphrologue, Centre 
+Hospitalier de Vichy
+Thierry Baranger, Néphrologue, Polyclinique 
+Bordeaux Nord Aquitaine, GBNA-Santé
+Alain Birbes, Formateur de l’Association des 
+Techniciens de la Dialyse
+Charles Chazot, Néphrologue. Directeur 
+médical de l’AURA Paris
+Karim Dardim, Pharmacien Gérant au sein 
+de l’association ALURAD
+PARTIE 1 - Introduction
+Hafsah Hachad, Néphrologue, Paris
+Fabrice Huré, Patient dialysé. Membre de 
+France-Rein Pays de La Loire
+Perinne Jullien , Néphrologue au sein du 
+centre de dialyse ARTIC 42
+Jocelyne Rey, Cadre Médico-Technique, Centre 
+de dialyse ARTIC 42
+Nous remercions également les personnes 
+suivantes ayant participé à la relecture 
+critique de ce guide :
+François Babinet, Néphrologue ECHO le 
+Mans, secrétaire de la SFNDT
+Mickael Bobot, Néphrologue, CHU de 
+Marseille. Membre du CJN
+Agnès Caillette-Baudoin, Néphrologue, 
+Association Calydial, Vienne
+Pierre Filipozzi, Néphrologue, membre de 
+l’Association St André et d’UNEOS (groupe 
+hospitalier associatif, Metz). Membre du CJN
+Aldjia Hocine, Néphrologue Clinique du Landy 
+à Saint Ouen. Présidente du CJN
+Catherine Lasseur, Néphrologue. Directrice 
+médicale de l’AURAD Aquitaine
+Cécile Legallais, Directrice de Recherche 
+CNRS à l’Université Technologie de Compiègne
+Hubert Métayer, Président de l’Association 
+des Techniciens de la Dialyse
+François Vrostsnik , Professeur de 
+Néphrologie, Hôpital Bichat Paris et vice-
+président de la SFNDT
+Par ailleurs, nous remercions Rudy Chouvel, 
+responsable du développement durable à la 
+FHF pour nous avoir permis de disposer des 
+webinaires de la FHF qu’il organise (voir partie « 
+Pour aller plus loin : structures à suivre, contacts 
+et liens utiles » à la fin du guide).
+PARTIE 1 - Introduction    ¦ 4 ¦
+Rappel sur les enjeux environnementaux, 
+sociaux et sociétaux des centres de dialyse
+Le système de santé au cœur des enjeux environnementaux 
+Le secteur de la santé est en première 
+ligne pour répondre au changement 
+climatique du fait de sa contribution 
+significative à la consommation des 
+ressources et des émissions de GES 
+associées qui favorisent la dégradation 
+du climat et de la biodiversité et 
+concourent à l’impact du changement 
+climatique sur la santé humaine.
+La lutte contre le changement climatique est un 
+enjeu international majeur nécessitant la mise 
+en place d’une transformation rapide de notre 
+société pour limiter ses impacts dévastateurs, 
+comme souligné dans le dernier rapport du 
+GIEC (groupe d’experts intergouvernemental 
+sur l’évolution du climat) publié en avril 2022.
+Les activités de soin, de première nécessité 
+pour l’ensemble des citoyens, ont des effets 
+importants sur l’environnement, encore trop 
+peu pris en compte aujourd’hui. Le système 
+de santé est au centre de nombreux flux 
+entraînant des contributions significatives sur 
+les émissions de GES, la pollution de l’air et de 
+l’eau, la consommation de ressources naturelles, 
+la production de déchets, etc. 
+¦ 5 ¦    PARTIE 1 - Introduction
+PARTIE 1 - Introduction
+L’ensemble des flux représentés sur la figure 1 
+sont responsables d’émissions de GES estimées 
+à plus de 46 millions de tonnes de CO2e, soit 
+près de 8% du total national, segmentés en 
+différents postes d’émissions comme présentés 
+dans la figure ci-contre.
+Figure 1 : Les flux liés aux établissements de 
+santé et médico sociaux
+Source :  Guide sectoriel des établissements 
+sanitaires et médico-sociaux à la réalisation d’un 
+bilan GES – ADEME
+Figure 2 : Répartition des émissions de gaz à effet de serre du secteur de la santé (MtCO2e)
+Source : Calculs The Shift Project 2021
+Par ailleurs, le dérèglement climatique nuit à 
+la santé humaine à travers des menaces tant 
+directes, associées à la hausse continue des 
+températures et des évènements climatiques 
+extrêmes (aggravation des inondations et des 
+sécheresses), qu’indirectes par la dégradation de 
+la qualité de l’air, la raréfaction des ressources 
+en eau, la baisse de la productivité agricole 
+ou encore la modification de l’épidémiologie 
+de nombreuses maladies infectieuses 1. La 
+dégradation de l’environnement est de nos 
+jours considérée comme un enjeu sanitaire 
+majeur responsable d’un nombre important 
+de décès et de pathologies chroniques dans 
+le monde (23% et 25% respectivement, d’après 
+l’OMS2). 
+L’augmentation du risque d’insuffisance rénale 
+aiguë ou chronique est une des conséquences 
+du changement climatique comme illustré 
+sur la Figure 3. Par ailleurs, les patients 
+souffrant de maladies rénales chroniques sont 
+également plus vulnérables aux menaces du 
+dérèglement climatique car ils sont souvent 
+âgés et présentent de multiples comorbidités, 
+notamment cardiovasculaires. 
+PARTIE 1 - Introduction
+PARTIE 1 - Introduction    ¦ 6 ¦
+Figure 3 : Impacts du changement climatique sur les maladies rénales3 
+Le secteur de la santé, comme les autres, doit 
+donc adopter une stratégie bas carbone pour 
+réduire son impact sur la dégradation du climat 
+et de la biodiversité et limiter sa contribution 
+à la dégradation de la santé de la population4.
+Le système de soin joue un rôle central dans la 
+transition écologique, et la mise en pratique 
+d’actions concrètes dans le secteur sanitaire 
+et médico-social est un levier puissant pour 
+créer la convergence nécessaire aux atteintes 
+des objectifs environnementaux et de santé 
+publique. L’augmentation de la température 
+globale, que les experts envisagent au-delà 
+de 1,5°C des accords de Paris, fait que notre 
+Le secteur de la santé est au cœur 
+d’un cercle vicieux : la dégradation 
+environnementale met fortement en 
+danger la santé des populations et le 
+système de soin dans sa globalité et 
+sa capacité à prévenir et soigner, qui 
+lui-même génère un impact écologique 
+significatif. 
+L’hémodialyse : un traitement à l’impact environnemental important
+En France, 55% des patients en Insuffisance 
+Rénale Chronique Terminale (IRCT) en 2019 
+sont en dialyse, soit près de 50 500 patients5. 
+L’hémodialyse, la modalité d’épuration la plus 
+utilisée (plus de 90% des patients dialysés, 
+soit environ 45 400 personnes), est associée 
+à une consommation importante en ressources 
+comme l’eau et l’électricité et engendre une 
+grande quantité de déchets.
+Consommation d’énergie : environ 2543 kWh/
+an/patient (à peu près la moitié de la consommation 
+d’un foyer, qui est de 4710 kWh/an) 
+Production de déchets : 1,7 à 2,5 kg/séance/
+patient soit 256 à 390 kg/an/patient (à comparer 
+aux plus de 580 kg de déchets ménagers produits 
+en France par habitant)
+Consommation d’eau  : environ 382 litres/
+séance/patient soit 60 000 litres/an/patient 
+(correspondant à la consommation moyenne 
+annuelle d’un français qui est de 59 130 litres/
+an). A noter qu’en moyenne 30 % de cette eau 
+est rejetée sans avoir été directement utilisée 
+pour le soin.
+Les chiffres clés de l’hémodialyse en France
+¦ 7 ¦    PARTIE 1 - Introduction
+PARTIE 1 - Introduction
+Plusieurs travaux focalisés sur le sujet ces 
+dernières années ont permis de modéliser 
+l’empreinte énergétique et écologique de 
+l’hémodialyse.
+Cinq études rapportant les résultats du bilan 
+de GES de centres de dialyse sont présentées 
+dans le tableau ci-dessous.
+Référence Pays, 
+année
+Caractétistiques 
+de la structure
+Émissions 
+patient/an
+3 principaux postes 
+d’émission et % du total
+Connor et al.6 Angleterre, 
+2008
+Angleterre, 2008 
+Unité de dialyse de 
+l’hôpital de Dorset. 
+225 patients en HD 
+et 54 patients en DP
+7,1 tCO2e
+Achats de biens et services : 
+46,7 %
+Transport patients et 
+personnels : 25,8 %
+Électricité et chauffage : 
+14,2 %
+Lim et al.7 Australie, 
+2011
+Unité de dialyse 
+de la banlieue de 
+Victoria. 
+12 patients en HD 
+(3 séances de 4h/
+semaine)
+10,2 tCO2e
+Consommables, dispositifs 
+médicaux : 59 %
+Électricité et chauffage : 
+18,6 %
+Transport patients et 
+personnels : 8,8 %
+Mtioui et al.8 Maroc, 2019
+Unité de dialyse du 
+CHU de Casablanca 
+80 patients en HD 
+(3 séances de 4h/
+semaine)
+5,1 tCO2e
+Électricité : 28 %
+Achats de biens et services 
+: 27 %
+Transport patients et 
+personnels : 22 %
+Segfal et al.9 Etats-Unis, 
+2020
+15 centres en Ohio
+13 965 séances d’HD 
+par centre 
+3,8h en moyenne 
+par séance
+8,6 tCO2e
+Électricité et gaz naturel : 
+42,6 %
+Transport patients et 
+personnels : 28,3 %
+Gestion des déchets : 17,6 % 
+Hafsah Hachad 
+(communication 
+orale SFNDT)
+France, 2022
+Centre de dialyse 
+Charles de Gaulle de 
+l’ARTIC 42
+162 patients
+25270 séances 
+(centre lourd 89%)
+8,9 tCO2e
+Achats de biens et services : 
+30 %
+Transport patients et 
+professionnels : 25 %
+Immobilisations : 21 %
+Tableau 1 : Comparaison des études sur l’évaluation de l’empreinte carbone de l’hémodialyse. 
+HD : Hémodialyse ; DP : Dialyse péritonéale
+Ces études mettent en avant l’impact de 
+l’hémodialyse sur les émissions de GES, avec 
+trois postes d’émissions qui ressortent comme 
+les plus importants : l’achat de biens et de 
+services (consommables et médicaments), 
+le transport des patients et des personnels, 
+et la consommation d’énergie (électricité et 
+chauffage). L’étude nord-américaine souligne 
+la grande variabilité des bilans GES des centres 
+de dialyse, même lorsqu’ils appartiennent à la 
+même zone géographique, ce qui suggère que 
+chaque centre doit entreprendre son propre 
+bilan.
+Limiter les émissions de GES liées à 
+la dialyse est donc un enjeu majeur 
+du secteur de la santé, nécessitant 
+la révision des pratiques actuelles et 
+le déploiement de nouvelles façons 
+de faire pour se diriger vers une 
+démarche de « dialyse de plus en plus 
+éco-responsable ». 
+PARTIE 2
+Les bonnes pratiques
+Réaliser son bilan de gaz à effet de serre 
+PARTIE 2 - Les bonnes pratiques    ¦ 8 ¦
+Définition et intérêt de réaliser un bilan de gaz à effet de serre
+Un bilan d’émission de gaz à effet de serre 
+ou bilan GES (BEGES) est une évaluation de 
+la quantité de gaz à effet de serre émise (ou 
+captée) dans l’atmosphère sur une année 
+par les activités d’une organisation ou d'un 
+territoire. 
+Ce type de bilan permet d’identifier les principaux 
+postes d’émission et d’engager une démarche 
+de réduction concernant ces émissions par 
+ordre de priorité.
+Ces émissions de GES sont communément 
+classées selon 3 « scopes » (ou périmètres) : 
+les émissions directes font partie du scope 1, 
+les émissions indirectes liées à la production 
+de l’énergie consommée du scope 2, et les 
+autres émissions indirectes liées à la chaîne 
+de valeur (déplacement des salariés, achat de 
+matières premières ou de services, transport 
+sous-traité, gestion des déchets, fin de vie des 
+produits, etc.) du scope 3. 
+La nomenclature actuelle ne fait plus référence 
+aux « scopes ». Le Bilan Carbone® lui-même 
+devrait être remplacé par l’analyse du cycle 
+de vie (ACV). 
+Deux types d’émissions sont considérées 
+dans un BEGES :
+Les émissions directes de GES, directement 
+générées par une entité sur son site : 
+combustion d’énergie fossile par une 
+machine, réactions chimiques, transport 
+géré en propre, etc.
+Les émissions indirectes de GES , qui 
+peuvent être liées à la production de 
+l’énergie consommée, au transport des 
+produits et personnes, aux matières 
+premières achetées en amont, et aux 
+produits vendus en aval.
+Les résultats sont exprimés en tonne 
+équivalent dioxyde de carbone notée tCO2e. 
+L’analyse du cycle de vie est l'outil le plus abouti 
+en matière d’évaluation globale et multicritère 
+des impacts environnementaux. Cette méthode 
+normalisée (normalisation internationale ISO 
+14040 à 14043) va au-delà du Bilan Carbone® 
+qui ne mesure que l’émission de GES et permet 
+de mesurer les effets quantifiables des produits 
+ou des services sur l’environnement.  
+¦ 9 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Figure 4 : Classification des différentes émissions de GES selon l’ADEME.
+PARTIE 2 - Les bonnes pratiques
+Des centres de dialyse ont réalisé des bilans 
+GES et les données sont accessibles dans la 
+littérature. Il est possible de capitaliser sur les 
+résultats obtenus afin de rapidement identifier 
+les postes d’émissions les plus importants et 
+mettre en place des actions concrètes (tableau 
+1).
+Cela permettrait de déployer rapidement un 
+plan d’actions à l’échelon de l’établissement, 
+du centre de dialyse et de l’individu. Toutefois, 
+plusieurs limites relatives aux données dont 
+nous disposons actuellement dans la littérature 
+sont à prendre en compte : ces données 
+sont anciennes (2 des 5 articles de référence 
+datent de près de 10 ans) réduisant ainsi la 
+validité de ces études. En effet, les pratiques 
+médicales évoluent significativement avec le 
+temps et les procédés industriels produisant 
+les consommables changent11.
+De plus, les différences de pratiques entre pays 
+(sources énergétiques par exemple), et entre 
+différents centres d’un même pays, limitent 
+l’utilisation de ces données comme références 
+de bilans GES d’un centre de dialyse. 
+De ce fait, il sera plus judicieux, pour un 
+établissement, de réaliser son propre bilan 
+GES si celui-ci dispose des moyens et des 
+capacités nécessaires.
+Pour effectuer son bilan GES en interne, un 
+établissement peut : 
+• Nouer un partenariat avec une université 
+ou école d’ingénieurs : auquel cas des 
+étudiants, encadrés par des professeurs 
+formés, auront pour mission de réaliser 
+le BEGES de l’établissement.
+• Utiliser des outils standardisés « clé en 
+main » qui réalisent les calculs en ligne. 
+Selon le Shift Project, 87% des émissions du 
+secteur de la santé sont liées au scope 310.
+La méthode Bilan Carbone® (marque déposée 
+de l’Association pour la transition Bas Carbone, 
+depuis que l’ADEME lui en a cédé les droits) est 
+une approche (parmi plusieurs autres dont le 
+GHG protocole par exemple) de bilan d’émissions 
+de GES, qui comptabilise les émissions de GES 
+de l’ensemble des activités d’une organisation 
+en identifiant ses postes d’émissions significatifs 
+afin d’initier des plans d’action de réduction, dans 
+une démarche d’amélioration continue. Pour 
+calculer les GES, il est nécessaire de convertir 
+les données d’activité en émissions de GES : 
+cela se fait à travers l’utilisation de facteurs 
+d’émission. Ils correspondent donc au taux 
+d’émission moyen d’une activité spécifique 
+établi dans une situation donnée. Ces facteurs 
+d’émission présentent cependant certaines 
+limites dues à la représentativité du facteur 
+d’émission (en fonction des techniques utilisées, 
+des lieux géographiques, des temporalités, 
+des échantillons utilisés, etc.) et donc de la 
+catégorisation des activités et des simplifications 
+méthodologiques associées.
+Figure 5 : Répartition des émissions du secteur 
+de la santé en fonction des 3 scopes (MtCO2eq)
+Points méthodologiques : les différentes approches pour effectuer son bilan GES
+Capitaliser sur l'existant
+Réaliser son bilan GES en interne
+PARTIE 2 - Les bonnes pratiques    ¦ 10 ¦
+ZOOM SUR :+
+¦ 11 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Néanmoins, ces outils prennent rarement 
+en compte le scope 3, pourtant associé à 
+la majorité des émissions du secteur de la 
+santé. Il reste également nécessaire de se 
+former a minima sur les contours du BEGES.
+• Accéder aux formations payantes proposées 
+par l’Institut de Formation Carbone aux outils 
+développés par l’ADEME pour être formé 
+à réaliser son Bilan Carbone®. 
+L’ADEME a réalisé un guide sectoriel à destination 
+des établissements sanitaires et médico-sociaux 
+pour les guider dans la réalisation de leur 
+BEGES12.
+L’ARTIC 42, l’association Régionale pour le Traitement de l’Insuffisance rénale Chronique 
+de la Loire, a réalisé son Bilan GES en interne en mars 2022. L’ARTIC 42 s’est basée sur la 
+démarche Bilan Carbone® développée par l’ADEME et l’Association Bilan Carbone® 
+(ABC) après adaptation aux spécificités du secteur grâce à une collaboration entre une 
+néphrologue et un ingénieur du SHIFT PROJECT. Le recueil de données a été réalisé 
+par des étudiants de l’ECAM La Salle LYON. 
+Le chantier a été lancé en octobre 2021 et finalisé en mars 2022. L’analyse des données 
+concernait l’activité sur l’année 2021 du Centre Charles De Gaulle de l’association ARTIC 
+42 situé dans la commune de Saint-Priest en Jarez et assurant une activité d’hémodialyse 
+répartie sur 48 postes de centre lourd et 8 postes d’entrainement (En 2021 : 162 patients, 
+25270 séances d’hémodialyse. Centre lourd 89 % de l’activité).
+Figure 6 : Emissions de GES (en Tonnes CO2e/an) par poste d'émission au sein de l'ARTIC 42
+
+ZOOM SUR :+
+¦ 12 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Plusieurs cabinets proposent un accompagnement 
+à la réalisation d’un bilan GES.  Faire appel à 
+un prestataire peut être avantageux pour un 
+établissement car l’investissement humain à 
+fournir est moindre et le temps de calcul du 
+BEGES sera généralement plus court. 
+Cette méthode est néanmoins plus onéreuse 
+comparée à la réalisation de son bilan GES en 
+interne. 
+Réaliser son bilan avec
+un prestataire spécialisé
+QU’EN DIT LA RÉGLEMENTATION ?
+A l’échelle mondiale, le Protocole de Kyoto est devenu le point de départ de la maîtrise des 
+émissions de GES. Ce protocole, dont l’échéance initiale était l’année 2012, a impulsé de 
+nombreuses normes, bonnes pratiques et réglementations autour du bilan des émissions 
+de GES.
+En France, depuis 2007, le Grenelle de l’Environnement a permis d’engager un processus de 
+concertation avec toutes les parties concernées par les problématiques environnementales. 
+Le décret n° 2011-829 du 11 juillet 2011 se rapportant à l’article 75 de la loi Grenelle 2 
+matérialise les engagements nationaux en faveur de la prise en compte des émissions de 
+GES aussi bien pour les entreprises publiques et privées que les collectivités territoriales.
+Cette réglementation s’adresse aux personnes morales de droit public d’un établissement 
+de plus de 250 personnes, aux personnes morales de droit privé de plus de 500 personnes 
+(250 dans les DOM) et aux collectivités de plus de 50 000 habitants.
+Ces résultats confirment le fort impact 
+carbone associé à l’hémodialyse en centre 
+avec une première estimation des émissions 
+de GES à 8,9 tCO2e/patient/an soit 57 kg CO2e/
+séance.
+Par comparaison, l’empreinte carbone d’un 
+français est en moyenne de 9tCO 2/an13. Les 
+émissions sont essentiellement indirectes. Les 
+principaux postes émetteurs sont : les achats 
+de produits et services (30%), les déplacements 
+des patients et des professionnels (25%), les 
+immobilisations (21%). Les consommations 
+d’énergie (notamment électricité) ainsi que le 
+traitement de déchets sont responsables d’une 
+part relativement faible des émissions (14%).
+Ces résultats, associés à ceux de la littérature 
+internationale (Tableau 1), montrent que le 
+poste d’émission lié à la consommation 
+d’énergie est le plus variable représentant 
+8 à 42% des bilans GES réalisés en centre 
+de dialyse.
+Les différences de mix électrique, défini comme 
+la répartition des sources d'énergie utilisées dans 
+la production d'électricité d’un pays, expliquent 
+les écarts observés pour les résultats de l’étude 
+française. En effet, la production d’électricité 
+en France est dominée par des sources bas-
+carbone qui génèrent plus de neuf dixième 
+de la production (nucléaire et hydraulique 
+majoritairement). 
+La réalisation de ce bilan GES va permettre 
+à l’ARTIC 42 de mettre en place des feuilles 
+de route sur les actions à déployer en priorité 
+afin de réduire les postes d’émissions les plus 
+importants. 
+¦ 13 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Cette réglementation demande aux établissements publics et privés de mettre en œuvre une 
+politique de management carbone, dans l’objectif que chacun prenne conscience de sa 
+dépendance aux GES et mette en place des actions de réduction de sa vulnérabilité aux 
+énergies fossiles. Ainsi, l’obligation de réalisation d’un bilan d’émissions de GES a été le point 
+de départ des démarches bas carbone des organisations. 
+Remarque : les personnes morales sont identifiées par le numéro SIREN. Une entité peut être 
+divisée en plusieurs établissements et ainsi posséder plusieurs numéros SIRET mais qui sont 
+tous rattachés à un unique numéro SIREN. 
+La loi n° 2015-992 du 17 août 2015 relative à la Transition Energétique pour la Croissance Verte 
+(LTECV) a fait évoluer les textes dans l’objectif de mettre en place des mesures pour atténuer les 
+émissions de GES et s’adapter au changement climatique : les bilans d’émissions GES réglementaires 
+doivent s’accompagner d’une publication du bilan sur le site de l’ADEME14, et la fréquence de 
+réalisation est passé à 4 ans au lieu de 3 ans pour les personnes morales. 
+Plus récemment, la loi n°2019-1147 du 8 novembre 2019 relative à l’énergie et au climat (LEC), 
+et en parti¬culier son article 28, a apporté des modifications concernant la réalisation des Bilans 
+GES règlementaires : 
+• La synthèse des actions de réduction envisagées est remplacée par un plan de transition qui 
+précise son contenu. La deuxième étape du Bilan Carbone® doit donc être plus détaillée car 
+l’entreprise doit préciser quels moyens, actions et objectifs elle envisage de mettre en place.
+• Les collectivités peuvent intégrer leur Bilan GES dans le Plan Climat Air Ener-gie Territoire 
+(PCAET) qui les couvre et être ainsi exonérées de sa publication sépa-rée. 
+• Les entreprises soumises à la Déclaration de Performance Extra-Financière (DPEF) peuvent 
+être dis¬pensées de l’élaboration du plan de transition si les informa-tions correspondantes 
+figurent dans cette déclaration DPEF. 
+• La sanction maximale en cas de non-réalisation est portée à 10 000 euros, et 20 000 euros 
+en cas de récidive, contre 1 500 euros jusqu’à présent. 
+Les dispositions législatives relatives aux Bilans d’Emissions de GES sont inscrites à l’article L. 
+229-25 du code de l’environnement. Les articles R. 229-45 à R. 229-50-1 viennent préciser les 
+modalités d’application du dispositif. Ces articles réglementaires ont fait l’objet d’une modification 
+par Décret n° 2022-982 du 1er juillet 2022.
+A compter du 1er janvier 2023, les entreprises soumises à la déclaration de performance extra-
+financière devront obligatoirement intégrer les émissions indirectes significatives qui découlent 
+des opérations et activités, de l'usage des biens et services qu'elle produit (scope 3) dans son 
+bilan d’émissions de GES. Pour les autres, le scope 3 reste optionnel mais est recommandé15.
+Cette modification de réglementation est importante pour les établissements sanitaires 
+et médico-sociaux dont le bilan GES obtenu n’est représentatif du fonctionnement de 
+l’organisation que s’il prend en compte les émissions du scope 3, nécessaire pour évaluer 
+l’impact carbone de l’ensemble du fonctionnement de l’établissement.
+¦ 14 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Élaborer une stratégie développement durable 
+ou RSE et embarquer en interne 
+Stratégie RSE – définition 
+La Responsabilité Sociétale des Entreprises (RSE) 
+est définie par la Commission européenne 16  
+comme l'intégration volontaire par les 
+acteurs de préoccupations sociales et 
+environnementales à leurs activités et 
+leurs relations avec les parties prenantes. 
+Elle peut ainsi être appréhendée comme la 
+contribution des établissements aux enjeux du 
+développement durable. Elle peut se nommer 
+stratégie RSE ou stratégie Développement 
+Durable (DD). Il convient d’intégrer cette 
+stratégie RSE ou DD à la stratégie globale de 
+l’établissement afin que les deux n’existent pas 
+indépendamment l’une de l’autre. Pour faciliter 
+la mise en place d’une stratégie RSE ou stratégie 
+DD dans un établissement, il est recommandé 
+de procéder selon 5 étapes. 
+Au-delà des exigences légales, se lancer dans 
+une stratégie DD nécessite un engagement et 
+une implication forte de la part de la direction, 
+dont l’adhésion légitime la démarche et qui 
+est la seule à pouvoir décider d’investissements 
+financiers par exemple. 
+Sans cet engagement et sans une conviction 
+réelle de l’intérêt environnemental, social et 
+économique d’une telle stratégie, elle pourrait 
+être reléguée au second plan à chaque contrainte 
+ou difficulté.
+En effet, même si la stratégie est parfois 
+coûteuse dans sa phase de mise en place et 
+mobilise une partie du personnel, elle répond à 
+une sensibilité croissante de la société vers de 
+nouveaux modes de gestion ou consommation.
+Selon la taille de l’établissement, il est 
+recommandé de nommer une personne 
+référente pour assurer la coordination des 
+services et le suivi de la stratégie en appui 
+à la direction . Il s’agit d’un rôle de conduite 
+de projet qui permette à chaque responsable 
+de service de se fixer des objectifs, proposer 
+des actions et de déployer la stratégie au sein 
+de ses équipes. 
+Chaque établissement choisira l’organisation 
+de travail en fonction de ses caractéristiques 
+propres. Des groupes de travail thématiques, 
+de préférence multi professionnels, pourront 
+être mis en place par exemple, animés par 
+la personne référente, fixant les objectifs à 
+atteindre et se réunissant régulièrement pour 
+restituer l’avancée des résultats des projets. 
+Un système visant à faire remonter les 
+propositions du personnel vers la direction peut 
+également être organisé sous différentes formes 
+(fiches, tableau dans la salle du personnel, 
+cahier, etc.).
+Des points d’information pour tenir informé 
+l’ensemble du personnel des actions réalisées 
+peuvent être réalisés de façon à augmenter 
+la motivation et l’engagement du personnel.
+Des membres des groupes de travail 
+peuvent aller au-delà en jouant le rôle 
+d’ambassadeurs, incarnant la démarche 
+1. Engagement de l’établissement : engagement de la direction et du personnel
+1. 2. 3. 4. 5.
+ZOOM SUR :+
+¦ 15 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+et incitant, par leur communication, leurs 
+collègues à adhérer. Les patients doivent 
+aussi bénéficier de cette communication 
+sur les actions de développement durable 
+et il est même souhaitable qu’ils soient 
+représentés dans les groupes de travail.
+La validation par les « autorités », direction, CLIN, 
+etc., ne peut que renforcer la légitimité de l’action 
+des groupes de travail.  L’adhésion et la pérennité 
+d’une telle stratégie de Développement Durable 
+repose donc grandement sur l’instauration d’un 
+dialogue entre la direction, les médecins et le 
+personnel, que les réponses apportées aux 
+suggestions soient positives ou non. S’appuyer 
+sur les ressources internes afin qu’elles 
+soient force de proposition pour enrichir les 
+pratiques sont autant de pratiques valorisantes 
+et fédératrices.
+La démarche écologique doit être une démarche 
+forte, constamment présente. Tous les projets 
+de l’établissement doivent être vus sous l’angle 
+du développement durable. Cet engagement 
+peut augmenter l’attractivité d’un poste de 
+médecin, d’infirmier, technicien, etc.
+La communication externe, au-delà du service 
+ou de l’établissement, est aussi un élément à 
+mettre en place.
+À l’ARTIC 42 la commission « C2D ou Commission Développement Durable » est composée 
+de 16 professionnels pluridisciplinaires. On y trouve 2 pilotes (un médecin et une cadre 
+médicotechnique) qui travaillent en lien étroit avec la directrice et le président de l'association. 
+On y trouve également des professionnels de terrain : une cadre de santé, des IDE (infirmiers en 
+soins généraux), des aides-soignants (AS), le service d'entretien des bâtiments, la pharmacienne 
+ou encore la diététicienne. Ainsi, chaque professionnel de terrain est susceptible de faire 
+remonter ses idées et remarques au référent identifié, qui lui-même les communique 
+aux pilotes lors des temps de travail mis en place régulièrement. De la même façon, les 
+décisions prises et objectifs fixés par la commission se retrouvent sur le terrain par leur 
+intermédiaire ce qui permet d'être plus efficace.
+Des journées spécifiques sont mises en place afin de communiquer aux personnels et aux 
+patients les différents travaux mis en œuvre et surtout les résultats obtenus. 
+Le diagnostic permet d’évaluer la situation 
+initiale de l’établissement afin de déterminer les 
+points forts et les pistes de progrès sur lesquelles 
+avancer. Plusieurs dispositifs existent pour 
+réaliser son diagnostic RSE : 
+1. S’appuyer sur des labels RSE qui proposent 
+des questionnaires d’auto-évaluation (label 
+Lucie, label Positive WorkPlace, etc.)
+2. Faire appel à des structures spécialisées qui 
+pourront vous aider à réaliser un diagnostic 
+approprié à vos enjeux et activités 
+Si possible, réaliser un diagnostic par un tiers 
+est gage d’objectivité. Il pourra se déplacer 
+dans vos locaux et interroger certaines de vos 
+parties prenantes internes (direction, personnel 
+de plusieurs services, patients) pour attester 
+et visualiser les actions déjà en place ou non. 
+Il pourra également compléter le diagnostic en 
+interrogeant des parties prenantes externes à 
+l’établissement (des fournisseurs, collectivités 
+territoriales, centrales d’achat, associations, 
+etc.) afin d’obtenir une vision plus large de 
+vos impacts et des enjeux associés sur votre 
+territoire. 
+Un exemple de grille permettant le diagnostic 
+de l’établissement est disponible en annexe. 
+2. Diagnostic de l’état initial
+RETOUR D'EXPÉRIENCE
+¦ 16 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+À partir des données collectées lors du diagnostic 
+initial, la personne référente, la direction 
+ainsi que toutes personnes impliquées dans 
+la démarche établissent les plans d’actions à 
+mettre en place.
+Tous les sujets ne pouvant être menés de front 
+simultanément, il est nécessaire de prioriser 
+3 à 5 chantiers principaux sur l’année 
+en fonction des ressources disponibles 
+(ressources humaines et financières). 
+L’établissement pourra sélectionner les enjeux 
+prioritaires en fonction de sa matérialité, c’est-à-
+dire des enjeux caractéristiques de son activité.
+Pour la dialyse, il s’agit notamment des 
+enjeux liés à l’énergie, l’eau et les déchets 
+(en relation avec le choix des modalités de 
+dialyse) d’un point de vue environnemental, 
+mais aussi les enjeux liés au bien-être 
+des patients ou encore à l’implication du 
+personnel dans le projet de l’établissement 
+pour les enjeux sociétaux et sociaux. 
+Il est également pertinent de juger prioritaires 
+des actions faciles et rapides qui permettent 
+d’atteindre des objectifs quasiment 
+instantanément, source de motivation et 
+satisfaction pour les équipes.
+La direction doit également valider le budget 
+annuel des dépenses dont elle souhaite disposer 
+afin de mener à bien les différents projets de 
+l’année. 
+Le plan d’action est composé de feuilles de 
+route, a minima pour chacun des chantiers 
+prioritaires, qui définissent : les actions 
+concrètes, le calendrier associé, les ressources 
+financières et humaines engagées, et les 
+objectifs visés.
+Ces feuilles de route permettent de suivre dans 
+le temps l’avancée des chantiers et sert d’outil 
+de pilotage à la direction.
+3. Elaboration d’un plan d’action et de feuilles de route
+La mise en place du programme d’action est 
+supervisée et coordonnée par la personne 
+référente de la stratégie DD.
+Selon la taille de l’établissement, chaque 
+responsable de service ou chaque salarié gère 
+des actions, en lien avec la stratégie DD, relatives 
+à ses activités. 
+En parallèle, la sensibilisation de l’ensemble 
+du personnel (soignant et non soignant) est 
+primordiale pour assurer un bon déploiement 
+de la démarche.
+L’engagement du personnel permettra 
+d’atteindre les résultats attendus et d’inscrire 
+la démarche environnementale dans la durée et 
+dans le projet de l’établissement. La démarche 
+est créatrice de dynamiques vertueuses 
+puisque l’aboutissement d’une action procure 
+le plus souvent un sentiment de satisfaction 
+qui sera moteur pour les équipes afin qu’elles 
+puissent continuer de s’investir.
+L’ensemble des actions mises en œuvre va 
+également servir à sensibiliser les patients, 
+fournisseurs et autres parties prenantes, et 
+ainsi favoriser l’émergence de comportements 
+vertueux pour l’environnement dans 
+l’écosystème global de la dialyse. 
+4. Déploiement des actions et motivation des équipes
+5. Suivi d’indicateurs-clés
+Cette dernière étape a pour objectif de s’assurer 
+de la bonne mise en œuvre des actions 
+et de pouvoir en quantifier les bénéfices 
+économiques et environnementaux.
+Il conviendra alors de définir des indicateurs 
+clés de suivi afin de maîtriser l’avancement 
+des actions et valoriser les engagements de 
+l’établissement.
+Ces indicateurs peuvent être couplés aux 
+éventuels objectifs que l’établissement peut 
+se fixer (objectifs de réduction des déchets ou 
+de consommation d’eau, objectifs d’adhésion 
+des salariés, etc.).
+¦ 17 ¦    PARTIE 2 - Les bonnes pratiques
+PARTIE 2 - Les bonnes pratiques
+Exemples d’indicateurs clés :
+La mesure des 
+consommations 
+d’énergie, d’eau et de 
+produits détergents/
+désinfectants
+Le suivi des déchets 
+(DASRI, DAOM, 
+recyclables, etc.) 
+La mesure de la 
+satisfaction des 
+patients à travers une 
+enquête
+PARTIE 3
+Les leviers d’action
+Les leviers d’action permettant de réduire sa 
+consommation d’eau 
+PARTIE 3 - Les leviers d'action    ¦ 18
+En Australie, il a été calculé que la réutilisation 
+de l’eau rejetée par l’osmose inverse de la dialyse 
+pourrait couvrir 2 % de l’eau consommée par 
+les hôpitaux.
+Un très grand volume d’eau est nécessaire à 
+la fabrication d’un dialysat ultra-pur, tel que 
+défini par la pharmacopée. La préparation du 
+dialysat se fait dans les centres, suivant un pré-
+traitement rigoureusement défini et comprenant 
+des étapes successives aboutissant à une eau 
+déminéralisée.
+L’épuisement de nos ressources en eau 
+devient une menace pour le bien-être de 
+l’ensemble de la population et l'utilisation 
+de l'eau pour les soins de santé contribue 
+considérablement à l'épuisement de cette 
+ressource.
+L'hémodialyse est une des pratiques 
+médicales les plus consommatrices 
+en eau17. 
+Vous trouverez ci-après les différentes thématiques traitées avec, pour chaque thématique, 
+une introduction générale suivie d’actions à mettre en œuvre au sein de votre organisation. 
+Figure 7 : Design d'un système de traitement d'eau en dialyse18
+Raw water
+Pretreatment Reverse 
+osmosis
+Pure water loop
+Dialysate effluent
+Reject water
+
+¦ 19 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+L’osmose inverse est une étape cruciale de ce 
+traitement, car elle retient, par une membrane 
+très peu perméable, les ions naturellement 
+présents dans l’eau de ville et ceux issus du 
+passage dans les résines. 
+Un volume important d’eau est rejeté 
+directement à l’égout par cette technique, 
+pouvant varier suivant les centres (et 
+l’utilisation d’un principe simple osmose/
+bi-osmose) de 30 à 50 % du volume consommé 
+selon l’ancienneté de l’installation. 
+Le dialysat, contenant des électrolytes à une 
+concentration voisine de celle du plasma, sera 
+utilisé pour épurer le sang du patient grâce 
+à des échanges au travers d'une membrane 
+semiperméable.
+Ce dialysat circule en boucle ouverte. Une 
+fois chargé des substances capables de 
+diffuser au travers de la membrane (toxines 
+urémiques, petites et moyennes molécules, 
+médicaments, etc.), il est également rejeté 
+à l’égout. 
+De nouvelles stratégies permettant de limiter 
+la consommation en eau lors des traitements 
+de dialyse et de promouvoir la réutilisation de 
+l'eau doivent être implémentées dans chaque 
+centre de dialyse.
+Cependant, avant de se lancer dans des 
+travaux possiblement onéreux, il est nécessaire 
+de réaliser un « audit de l’eau » prenant en 
+compte le bénéfice attendu (le volume d’eau 
+récupérable, fonction entre autres de la taille 
+de l’unité de dialyse), les usages possibles et 
+le coût de l’installation.
+Nous recommandons la lecture du « Handbook 
+for Reusing or Recycling Reverse Osmosis Reject 
+Water from Haemodialysis in Healthcare Facilities 
+» Australien.
+Sept niveaux d'économies potentielles de 
+l’eau ont été identifiés, repris dans les actions 
+proposées ci-dessous. Les grands principes qui 
+les sous-tendent sont de réduire, recycler, 
+réutiliser.
+Liste d'actions Mise en
+oeuvre
+Actions transverses
+Installer des doubles chasses d’eau dans les toilettes.
+Installer des détecteurs automatiques aux robinets d’eau ou des mousseurs/
+aérateurs d’eau.
+Récupérer l’eau de pluie pour arroser les plantations extérieures.
+Suivi de sa consommation
+Mettre en place des compteurs divisionnaires pour identifier la consommation 
+d’eau qui revient à la dialyse et rapporter les données à la séance de dialyse.
+Envisager l’installation de compteurs sur la partie prétraitement de l’eau afin 
+d’optimiser les consommations d’eau à ce niveau du procédé.
+Renouveler les utilités de traitement d’eau et optimiser leur maintenance
+Limiter au maximum l’injection éventuelle de désinfectant, la chloration 
+permanente ou temporaire, ou la désinfection périodique du dispositif suivi d’un 
+rinçage à l’eau car cette eau est perdue.
+Renouveler les centrales de traitement d’eau.
+Optimiser les fréquences de régénération des adoucisseurs, charbons actifs, 
+filtres à sable, désinfections thermiques nocturnes et flushs afin de ne conduire 
+ces actions que lorsque nécessaire.
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Réduire Réutiliser Recycler
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 20 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Limiter la perte d’eau rejetée par osmose inverse
+Optimiser le taux de conversion des osmoseurs
+L’amélioration du taux de conversion des osmoseurs peut se faire par limitation 
+du débit de rejet de l’osmoseur. Deux solutions sont utilisées pour limiter le débit 
+de rejet :
+1. Réinjection d’une partie du rejet à l’entrée de l’osmoseur. La modulation 
+du débit de rejet recyclé est assurée par une vanne motorisée pilotée 
+automatiquement.
+2. Réinjection de l’eau osmosée non utilisée par les appareils de dialyse à l’entrée 
+de l’osmoseur. 
+La qualité de l’eau d’alimentation de l’osmoseur est ainsi améliorée par l’injection 
+d’eau osmosée non utilisée. Le volume d’eau osmosée non utilisée varie selon le 
+nombre de générateurs en fonctionnement. Il est donc nécessaire de moduler 
+le débit de rejet, soit selon le débit d’eau osmosée non utilisée et réinjectée, soit 
+par la mesure de la conductivité (ou résistivité) de l’eau à l’entrée de la membrane 
+d’osmose ou/et au niveau du rejet. 
+Changer de dispositif de traitement d’eau pour des nouveaux équipements 
+permettant d’économiser plus d’eau. Le disconnecteur doit être maintenu en 
+parfait état de façon à éviter la perte d’eau à l’égout. Le filtre à sable, adoucisseurs 
+et charbons actifs éventuel doit être parfaitement calibré de façon à optimiser 
+ses cycles de lavage et le débit d’eau de lavage rejetée à l’égout. 
+Réduire le débit de dialysat 
+Modifier le débit du dialysat administré pour réduire la consommation d’eau, de 
+concentré d’acide et de bicarbonate19. 
+Réutiliser l’eau rejetée
+Réutiliser l’eau rejetée par osmose inverse, qui a une salinité modérée (de 1,5 
+à 3 g/l max) pour alimenter les sanitaires, les piscines de services de rééducation 
+dans les hôpitaux, la buanderie, l’arrosage des espaces verts, l’agriculture de 
+proximité, etc. Il est à noter que, suivant l’utilisation envisagée, il sera peut-être 
+nécessaire de traiter ou diluer cette eau pour réduire la salinité et répondre aux 
+normes et recommandations20. 
+Réutiliser le dialysat rejeté
+Un volume de quelques litres d’eau peut être suffisant pour réaliser une séance 
+d’hémodialyse par cette technique, comme l’a montré l’expérience avec le REDY® 
+(6 litres par dialyse, 21 ans d’utilisation, 6 millions de séances, abandon en raison 
+d’intoxication à l’aluminium liée à la cartouche).
+Le principe est celui de la régénération du dialysat par passage à travers une 
+cartouche à sorbents. Cette méthode permet d’épurer le dialysat par adsorption, 
+absorption et échange ionique. Ses inconvénients sont l’élimination de certains 
+ions, calcium, magnésium et potassium, et l’augmentation de la concentration 
+en ions sodium due à l’échange d’ions au niveau de l’oxyde de Zirconium et du 
+carbonate de Zirconium. Actuellement, cette méthode est utilisée dans le WAK 
+(Wearable Artificial Kidney). De nouvelles machines basées sur ce principe sont 
+en cours d’évaluation21. 
+Réutiliser le dialysat rejeté, notamment pour l’agriculture, après dilution ou 
+électrodialyse. Des recherches supplémentaires sont nécessaires afin de 
+pouvoir l’utiliser . Actuellement, cette pratique n’est pas recommandée. Le 
+dialysat rejeté est une source d’eau à haut risque car potentiellement contaminé 
+par des agents infectieux et produits toxiques, même si l’électrodialyse pourrait 
+éliminer certains composants22.
+Tableau 2 : Liste d'actions permettant d'optimiser la consommation en eau. Les actions 
+indiquées par une loupe (     ) sont détaillées dans une fiche focus.
+PARTIE 3 - Les leviers d’actions    ¦ 20 ¦
+FICHE FOCUS
+N°01
+Renouveler les centrales de 
+traitement d’eau 
+OBJECTIF DE L’ACTION : 
+L’objectif de cette action est de 
+moderniser les équipements de 
+traitement d’eau dans les centres de 
+dialyse afin d’utiliser des machines 
+moins consommatrices d’eau.  
+Une enquête de la SFNDT en 2021 a 
+montré que 33% des unités ont des 
+centrales de traitement d’eau qui ont 
+plus de 15 ans, peu performantes sur 
+le plan environnemental.
+DÉTAILS DE L’ACTION : 
+Une amélioration des osmoseurs (passage aux bi-osmoseurs, composés d’un système de recirculation 
+interne de l’eau, c’est-à-dire qu'une partie de ce qui était rejeté est récupéré et réinjecté dans la circulation), 
+permet de gaspiller moins d’eau lors du processus d’osmose inverse.  Une étude visant à évaluer 
+l’évolution de données environnementales dans les centres NephroCare en France23 a montré une 
+baisse importante de la quantité d’eau consommée par séance sur une période de 13 ans (entre 
+2005 et 2018) passant de 800 à 382 L/séance à la suite du renouvellement des osmoseurs.  
+L’importance, en termes d’économie d’eau, par renouvellement des machines de traitement d’eau 
+a également été expérimentée par l’ARTIC 42 qui a enregistré la consommation d’eau dans ses 9 
+différents services à la suite de l’adoption de nouveaux équipements : le volume moyen enregistré 
+est passé de 699 L/séance de dialyse en 2009 à 397 L en 2021. A noter que ces enregistrements 
+prennent en compte les volumes d’eau utilisés pour la maintenance et l’entretien des unités de 
+traitement d’eau (notamment pour la régénération des adoucisseurs, des filtres à sable, des charbons 
+La limite principale pour cette action est l’investissement financier nécessaire à sa mise en 
+oeuvre.
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+% de renouvellement des centrales de traitement d’eau 
+Evolution de la consommation en eau (L/séance) à la suite du renouvellement des machines
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+Au vu des résultats des expériences mentionnées plus haut, il est attendu une baisse de 
+la consommation en eau d’environ 300 L/séance.
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+Coût du nouvel osmoseur 
+Formation des techniciens
+PARTIE 3 - Les leviers d’actions    ¦ 21 ¦
+PARTIE 3 - Les leviers d’actions    ¦ 22 ¦
+FICHE FOCUS
+N°02
+Réutiliser l’eau de rejet 
+de l’osmose inverse
+OBJECTIF DE L’ACTION : 
+L’eau de rejet de l’osmose inverse 
+est conforme à toutes les normes 
+biochimiques et bactériologiques de 
+l’eau potable24. 
+L’objectif de cette action est de limiter 
+les pertes d’eau à la suite de l’osmose 
+inverse au travers d’un système de 
+recyclage. 
+DÉTAILS DE L’ACTION : 
+Les eaux de rejets de l’osmoseur peuvent être traitées et recyclées afin d’alimenter différents 
+points d’eau nécessaires au fonctionnement d’un centre de dialyse. 
+Pour ce faire, l’installation de cuves récupérant l’eau rejetée est nécessaire, celles-ci pourront 
+alimenter différents points de distribution : les sanitaires, l’arrosage des espaces verts, le système 
+de stérilisation, l’eau nécessaire au nettoyage des sols, etc.
+La mise en œuvre d’un système de réutilisation de l’eau rejetée par l’équipement d’osmose 
+impose l’installation d’une cuve de recueil, si possible enterrée de façon à limiter la 
+dégradation de l’eau stockée par la chaleur en été et son gel en hiver. Sinon, elle devra être 
+isolée ou installée dans un local tempéré. Par ailleurs, ces cuves ne doivent pas avoir un 
+volume trop important (du fait qu’elles se remplissent à longueur de journée), en raison du 
+risque de prolifération bactérienne en cas de stagnation. Il faut également penser à chlorer 
+ces rejets.
+De plus, la cuve sera munie d’un dispositif de mise à l’égout du trop-plein. Il conviendra 
+également d’installer une pompe de mise en pression de l’eau stockée.  Enfin, le réseau 
+de distribution de l’eau recyclée devra être identifié et parfaitement isolé du réseau d’eau 
+potable.
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+Le volume d’eau recyclée : peut être suivi via un dispositif de comptage volumétrique.
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+Selon l’ADEME, l’empreinte carbone de la production d’eau potable est de 132 gr/m³, 
+ce chiffre multiplié par le volume d’eau recyclée permettra de connaître la masse de 
+GES économisée25.
+Le volume d’eau recyclée enregistré par le dispositif de comptage multiplié par le prix 
+du m³ d’eau permettra de calculer le gain financier obtenu.
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+La mise en œuvre est essentiellement un travail de plomberie et éventuellement de 
+terrassement.
+PARTIE 3 - Les leviers d’actions    ¦ 23 ¦
+FICHE FOCUS
+N°03
+Réduire le débit de dialysat 
+lors du traitement
+OBJECTIF DE L’ACTION : 
+Lors du traitement de dialyse, le 
+débit de dialysat n’est pas forcément 
+optimisé afin d’être ajusté au besoin du 
+patient.
+Cette action vise à modifier le débit 
+du dialysat administré pour réduire 
+la consommation d’eau, d’acide et de 
+bicarbonate26. 
+DÉTAILS DE L’ACTION : 
+Le débit standard est de 500 mL/min, il peut être optimisé afin de réduire la consommation d’eau.
+Facile
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+La consommation d’eau. 
+Les expériences publiées (réduction du débit à 400 mL/min) n’ont pas montré une diminution 
+de la qualité de l’épuration à court terme et les preuves manquent sur le long terme. L’impact 
+sur le Kt/Vurée et la Beta2-microglobuline de chaque patient doit être suivi dans le long 
+terme.
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+Réduction de la consommation d’eau, de la consommation de concentré acide et de 
+celle de bicarbonate.
+Aucune
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+¦ 24 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Clinique 
+de saint 
+Exupéry 
+France - 
+Toulouse
+2015
+Installation d’une cuve-tampon de 3 
+m3 qui récupère une partie des eaux 
+rejetées par osmose inverse enterrée 
+sous le traitement d’eau (avec un trop 
+plein qui part à l’égout) venant alimenter, 
+par une pompe de relevage, un ballon 
+situé en partie haute du bâtiment qui, lui-
+même, permet de redistribuer cette eau 
+grise pour 4 usages. 
+Ce réseau d’eau grise est réalisé en PVC, 
+identifié « eau grise ».
+Un traitement d’eau par biosmose est 
+effectué, et les rejets des 2 osmoses sont 
+mélangés.
+2000 L d’eau/h 
+alimentent 4 points de 
+distribution : les chasses 
+d’eau des sanitaires de 
+l’établissement, l’arrosage 
+des espaces verts, le lavage 
+des vitres et le rinçage 
+du réseau d’évacuation 
+des générateurs afin de 
+prévenir la formation d’un 
+biofilm susceptible de les 
+obstruer. 
+En 10 mois, 1128 m3 d’eau 
+ont été économisés27.
+Barwon 
+Health 
+Renal 
+Services 
+Australie - 
+Geelong
+2003-2004
+Installation d’un système de recyclage de 
+l’eau de l’osmose inverse
+Dans le centre principal :
+Installation de 2 cuves récupérées 
+auprès d’industriels locaux de 36 000 L 
+qui alimentent :
+• Le système de stérilisation par vapeur
+• Les sanitaires 
+• L’eau nécessaire au nettoyage des 
+sols
+• Les espaces verts 
+Dans un centre secondaire :
+Installation de 2 cuves, en libre-accès 
+aux écoles, associations sportives et 
+espaces verts communaux. 
+~ 4,8 millions de L d'eau 
+économisés chaque année 
+Le temps de retour sur 
+investissement a été de 30 
+mois mais les cuves ont été 
+données par des industries 
+locales28.
+Structure Actions mises en place Bénéfices
+Retours d’expérience
+¦ 25 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Centre en 
+Malaisie
+2018 
+Système de récupération de l'eau 
+osmosée pour l'aquaculture, 
+l'horticulture et la culture hydroponique. 
+L'eau rejetée par l'unité de traitement 
+du système RO (reverse osmosis) 
+est réacheminée et pompée dans 
+des viviers. La quantité d'eau rejetée 
+est estimée entre 10 000 et 12 000 l/
+jour. A partir de là, une partie de 
+l'eau est canalisée vers le système 
+aquaponique et une partie est utilisée 
+pour arroser les cultures horticoles 
+2x/jour. 
+Les poissons et végétaux 
+cultivés sont donnés au 
+personnel et aux patients. 
+Le nombre de poissons est 
+estimé à environ 150-350 tous 
+les 6 mois, et la quantité de 
+légumes récoltés est d'environ 
+4-8 kg par mois, selon les types 
+de cultures, le temps et la 
+saison. 
+Le coût global nécessaire pour 
+construire les installations 
+et l’achat de tous les 
+équipements nécessaires était 
+d'environ 2000€. Les dépenses 
+annuelles (achat de graines de 
+poisson, palettes de poissons, 
+entretien, électricité) sont 
+estimées à 400€.
+L'économie réalisée pour la 
+quantité d'eau recyclée est 
+estimée à 550€ par an29.
+Ashford & 
+St Peter’s 
+Hospital NHS 
+Trust
+UK - Londres
+2007
+Intégration d’un système simple 
+de recyclage de l'eau : l'eau de rejet 
+récupérée est dirigée vers un réservoir 
+de récupération et est pompée vers un 
+réservoir d'eaux grises qui alimente la 
+buanderie. Des interrupteurs à flotteur 
+détournent l'eau de rejet vers le drain si 
+le réservoir d'eaux grises est plein, et des 
+vannes de dérivation dirigent l'eau de 
+rejet directement vers le drain à partir 
+du système d'osmose inverse pendant 
+les désinfections chimiques mensuelles.
+Economie de 750 kg CO2e/an 
+10 558 $/an
+4492 millions de L d'eau/an30 
+Bradford 
+Teaching 
+Hospitals 
+NHS 
+Foundation 
+Trust
+2014
+Une revue systématique des 
+prescriptions d'hémodialyse a été 
+entreprise pour optimiser et réduire 
+la consommation d'eau, d'acide et 
+de bicarbonate, en utilisant la fonction 
+d'écoulement automatique du dialysat 
+disponible sur les machines « modernes 
+» de traitement d’eau. 
+Avant la mise en œuvre de ce 
+changement, les patients dialysés à 
+l'aide de machine utilisaient un débit de 
+dialysat de 500 mL/min ou de 800 mL/
+min. Le débit du dialysat est maintenant 
+fixé à 1,5 fois le débit sanguin.
+Réduction de 9% de la 
+consommation en eau, 
+acide, bicarbonate.
+1140 m3 d'eau/an 
+économisés
+Réduction des achats de 
+produits pharmaceutiques 
+(2600€ économisés sur 
+les poches de bicarbonate 
+et 3300€ économisés sur 
+le concentré d'acide, soit 
+par an un total de 9917€) 
+correspondant à une 
+réduction de 3 715 kg de CO2 
+par an31.
+Tableau 3 : Retours d'expérience d’actions permettant de réduire la consommation en eau
+¦ 26 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+La consommation d’énergie du secteur de 
+la santé représente, avec 21,5 TWh/an, 2 
+% de la consommation française totale. 
+Elle est astreinte au dispositif Eco-énergie 
+tertiaire qui a pour objectif de réduire la 
+consommation française de 40 % en 2030 
+et de 60 % en 2050 (par rapport à 2010).
+Il est donc imposé aux établissements de santé 
+de rapporter, annuellement, depuis 2020, leur 
+consommation sur la plateforme OPERAT de 
+l’ADEME. (Pour plus d’informations, voir le 
+webinaire « Réaliser des économies d’énergie 
+sur et dans ses bâtiments » de la FHF. Lien du 
+webinaire en annexe). 
+La dialyse est une pratique de soin 
+consommatrice en énergie. En effet, l’osmoseur, 
+le générateur d’hémodialyse et leur désinfection, 
+les luminaires, le chauffage/climatisation, les 
+télévisions, les ordinateurs et le petit matériel 
+sont des équipements de première intention 
+énergivores.  
+Les pistes de réduction de la consommation 
+en énergie sont nombreuses et peuvent 
+être distinguées selon qu’elles concernent 
+l’activité de dialyse en elle-même ou le 
+bâtiment. Certaines actions dédiées au suivi 
+de la consommation et à la sensibilisation du 
+personnel sont quant à elles transverses.
+Les leviers d’action permettant de réduire sa 
+consommation d’énergie 
+Réglementation
+L’arrêté du 21/07/2015 cadre la durée d’utilisation d’un générateur de dialyse : celle-
+ci ne peut pas dépasser 10 ans pour les centres de dialyse et 12 ans pour les autres 
+structures sans conditions de nombre d'heures d’utilisation. 
+Concernant les équipements de traitement de l’eau, il n’y a actuellement pas de règles. Avec 
+l’obligation à venir pour les entreprises d’établir leur Bilan GES, de nouvelles restrictions 
+concernant ces équipements entreront peut-être en vigueur.
+Éco Énergie Tertiaire est une obligation réglementaire engageant les acteurs du tertiaire 
+vers la sobriété énergétique. Elle impose une réduction progressive de la consommation 
+d’énergie dans les bâtiments à usage tertiaire afin de lutter contre le changement climatique. 
+Les objectifs peuvent être atteints, en application de l’article 175 de la loi Elan, soit par 
+une réduction de la consommation d’énergie finale de 40 % en 2030, 50 % en 2040 et 60 % 
+en 2050, par rapport à une consommation énergétique de référence, soit par l’atteinte d’un 
+niveau de consommation d'énergie finale fixé en valeur absolue. A partir de septembre 
+2022, tous les acteurs du secteur tertiaire (bâtiments de plus de 1000 m2) devront 
+transmettre les consommations énergétiques de leur parc bâti sur la plateforme 
+OPERAT gérée par l’ADEME.
+Les grands principes qui 
+sous-tendent ces actions sont
+Réduire la 
+consommation
+Energie bas 
+carbone
+Bâtiment
+HQE
+
+¦ 27 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Liste d'actions Mise en
+oeuvre
+Actions de suivi de la consommation énergétique
+Mettre en place un tableau de bord permettant de suivre ses consommations 
+et l’impact des actions de réduction. Formaliser des tableaux de suivi mensuel 
+ou trimestriel de consommation énergétique.
+Installer des compteurs divisionnaires d’électricité, effectuer un relevé 
+périodique et mettre en place des indicateurs spécifiques en rapportant la 
+consommation à la séance de dialyse.
+Faire des audits réguliers.
+Actions de réduction de la consommation en énergie liée au bâtiment
+Sensibiliser aux éco-gestes  via la rédaction d’un guide à destination du 
+personnel et des patients. Installer des affiches de rappel pour des actions simples 
+(éteindre la lumière, éteindre le chauffage, fermer les stores, etc.). Encourager les 
+comportements énergétiquement responsables. 
+Communiquer sur les bonnes pratiques à mettre en place (ou déjà mises en 
+place) et les indicateurs de performance associés.
+Choisir des solutions d’énergie passive (protections solaires modulables, ponts 
+thermiques, etc.). 
+L’isolation du bâtiment est primordiale (isolation des combles, isolation par 
+l’extérieur, brise soleil, fenêtres doubles vitrages, etc.).
+Utilisation de sources d’énergie bas carbone. Opter pour un contrat d’électricité 
+soutenant le développement des énergies renouvelables avec votre fournisseur.
+Faire entretenir annuellement les équipements, dont les chaudières, avec la 
+vérification du respect des normes de teneur en oxydes d’azote (NOx) des gaz de 
+combustion.
+Pour les appareils utilisant des gaz réfrigérants ou des hydrofluorocarbures 
+(climatiseur, réfrigérateur, etc.), privilégier les gaz avec des PRG (Potentiel 
+Réchauffement Global) les plus faibles possibles. Vérifiez avec votre technicien 
+la faisabilité et la sécurité des gaz (toxicité, inflammabilité, pressurisation, etc.). 
+Vous trouverez en annexe la liste des Gaz et leur PRG associé.
+Actions de réduction de la consommation en énergie liée à la dialyse
+Eduquer à l’usage des appareils électroniques (biomédicaux et informatiques) : 
+mise en veille, recharge, mails inutiles, stockage utile, etc.
+Renouveler les générateurs de dialyse pour utiliser des machines intégrant 
+des fonctions d’optimisation de la consommation en énergie, notamment 
+via des échangeurs thermiques et une fonction d’écoulement automatique du 
+dialysat.
+Actions de réduction de la consommation en énergie liée au bâtiment – confort 
+hygrothermique 
+Favoriser la bio climatisation des bâtiments : la climatisation est réalisée en 
+tirant le meilleur parti du rayonnement solaire et de la circulation naturelle de 
+l'air afin de réduire la consommation d'énergie.
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 28 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Récupération des calories/frigories par dispositif à double flux (maximiser 
+les bénéfices du process exotherme de la dialyse) comme les pompes à chaleur 
+préventives, le recyclage du dialysat ou l'utilisation d'échangeurs de chaleur pour 
+transférer la chaleur de l'effluent du dialysat au dialysat frais entrant.
+Contrôler spécifiquement la température pour chaque type de local par des 
+dispositifs de régulation et de programmation de la température.
+Utilisation de panneaux solaires en ombrières sur les aires de stationnement 
+(permet une économie de climatisation, donc de carburant, et apporte un meilleur 
+confort aux conducteurs en plus de la production d’électricité).
+Prévoir la ventilation nocturne des locaux (en cas de forte chaleur).
+Actions de réduction de la consommation en énergie liée au bâtiment – Eclairage 
+Privilégier l’éclairage naturel avec occultation, tamisage.
+Utiliser des luminaires à LED.
+Installer des détecteurs de passage et de présence avec minuteurs d’éclairage 
+et interrupteurs crépusculaires.
+Actions de réduction de la consommation en énergie liée au bâtiment - Site et 
+construction
+Choisir des matériaux bio sourcés à faible coût d’entretien. La construction en 
+bois est une bonne solution.
+Construire les cloisons en permettant les modifications futures.
+Pour le parc immobilier existant, massifier la rénovation thermique globale et 
+performante des bâtiments : réaliser un diagnostic de performance énergétique 
+avant de rénover et arbitrer les priorités des travaux de rénovation.
+Etablir une charte « Chantier vert » avec les entreprises.
+Définir une procédure de travaux validée par les hygiénistes pour un chantier 
+à faible impact environnemental.
+Tableau 4 : Liste d'actions permettant d'optimiser la consommation en énergie. Les actions 
+indiquées par une loupe (       ) sont détaillées dans une fiche focus.
+PARTIE 3 - Les leviers d’actions    ¦ 29 ¦
+DÉTAILS DE L’ACTION : 
+L’action détaillée consiste à appliquer la norme PassivHaus pour concevoir un centre de dialyse éco-
+responsable. Le centre François Berthoux (ARTIC 42) de 4 400 m2 en est un bon exemple, montrant 
+les bénéfices d'une telle construction, qui est à la fois abordable et durable. Il démontre la possibilité 
+d’étendre le concept de construction écologique aux centres de dialyse. Ce bâtiment, ouvert en 2019, 
+est le premier établissement de santé en Europe à avoir le label « PassivHaus ».  Depuis sa 
+conception jusqu’aux détails en passant par une mise en œuvre contrôlée et soignée, tout a été pensé 
+en fonction de la performance énergétique :
+• Le centre dispose de nombreuses et larges surfaces vitrées, ainsi que d’un patio central de 70 m² 
+le tout équipé de triple vitrage.
+• Le système de ventilation sophistiqué est couplé à la géothermie. Six forages de 190 mètres de 
+profondeur permettent le préchauffage de l’air entrant en hiver, et son rafraichissement en été 
+par l’intermédiaire d’une ventilation double flux.
+• Une isolation particulièrement soignée : les 2 étages de soins sont dans une enveloppe dite « 
+chaude », étanche à l’air, sans ponts thermiques, qui récupère la chaleur par la ventilation. 
+• La chaleur dégagée par les patients, le personnel, les télévisions, le matériel informatique, et 
+surtout par les générateurs de dialyse et les boucles d’eau osmosée a été prise en compte dès la 
+conception du bâtiment et a participé au calcul de l’épaisseur de l’isolant thermique de façade.
+• Un système de plaques rayonnantes a été mis en place pour du chauffage d’appoint dans tout 
+l’établissement.
+• L’été, les 4 salles de dialyse ont besoin d’un système de climatisation mais l’hiver, le bâtiment se 
+passe d’un chauffage classique.
+• Des BSO (brise soleil orientable) sont installés sur toutes les fenêtres afin de limiter les apports 
+ther-miques du soleil en été.
+• Le patio est recouvert d’un store en été pour le pro-téger des apports thermiques du soleil.
+Par ailleurs, le centre est piloté par un logiciel (consignes de températures), qui permet également la 
+supervision des consommations d’énergie (50 compteurs).
+FICHE FOCUS
+N°04
+Construction d’un centre 
+de dialyse passif (le cas du 
+centre François Berthoux)
+OBJECTIF DE L’ACTION : 
+Le concept de « maison passive » est 
+une norme de construction durable 
+pour les bâtiments à énergie quasi 
+nulle. 
+Ce concept combine un niveau 
+d'isolation particulièrement élevé 
+avec un système de ventilation 
+spécifique. 
+PARTIE 3 - Les leviers d’actions    ¦ 30 ¦
+FICHE FOCUS
+N°04
+Construction d’un centre 
+de dialyse passif (le cas du 
+centre François Berthoux)
+OBJECTIF DE L’ACTION : 
+Le concept de « maison passive » est 
+une norme de construction durable 
+pour les bâtiments à énergie quasi 
+nulle. 
+Ce concept combine un niveau 
+d'isolation particulièrement élevé 
+avec un système de ventilation 
+spécifique. 
+La mise en œuvre d’un bâtiment passif est complexe. Il faut compter environ 2 ans pour 
+construire un tel bâtiment. 
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+La consommation d’énergie rapportée à la séance de dialyse.
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+Les maisons passives permettent de réaliser des économies d'énergie liées au chauffage 
+et à la climatisation allant jusqu'à 90 % par rapport au parc immobilier classique et 
+plus de 75 % par rapport au parc immobilier traditionnel selon la réglementation 
+thermique actuelle (RT 2012). Globalement, les économies d'énergie réalisées par le 
+Centre François Berthoux étaient supérieures à 50 %.
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+Le surcoût de la construction par rapport à un établissement conventionnel a été estimé de 
+3 à 5 % pour le centre François Berthoux. 
+¦ 31 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Barwon 
+Health Renal 
+Services 
+Australie - 
+Geelong
+2011
+Utilisation de panneaux solaires sur le toît
+La consommation 
+d'énergie associée au 
+réseau a été réduite de 91 
+% et le coût d’électricité 
+de 76,5 %32. 
+Beijing 
+Huilonguan 
+Hospital
+Chine - Pékin
+2012 - 2015
+Une stratégie de réduction de consommation 
+d’énergie en 3 axes :
+1. Optimisation du système de 
+management 
+Priorisation des « quick win »
+Création d’un groupe de travail « économie 
+d’énergie »
+Mise en place de règles : publication 
+des données, obligation de se fixer des 
+objectifs par service et de spécifier les 
+responsabilités de chacun
+2. Communication et sensibilisation sur 
+les enjeux environnementaux 
+Multiplication de supports de 
+communication : pictogrammes, 
+bannières, affiches 
+Ateliers de sensibilisation
+Incorporation de la « publicité 
+environnementale » au travail : consignes 
+affichées pour économiser l’énergie, 
+information sur la bonne température de 
+chauffage, etc.
+3. Mise en valeur des bonnes pratiques et 
+des innovations  
+Remplacement des anciennes machines 
+les plus consommatrices
+Installation de LEDs
+Rénovation de la plomberie pour éviter 
+les pertes
+L’hôpital a diminué sa 
+consommation d’énergie 
+de 35 %33.
+Structure Actions mises en place Bénéfices
+Retours d’expérience
+¦ 32 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Yzu-Chi 
+Dialysis 
+Center
+Malaisie
+2017
+Mise en place de 6 mesures pour réduire 
+la consommation d’énergie :
+• Contrôle de la consommation en eau 
+des robinets
+• Installation de systèmes de régulation 
+sur la ventilation pour optimiser la 
+température par zone
+• Alimentation en énergie solaire des 
+lumières extérieures
+• Modification des interrupteurs pour 
+les rendre manuels et accessibles
+• Fermeture automatique des portes 
+pour ne pas perdre en chaleur
+• Installation de LEDs
+Le centre a rencontré deux obstacles 
+principaux : la résistance au 
+changement du personnel, atténuable 
+seulement par une campagne 
+de sensibilisation, et un manque 
+d’indicateurs de mesure pour évaluer 
+avec précision les postes les plus 
+consommateurs.
+Cette politique a permis 
+de réduire de 16,5 % la 
+consommation d’électricité 
+du centre et de réduire 
+de 6 kgCO 2 les émissions 
+journalières34.
+NephroCare 
+France 
+2005 - 2013
+Plusieurs actions ont été mises en place au 
+sein des centres de dialyse NephroCare (29 
+centres) afin de réduire la consommation 
+en électricité : 
+• Formation du personnel à l'éco-rapport
+• Mise en place de machines de dialyse 
+plus récentes
+• Détecteurs de présence et minuteries 
+d'éclairage
+• Passage aux ampoules LED
+• Réduction de la taille de l'établissement
+• Déménagement d'une unité 
+dans un bâtiment à haute qualité 
+environnementale
+• Changement ou mise au point des 
+systèmes de traitement de l'air
+Diminution de la 
+consommation d’énergie 
+de 30 % soit 92 400 tCO 2e 
+économisées35.
+Tableau 5 : Retours d'expérience d'optimisation de la consommation en énergie
+¦ 33 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les centres de dialyse sont généralement 
+équipés de salles de traitement closes accueillant 
+plusieurs personnes pendant plusieurs heures. 
+Pour autant, la qualité de l’air est souvent un 
+sujet négligé, avec une faible surveillance de 
+celle-ci. 
+La COVID-19 a permis une prise de conscience 
+importante concernant l’aération et la 
+surveillance de la qualité de l’air, notamment 
+dans les lieux publics et spécifiquement dans 
+les établissements de santé.
+ Par ailleurs, déjà obligatoire dans les écoles 
+maternelles et élémentaires, crèches et 
+centres de loisirs, la surveillance de la qualité 
+de l'air intérieur deviendra obligatoire dans 
+les établissements de santé à compter de 
+202336. 
+Pour ces raisons nous avons identifié certaines 
+actions à déployer pour faciliter l’appropriation 
+de ce sujet par les acteurs concernés et 
+permettre une amélioration continue de la 
+Les leviers d’action pour optimiser la qualité de l’air   
+Liste d'actions Mise en
+oeuvre
+Sensibiliser le personnel à l’importance du renouvellement de l’air dans les 
+salles de soin.
+Fixer une procédure de renouvellement de l’air (durée, nombre de fenêtres à 
+ouvrir dépendamment des saisons, etc.).
+Pour assurer le confort des patients, une attention doit être portée à la localisation 
+des diffuseurs et à la vitesse de l’air, limitée à 0,25 m/s à la hauteur du fauteuil.
+Limiter le nombre de produits d'entretiens et utiliser des produits simples, 
+de préférence labellisés ou bio. Les labels à privilégier sont : ecocert, ecolabel, 
+etc. Voir webinaire FHF sur le bionettoyage.
+Choisir des matériaux émettant le moins de substances polluantes , des 
+produits de construction et de décoration classés A+ en termes d’émissions de 
+polluants volatils dans les achats et marchés publics.
+Utilisation d'une sonde CO2 pour mesurer la teneur en CO2 de l'air et piloter la 
+vitesse de rotation d'un ventilateur ou l'ouverture d'un volet d'air neuf ou autre 
+en conséquent.
+Les établissements de santé produisent 700 000 
+tonnes de déchets chaque année en France. 
+L’élimination et le tri des déchets doivent obéir 
+à une législation de plus en plus stricte : la loi de 
+la transition énergétique (LTECV) parue en 2015 
+vise une diminution de 50 % de déchets produits 
+à horizon 2025 ; la loi AGEC qui lutte contre le 
+gaspillage vise à mettre fin à tous les emballages 
+plastiques à usage unique d’ici 2040 et affiche 
+le grand principe de la destruction des déchets 
+au recyclage et du recyclage au réemploi. Cela 
+signifie que les déchets non dangereux ne sont 
+plus acceptés en incinérateur s’ils n’ont pas été 
+triés auparavant, que la mise en décharge des 
+déchets valorisables est interdite et que certains 
+Les leviers d’action pour optimiser la gestion 
+des déchets  
+Tableau 6 : Liste d'actions permettant d'améliorer la qualité de l'air
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 34 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+déchets issus des établissements et collectivités 
+publiques ont une obligation de passage en 
+filières spécifiques. Le dispositif « Responsabilité 
+élargie du producteur » (REP) est très important 
+pour les établissements de santé puisqu’il a 
+pour objectif d'agir sur l'ensemble du cycle de 
+vie des produits : l'écoconception des produits, 
+la prévention des déchets, l'allongement de la 
+durée d'usage, la gestion de fin de vie (Pour 
+plus d’information, voir la présentation du 
+Dr P. Carenco dans le webinaire de la FHF « 
+Optimisation de la gestion des déchets ». Lien 
+en annexe).
+Les déchets représentent un poids significatif 
+en matière d’impact environnemental dues 
+aux émissions de GES générées lors de leur 
+traitement. La distinction DAOM/DASRI entraîne 
+des conséquences financières : le coût de 
+la destruction des DAOM et des DASRI est 
+respectivement de 200 euros et 1200 euros la 
+tonne. L’incinération et le transport des DASRI 
+sont aussi 3 fois plus émetteurs de GES que le 
+traitement des DAOM. Il est donc important  
+de les différencier dans l’étape de tri.
+La classification classique et historique des 
+déchets des structures de soins est rappelée 
+dans le tableau ci-dessous.
+Les centres de dialyse génèrent un volume 
+important de déchets de différentes catégories, 
+notamment des déchets ménagers (DAOM) 
+et des déchets d’activités de soins à risques 
+infectieux (DASRI). Ceci s’explique par (i) un taux 
+important d’emballages et de conditionnements 
+des produits pharmaceutiques et des dispositifs 
+médicaux, générant une quantité élevée de 
+cartons, plastiques, polystyrènes, etc. (ii) 
+l’utilisation de dispositifs médicaux à usage 
+unique (iii) l’utilisation de quantités encore 
+trop importantes de papier (iv) les contenants/
+contenus de produits pharmaceutiques et les 
+déchets alimentaires. 
+DRI (Déchets Contaminés à Risques 
+Infectieux)
+• Dialyseur ± vide
+• Lignes 
+• Poche de nutrition parentérale per dialytique
+• Sets de branchement et débranchement
+• Seringues
+• Circuit de dialyse
+DNC (Déchets Non Contaminés)
+• Cat 1 : Emballage dialyseur, lignes, poches de 
+nutrition et autres, seringues, set, etc.
+• Cat 2 : Poche souple soluté acide, Poche 
+bicarbonate 3l (AFBK), Poche K, Poche sérum 
+physiologique
+• Cat 3 : Clean cart, Poche SmartBag, cartouch 
+selectcart et clean cart
+• Champ de bras de FAV de KT
+• Papier d’imprimante 
+DPT (Déchets piquants/tranchants) Aiguilles, cathéter, bistouris, ampoule, etc.
+DSCRI (Déchets de Soins Courant à 
+Risques Infectieux)
+Compresses, pansements, gants, EPI souillés 
+de sang, déchets d’un patient en précautions 
+complémentaires, Excréta et Carebag
+DSCNC (Déchets de Soins Courant Non 
+Contaminés)
+Gants à usage unique et compresses non 
+souillées, emballage petit matériel, tablier, 
+masque, surblouse, charlotte, etc.
+Matériel non utilisé Il arrive que du matériel médical soit préparé, 
+déballé mais non utilisé.
+¦ 35 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Cependant, le Code de la Santé précise dans son 
+article R1335-1, en vigueur depuis le 01/01/2017, 
+ce qui relève des DSCRI et DRI. La notion de 
+déchets contaminés à risque infectieux y est 
+considérablement restreinte. 
+Compte tenu de cette définition restreinte des 
+DRI et DSCRI, un des premiers objectifs pour 
+l’équipe de dialyse sera d’identifier les produits 
+de soins répondant à la réglementation. De façon 
+pragmatique un dispositif de soin souillé de 
+sang, d’urine, de liquide biologique ne doit 
+être considéré comme DRI ou DSCRI que 
+s’il est contaminé par un agent (bactérie, 
+virus, produit cytotoxique) pouvant, en cas 
+de transmission à un organisme vivant, 
+avoir un effet pathogène. Par exemple, les 
+éléments listés ci-dessus dans la catégorie DRI 
+sont considérés comme des DNC en situation 
+courante.  
+Le groupe Néphrologie verte de la SFNDT 
+adopte cette définition. Il rejoint en cela ce 
+qui est déjà validé par la Société Française 
+d’Anesthésie et Réanimation (SFAR), pionnière 
+en la matière et qui est en train d’être adopté 
+dans les services de réanimation et les blocs 
+opératoires. Adopter cette définition permet de 
+réduire le pourcentage de DASRI dans un hôpital 
+de 27 à 4 %. Un groupe de travail spécifique 
+de la DGOS devrait l’officialiser courant 2023.
+Plusieurs actions permettant de réduire la 
+production de déchets en centre de dialyse 
+ont été identifiées et sont détaillées ci-dessous. 
+Ces recommandations ont été pour la plupart 
+validées par les expériences menées au sein 
+du plusieurs centres (ARTIC 42, AURA SANTE, 
+AGDUC, AURAL, CALYDIAL ainsi que par la 
+FEHAP). 
+Les grands principes qui sous-tendent ces 
+actions sont : 
+Selon le Code la santé, les DASRI (DSCRI + DRI) sont les déchets qui : 
+1. Soit présentent un risque infectieux, du fait qu'ils contiennent des micro-
+organismes viables ou leurs toxines, dont on sait ou dont on a de bonnes 
+raisons de croire qu'en raison de leur nature, de leur quantité ou de leur 
+métabolisme, ils causent la maladie chez l'homme ou chez d'autres organismes 
+vivants ;
+2. Soit, même en l'absence de risque infectieux, relèvent de l'une des catégories 
+suivantes :
+a) Matériels et matériaux piquants ou coupants destinés à l'abandon, qu'ils 
+aient été ou non en contact avec un produit biologique ;
+b) Produits sanguins à usage thérapeutique incomplètement utilisés ou 
+arrivés à péremption ;
+c) Déchets anatomiques humains, correspondant à des fragments humains 
+non aisément identifiables.
+RÉDUIRE TRIER RÉUTILISER RECYCLER
+¦ 36 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Liste d'actions Mise en
+oeuvre
+Action permettant d’analyser les procédures de soins et le matériel utilisé 
+Réaliser un audit ou un catalogue de pratique et de pertinence concernant :
+• Les différentes catégories de déchets, en particulier DRI et DSCRI
+• L’usage des matériels à usage unique ou réutilisables
+• L’usage ou non de matériel stérile
+• L’usage de sets de soin ou de matériels séparés
+Actions permettant de suivre les quantités de déchets générés
+Réaliser un catalogue du matériel utilisé reprenant la composition et le poids 
+respectif de chacun, son circuit d’élimination et les pistes d'amélioration.
+Mise en place d’indicateurs de suivi du poids et du coût annuel des DASRI (DRI 
++ DSCRI) et des DAOM.
+Mise en place d'un audit du poids de déchet produit annuellement.  
+Actions permettant de réduire la quantité d’emballages générés
+Mettre en place des conventions de reprise des déchets par les fournisseurs.
+Mettre en place des filières de recyclage, telles qu’imposées par la loi.
+Intégrer des critères de réduction des emballages et des conditionnements lors 
+des achats auprès des fournisseurs. 
+Actions permettant de réduire la quantité de papiers générés
+Favoriser le stockage électronique  plutôt que l’impression papier (rapports 
+quotidiens, résultats de tests et autres documents, notices de matériel en version 
+informatique, etc.).
+Réduire le nombre d’imprimantes en service, voire les supprimer si possible.
+Sélectionner des papiers labellisés (recyclés ou issus de forêts gérées 
+durablement).
+Actions permettant de réduire la quantité de DASRI générés
+Adopter la définition du code de santé publique R 1335-1 (voir supra).
+Vérifier les sacs de tri avant fermeture : les déchets de soin (compresses, 
+gants, poches, etc.) peuvent souvent être redirigés des DASRI vers les DAOM.
+Acquisition de dispositifs de déshydratation, compaction ou de banalisation  
+des DASRI, permettant de diminuer de manière significative le volume des déchets 
+DASRI et de les convertir en DAOM (pour les banaliseurs). Ces dispositifs limitent 
+ainsi les émissions de GES associées au traitement des DASRI par des procédés 
+innovants (traitements à la vapeur ou micro-ondes).
+Vidange des lignes permettant de diminuer considérablement le poids des 
+circuits de dialyse jetés. Soit manuelle, soit automatiquement grâce aux machines 
+de dialyse récentes.
+Actions permettant d’économiser, trier, recycler et valoriser les déchets
+Sensibiliser et éduquer le personnel à la juste utilisation des matériels 
+nécessaires aux soins et aux procédures de tri. Communiquer, faire des défis, 
+montrer les résultats concrets d’une action, etc.
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 37 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Mise en place des 14 filières de tri existantes et applicables à la dialyse et 
+vérification de la mise en conformité (réglementation du tri, du stockage et de 
+l’élimination des déchets).
+Ne pas jeter les machines de dialyse en fin de vie : les donner, les vendre ou les 
+utiliser pour leurs pièces.
+Passer par des filières spécifiques de valorisation des déchets.
+Actions permettant de réduire l’utilisation des produits à usage unique 
+Limiter l’utilisation de tenues et matériels stériles (sets tout en un, compresses, 
+etc.) pour des éléments séparés, du non-stérile voire du réutilisable. Ceci peut se 
+discuter aussi en fonction du geste (branchement cathéter, FAV, etc.) mais les 
+études restent à faire.
+Réutilisation des membranes de dialyse, interdite en France depuis le début 
+des années 2000, et néanmoins pratiquée dans plusieurs pays dont les Etats-
+Unis. Elle peut avoir un intérêt environnemental mais l’étude reste à faire pour 
+mesurer le gain obtenu et les nouvelles contraintes en termes de consommation 
+d’eau, Bilan Carbone®, bilan énergétique etc.
+Zoom sur les 14 filières de tri des déchets applicables à la dialyse 
+Une filière de tri pour le compostage et le petit matériel de bureau devrait bientôt 
+être opérationnelle.
+1. DAOM
+2. DASRI
+3. Médicaments périmés et flacons 
+de produits dangereux
+4. Papier
+5. Carton
+6. Plastique souple et transparent
+7. Bouchon et plastique dur
+8. Cartouche d’encre
+9. Piles
+10. Revues et documentations 
+présents dans les cartons de 
+matériel
+11. Matériel non utilisé
+12. Verre dont verre 
+médicamenteux
+13. Matelas/mobiliers 
+14. Déchets d’équipements 
+électriques et électroniques 
+Malgré l’identification d’actions variées 
+permettant de limiter la production de déchets, 
+la première action à mettre en place est de 
+limiter la consommation et le gaspillage des 
+éléments nécessaires à la réalisation des soins.
+Tableau 7 : Liste d'actions permettant d'optimiser la gestion des déchets. Les actions indiquées 
+par une loupe (      ) sont détaillées dans une fiche focus.
+PARTIE 3 - Les leviers d’actions    ¦ 38 ¦
+FICHE FOCUS
+N°05
+Réaliser un catalogue 
+produit en interne
+OBJECTIF DE L’ACTION : 
+  
+L’objectif de cette action est de 
+permettre à chaque centre d’avoir 
+une connaissance exacte du matériel 
+utilisé, en quelle quantité et de son 
+circuit d’élimination.
+DÉTAILS DE L’ACTION : 
+Identification par chaque unité de dialyse des matériels utilisés pour chaque modalité 
+et les circuits de tri et d’élimination des déchets. Au travers du catalogue, cette action 
+permet au centre de connaitre le volume (apprécié par le poids) avant/après utilisation, mais 
+aussi l’efficacité opérationnelle du tri pour aboutir à un recyclage le plus efficient possible des 
+éléments du catalogue :
+• Un poids cumulé de déchets équivalent aux poids cumulé des matériels utilisés
+• Un poids de déchets valorisables supérieur à celui des déchets non valorisables
+Aucune difficulté. Mise à jour annuelle en routine semestrielle sur les 18 premiers mois de 
+mise en place du catalogue.
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+Poids des différents types de déchets rapporté à la séance de de dialyse
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+• Sensibilisation des acteurs : Administratif, pharmacie, équipe de soin
+• Actualisation des procédures et protocoles de soin
+• La réduction du volume de déchets produits
+• La réduction du poids et donc du coût de l’élimination des DASRI
+• La multiplication de filières de recyclage spécifique (tri sélectif)
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+• 2 personnes (+aide d’une compétence pharmacie) pour des « fiches produits » complètes
+• 10 h environ de travail hors mise en forme
+• Coût annexe nul
+PHASE 3 - Les leviers d’actions    ¦ 39 ¦
+FICHE FOCUS
+N°06
+Acquérir un dispositif de 
+banalisation des DASRI en 
+DAOM  
+OBJECTIF DE L’ACTION : 
+  
+L’objectif est de diminuer de manière 
+significative la quantité de déchets 
+DASRI, de limiter les émissions de 
+GES associées à leur traitement et de 
+diminuer les coûts.
+DÉTAILS DE L’ACTION : 
+Cinq fabricants différents sont référencés par le Laboratoire National de Métrologie et d’Essais et 
+répondent à la norme AFNOR NF X30-503. Trois technologies différentes existent pour transformer 
+les DASRI en déchets compacts, inertes et secs, qui peuvent être déposés dans les DAOM : 
+(i) broyage + autoclave, (ii) broyage + micro-ondes, (iii) compression + chauffage à 150°C. Deux 
+types de DASRI ne doivent pas être traités dans un banaliseur : les DASRI contenant des 
+agents transmissibles non-conventionnels ou des produits cytotoxiques/cytostatiques. Les 
+contraintes d’alimentation en eau et électricité sont importantes pour la première technique, très 
+faible pour la deuxième. En dehors de la compression, sont émis des effluents liquides et gazeux 
+pour la technique de l’autoclave, gazeux seulement pour la technique micro-onde, d’odeur marquée 
+nécessitant un système d’aération ou de VMC et une réflexion sur la localisation de l’appareil. La 
+maintenance est accessible aux services techniques ou biomédicaux.
+Les différentes tailles des banaliseurs (capables d’éliminer 12 à 2500 litres) permettent de s’adapter 
+à toutes les structures. 
+Modérée : En fonction de la taille de l’appareil, il sera nécessaire de libérer une surface plus 
+ou moins importante.
+Si plusieurs centres souhaitent mettre en commun un banaliseur pour le traitement de 
+l’ensemble des DASRI, il faut les acheminer jusqu’au lieu du dispositif de banalisation. Il sera 
+donc nécessaire de mettre leur transport en conformité. 
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+Volume et poids des déchets infectieux, réduction des coûts d’élimination des DASRI à long 
+terme. 
+INDICATEURS DE SUIVI :
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+Du personnel dédié à un travail manuel est nécessaire : dépôt du nombre de cartons à 
+détruire, attente de fonctionnement du dispositif, récupération des déchets, réinstallation 
+des cartons, etc.
+L’investissement initial est élevé mais une fois l’appareil amorti, le coût de la maintenance est 
+relativement faible en fonction du banaliseur. Par ailleurs, le banaliseur peut être source de 
+bénéfices s’il est partagé avec d’autres structures.
+• Réduction de volume des déchets infectieux > 80%
+• Réduction de poids >25%
+• Réduction des coûts d’élimination des DASRI
+GAINS ATTENDUS : 
+¦ 40 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+CHU 
+Clermont-
+Ferrand
+2021
+Réduction de la consommation de papier 
+à l’échelon d’un hôpital
+• Utilisation d’un papier standard de 75 g
+• Impression de l’indispensable 
+seulement, en recto verso et en noir et 
+blanc
+• Réduction des marges et de la taille de 
+la police
+• Achat de papier en carton plutôt qu’en 
+ramettes
+• Communication par voie électronique
+• Dématérialisation des fiches de paie et 
+autres documents
+16 711 335 de feuilles de 
+papier achetées en 2021. 
+Ces mesures ont permis une 
+réduction des besoins en 
+papier de 18,85 %. 
+Queen 
+Margaret 
+Hospital 
+Ecosse
+Pour chaque séance de dialyse, une poche 
+de 1 L de solution saline normale est 
+utilisée pour réinjecter le sang du patient 
+à la fin du traitement, mais seulement 
+200 mL sont nécessaires. Les 800 mL de 
+solution saline restants, le sac en plastique 
+qui les contenait et le set d'administration 
+en plastique étaient ensuite placés dans 
+un sac orange et éliminés par le biais du 
+flux de déchets cliniques.
+Le sac était suspendu dès le début 
+du traitement en cas d'urgence : en 
+utilisant les installations en ligne pour 
+les urgences et réinjections, on réduit 
+l'utilisation de sérum physiologique et de 
+kits de perfusion.  Les nouvelles machines 
+permettent de préparer un liquide de 
+substitution stérile ultrapur directement à 
+partir du dialysat en le faisant passer par 
+un ultrafiltre.
+Une poche de sérum 
+physiologique coûtait 0,5€ 
+à l'unité et une trousse de 
+perfusion unique 0,35€. Au 
+cours des 10 764 traitements 
+dispensés par an, l'utilisation 
+de liquide de substitution en 
+ligne permet d'économiser 
+10 784€ rien qu'en coûts 
+d'approvisionnement. 
+Réduction de 2 kg de 
+déchets cliniques d'un 
+seul traitement grâce à 
+la suppression d'un sac de 
+solution saline de reperfusion 
+(qui contient généralement 
+encore 800 mL), d'un kit 
+d'administration et du sac de 
+bicarbonate. 
+Sur les 10 764 traitements 
+annuels fournis par l'unité 
+utilisant des machines 
+Fresenius 5008, cela se 
+traduirait par une réduction 
+des déchets cliniques de 21,5 
+tonnes.
+Economie annuelle globale 
+de 6 383 €.
+Structure Actions mises en place Bénéfices
+Les membres 
+de la FEHAP 
+AURA comme 
+AURA SANTE, 
+AGDUC
+2022
+Les membres de la FEHAP AURA 
+comme AURA SANTE, AGDUC recyclent 
+les cartouches de bicarbonate par 
+l’intermédiaire de prestataires régionaux. 
+Non déterminé
+¦ 41 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+CH Vichy
+2021
+Quantification des déchets en kg de 
+soin en hémodialyse, toutes techniques 
+confondues, et (méthode 1) séparation 
+selon 2 types de déchets, (méthode 2) 
+séparation par technique HDC, HDF, AFBK 
+et selon 5 types de déchets différents.
+-Poids de déchet moyen 
+généré par séance : 2,58 Kg
+-Une séance sur cathéter 
+génère 0,5 kg de déchets 
+supplémentaires par rapport 
+à une FAV
+-Le poids de déchets générés 
+par séance est en moyenne 
+supérieur de 0,3 kg (résidu 
+d'eau, sang, solutés) au poids 
+du matériel utilisé
+Pour une même technique 
+il existe de grande variation 
+d'une séance à l'autre 
+témoignant de l'hétérogénéité 
+des pratiques.
+Polyclinique 
+de Blois, 
+France
+2009-2021
+La gestion des DASRI : la mise en place 
+de la vérification du tri des sacs de DASRI 
+(photos, restitution aux équipes, mise 
+à jour du tri) associée à une distinction 
+entre DASRI dits « propres » et DASRI dits 
+« infectieux ».
+Diminution de 30% à 40% de 
+DASRI
+La mise en place de 40 filières de tri : ces 
+filières s’appuient sur des éco-organismes 
+(par exemple Ecomaison pour les matelas).
+Non déterminé
+Des actions de sensibilisation et de 
+récupération : en parallèle des différentes 
+actions, la clinique multiplie les opérations 
+de sensibilisation. Depuis 2017, la clinique 
+a mis en place une « Recyclerie » où tous 
+les matériaux utilisables et répondant 
+aux normes d’hygiène sont offerts au 
+personnel : plaques eutectiques, palettes, 
+cagettes en plastique, papiers utilisés 
+pour la stérilisation, bidons d’eau stérile, 
+cartons, etc.
+Non déterminé
+¦ 42 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+ARTIC 42
+L’association a mis en place une journée 
+« kilo time » basée sur le poids des DASRI 
+(définition classique et non restreinte) 
+avant sensibilisation du personnel.
+Pour ce faire 2 techniques de dialyse ont 
+été analysées : FAV et KT
+Les résultats ont mis en 
+évidence les différences de 
+pratiques d’un service à l’autre : 
+en effet, la moyenne des poids 
+mesurés s'étale entre 0,97 kg 
+et 1,47 kg pour la dialyse sur 
+FAV et entre 1,33 kg et 1,66 kg 
+pour la dialyse sur KT. 
+Il faut bien noter que dans 
+chaque catégorie le même 
+matériel est utilisé montrant 
+ainsi les différences de pratique 
+d’une équipe à l’autre.
+ARTIC 42
+2020-2021
+Mise en place d’un module de formation 
+du personnel
+• Mise à disposition d’outils pour 
+faciliter le tri : supports spécifiques, 
+code couleur, rédaction d’affiches 
+reprenant les consignes de tri
+• Incitation au recyclage des 
+radiographies, du plastique dur, 
+du plastique souple et transparent, 
+carton, papier, etc.
+• Sensibilisation pour limiter l’utilisation 
+de produits à usage unique (lavette 
+de nettoyage)
+Réduction de la génération de 
+DAOM (-7,65 %) et des DASRI 
+(-4,9 %). Le recyclage a augmenté 
+de +34,62 % dont 45,54 % pour 
+les plastiques souples et + 540 % 
+pour les plastiques durs. 
+Reco de la 
+SFAR (Société 
+française 
+d'anesthésie 
+réanimation)
+Réduction du matériel et tissus à usage 
+unique : 
+• Remplacement des plateaux à usage 
+unique par des plateaux en pulpe 
+cellulose recyclée non stérile qui, 
+après usage, rejoignent la filière 
+recyclage papier37 (Fiche Green SFAR 
+14)
+• Comparaison textile et usage 
+unique. Une étude SFAR et Société 
+Française d’Hygiène Hospitalière 
+basée sur une étude de la littérature 
+conclut à l’absence de différence en 
+termes de sécurité infectieuse entre 
+le textile chirurgical intissé à usage 
+unique et le réutilisable en coton38.
+L’impact environnemental n’a, 
+en revanche, pas été évalué. 
+Il doit mettre en balance 
+l’importation des tenues et 
+tissus jetables venant de Chine 
+et le coût environnemental du 
+lavage des tissus (eau, produits 
+chimiques, transport vers le 
+centre de lavage, etc.).
+Tableau 8 : retour d'expériences d'actions d'optimisation de la gestion des déchets
+¦ 43 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les impacts environnementaux liés à l’achat 
+d’équipements et de consommables en centre 
+de dialyse sont considérables. 80% des achats 
+sont des dispositifs médicaux, ayant un 
+impact important dû à leur volume, poids 
+et emballage39. Par ailleurs, les équipements 
+sont en majorité fabriqués à l’étranger, leur 
+transport jusqu’aux centres de dialyse engendre 
+des émissions importantes de GES. 
+Il est nécessaire de mettre en place une 
+politique d’achat responsable en exigeant 
+des produits et des pratiques peu émetteurs 
+de carbone et respectueux de l’environnement.  
+Pour ce faire, il est nécessaire de mettre en 
+place un processus strict de sélection des 
+fournisseurs et des produits, en intégrant 
+Les leviers d’action pour promouvoir des achats 
+durables
+Liste d'actions Mise en
+oeuvre
+Intégration, dans le cahier des charges des fournisseurs, des critères 
+environnementaux, sociaux et économiques : charte Développement Durable, 
+fabrique en propre, localisation, transport, etc. 
+Passer par des plateformes d'évaluation des performances RSE des 
+fournisseurs et d’achats responsables type Ecovadis. 
+Pousser les centrales d’achat à intégrer des critères de Développement Durable.
+Agir sur l’achat d’acide de dialyse : passer par des  centrales de distribution 
+de concentrés d’acides permettant de limiter les emballages, le gaspillage, les 
+transports et les émissions de GES (utiliser un système de livraison centralisé 
+avec des réservoirs de stockage).
+Tableau 9 : Liste d'actions permettant d'optimiser la gestion des déchets. Les actions indiquées 
+par une loupe (      ) sont détaillées dans une fiche focus.
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+PARTIE 3 - Les leviers d’actions    ¦ 44 ¦
+FICHE FOCUS
+N°07
+Systématiser la démarche 
+d’achat responsable
+OBJECTIF DE L’ACTION : 
+  
+L’objectif de cette action est d’intégrer 
+des critères d’achat environnementaux, 
+sociaux et économiques lors de l’achat 
+des équipements et consommables de 
+dialyse, dans le but de promouvoir des 
+pratiques d’achat durable. 
+DÉTAILS DE L’ACTION : 
+La rédaction d'une charte d'achats responsables avec des objectifs quantifiables 
+permettrait de systématiser cette démarche. 
+Exemples de critères à intégrer : 
+• Le lieu de fabrication : privilégier la fabrication eu-ropéenne.
+• Le type de stérilisation : favoriser la stérilisation par la vapeur ou par rayonnement. 
+• Les matières premières utilisées  : préférer les ma-tières premières sans phtalates, sans 
+dérivés chlorés, sans colle (soudure laser).
+• Le poids d’un dispositif médical 
+• Les processus d’élimination et de destruction : évaluer l’émanation de produits toxiques 
+(incinération, banalisation, etc.).
+Les étapes à suivre pour mettre en place cette démarche sont les suivantes :
+• Formation des acheteurs sur les thèmes des achats durables ;
+• Analyse de l’existant : quantification des volumes d’achat par catégorie et par fournisseur 
+et identification des familles d’achat stratégiques et des fournisseurs clés ;
+• Identification des critères environnementaux, sociaux et économiques par famille 
+d’achats stratégiques ;
+• Rédaction et diffusion d’une charte achats responsables ;
+• Intégration dans le cahier des charges des produits, des fournisseurs et des 
+prestataires, des critères environnementaux, sociaux et économiques et pondération du 
+choix sur ces critères ;
+• Reporting et suivi des fournisseurs
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+• Pourcentage d’achats réalisés prenant en compte les critères de Développement Durable
+• Reporting et suivi des fournisseurs
+INDICATEURS DE SUIVI :
+PARTIE 3 - Les leviers d’actions    ¦ 45 ¦
+FICHE FOCUS
+N°07
+Systématiser la démarche 
+d’achat responsable
+OBJECTIF DE L’ACTION : 
+  
+L’objectif de cette action est d’intégrer 
+des critères d’achat environnementaux, 
+sociaux et économiques lors de l’achat 
+des équipements et consommables de 
+dialyse, dans le but de promouvoir des 
+pratiques d’achat durable. 
+GAINS ATTENDUS : 
+Intégration de la démarche éco-responsable du service dans une chaine globale 
+d’achats plus respectueuse des enjeux environnementaux actuels. 
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+• Un responsable achat et un responsable technique formés à ces enjeux est nécessaire 
+dans chaque établissement.
+• Un pourcentage du budget de l’établissement doit être consacré à l’investissement 
+d’achats durables.
+PARTIE 3 - Les leviers d’actions    ¦ 46 ¦
+FICHE FOCUS
+N°08
+Favoriser la distribution 
+centralisée des concentrés 
+d’acide 
+OBJECTIF DE L’ACTION : 
+  
+L’objectif de cette action est de modifier 
+les pratiques d’achat d’acide de dialyse 
+pour promouvoir un achat durable et 
+respectueux de l’environnement.
+Cette action vise à éliminer l’achat de 
+bidons d’acide en investissant dans 
+une centrale d’acide.
+DÉTAILS DE L’ACTION : 
+Les centrales de fabrication et/ou de distribution de concentrés d’acide permettent, via la 
+reconstitution du concentré acide in situ, de : 
+• Réduire le transport de liquide (centrale de fabrication)
+• Réduire la génération d’emballages plastiques et le gaspillage de concentrés résiduels 
+contenus dans des bidons, 
+• Réduire l’empreinte carbone liée aux transports de ce type de produits 
+• Faciliter la gestion des stocks tout en prévenant les risques de troubles musculosquelettiques 
+chez le personnel soignant, contraint de porter des charges lourdes quotidiennement.
+• Fabrication de concentré automatisée et sécurisée, réalisée par les infirmières. Présence 
+d’un médecin non nécessaire.
+• Difficultés liées à la surface de stockage nécessaire et le nombre de postes de dialyse 
+desservis 
+• Réduction des possibilités de prescription
+• Être équipé de générateurs équipés d’arrivées pour l’acide centralisé
+• Maintenance régulière nécessaire
+FACILITÉ ET TEMPS DE MISE EN ŒUVRE :
+Nombre annuel de bidons d’acide utilisés
+INDICATEURS DE SUIVI :
+GAINS ATTENDUS : 
+• Gain de coût lié à la réduction du gaspillage d’acide et des emballages plastiques
+• Réduction significative de la consommation de plastique (de l’ordre de plusieurs 
+tonnes par an)
+RESSOURCES HUMAINES ET FINANCIÈRES NÉCESSAIRES :
+• Une étude de faisabilité (par des ingénieurs-conseils ou pharmacien) est nécessaire 
+• Le coût initial de mise en place d’une centrale d’acide est élevé (environ 50 000€)
+¦ 47 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Retours d’expérience
+Structure Actions mises en place Bénéfices
+CHU Nice
+2014-2015
+Mise à disposition d’outils pour une 
+politique d’achats écoresponsables (labels, 
+questionnaires, critères Développement Durable 
+par segment de marché, etc.)
+Les objectifs du CHU au travers de cette action 
+étaient :  
+• Privilégier les achats ayant une incidence 
+environnementale moindre au meilleur coût
+• Intégrer la dimension sociale dans le choix 
+des achats
+• Favoriser l’optimisation des besoins
+Pour atteindre ces objectifs et aider à la mise en 
+œuvre de cette démarche, les acheteurs du CHU 
+disposent de plusieurs outils40 :
+• Un outil d’évaluation de la maturité 
+des fournisseurs sur les enjeux RSE : 
+questionnaire avec 22 items sur 3 thèmes 
+(l’environnement, le social, les bonnes 
+pratiques professionnelles)
+• Une liste de tous les labels existants et de leur 
+périmètre d’action
+• Un support récapitulatif et une analyse 
+des projets ARMEN, axe du projet PHARE 
+(Performance Hospitalière pour des Achats 
+Responsables) piloté par le ministère de la 
+Santé
+• Une liste des critères Développement Durable 
+par segment de marché 
+• Une liste de pistes d’actions pour la réduction 
+des emballages
+Non déterminé
+Bradford 
+Teaching 
+Hospital NHS 
+Foundation 
+Trust – 
+UK-bradford
+Le centre a installé des cuves d’acide, 
+alimentées mensuellement par des camions-
+citernes. Cet acide est ensuite distribué 
+aux générateurs de dialyse par une boucle 
+pressurisée. Un système de digue pour éviter les 
+fuites a aussi été mis en place. 
+Les objectifs de cette action étaient :
+• Réduction du gaspillage d'acide : seul l'acide 
+réellement nécessaire est utilisé
+• Réduction des déchets solides
+• Economie d'espace de stockage et de 
+manutention (plus besoin de transporter 
+des bidons d'un étage à l'autre)
+• Résilience face aux ruptures 
+d'approvisionnement : réserve jusque 3 
+semaines à l'avance
+Coût de l’investissement : 47000€ 
+pour les cuves + 4500€ pour le 
+système de digue = 51500€
+Economies de coût : 22500€/an 
+sur l’acide + 5200€/an sur les 
+déchets plastiques = 27700€/an
+Bénéfices environnementaux : 8330 
+kgCO2e/an sur les économies de 
+supply chain + 7700 kgCO2e/an 
+sur les emballages = 16 tCO2e/
+an
+Le retour sur investissement à 5 ans 
+s’élève à 163%41.
+Tableau 10 : Retours d'expériences d'actions d'achat durable
+¦ 48 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Le secteur de la mobilité qui permet les 
+déplacements du personnel, des patients 
+et le flux de matières est le deuxième poste 
+d’émission de GES le plus important dans le 
+secteur de la santé. C’est particulièrement 
+vrai pour l’activité de la dialyse nécessitant 
+des déplacements réguliers des patients en 
+centre de dialyse pour leur suivi médical (en 
+moyenne 3 fois par semaine). Le bilan GES 
+de l’ARTIC 42 a mis en avant les émissions 
+générées par le poste de transport, 
+représentant 25% du bilan GES et ce 
+pourcentage est retrouvé dans la littérature. 
+Plusieurs actions peuvent être mises en 
+place pour encourager le personnel à utiliser 
+des modes de déplacements plus durables, 
+limiter le fret et optimiser le déplacement 
+des patients. Nous avons également vu dans 
+le chapitre « achat durable » l’importance de 
+sélectionner ses fournisseurs en fonction 
+de leur démarche développement durable, 
+notamment en prenant en compte leur 
+localisation afin de limiter le transport de 
+matière.
+Les leviers d’action pour promouvoir la mobilité 
+durable
+Liste d'actions Mise en
+oeuvre
+Actions pour évaluer l’impact de la mobilité
+Faire une enquête initiale auprès des salariés, usagers et patients, sur 
+leurs habitudes de déplacements. Informer sur les résultats et proposer des 
+solutions alternatives. L’enquête est à actualiser chaque année.  
+Faire un bilan du parc véhicule  (ambulances comprises) et de leur utilisation. 
+Recenser les types de véhicules utilisés (diesel, électrique, etc.) et les kilométrages 
+afin de déployer les actions correctrices nécessaires. 
+Interroger les fournisseurs et prestataires sur les émissions de GES liées 
+aux livraisons.
+Actions pour la mobilité du personnel
+Mettre en place un programme de sensibilisation sur :
+• l’éco-conduite
+• le co-voiturage
+• les modes de transports doux : bus, vélos éventuellement électriques
+• les véhicules moins polluants
+• l’achat/location de voitures hybrides ou électriques
+L’objectif étant d’améliorer la prise de conscience de l’impact des déplacements 
+sur l’environnement et sur sa santé et d’informer sur les offres de mobilités sur 
+le territoire (les transports en commun, les covoiturages possibles, etc.).
+Travailler à l’échelle du territoire avec l’ensemble des acteurs (notamment 
+les municipalités) pour se renseigner sur les dispositifs de mobilités durables 
+existants ou en développement.
+Utiliser par exemple l’outil de cartographie dynamique « Geomob » comme 
+support du management de la mobilité et des déplacements domicile-travail. 
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 49 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+En plus de ces actions, il est important de 
+noter que, depuis ces dernières années, des 
+obligations pèsent sur les établissements 
+sanitaires et médico-sociaux  : versement 
+au personnel le demandant d’un forfait 
+mobilité durable depuis 2020, renouvellement/
+verdissement du parc des véhicules, création et 
+sécurisation d’infrastructures de stationnement 
+des vélos, pose de bornes de recharge électrique, 
+aménagement de parcs de stationnement 
+extérieurs avec un objectif de Développement 
+Durable, interdiction de la circulation de certains 
+véhicules pour les établissements situés dans 
+les zones à faibles émissions mobilités. (Pour 
+plus d’information, voir le webinaire « Mobilités 
+durables » de la FHF. Lien en annexe).
+Favoriser les déplacements alternatifs : 
+• Mettre à disposition des vélos/vélos électriques, aide à l’achat de vélos
+• Reconstituer le parc de voitures/utilitaires avec des véhicules électriques ou 
+hybrides
+• Installer une borne électrique
+• Optimiser les déplacements des utilitaires
+• Construire un abris vélo sécurisé
+• Déployer une plateforme de covoiturage 
+• Mutualiser les véhicules
+• Utiliser le dispositif mobili'pro de l'ADEME pour gérer le parc de véhicules et 
+les déplacements 
+Mettre en place un plan de déplacement entreprise.
+Organisation de journées mobilité / défis / challenges.
+Actions pour la mobilité des patients
+Inciter à la dialyse à domicile.
+Mise en place du co-voiturage sous toutes ses formes dont les transports 
+communs, les navettes municipales, etc.
+Pratiquer la téléconsultation autant que possible.
+Tableau 11 : Liste d'actions pour la mobilité durable
+¦ 50 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+CHU Nice
+2018-2019
+Mise en place d’un plan de mobilité 
+durable comprenant plusieurs projets :
+• Le CHU a rejoint la plateforme en ligne 
+« La roue verte », une solution de 
+covoiturage pour mutualiser les trajets 
+entre les membres du personnel
+• Un service d’autopartage de véhicules
+• Une augmentation des visioconférences 
+et du télétravail
+• Lors des approvisionnements, le CHU 
+privilégie les commandes « en camion 
+plein » et propose des formations 
+d’éco-conduite pour les chauffeurs
+• Une navette gratuite relie les différents 
+centres du site afin de réduire les trajets 
+et fluidifier l’accès entre les sites
+Non déterminé
+CHU 
+Bordeaux
+2008
+Mise en place d’un plan de mobilité 
+durable : 
+• Dispositif de conseil personnalisé en 
+déplacements 
+• Mise en place de mesures incitatives 
+(dont un forfait mobilité durable)
+• Partenariats/relations extérieures
+• Sensibilisation aux modes de 
+transport alternatifs : évènements, 
+communication, rubrique intra et 
+internet, interventions lors des journées 
+d'accueil, etc. 
+Enquête réalisée tous les 4 
+ans pour actualiser le plan 
+d'action en fonction des 
+bénéfices perçus.
+Entre 2008 et 2020 : 25% de 
+réduction des déplacements 
+en voiture, + 12% d’utilisation 
+des transports en commun.
+CHU 
+Grenoble
+Promotion du vélo, du covoiturage, des 
+actions de sensibilisation, des journées 
+de formation, des offres promotionnelles, 
+des distributions de guide cycliste, des 
+organisations de speed dating covoiturages.
+Lancement d'un challenge mobilité en 
+Juin 2019.
+64 % de report modal sur la 
+journée challenge mobilité.
+17 % du personnel du CHU 
+Grenoble qui vient à vélo et 15 % 
+en transport en commun.
+Hôpital Privé 
+Nord Parisien
+2015
+Mise en place du transport sanitaire en 
+covoiturage au sein de l’établissement.
+Entre 2015 et 2019, les 
+patients se déplaçant en 
+covoiturage sont passés de 
+20 à 61%.
+Structure Actions mises en place Bénéfices
+Retours d’expérience
+Tableau 12 : Liste d'actions pour la mobilité durable
+¦ 51 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les différentes études scientifiques actuelles 
+estiment que le numérique est responsable 
+de 3 à 4% des émissions de GES au niveau 
+mondial soit 2 fois le secteur aérien 42. C’est 
+également un secteur responsable d’une 
+consommation importante de ressources 
+abiotiques (ressources naturelles non 
+renouvelables), d’eau et d’énergie. 
+Adopter des pratiques numériques 
+plus responsables afin de réduire 
+significativement l’empreinte 
+environnementale du secteur est 
+nécessaire dans le contexte actuel de lutte 
+contre le changement climatique, de déclin de 
+la biodiversité et de raréfaction des ressources 
+naturelles. Le secteur de la santé et les 
+activités de dialyse en particulier, ne sont pas 
+moins concernées par ces problématiques 
+qu’un autre secteur. Le numérique en dialyse 
+ouvre un champ des possibles prometteur 
+(télésurveillance, collecte de données, 
+dialyse connectée, gestion des stocks et des 
+déchets, etc.) mais ces impacts doivent être 
+surveillés et contrôlés afin de limiter les effets 
+dévastateurs. 
+Pour ces raisons, il nous a paru intéressant 
+de relever des leviers d’actions et des retours 
+d’expérience permettant d’impulser une sobriété 
+numérique. 
+Les leviers d’action pour pousser à la sobriété 
+numérique 
+Liste d'actions Mise en
+oeuvre
+Actions de sensibilisation
+• Former les professionnels et patients à un usage circonstancié et utile 
+du numérique en santé en les sensibilisant notamment sur son impact 
+environnemental. 
+• Mettre en place des défis (exemple : 1 journée sans mails)
+Calcul de l’impact environnemental d’un système d’information d'un centre 
+de dialyse.
+Intégrer les compétences Numérique Responsable dans le plan de formation. 
+Actions concernant l’échange/stockage de données numériques 
+Mettre en place une stratégie de gestion des données.
+Mesurer et maîtriser les volumes des données échangées en prenant en 
+compte le phénomène d’infobésité : toutes les données ne sont peut-être pas 
+pertinentes.
+Actions concernant les messageries 
+Eviter d’envoyer les mails inutiles (comme les mercis), favoriser les messageries 
+instantanées.
+Intégrer les bonnes pratiques numériques : éviter les pièces jointes quand 
+ce n’est pas nécessaire, réduire le nombre de destinataires, se désabonner des 
+emailings non désirés, supprimer les mails inutiles, faire un tri régulier de la boite 
+mail, éliminer les spams.
+Actions sur le matériel informatique/les dispositifs numériques 
+Favoriser les dispositifs éco-conçus  / appareils électroniques reconditionnés 
+ou de seconde main lors des commandes.
+Lutter contre l’obsolescence en proposant de ne pas renouveler le matériel 
+toujours fonctionnel et de systématiser le recyclage des dispositifs en fin de vie.
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+Mise en œuvre :  court terme   moyen terme  long terme 
+¦ 52 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Éteindre complètement son ordinateur et/ou son écran quand on ne s’en 
+sert pas ; en particulier, ne pas le laisser en veille ou branché.
+Recourir à la collecte des DEEE (Déchets d’équipements électriques et 
+électroniques) via un prestataire professionnel pour favoriser le recyclage et le 
+traitement propre des déchets non recyclables. 
+Intégrer le Lifi dans les salles de dialyse : alternative au wifi qui utilise les ondes 
+lumineuses des ampoules LED plutôt que les ondes électromagnétiques du Wifi. 
+Vitesse supérieure, consomme moins d’énergie, imperméable aux cyberattaques. 
+A noter que ce système ne marche que dans la salle où sont disposées les 
+ampoules. Les ondes ne traversent pas les murs. Bon pour la communication 
+intra-salle, entre les générateurs de dialyse et l’ordinateur central.
+Procéder à la labellisation ou à la certification éco-responsable des SIH 
+(systèmes d’information hospitaliers) et des dispositifs numériques en général 
+(ordinateurs, technologies médicales, etc.). 
+Tableau 13 : Liste d'actions pour la sobriété numerique
+CHU 
+Bordeaux
+2020
+En 2020, un moteur de recherche écolo-
+gique Ecosia 4 a été déployé sur l'en-
+semble des postes (navigateurs Mozilla 
+Firefox, Microsoft Edge Chromium, hors 
+Internet Explorer dédié à l'intranet et aux 
+applications métiers).
+Traitement préventif des messages exté-
+rieurs polluants : 40 à 50 % des mes-
+sages destinés au CHU sont supprimés en 
+amont, jusqu'à 80 000 suppressions/jour 
+effectuées. 
+Les points d’impression sont rationalisés 
+par zone géographique pour éviter la 
+multiplication des équipements ; ils sont 
+paramétrés en noir et blanc, recto-verso 
+par défaut.
+L’évaluation des bénéfices 
+est prévue en 2025
+Structure Actions mises en place Bénéfices
+Retours d’expérience
+Tableau 14 : Retours d'expérience d'actions réduisant l'impact du numérique
+¦ 53 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les leviers d’action pour préserver la 
+biodiversité
+Liste d'actions Mise en
+oeuvre
+• Réaliser un état des lieux de l’impact environnemental de l’activité 
+de l’établissement sur la biodiversité et s’informer sur le contexte 
+environnemental
+• Limiter les pollutions lumineuses nocturnes  car elles ont un réel impact 
+sur la capacité des espèces à s’orienter (privilégier les lampes qui n’émettent 
+pas d’UV et dont la couleur est jaune-orange, réduire les périodes d’éclairage, 
+sélectionner uniquement les zones nécessaires, …)
+• Limiter les pollutions sonores qui perturbent l’instinct de la faune
+• Favoriser l’aménagement d’espaces verts à la fois bénéfiques pour la 
+faune, la flore et le bien-être humain
+• Limiter au maximum l'usage des biocides 
+• Organiser des actions de sensibilisation à la préservation de la biodiversité
+S’inscrire au réseau des refuges LPO (Ligue pour la Protection des Oiseaux) 
+afin de bénéficier d’un accompagnement sur mesure aux entreprises qui 
+souhaitent s'engager pour la préservation de la biodiversité. L’abonnement 
+comprend des conseils concernant les pratiques et les aménagements en 
+faveur de la biodiversité, ainsi qu’un programme d’animation permettant de 
+faire connaître cette démarche et sensibiliser le personnel et les patients à la 
+préservation de la biodiversité. 
+CHU 
+Bordeaux
+2017
+Sur un terrain de 30 hectares, le groupe a 
+mis en place une zone protégée et a créé 
+un parcours pédestre thérapeutique 
+permettant de protéger et valoriser la 
+biodiversité en promouvant l’activité 
+physique des patients43.
+Non déterminé
+CHU la 
+Chartreuse
+Dijon
+2012
+Le CH favorise la biodiversité par une 
+gestion différenciée des parcs et jardins.
+Programme de gestion et valorisation 
+du parc : travaux de sécurisation et 
+replantation : remplacement progressif 
+des haies mono spécifiques par des haies 
+vives pour favoriser les habitats naturels. 
+• 200 variétés d'arbres et 
+500 variétés d'arbustes 
+différents sur l'hôpital.
+• 3 hectares de gazon 
+ont été transformés 
+en prairie avec une 
+seule fauche par an, 
+permettant aux espèces 
+comme les papillons ou 
+pollinisateurs sauvages 
+de se développer44.
+Structure Actions mises en place Bénéfices
+Tableau 15 : Liste d'actions pour préserver la biodiversité
+Retours d’expérience
+Mise en œuvre :  court terme   moyen terme  long terme 
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+¦ 54 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Foyer de Vie 
+Oustalado de 
+Salindre
+2018-2019
+Mise en place d’un mode de désherbage 
+thermique afin d’entretenir les espaces 
+extérieurs et favoriser l’utilisation des 
+jardins par les résidents. Précédemment 
+ce désherbage était fait une fois par an par 
+une entreprise extérieure.
+Les espaces extérieurs sont 
+régulièrement entretenus 
+mais nécessitent plus 
+d’interventions qu’avec 
+des produits chimiques. 
+L’utilisation de désherbants 
+chimiques n’est plus 
+autorisée sur l’établissement 
+depuis le 1er janvier 201945.
+CH Henri 
+Guérin
+Démarche écoresponsable de protection 
+de l'environnement. Collaboration avec "les 
+Ruches d'Hyères" : Installation de ruches 
+sur les espaces verts du CH. 3 ateliers 
+d'apiculture ont eu lieu dont peuvent 
+bénéficier patients/résidents et personnel 
+du CH : ouverture des ruches, essaimage et 
+extraction.
+Sensibilisation du public 
+à la biodiversité et à 
+l'importance des espèces 
+pollinisatrices pour la survie 
+des écosystèmes46.
+CHU 
+Toulouse
+2017
+Soucieux de son devoir d’exemplarité, le 
+CHU s’est engagé, avec l’aide financière 
+de l’agence de l’eau Adour Garonne, à 
+ne plus avoir recours aux produits 
+phytosanitaires (fongicides, pesticides,
+herbicides), à compter du 1er janvier 2017.
+L’objectif était de mettre en place une 
+organisation permettant de rationaliser 
+les interventions des jardiniers en limitant 
+la taille, l’arrosage et en éradiquant 
+le désherbage chimique ainsi que les 
+traitements phytosanitaires qui seront 
+prochainement interdits.
+Cela conduit à repenser les aménagements 
+paysagers des 40 hectares d’espaces verts 
+du CHU, avec l’objectif d’en optimiser la 
+gestion47.
+Non déterminé
+Tableau 16 : Retours d'expériences d'actions permettant de préserver la biodiversité
+¦ 55 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les leviers d’actions pour optimiser les relations 
+avec son écosystème et ses parties prenantes 
+Liste d'actions Mise en
+oeuvre
+Actions concernant le mécénat et l’engagement citoyen
+Réaliser des dons et mettre en place des partenariats avec des associations  et 
+fonds spécifiques à la néphrologie.
+Mécénat de compétences ou journées de solidarité en place.
+Actions en direction des patients
+Capitaliser sur le temps que les patients passent en dialyse pour essayer de les 
+sensibiliser aux enjeux climatiques et les embarquer dans la démarche. 
+Proposer un support pour introduire des sujets, faire des animations en lien avec 
+le développement durable (journée thématique).
+Sensibiliser les patients en IRC avancée précocement, par exemple lors des 
+séances d’éducation thérapeutique.
+Animations d'ateliers (culinaires, ateliers développement durable) et encourager 
+les patients à participer à des activités de groupe (groupe de marche, longe 
+côte, etc.).
+Inciter les patients à pratiquer une activité physique : Sous pendant la séance de 
+dialyse : utilisation de pédaliers sur lits médicalisés pour permettre aux patients 
+de devenir acteurs de leur prise en charge. Soit en dehors de la séance.
+Evaluer le bien-être et la satisfaction  des patients et de leur prise en charge 
+vis-à-vis de l’établissement : créer un groupe de bientraitance chargé de mesurer 
+le niveau de bien-être des patients et de mettre en place des plans d’amélioration 
+personnalisés.
+Prévention et ouverture aux médecines complémentaires (hypnose, méditation, 
+sophrologie, etc.).
+Actions pour le développement local
+Lien avec les entreprises du territoire : les favoriser dans le choix d'appel 
+d'offres.
+Favoriser les synergies avec les fédérations locales.
+Favoriser le développement de partenariats avec des écoles et des centres de 
+formations de la région (accueil privilégié de stagiaires, étudiants, etc.).
+Mettre en place un plan de communication, avec publication d'articles, 
+valorisation des actions et évènements proposés par l'établissement.
+Les enjeux sociétaux sont un axe prégnant du développement durable, intégrant de façon globale 
+les relations avec son écosystème et parties prenantes, particulièrement les patients. 
+Tableau 17 : Liste d'actions permettant d'optimiser les relations avec son écosystème et ses 
+parties prenantes
+Mise en œuvre :  court terme   moyen terme  long terme 
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+ZOOM SUR :+
+¦ 56 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+ZOOM SUR :+
+L’insuffisance rénale dont souffrent les patients dialysés est majoritairement associée 
+à d'autres pathologies telles que le diabète et l'hypertension. Il est recommandé de 
+respecter une bonne hygiène de vie afin de prévenir l’apparition de ces maladies et/ou 
+de freiner leur évolution vers des stades plus critiques, pouvant entrainer à terme une 
+insuffisance rénale48.
+Les règles hygiéno-diététiques jouent un rôle central pour la santé des individus. 
+Respecter une bonne alimentation, pratiquer des activités physiques, avoir un sommeil 
+régulier, etc. sont autant de bonnes pratiques à mettre en place dans son quotidien 
+pour prévenir et freiner les pathologies rénales.
+La lutte contre le stress est également primordiale. Les séances d’ostéopathie, 
+d’hypnose (cf Centre de Dialyse Aura Santé en Auvergne 49) ; de méditation et de 
+sophrologie sont des pratiques de plus en plus recommandées, notamment pour les 
+patients nécessitant la dialyse.
+L’ACCOMPAGNEMENT MÉDICAL HOLISTIQUE
+LE BIEN-ÊTRE DES PATIENTS
+La dialyse représente un traitement lourd et contraignant, avec des conséquences 
+importantes sur la vie des patients.
+La dialyse détériore la qualité de vie des patients et les premières mesures 
+susceptibles d’alléger cette charge est de leur donner des conditions les plus adaptées 
+possibles à leur cas particulier : lieu, horaire. Il est fondamental, et c’est le droit des 
+patients, que soit donnée à tous une information complète sur toutes les modalités 
+de la dialyse, même sur celles qui ne sont pas pratiquées dans l’établissement 
+(exemple : hémodialyse longue nocturne).
+ 
+Pour améliorer la qualité de vie des patients, leur projet de vie doit être pris en considération. 
+Dans ce domaine, il faut rappeler la faiblesse du taux d’insertion professionnelle des 
+patients dialysés en âge de travailler. Le maintien ou le retour au travail est influencé 
+par la dialyse et vraisemblablement aussi par sa modalité50.
+¦ 57 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Centre 
+AURAL
+2019
+Mise en place d’un système de réduction 
+du bruit lors d’une séance de dialyse  
+(alarmes, générateurs, ventilation, 
+discussion). Traitement de la pièce de 
+dialyse fait par un prestataire externe  
+contre le bruit, à l’aide d’un revêtement 
+absorbant et de claustras. 
+L’amélioration ressentie par 
+les patients est de l’ordre 
+de 50% et ces derniers se 
+plaignent en moyenne dix 
+fois moins de maux de tête. 
+Centre Aurar
+Mise en place d’une journée de 
+convivialité chaque année avec les 
+patients, leurs proches et les salariés
+Témoignages positifs des 
+patients et du personnel
+Association 
+saint André
+2015
+Proposition d'un programme d’activité 
+physique intitulé PACAP (P poumon, A 
+artère, C cœur, A activité, P physique). 
+L’activité physique a lieu pendant les séances 
+d’hémodialyse avec un un pédalier qui peut 
+être comparé à un vélo d’appartement que 
+l’on pratique en position couchée.
+Non déterminé
+Fondation 
+AUB santé
+Actuellement, une faible proportion 
+des établissements de santé en France 
+propose l’HD nocturne permettant au 
+patient de mener leur séance de dialyse 
+pendant leur sommeil. Cette modalité est 
+pourtant la plus inclusive, elle permet le 
+maintien de l’emploi à 75%. 
+L’AUB a développé cette modalité avec 
+7 centres (bientôt 8) avec 110 places 
+disponibles proposant une hémodialyse 
+longue nocturne en chambre 
+individuelle.
+65% des dialysés "actifs" 
+en hémodialyse longue 
+nocturne en centre en 
+chambre individuelle sont en 
+situation d'emploi. 
+Structure Actions mises en place Bénéfices
+Retours d’expérience
+Tableau 18 : Retours d'expérience d'action pour le bien être des patients
+¦ 58 ¦    PARTIE 3 - Les leviers d'action
+PARTIE 3 - Les leviers d'action
+Les leviers d’actions pour optimiser les 
+conditions sociales internes 
+Liste d'actions Mise en
+oeuvre
+Actions concernant l’emploi et le recrutement
+Processus d’intégration personnalisé , avec un parcours dédié aux nouveaux 
+arrivants
+Enquête de satisfaction du personnel
+Marque employeur et attractivité  : Avantages sociaux, rémunération, 
+politiques plus avantageuses que les obligations légales (pour le remboursement 
+des transports ou le nombre de jours de congé parental)
+Actions concernant les formations et le développement des carrières
+Formation du personnel : enquête et politique de formation.
+Evaluation annuelle
+Actions d’animation interne
+Teambuilding, évènements internes, fêter les succès et les projets de l’année ; 
+reconnaissance des services rendus pour l’établissement
+Mise en place de dispositifs d'alerte, d’une cellule d'écoute, d'un référent
+Actions concernant l’éthique
+Instance de représentation des salariés (CSE obligatoire pour les établissements 
+de santé publique), charte éthique signée par tous les salariés ; personnels formés 
+aux sujets éthiques
+Les professions de la santé souffrent d’une 
+perte d’attractivité dans un contexte où les 
+conditions de travail se dégradent et où les 
+rémunérations ne suivent pas.
+Les crises sanitaires ont fortement ébranlé 
+les structures du secteur médico-social. 
+Tous les professionnels ont été contraints 
+de s'adapter afin de prendre en charge 
+les publics vulnérables. Le manque de 
+personnel, le manque de reconnaissance, 
+la rémunération et les contraintes 
+administratives sont perçus comme des 
+freins au bon fonctionnement des services 
+et au taux de satisfaction du personnel. Les 
+propositions ci-dessous sont des actions qui 
+peuvent améliorer les conditions salariales, 
+l'engagement et l'épanouissement au 
+travail, mais ne viendront pas corriger les 
+éventuels dysfonctionnements inhérents à 
+l'organisation médico-sociale.
+Les propositions ci-dessous pourront être 
+appréhendées conjointement avec les actions 
+du Comité Social d’Etablissement (CSE).
+Tableau 19 : Liste d'actions permettant d'améliorer les conditions sociales internes.
+Mise en œuvre :  court terme   moyen terme  long terme 
+Le temps de mise en œuvre a été estimé en prenant en compte les critères de (i) la difficulté technique de 
+déploiement des actions, (ii) l’investissement financier/humain nécessaire 
+ANNEXES
+
+¦ 60 ¦    ANNEXES
+ANNEXES
+Liste des gaz réfrigérants et de leur Potentiel 
+Réchauffement Global (PRG ou GWP en anglais)
+Pour les appareils utilisant des gaz réfrigérants 
+ou des hydrofluorocarbures (climatiseur, 
+réfrigérateur, etc.), privilégiez les gaz avec des 
+PRG (Potentiel Réchauffement Global) les plus 
+faibles possibles. Vérifiez avec votre technicien 
+la faisabilité et la sécurité des gaz (toxicité, 
+inflammabilité, pressurisation, etc.). 
+Liste des analyses physico-chimiques à effectuer 
+pour s’assurer de la qualité de l’eau d'osmose 
+inverse rejetée en cas de projet de réutilisation
+Paramètres Unité
+Conductivité mS/cm
+pH
+Calcium mg/L
+Chlorure mg/L
+Dureté totale °F
+Magnésium mg/L
+Sodium mg/L
+Sulfates mg/L
+Turbidité NFU
+Ammonium mg/L
+Nitrates mg/L
+Chlore libre mg/L
+Chlore Totale mg/L
+Fer µg/L
+Arsenic µg/L
+Cadmium µg/L
+Mercure µg/L
+Types 
+fluides
+GWP 
+(CO2=1,0)
+Concentration 
+max dans l'air 
+(kg/m3)
+Sécurité Température 
+critique (°C)
+Glissement de
+température 
+à 1 bar (K)
+Température 
+d'ébullition à
+1 bar (°C)
+R-134a 1200 0,25 - 101 0 -26
+R-407C 1520 0,31 - 87 7,4 -44
+R-404A 3260 0,48 - 73 0,7 -47
+R-410A 1720 0,44 - 72 < 0,2 -51
+R-417A 1950 0,15 - 90 5,6 -43
+R-507A 3300 0,52 - 71 0 -47
+R-290 
+(propane) 3 0,008 Inflammable 97 0 -42
+R-717(NH3) 0 0,00035 Toxique 133 0 -33
+R-723 (NH3 
+& DME) 8 - Toxique 131 0 -37
+R-744 (CO2) 1 0,07 Haute 
+pression 31 0 -57
+R-718 (H2O) 0 - - 374 0 100
+¦ 61 ¦    ANNEXES
+ANNEXES
+Les questions non résolues dans ce guide 
+Plusieurs leviers d’actions permettant de 
+réduire les impacts environnementaux, 
+sociaux et sociétaux de la dialyse ont été 
+identifiés, détaillés et appuyés par des retours 
+d’expérience tout au long de ce guide. Nous 
+nous sommes focalisés sur les enjeux des 
+activités de dialyse en centre ayant les 
+impacts les plus néfastes (consommation en 
+eau, production de déchets, consommation 
+d’énergie, transport) tout en apportant 
+des pistes d’amélioration sur des sujets 
+moins pris en considération de nos jours  
+(préservation de la biodiversité, de la qualité 
+de l’air, sobriété énergétique, etc.). Ce guide 
+n’a, néanmoins, pas vocation à traiter de 
+façon exhaustive tous les enjeux et est voué 
+à évoluer. 
+Plusieurs sujets n’ont pas été abordés et devront 
+l’être lors de l’actualisation à venir du guide. 
+Il est prévu de réaliser le même travail pour 
+les autres modalités de dialyse (péritonéale, 
+à domicile, etc.). 
+Parmi les sujets non ou peu traités dans ce 
+guide, mais qui devront l’être dans une version 
+ultérieure, nous pouvons aussi citer : la pollution 
+chimique (médicaments, bionettoyage des 
+surfaces, machines, etc.), l’alimentation, l’éco 
+conception, le développement de l’accès aux 
+soins, le bien-être au travail, la santé et la 
+sécurité au travail, etc.
+Diagnostic RSE : Grille d’analyse de l’état initial 
+de la stratégie RSE
+Cette grille d’analyse, à imprimer ou reproduire sur un fichier informatique, permettra aux 
+centres de dialyse d’établir l’état des lieux des actions mises en place ou en cours sur les sujets 
+RSE.
+Les colonnes à compléter correspondent à : 
+•  « Etat d’avancement de l’action » : indiquer ici si l’action est déjà faite, en cours ou à 
+réaliser.
+• « Actions prioritaires à mettre en place » : indiquer ici un niveau le niveau de priorité 
+attribué pour les actions que le centre souhaiterait lancer. Le centre peut prioriser les actions 
+en fonction de la complexité de la mise œuvre, des ressources à déployer (humaines et 
+financières), de la temporalité, etc.
+• « Responsable de l’action » : indiquer ici le responsable dans le centre en charge de 
+l’action (fonction, service)
+• « Ressources à allouer » : indiquer ici les ressources allouées pour l’action concernée 
+(temps humain et moyens financiers nécessaires ou disponibles)
+Légende des couleurs applicable pour tous les tableaux du document :
+•  Vert – Mise en œuvre à court terme ;
+•  Orange – mise en œuvre à moyen terme ;
+•  Bleu – Mise en œuvre long terme. 
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Eau : Actions 
+transverses
+Installer des doubles chasses 
+d’eau dans les toilettes.
+Eau : Actions 
+transverses
+Installer des détecteurs 
+automatiques aux robinets d’eau 
+ou des mousseurs/aérateurs 
+d’eau.
+Eau : Actions 
+transverses
+Récupérer l’eau de pluie 
+pour arroser les plantations 
+extérieures.
+Eau : suivi de sa 
+consommation
+Mettre en place des compteurs 
+divisionnaires pour identifier la 
+consommation d’eau qui revient 
+à la dialyse et rapporter les 
+données à la séance de dialyse.
+Eau : suivi de sa 
+consommation
+Envisager l’installation de 
+compteurs sur la partie 
+prétraitement de l’eau afin 
+d’optimiser les consommations 
+d’eau à ce niveau du procédé.
+Eau : unités de 
+traitement d’eau
+Limiter au maximum l’injection 
+de désinfectant éventuelle, 
+la chloration permanente ou 
+temporaire, ou la désinfection 
+périodique du dispositif suivi 
+d’un rinçage à l’eau car cette eau 
+est perdue.
+Eau : unités de 
+traitement d’eau
+Renouveler les centrales de 
+traitement d’eau.
+¦ 62 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Eau : unités de 
+traitement d’eau
+Optimiser les fréquences de 
+régénération des adoucisseurs, 
+charbons actifs, filtres à sable, 
+désinfections thermiques 
+nocturnes et flushs afin de 
+conduire ces actions que lorsque 
+nécessaire.
+Eau : limiter 
+la perte d’eau 
+rejetée
+Optimiser le taux de conversion 
+des osmoseurs
+Eau : limiter 
+la perte d’eau 
+rejetée
+Changer de dispositif de 
+traitement d’eau
+Eau : réduire le 
+débit de dialysat
+Modifier le débit du dialysat 
+administré pour réduire 
+la consommation d’eau, 
+de concentré d’acide et de 
+bicarbonate.
+Eau : réutilisation Réutiliser l’eau rejetée par 
+osmose inverse
+Eau : réutilisation Réutiliser le dialysat rejeté
+Energie : suivi de 
+la consommation 
+énergétique
+Mettre en place un tableau de 
+bord permettant de suivre ses 
+consommations et l’impact 
+des actions de réduction . 
+Formaliser des tableaux de 
+suivi mensuel ou trimestriel de 
+consommation énergétique.
+¦ 63 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Eau : Actions 
+transverses
+Installer des doubles chasses 
+d’eau dans les toilettes.
+Eau : Actions 
+transverses
+Installer des détecteurs 
+automatiques aux robinets d’eau 
+ou des mousseurs/aérateurs 
+d’eau.
+Eau : Actions 
+transverses
+Récupérer l’eau de pluie 
+pour arroser les plantations 
+extérieures.
+Eau : suivi de sa 
+consommation
+Mettre en place des compteurs 
+divisionnaires pour identifier la 
+consommation d’eau qui revient 
+à la dialyse et rapporter les 
+données à la séance de dialyse.
+Eau : suivi de sa 
+consommation
+Envisager l’installation de 
+compteurs sur la partie 
+prétraitement de l’eau afin 
+d’optimiser les consommations 
+d’eau à ce niveau du procédé.
+Eau : unités de 
+traitement d’eau
+Limiter au maximum l’injection 
+de désinfectant éventuelle, 
+la chloration permanente ou 
+temporaire, ou la désinfection 
+périodique du dispositif suivi 
+d’un rinçage à l’eau car cette eau 
+est perdue.
+Eau : unités de 
+traitement d’eau
+Renouveler les centrales de 
+traitement d’eau.
+¦ 64    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Eau : unités de 
+traitement d’eau
+Optimiser les fréquences de 
+régénération des adoucisseurs, 
+charbons actifs, filtres à sable, 
+désinfections thermiques 
+nocturnes et flushs afin de 
+conduire ces actions que lorsque 
+nécessaire.
+Eau : limiter 
+la perte d’eau 
+rejetée
+Optimiser le taux de conversion 
+des osmoseurs
+Eau : limiter 
+la perte d’eau 
+rejetée
+Changer de dispositif de 
+traitement d’eau
+Eau : réduire le 
+débit de dialysat
+Modifier le débit du dialysat 
+administré pour réduire 
+la consommation d’eau, 
+de concentré d’acide et de 
+bicarbonate.
+Eau : réutilisation Réutiliser l’eau rejetée par 
+osmose inverse
+Eau : réutilisation Réutiliser le dialysat rejeté
+Energie : suivi de 
+la consommation 
+énergétique
+Mettre en place un tableau de 
+bord permettant de suivre ses 
+consommations et l’impact 
+des actions de réduction . 
+Formaliser des tableaux de 
+suivi mensuel ou trimestriel de 
+consommation énergétique.
+¦ 65 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Energie : suivi de 
+la consommation 
+énergétique
+Installer des compteurs 
+divisionnaires d’électricité, 
+effectuer un relevé périodique et 
+mettre en place des indicateurs 
+spécifiques en rapportant la 
+consommation à la séance de 
+dialyse.
+Energie : suivi de 
+la consommation 
+énergétique
+Faire des audits réguliers.
+Energie : 
+consommation 
+du bâtiment
+Sensibiliser aux éco-gestes 
+via la rédaction d’un guide à 
+destination du personnel et des 
+patients. Installer des affiches de 
+rappel pour des actions simples 
+(éteindre la lumière, éteindre le 
+chauffage, fermer les stores, etc.). 
+Encourager les comportements 
+énergétiquement responsables. 
+Energie : 
+consommation 
+du bâtiment
+Communiquer sur les bonnes 
+pratiques à mettre en place 
+(ou déjà mises en place) et les 
+indicateurs de performance 
+associés.
+Energie : 
+consommation du 
+bâtiment
+Faire entretenir annuellement 
+les équipements, dont les 
+chaudières, avec la vérification du 
+respect des normes de teneur en 
+oxydes d’azote (NOx) des gaz de 
+combustion.
+¦ 66 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Energie : 
+consommation du 
+bâtiment
+Pour les appareils utilisant 
+des gaz réfrigérants ou des 
+hydrofluorocarbures (climatiseur, 
+réfrigérateur, etc.), privilégiez 
+les gaz avec des PRG (Potentiel 
+Réchauffement Global) les 
+plus faibles possibles. Vérifiez 
+avec votre technicien la faisabilité 
+et la sécurité des gaz (toxicité, 
+inflammabilité, pressurisation, 
+etc.). Vous trouverez en annexes la 
+liste des Gaz et leur PRG associé.
+Energie : 
+consommation du 
+bâtiment
+Utilisation de sources d’énergie 
+bas carbone. Opter pour un 
+contrat d’électricité soutenant 
+le développement des énergies 
+renouvelables avec votre 
+fournisseur.
+Energie : 
+consommation du 
+bâtiment
+Choisir des solutions d’énergie 
+passive (protections solaires 
+modulables, ponts thermiques, 
+etc.). 
+L’isolation du bâtiment est 
+primordiale (isolation des combles, 
+isolation par l’extérieur, brise soleil, 
+fenêtres doubles vitrages, etc.).
+Energie : 
+consommation 
+liée à la dialyse
+Eduquer à l’usage des appareils 
+électroniques (biomédicaux et 
+informatiques) : mise en veille, 
+recharge, mails inutiles, stockage 
+utile, etc.
+¦ 67 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Energie : 
+consommation 
+liée à la dialyse
+Renouveler les générateurs 
+de dialyse pour utiliser des 
+machines intégrant des 
+fonctions d’optimisation de 
+la consommation en énergie, 
+notamment via des échangeurs 
+thermiques et une fonction 
+d’écoulement automatique du 
+dialysat.
+Energie : confort 
+hygrothermique
+Favoriser la bio climatisation 
+des bâtiments : la climatisation 
+est réalisée en tirant le meilleur 
+parti du rayonnement solaire et 
+de la circulation naturelle de l’air 
+afin de réduire la consommation 
+d’énergie.
+Energie : confort 
+hygrothermique
+Récupération des calories/
+frigories par dispositif à double 
+flux (maximiser les bénéfices 
+du process exotherme de la 
+dialyse) comme les pompes à 
+chaleur préventives, le recyclage 
+du dialysat ou l’utilisation 
+d’échangeurs de chaleur pour 
+transférer la chaleur de l’effluent 
+du dialysat au dialysat frais 
+entrant.
+Energie : confort 
+hygrothermique
+Contrôler spécifiquement la 
+température pour chaque type 
+de local par des dispositifs de 
+régulation et de programmation 
+de la température.
+¦ 68 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Energie : confort 
+hygrothermique
+Utilisation de panneaux 
+solaires en ombrières sur 
+les aires de stationnement  
+(permet une économie de 
+climatisation, donc de carburant, 
+et apporte un meilleur confort 
+aux conducteurs en plus de la 
+production d’électricité).
+Energie : confort 
+hygrothermique
+Prévoir la ventilation nocturne 
+des locaux (en cas de forte 
+chaleur).
+Energie : éclairage Privilégier l’éclairage naturel  
+avec occultation, tamisage.
+Energie : éclairage Utiliser des luminaires à LED
+Energie : éclairage
+Installer des détecteurs 
+de passage et de présence 
+avec minuteurs d’éclairage et 
+interrupteurs crépusculaires.
+Energie : site et 
+construction
+Choisir des matériaux bio 
+sourcés à faible coût d’entretien. 
+La construction en bois est une 
+bonne solution.
+Energie : site et 
+construction
+Etablir une charte «Chantier 
+vert» avec les entreprises.
+Energie : site et 
+construction
+Définir une procédure de 
+travaux validée par les hygiénistes 
+pour un chantier à faible impact 
+environnemental.
+¦ 69 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Energie : site et 
+construction
+Pour le parc immobilier existant, 
+massifier la rénovation 
+thermique globale et 
+performante des bâtiments 
+: réaliser un diagnostic de 
+performance énergétique avant de 
+rénover et arbitrer les priorités des 
+travaux de rénovation.
+Energie : site et 
+construction
+Construire les cloisons en 
+permettant les modifications 
+futures.
+Qualité de l’air
+Sensibiliser le personnel à 
+l’importance du renouvellement de 
+l’air dans les salles de soin.
+Qualité de l’air
+Fixer une procédure de 
+renouvellement de l’air (durée, 
+nombre de fenêtre à ouvrir 
+dépendamment des saisons, etc.).
+Qualité de l’air
+Pour assurer le confort des patients, 
+une attention doit être portée à la 
+localisation des diffuseurs et à la 
+vitesse de l’air, limitée à 0,25 m/s à 
+la hauteur du fauteuil.
+Qualité de l’air
+Limiter le nombre de produits 
+d’entretiens et utiliser des 
+produits simples, de préférence 
+labellisés ou bio. Les labels à 
+privilégier sont : ecocert, ecolabel, 
+etc.
+¦ 70 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Qualité de l’air
+Choisir des matériaux émettant 
+le moins de substances 
+polluantes, des produits de 
+construction et de décoration 
+classés A+ en termes d’émissions 
+de polluants volatils dans les 
+achats et marchés publics.
+Qualité de l’air
+Utilisation d’une sonde CO 2 
+pour mesurer la teneur en CO2 de 
+l’air et piloter la vitesse de rotation 
+d’un ventilateur ou l’ouverture 
+d’un volet d’air neuf ou autre en 
+conséquent.
+Déchets : listing Réaliser un audit ou un 
+catalogue de pratique
+Déchets : suivi
+Réaliser un catalogue du matériel 
+utilisé reprenant la composition 
+et le poids respectif de chacun, 
+son circuit d’élimination et les 
+pistes d’amélioration.
+Déchets : suivi
+Mise en place d’indicateurs de 
+suivi du poids et du coût annuel 
+des DASRI (DRI + DSCRI) et des 
+DAOM.
+Déchets : suivi
+Mise en place d’un audit du 
+poids de déchet produit 
+annuellement. 
+¦ 71 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Déchets : quantité 
+d’emballages
+Mettre en place des conventions 
+de reprise des déchets par les 
+fournisseurs.
+Déchets : quantité 
+d’emballages
+Mettre en place des filières de 
+recyclage, telles qu’imposées 
+par la loi.
+Déchets : quantité 
+d’emballages
+Intégrer des critères de 
+réduction des emballages et 
+des conditionnements lors des 
+achats auprès des fournisseurs. 
+Déchets : papiers
+Favoriser le stockage 
+électronique plutôt que 
+l’impression papier (rapports 
+quotidiens, résultats de tests et 
+autres documents, notices de 
+matériel en version informatique, 
+etc.).
+Déchets :  papiers
+Réduire le nombre d’imprimantes 
+en service, voire les supprimer si 
+possible.
+Déchets : papiers
+Sélectionner des papiers 
+labellisés (recyclés ou issus de 
+forêts gérées durablement).
+Déchets : DASRI Adopter la définition du code 
+de santé publique R 1335-1
+¦ 72 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Déchets : DASRI
+Vérifier les sacs de tri avant 
+fermeture : les déchets de soin 
+(compresses, gants, poches, etc.) 
+peuvent souvent être redirigés 
+des DASRI au DAOM.
+Déchets : DASRI
+Vidange des lignes permettant 
+de diminuer considérablement 
+le poids des circuits de dialyse 
+jetés. Soit manuelle, soit 
+automatiquement grâce aux 
+machines de dialyse récentes.
+Déchets : DASRI
+Acquisition de dispositifs de 
+déshydratation, compaction 
+ou de banalisation des DASRI, 
+permettant de diminuer de 
+manière significative le volume des 
+déchets DASRI et de les convertir 
+en DAOM (pour les banaliseurs).
+Déchets : recycler 
+et valoriser
+Sensibiliser, éduquer le 
+personnel à la juste utilisation 
+des matériels nécessaires aux 
+soins et aux procédures de tri. 
+Communiquer, faire des défis, 
+montrer les résultats concrets 
+d’une action, etc.
+Déchets : recycler 
+et valoriser
+Mise en place des 14 filières de 
+tri existantes et applicables à la 
+dialyse et vérification de la mise 
+en conformité (réglementation du 
+tri, du stockage et de l’élimination 
+des déchets).
+¦ 73 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Déchets : recycler 
+et valoriser
+Ne pas jeter les machines de 
+dialyse en fin de vie : les donner, 
+les vendre ou les utiliser pour 
+leurs pièces.
+Déchets : recycler 
+et valoriser
+Passer par des filières 
+spécifiques de valorisation des 
+déchets.
+Déchets : 
+produits à usage 
+unique
+Limiter l’utilisation de tenues 
+et matériels stériles
+Déchets : 
+produits à usage 
+unique
+Réutilisation des membranes 
+de dialyse
+Achats durables
+Intégration dans le cahier des 
+charges des fournisseurs des 
+critères environnementaux, 
+sociaux et économiques : 
+charte Développement Durable, 
+fabrique en propre, localisation, 
+transport, etc.
+Achats durables
+Passer par des plateformes 
+d’évaluation des performances 
+RSE des fournisseurs et d’achats 
+responsables type Ecovadis.
+Achats durables
+Pousser les centrales d’achat 
+à intégrer des critères de 
+Développement Durable
+¦ 74 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Achats durables
+Agir sur l’achat d’acide de dialyse : 
+Passer par des centrales de 
+distribution de concentrés 
+d’acides permettant de limiter 
+les emballages, le gaspillage, 
+les transports et les émissions 
+de GES (utiliser un système de 
+livraison centralisé avec des 
+réservoirs de stockage).
+Mobilité durable : 
+évaluer l’impact
+Faire une enquête initiale 
+auprès des salariés, usagers et 
+patients, sur leurs habitudes 
+de déplacements. Informer sur 
+les résultats et proposer des 
+solutions alternatives. L’enquête 
+est à actualiser chaque année. 
+Mobilité durable : 
+évaluer l’impact
+Faire un bilan du parc véhicule 
+(ambulances comprises) et 
+de leur utilisation. Recenser 
+les types de véhicules utilisés 
+(diesel, électrique, etc.) et les 
+kilométrages afin de déployer les 
+actions correctrices nécessaires.
+Mobilité durable : 
+évaluer l’impact
+Interroger les fournisseurs et 
+prestataires sur les émissions 
+de GES liées aux livraisons.
+Mobilité des 
+professionnels de 
+santé
+Mettre en place un programme 
+de sensibilisation.
+¦ 75 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Mobilité des 
+professionnels de 
+santé
+Organisation de journées 
+mobilité / défis / challenges
+Mobilité des 
+professionnels de 
+santé
+Mettre en place un plan de 
+déplacement entreprise
+Mobilité des 
+professionnels de 
+santé
+Travailler à l’échelle du 
+territoire avec l’ensemble 
+des acteurs (notamment 
+les municipalités) pour se 
+renseigner sur les dispositifs de 
+mobilités durables existants ou 
+en développement.
+Mobilité des 
+professionnels de 
+santé
+Favoriser les déplacements 
+alternatifs.
+Mobilité des 
+patients Inciter à la dialyse à domicile
+Mobilité des 
+patients
+Pratiquer la téléconsultation 
+autant que possible
+Mobilité des 
+patients
+Mise en place du co-voiturage 
+sous toutes ses formes dont 
+les transports communs, les 
+navettes municipales, etc.
+¦ 76 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Numérique 
+: actions de 
+sensibilisation
+• Former les professionnels 
+et patients à un usage 
+circonstancié et utile du 
+numérique en santé en les 
+sensibilisant notamment sur 
+son impact environnemental. 
+• Mettre en place des défis (ex : 
+1 journée sans mails)
+Numérique 
+: actions de 
+sensibilisation
+Calcul de l’impact 
+environnemental d’un système 
+d’information d’un centre de 
+dialyse.
+Numérique 
+: actions de 
+sensibilisation
+Intégrer les compétences 
+Numérique Responsable dans le 
+plan de formation.
+Numérique : 
+stockage
+Mesurer et maîtriser les 
+volumes des données 
+échangées en prenant en compte 
+le phénomène d’infobésité : 
+toutes les données ne sont peut-
+être pas pertinentes
+Numérique : 
+stockage
+Mettre en place une stratégie 
+de gestion des données
+Numérique : 
+messageries
+Eviter d’envoyer les mails 
+inutiles
+Numérique : 
+messageries
+Intégrer les bonnes pratiques 
+numériques
+¦ 77 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Numérique 
+: gestion du 
+matériel
+Favoriser les dispositifs éco-
+conçus / appareils électroniques 
+reconditionnés ou de seconde 
+main lors des commandes.
+Numérique 
+: gestion du 
+matériel
+Lutter contre l’obsolescence en 
+proposant de ne pas renouveler 
+le matériel toujours fonctionnel 
+et de systématiser le recyclage 
+des dispositifs en fin de vie
+Numérique 
+: gestion du 
+matériel
+Éteindre complètement son 
+ordinateur et/ou son écran 
+quand on ne s’en sert pas ; en 
+particulier, ne pas le laisser en 
+veille ou branché
+Numérique 
+: gestion du 
+matériel
+Recourir à la collecte des 
+DEEE (Déchets d’équipements 
+électrique et électroniques) via 
+un prestataire professionnel 
+pour favoriser le recyclage et le 
+traitement propre des déchets 
+non recyclables.
+Numérique 
+: gestion du 
+matériel
+Désinstaller les services 
+inutilisés et nettoyer 
+régulièrement les serveurs 
+et ordinateurs  afin d’éviter 
+l’accumulation de déchets 
+numériques qui consomment de 
+l’énergie inutilement
+¦ 78 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Numérique 
+: gestion du 
+matériel
+Intégrer le LIFI dans les salles 
+de dialyse.
+Biodiversité
+S’inscrire au réseau des refuges 
+LPO afin de bénéficier d’un 
+accompagnement sur mesure 
+aux entreprises qui souhaitent 
+s’engager pour la préservation 
+de la biodiversité
+¦ 79 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Biodiversité
+Réaliser un état des lieux de 
+l’impact environnemental de 
+l’activité de l’établissement 
+sur la biodiversité et s’informer 
+sur le contexte environnemental.
+-Limiter les pollutions 
+lumineuses nocturnes  qui ont 
+un réel impact sur la capacité des 
+espèces à s’orienter (privilégier 
+les lampes jaune-orange qui 
+n’émettent pas d’UV, réduire les 
+périodes d’éclairage, sélectionner 
+les seules zones nécessaires…)
+-Limiter les pollutions sonores  
+qui perturbent l’instinct de la 
+faune
+-Favoriser l’aménagement 
+d’espaces verts, bénéfiques 
+pour la faune, la flore et le bien-
+être humain
+-Limiter au maximum l’usage 
+des biocides 
+- Organiser des actions de 
+sensibilisation à la préservation 
+de la biodiversité
+Relations avec 
+son écosystème 
+: engagement 
+citoyen
+Réaliser des dons et mettre en 
+place des partenariats avec 
+des associations et fonds 
+spécifiques à la néphrologie
+¦ 80 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Relations avec 
+son écosystème 
+: engagement 
+citoyen
+Mécénat de compétences ou 
+journées de solidarité en place
+Relations avec 
+son écosystème 
+: développement 
+local
+Capitaliser sur le temps que 
+les patients passent en dialyse 
+pour essayer de les sensibiliser 
+aux enjeux climatiques et les 
+embarquer dans la démarche. 
+Proposer un support pour 
+introduire des sujets, faire 
+des animations en lien avec le 
+développement durable (journée 
+thématique).
+Sensibiliser les patients en 
+IRC avancée précocement, 
+par exemple lors des séances 
+d’éducation thérapeutique
+Relations avec 
+son écosystème 
+: développement 
+local
+Animations d’ateliers (culinaires, 
+ateliers développement durable) 
+et encourager les patients à 
+participer à des  activités de 
+groupe (groupe de marche, longe 
+côte, etc.)
+Relations avec 
+son écosystème 
+: développement 
+local
+Inciter les patients à pratiquer 
+une l’activité physique : Sous 
+pendant la séance de dialyse : 
+utilisation de pédaliers sur lits 
+médicalisés pour permettre 
+aux patients de devenir acteurs 
+de leur prise en charge. Soit en 
+dehors de la séance
+¦ 81 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Relations avec 
+son écosystème 
+: développement 
+local
+Evaluer le bien-être et la 
+satisfaction des patients et de 
+leur prise en charge vis-à-vis 
+de l’établissement : Créer un 
+groupe de bientraitance chargé 
+de mesurer le niveau de bien-
+être des patients et de mettre en 
+place des plans d’amélioration 
+personnalisés
+Relations avec 
+son écosystème 
+: développement 
+local
+Prévention et ouverture aux 
+médecines complémentaires  
+(hypnose, méditation, 
+sophrologie, etc.)
+Relations avec 
+son écosystème 
+: développement 
+local
+Lien avec les entreprises du 
+territoire : les favoriser dans le 
+choix d’appel d’offre
+Relations avec 
+son écosystème 
+: développement 
+local
+Participer aux synergies avec 
+les fédérations locales
+Relations avec 
+son écosystème 
+: développement 
+local
+Favoriser le développement de 
+partenariats avec des écoles 
+et des centres de formations  
+de la région (accueil privilégié de 
+stagiaire, étudiants, etc.)
+¦ 82 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Relations avec 
+son écosystème 
+: développement 
+local
+Mise en place d’un plan de 
+communication, publication 
+d’articles, valorisation des 
+actions et évènements proposés 
+par l’établissement
+Conditions 
+sociales internes 
+: emploi et 
+recrutement
+Processus d’intégration 
+personnalisé, avec un parcours 
+dédié aux nouveaux arrivants
+Conditions 
+sociales internes 
+: emploi et 
+recrutement
+Enquête de satisfaction du 
+personnel
+Conditions 
+sociales internes 
+: emploi et 
+recrutement
+Marque employeur et 
+attractivité : Avantages sociaux, 
+rémunération, politiques plus 
+avantageuses que les obligations 
+légales (pour le remboursement 
+des transports ou le nombre de 
+jours de congé parental)
+Conditions 
+sociales internes 
+: formations et 
+carrières
+Formation du personnel : enquête 
+et politique de formation.
+Conditions 
+sociales internes 
+: formations et 
+carrières
+Evaluation annuelle
+¦ 83 ¦    ANNEXES
+ANNEXES
+¦ 5 ¦   ANNEXES Mise en œuvre :  court terme   moyen terme  long terme  
+THÉMATIQUE ACTIONS COMPLEXITÉ DE 
+MISE EN ŒUVRE
+ETAT D’AVANCEMENT
+(FAIT, EN COURS, À
+RÉALISER)
+PRIORITÉS DE
+MISE EN PLACE
+RESPONSABLE
+DE L’ACTION
+RESSOURCES
+À ALLOUER
+Conditions 
+sociales internes : 
+animation interne
+Teambuilding, évènements 
+internes, fêter les succès 
+et les projets de l’année ; 
+reconnaissance des services 
+rendus pour l’établissement
+Conditions 
+sociales internes : 
+animation interne
+Mise en place de dispositif 
+d’alerte, d’une cellule d’écoute, 
+d’un référent
+Conditions 
+sociales internes : 
+éthique
+Instance de représentation 
+des salariés (CSE obligatoire 
+pour les établissements de santé 
+publique), charte éthique signée 
+par tous les salariés ; personnels 
+formés aux sujets éthiques
+¦ 84 ¦    ANNEXES
+¦ 85 ¦    ANNEXES
+ANNEXES
+Structures à suivre et contacts 
+Liens utiles
+• L’ARTIC 42
+L’Association Régionale pour le Traitement de l'Insuffisance rénale Chronique, en Haute 
+Loire (ARTIC 42) est impliquée dans le développement durable de son activité depuis 
+2017, et a rédigé plusieurs articles et fiches d’action (fiches SFRA Green) accessibles sur 
+son site. Contact : Jocelyne Rey, jocelyne.rey@artic42.fr 
+• 150 Conseillers en transition énergétique et écologique en santé (CTEES)51
+En 2021, la DGOS, la CNSA et l’ANAP ont lancé un appel à manifestation d’intérêt 
+pour financer des postes de conseillers et coordinateurs en transition énergétique et 
+écologique en santé.
+La CNSA et la DGOS financent plus de 150 postes qui accompagneront 5 000 
+établissements sanitaires et médico-sociaux, tous statuts confondus, entre 2021 et 
+2024.
+L’ANAP est en charge de coordonner au niveau national les actions des CTEES : pour 
+garantir leur montée en compétence à travers des modules de formation, les faire 
+bénéficier des outils de l’agence et impulser une dynamique de réseau au service de la 
+transition écologique et énergétique.
+Au sein des structures, ces conseillers ont pour mission de réaliser des audits 
+énergétiques, d’initier des plans d’action de réduction de la consommation énergétique 
+et d’amélioration de la qualité de l’air ou encore de développer des outils et des 
+recommandations pour limiter les pollutions.
+Les recrutements sont toujours en cours mais vous pouvez vous rapprocher de l’ANAP 
+afin d’obtenir plus d’éléments sur les disponibilités d’un conseiller pour votre structure.
+ANAP : contact@anap.fr ou directement sur leur page de formulaire de contact : https://
+anap.fr/s/contacter-l-anap
+Les webinaires de la Fédération Hospitalière Française (FHF). Lien accessible ici : 
+Replay des Webinaires FHF Transition écologique
+• Webinaire N° 1 : Mener une politique de développement durable
+• Webinaire N° 2 : Lancer une politique d’achats responsables
+• Webinaire N° 3 : Réaliser des économies d’énergie sur et dans ses bâtiments
+• Webinaire N° 4 : Mener un projet de restauration responsable
+• Webinaire N° 5 : Mobilités durables et établissements
+• Webinaire N° 6 ; Vers un bloc opératoire durablement
+• Webinaire N° 7 : Optimiser la gestion des déchets
+• Webinaire N° 8 : Bionettoyage éco-responsable
+La SFAR, Société Française d’Anesthésie et de Réanimation, est impliquée dans le DD 
+de son activité depuis 2017 et a rédigé plusieurs articles et fiches d’action (fiches SFAR 
+Green) accessibles sur son site. Elle a pour but l’étude, l’avancement et l’enseignement 
+de l’anesthésie et de la réanimation : https://sfar.org/
+Fiches SFAR green : https://sfar.org/comites/developpement-durable/fiches-
+pratiques/sfar-green/
+L’ANAP, Agence Nationale de la Performance sanitaire et médico-sociale : a pour 
+mission d’accompagner et d’outiller les professionnels des établissements sanitaires 
+et médico-sociaux dans l’amélioration de leur performance : https://www.anap.fr/s/
+¦ 86 ¦    ANNEXES
+ANNEXESListe des abréviations 
+Outils mis à disposition par l’ANAP :
+• Guide synthétique de l’ANAP pour une aide à la décision d’acquisition, ou non, 
+d’un banaliseur ainsi que du choix du dispositif :  https://ressources.anap.fr/rse/
+publi/2880
+• Un outil pour gérer la traçabilité des déchets en toute sécurité : https://
+trackdechets.beta.gouv.fr/
+L’ADEME, l'Agence de l'environnement et de la maîtrise de l'énergie : https://www.
+ademe.fr/
+ACV : Analyse de Cycle de Vie
+ADEME : Agence de la transition 
+écologique
+AGEC : Loi Anti-Gaspillage pour une 
+Economie Circulaire (loi n° 2020-105)
+ANAP : Agence Nationale d’Appui à la 
+Performance des Établissements de 
+santé et médico-sociaux
+BEGES : Bilan Des Emissions de Gaz à 
+Effet de Serre 
+CJN : Club des Jeunes Néphrologues
+CSE : Comité Social d’Etablissement
+CLIN : Comité de lutte contre les 
+infections nosocomiales
+DASRI : Déchets d'Activités de Soins à 
+Risques Infectieux 
+DAOM : Déchets Assimilés aux Ordures 
+Ménagères
+DD : Développement Durable
+DGOS : Direction générale de l'Offre de 
+soins
+DNC : Déchets Non Contaminés
+DP : Dialyse Péritonéale 
+DPC : Développement Professionnel 
+Continu
+DPT : Déchets piquants/tranchants
+DPEF : Déclaration de Performance 
+Extra-Financière
+DRI : Déchets Contaminés à Risques 
+Infectieux
+DSCNC : Déchets de Soins Courant Non 
+Contaminés
+DSCRI : Déchets de Soins Courant à 
+Risques Infectieux
+ELAN : Loi portant évolution du 
+logement de l'aménagement et du 
+numérique (loi n°2018-1021)
+GES : Gaz à Effet de Serre
+GIEC : Groupe d’Experts 
+Intergouvernemental sur l’Evolution du 
+Climat
+HD : Hémodialyse 
+IRCT : Insuffisance Rénale Chronique 
+Terminale
+LEC : Loi relative à l’Energie et au Climat 
+(loi n°2019-1147)
+LTECV : Loi relative à la Transition 
+Energétique pour la Croissance Verte (loi 
+n° 2015-992)
+OMS : Organisation Mondiale de la Santé 
+OPERAT : Observatoire de la 
+Performance Energétique, de la 
+Rénovation et des Actions du Tertiaire
+PCAET : Plan Climat Air Energie Territoire
+RSE : Responsabilité Sociétale des 
+Entreprises
+SFAR : Société Française d’Anesthésie et 
+Réanimation
+SFNDT : Société Francophone de 
+Néphrologie Dialyse et Transplantation
+tCO2e : Tonne équivalent CO2
+¦ 87 ¦    ANNEXES
+ANNEXES
+Références
+1. « Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action 
+» Health care without harm – ARUP : – Rapport vert 2019. https://healthcareclimateaction.org/sites/
+default/files/2021-111/French_HealthCaresClimateFootprint_091619_web.pdf
+2. « Un environnement, une santé » : découvrez le 4e plan national santé environnement ». Ministères 
+Écologie Énergie Territoires, https://www.ecologie.gouv.fr/environnement-sante-decouvrez-4e-plan-
+national-sante-environnement
+3. Barraclough KA, Agar JWM. Green nephrology. Nat Rev Nephrol [Internet]. 2020;16(5):257–68. 
+Available from: http://dx.doi.org/10.1038/s41581-019-0245-1
+4. Ibid.
+5. REIN-Rapport annuel. Réseau Epidémiologie , Information , Néphrologie : Rapport 2019. Agence la 
+Biomédecine. 2019;
+6. Connor A, Lillywhite R, Cooke MW. The carbon footprint of a renal service in the United Kingdom. 
+Qjm. 2010;103(12):965–75.
+7. Lim AEK, Perkins A, Agar JWM. The carbon footprint of an Australian satellite haemodialysis unit. 
+Aust Heal Rev. 2013;37(3):369–74.
+8. Mtioui N, Zamd M, Ait Taleb A, Bouaalam A, Ramdani B. Carbon footprint of a hemodialysis unit in 
+Morocco. Ther Apher Dial. 2021;25(5):613–20.
+9. Sehgal A, Slutzman J, Huml A. Sources of Variation in the Carbon Footprint of Hemodialysis 
+Treatment. J Am Soc Nephrol. 2022;ASN.2022010086.
+10. Calculs The Shift Project 2021 https://theshiftproject.org/wp-content/uploads/2021/11/rapportfinal_
+sante_ptef_25112021.pdf
+11. Hafsah Hachad - Mémoire de D.E.S – Spécialité Néphrologie – Bilan Carbone® d’une unité 
+d’hémodialyse : résultats d’une étude pilote française 
+12. Réalisation d'un bilan des émissions de gaz à effet de serre : secteurs établissements sanitaires et 
+médico-sociaux, ADEME – 2020. https://librairie.ademe.fr/changement-climatique-et-energie/764-
+realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-secteurs-etablissements-sanitaires-et-
+medico-sociaux.html
+13. [MyCO2] Empreinte carbone française moyenne, comment est-elle calculée ? | Carbone 4. https://
+carbone4.com/fr/myco2-empreinte-moyenne-evolution-methodo
+14. ADEME – Centre de ressources sur les bilans de gaz à effet de serre : https://bilans-ges.ademe.fr/ 
+15. Décret no 2022-982 du 1er juillet 2022 relatif aux bilans d’émissions de gaz à effet de serre : https://
+www.legifrance.gouv.fr/download/file/0HgtVbFE6AoqAkWhkTeDdRqZQZVVaNhWO8GeM0uqmZo=/
+JOE_TEXTE
+16. COMMUNICATION DE LA COMMISSION AU PARLEMENT EUROPÉEN, AU CONSEIL, AU COMITÉ 
+ÉCONOMIQUE ET SOCIAL EUROPÉEN ET AU COMITÉ DES RÉGIONS Responsabilité sociale des 
+entreprises: une nouvelle stratégie de l’UE pour la période 2011-2014. 2011, https://eur-lex.europa.
+eu/legal-content/FR/TXT/?uri=celex:52011DC0681
+17. Vuignier, Y., Pruijm, M., Jarrayah, F., Burnier, M., Dialyse et écologie : est-il possible de faire mieux 
+à l’avenir ?, Rev Med Suisse, 2013/375 (Vol.-1), p. 468–472. URL: https://www.revmed.ch/revue-
+medicale-suisse/2013/revue-medicale-suisse-375/dialyse-et-ecologie-est-il-possible-de-faire-mieux-
+a-l-avenir
+18. Ponson, Laurent, et al. ‘Toward Green Dialysis: Focus on Water Savings: Toward Green Dialysis’. 
+Hemodialysis International, vol. 18, no. 1, Jan. 2014, pp. 7–14. DOI.org (Crossref), https://doi.
+org/10.1111/hdi.12117
+19. Alvarez, Luis et al. “Toward Greater Scrutiny of Dialysate Flow: Reply to the Letter to the 
+Editor of Dr. Molano-Triviño and Colleagues.” Blood purification vol. 49,1-2 (2020): 123-124. 
+doi:10.1159/000501842
+20. A. Abarkan, H. Metayer, T. Sqalli Houssaini, C. Legallais. La dialyse verte : Diminuer l’impact 
+environnemental des eaux de dialyse : c’est possible ! Techniques-hospitalières (775) mars-avril 
+2019:45- 52. https://www.techniques-hospitalieres.fr/article/2058-la-dialyse-verte-diminuer-limpact-
+environnemental-des-eaux-de-dialyse-cest-possible-.html
+21. Sorbent Hemodialysis: Clinical Experience With New Sorbent Cartridges and Hemodialyzers R ITA L. 
+M C G ILL , J ANE R. B AKOS , TINA K O , S TEPHEN E. S ANDRONI , AND R ICHARD J. M ARCUS ASAIO 
+¦ 88 ¦    ANNEXES
+ANNEXES
+Journal 2008
+22. Tarrass, Faissal, et al. « Recycling Wastewater after Hemodialysis: An Environmental Analysis for 
+Alternative Water Sources in Arid Regions ». American Journal of Kidney Diseases: The Official 
+Journal of the National Kidney Foundation, vol. 52, n° 1, juillet 2008, p. 154-58. PubMed, https://doi.
+org/10.1053/j.ajkd.2008.03.022
+23. Bendine, Georges, et al. ‘Haemodialysis Therapy and Sustainable Growth: A Corporate Experience 
+in France’. Nephrology Dialysis Transplantation, vol. 35, no. 12, Dec. 2020, pp. 2154–60. DOI.org 
+(Crossref), https://doi.org/10.1093/ndt/gfz284
+24. A. Abarkan et al., op.cit., p.19
+25. Documentation Base Carbone. https://bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.
+htm?eau_de_resseau.htm
+26. Vanholder, Raymond, et al. ‘The European Green Deal and Nephrology: A Call for Action by the 
+European Kidney Health Alliance’. Nephrology Dialysis Transplantation, Apr. 2022, p. gfac160. DOI.
+org (Crossref), https://doi.org/10.1093/ndt/gfac160
+27. TecHopital - Articles. https://www.techopital.com/story?ID=2581 
+28. « Dialyse et écologie : est-il possible de faire mieux à l’avenir ? » Revue Medicale Suisse, https://
+www.revmed.ch/revue-medicale-suisse/2013/revue-medicale-suisse-375/dialyse-et-ecologie-est-il-
+possible-de-faire-mieux-a-l-avenir
+29. Reuse of dialysis reverse osmosis reject water for aquaponics. Journal of Nephrology (2021) 34:97–
+104 https://doi.org/10.1007/s40620-020-00903-0
+30. Conserving Water in Haemodialysis - Case Study and How To Guide | Mapping Greener Healthcare. 
+https://networks.sustainablehealthcare.org.uk/sites/default/files/resources/case_study_conserving_
+water_in_haemodialysis_v1.0_1_0.pdf
+31. Systematic review of dialysis prescriptions (use of dialysate autoflow facility) | CSH Networks. 
+https://map.sustainablehealthcare.org.uk/bradford-teaching-hospitals-nhs-foundation-trust/
+systematic-review-dialysis-prescriptions-use-dialys
+32. Etude 2012 agar et al. Agar, J. W. M., Perkins, A. & Tjipto, A. Solar- assisted hemodialysis. Clin. J. Am. 
+Soc. Nephrol. 7, 310–314 (2012).
+33. https://www.greenhospitals.net/wp-content/uploads/2017/12/The-Integrated-Management-of-
+Energy-Conservation-Beijing-Huilongguan-Hospital-China.pdf
+34. https://www.hospitalesporlasaludambiental.net/wp-content/uploads/2017/05/Implementation-of-
+Energy-Saving-Practices-Malaysia.pdf
+35. Bendine, Georges, et al., op. cit., p.21
+36. Ministère de la Transition. « Projet de décret en Conseil d’Etat portant modification du décret 
+n°2011-1728 du 2 décembre 2011 relatif à la surveillance de la qualité de l’air intérieur dans 
+certains établissements recevant du public et du décret n°2011-1727 du 2 décembre 2011 
+relatif aux valeurs-guides pour l’air intérieur pour le formaldéhyde et le benzène ». vie-
+publique.fr, Ministère de la Transition écologique, 26 janvier 2022, http://www.vie-publique.fr/
+consultations/283487-projet-decret-surveillance-qualite-de-lair-interieur-dans-certains-erp. France / 
+2022-01-26 - 2022-02-27
+37. SFAR, fiches pratiques, « Plateau d’anesthésie et de soins en cellulose », https://sfar.org/download/
+fiche-14-plateaux-danesthesie-et-de-soins-en-cellulose/
+38. SFAR, SF2H, Recommandations de pratiques professionnelles, « Tenue vestimentaire au bloc 
+opératoire », https://www.sf2h.net/wp-content/uploads/2021/09/RFE-SFAR-SF2H-Tenue-
+vestimentaire-au-bloc_finale_220921.pdf
+39. SNITEM • INNOVATION EN DIALYSE • 2022
+40. Le CHU de Nice, vers un développement durable : https://cdn-www.chu-nice.fr/assets/site/
+guideddbd.pdf
+41. Central Delivery of Acid for Haemodialysis | Mapping Greener Healthcare. https://map.
+sustainablehealthcare.org.uk/bradford-teaching-hospitals-nhs-foundation-trust/central-delivery-
+acid-haemodialysis
+42. Empreinte environnementale du numérique mondial, GreenIT.fr, octobre 2019 : https://www.
+¦ 89 ¦    ANNEXES
+ANNEXES
+greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf
+43. Tariol, Bruno. 85 juillet 2017 Trimestriel n°. 2017.
+44. Charte Développement Durable, CH la Chartreuse, Juin 2014,https://www.ch-lachartreuse-dijon-
+cotedor.fr/wp-content/uploads/2014/07/Guide-Bonnes-Pratiques-DD.pdf
+45. Fin des désherbants chimiques, ANFH, Foyer de vie Oustalado de Salindre, https://www.anfh.fr/
+sites/default/files/ged/anfh_fiches_rex_biodiversite_2.pdf
+46. Installation de ruches sur les espaces verts, ANFH, Centre hospitalier Henri Guérin de Pierrefeu de 
+Var, https://www.anfh.fr/sites/default/files/ged/anfh_fiches_rex_biodiversite_1.pdf
+47. Développement durable au CHU de Toulouse : une conscience aigüe de sa responsabilité 
+environnementale et sociétale, un plan d’action pragmatique et volontariste. https://www.chu-
+toulouse.fr/IMG/pdf/20170320_cp_chu_toulouse_developpement_durable.pdf
+48. « Insuffisance rénale - Inserm, La science pour la santé ». Inserm, https://www.inserm.fr/dossier/
+insuffisance-renale/
+49. « La dialyse pratiquée sous hypnose en Auvergne ». Annuaire Hypnothérapie, https://www.
+annuaire-hypnotherapie.com/la-dialyse-pratiquee-sous-hypnose-en-auvergne
+50. Employment of patients with kidney failure treated with dialysis or kidney transplantation—a 
+systematic review and metaanalysis Lilli Kirkeskov, Rasmus K. Carlsen , Thomas Lund and Niels 
+Henrik Buus. BMC nephrol (2021) 22:348  
+51. DGOS_Nathan.P, et DGOS_Nathan.P. « 150 conseillers vont accompagner les établissements 
+sanitaires et médico-sociaux dans leur transition énergétique et écologique ». Ministère de la Santé 
+et de la Prévention, 10 février 2023, https://sante.gouv.fr/actualites/presse/communiques-de-
+presse/article/150-conseillers-vont-accompagner-les-etablissements-sanitaires-et-medico

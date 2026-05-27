@@ -1,0 +1,2609 @@
+REVIEW Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation 
+or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/.
+Mirow et al. Sustainable Earth Reviews            (2024) 7:28 
+https://doi.org/10.1186/s42055-024-00098-3
+Sustainable Earth Reviews
+†Julien Venne and Angela Brand contributed equally to this work.
+*Correspondence:
+Juliane Mirow
+julianeanna.mirow@gmail.com
+Full list of author information is available at the end of the article
+Abstract
+Healthcare systems are major emitters of greenhouse gases that contribute to climate change. The resulting 
+climate crisis harms human and planetary health and increasingly impacts lives on Earth. Because of their status as 
+high emitters and their social role in society, healthcare systems have a clear obligation to decarbonise. This study 
+investigates how healthcare systems worldwide can lower their greenhouse gas emissions and thereby contribute 
+to global climate action. We performed a systematic literature review, searching PubMed, GreenFILE, Business 
+Source Complete and CINAHL for relevant empirical studies, non-research papers and grey literature published 
+between 1 January 2018 and 28 March 2023. The Greenhouse Gas Protocol applied to healthcare systems guided 
+thematic and descriptive analyses to explore interventions targeted at scope 1, 2 and 3 emissions. The PRISMA 
+guidelines were followed for reporting and synthesising the results. A total of 742 publications were initially 
+identified, 230 of which were included in the systematic literature review, comprising 96 empirical studies, 132 
+non-research papers and two governmental reports. Numerous conventional and unique decarbonisation actions 
+related to healthcare have been reported in the literature. Eight themes were identified: transportation, anaesthesia, 
+energy, travel, supply chain, clinical practices, planetary health literacy and system changes. This study shows the 
+abundant potential for healthcare decarbonisation while highlighting key uncertainties around decarbonisation 
+in healthcare and providing ambitious recommendations to lower emissions globally. Decarbonisation actions are 
+needed at the personal, organisational and system levels. The health workforce is vital in driving transformative 
+change but needs to be adequately trained and educated about the importance of low-carbon solutions in 
+healthcare. Countries worldwide must exchange knowledge about successful decarbonisation interventions and 
+best practices to push global progress. Looking forward, action plans and audits at the local level combined with 
+large-scale measures and policies are needed to influence the system as a whole.
+Plain English summary
+Climate change caused by greenhouse gases, which are mainly emitted via the burning of fossil fuels and biomass 
+in the form of carbon dioxide but also include methane, nitrous oxide and fluorinated gases, harms both human 
+and planetary health. Health effects can be direct and indirect and range from infectious to chronic diseases, 
+mental health impacts, malnutrition and forced displacement. Highly developed healthcare systems are crucial 
+for meeting the rising demand for health services related to the climate crisis. However, healthcare systems 
+Green health: how to decarbonise global 
+healthcare systems
+Juliane Mirow1,2*, Julien Venne1† and Angela Brand1,3†
+Page 2 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Background
+Anthropogenic climate change is arguably the most 
+pressing global challenge of our time, with far-reach -
+ing implications for ecosystems, societies and econo -
+mies alike. According to the Global Risks Report 2024, 
+global warming and its consequences are among the 
+top global risks in the coming years and decades [ 1]. 
+Over the past century, human activities have funda -
+mentally altered the systemic state of planet Earth, 
+most notably the Earth’s atmosphere, leading to a rise 
+in global temperatures, shifts in weather patterns and 
+numerous intersecting environmental consequences 
+[2]. Greenhouse gases trap heat in the Earth’s atmo -
+sphere, thereby disrupting the planet’s radiative bal -
+ance [ 2]. While natural greenhouse gases 1 are essential 
+for climate regulation, human activities significantly 
+increase greenhouse gas levels, for example, by burning 
+fossil fuels and biomass, land-use changes and indus -
+trial processes [ 3].
+Six of the nine planetary boundaries which are essen -
+tial for regulating the Earth’s stability and resilience, 
+have already been transgressed—among them is climate 
+change, measured through carbon dioxide concentration 
+and energy imbalance at the top of the atmosphere [ 4]. 
+The 2023 update of the Planetary Boundaries Framework 
+suggests that “Earth is now well outside of the safe oper -
+ating space for humanity” [ 4] which may have calami -
+tous consequences for all life on Earth since human and 
+1 Experts differentiate between greenhouse gases naturally occurring in the 
+atmosphere, namely, carbon dioxide, water vapour, nitrous oxide, methane 
+and ozone and purely men made greenhouse gases, namely, hydrofluoro -
+carbons, perfluorocarbons, chlorofluorocarbons and sulphur hexafluoride 
+[3]. These gases are measured against carbon dioxide, which holds a global 
+warming potential of 1, serving as the reference gas [ 3]. Greenhouse gases 
+can be compared by presenting them as carbon dioxide equivalents, based 
+on their respective global warming potentials [3].
+planetary health 2 ultimately depend on ecosystem ser -
+vices such as food and freshwater provision and climate 
+and infectious disease regulation, to name a few [5, 6].
+Elevated greenhouse gas emissions and the conse -
+quently stimulated climate crisis pose direct and indi -
+rect risks to public health, ranging from injury, illness or 
+death due to heat stress, fires, storms and floods, respi -
+ratory diseases, water-borne diseases, zoonoses, vector-
+borne diseases, food-borne diseases and malnutrition 
+to non-communicable diseases, mental health impacts 
+and forced migration (Fig.  1) [7, 8]. In a 2021 report, the 
+World Health Organisation declared that “climate change 
+is the single biggest health threat facing humanity” [9].
+The climate change-health nexus is a vicious cycle. Our 
+modern industrialised lifestyle has generated environ -
+mental disruptions, including climate change, adversely 
+affecting public health. In turn, healthcare systems are 
+put under pressure due to rising expenditures. Increasing 
+resources in the form of healthcare facilities, human cap -
+ital, medical devices and pharmaceuticals are required 
+to meet the rising demand [ 11]. Direct financial costs for 
+global healthcare systems related to climate change dam -
+age are estimated to be US$ 2–4  billion ( ∼€1.8–3.7  bil-
+lion) annually by 2030 [12]. A recent report by the World 
+Economic Forum predicts that by 2050, climate change 
+will likely lead to an additional 14.5  million deaths and 
+result in global economic losses of US$12.5 trillion 
+(∼€11.5 trillion) globally [ 13]. Logically, the growing 
+impacts of climate change on human health illustrate the 
+need for highly developed healthcare systems. However, 
+health sector activities emit greenhouse gases and con -
+tribute to the climate crisis, being responsible for nearly 
+5% of the annual global net emissions [14].
+2 The Planetary Health Alliance defines planetary health as “a solutions-ori -
+ented, transdisciplinary field and social movement focused on analysing and 
+addressing the impacts of human disruptions to Earth’s natural systems on 
+human health and all life on Earth” [5].
+worldwide have a large climate footprint, and they themselves contribute to this problem. They emit greenhouse 
+gases directly (scope 1) and indirectly (scopes 2 and 3)—most greenhouse gases are emitted through the 
+global healthcare supply chain (scope 3). We reviewed the literature for possible actions that healthcare workers 
+and decision-makers can take to lower the climate footprint of healthcare systems. We found that healthcare 
+system emissions have abundant potential to decrease, for example, by reducing emissions from transportation, 
+anaesthesia, energy, travel, the supply chain and clinical practices. Practical actions at the personal and 
+organisational levels can be supported by promoting the planetary health literacy of healthcare workers, patients 
+and their caregivers and system changes that need to be implemented at a higher level. The health workforce is 
+vital in driving transformative change but needs to be adequately trained and educated about the importance 
+of low-carbon solutions in healthcare. We recommend that countries worldwide exchange knowledge about 
+successful decarbonisation interventions and best practices to push global progress. Future research is needed to 
+substantiate these decarbonisation efforts. However, the time for action is now—and through this research, we 
+hope to empower everyone to take the necessary steps towards a climate-friendly healthcare system.
+Keywords Carbon footprint, Climate change, Decarbonisation, Greenhouse gases, Healthcare systems, Mitigation, 
+Planetary health, Sustainability, Systematic literature review
+Page 3 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Healthcare systems, meaning “all the organisations, 
+institutions, people, resources and actions whose primary 
+purpose is to improve, restore or maintain health” [ 11], 
+are major contributors to global greenhouse gas emis -
+sions and their climate footprint is growing. Health Care 
+Without Harm quantified these emissions and reported 
+that the global healthcare climate footprint was equal to 
+4.4% of global net emissions in 2014, matching the green-
+house gas emissions of 514 coal-fired power plants [ 14]. 
+The emissions primarily stem from powering hospitals, 
+employees, patients and visitors travelling to and from 
+healthcare facilities and manufacturing and transporting 
+healthcare products [15].
+Decarbonisation, which refers to the actions humans 
+undertake to cut back greenhouse gas emissions from 
+human activities, is crucial for mitigating climate change 
+and protecting planetary health. The United Nations 
+Environment Programme has urged substantial reduc -
+tions in global greenhouse gas emissions, commending a 
+45% reduction in the years leading up to 2030 compared 
+to emissions projections under current policies in place 
+to limit global warming to 1.5 °C above pre-industrial 
+levels [ 16], a target set out in the Paris Agreement [ 17]. 
+This equals a reduction in global emissions similar to that 
+observed during the coronavirus disease 2019 (COVID-
+19) pandemic, where lockdown measures led to a tem -
+porary global drop in carbon dioxide emissions between 
+4.2% and 7.5% in 2020, relative to 2019 [18].
+Climate action and decarbonisation efforts are still 
+limited and remain insufficient [ 2]. Hesitancy and inac -
+tion have been prevailing in recent decades [ 19]. This 
+might be because associated benefits will manifest pre -
+dominantly in the long run. Myopic decision-making 
+and planning—managing without foresight and valuing 
+short-term benefits over long-term rewards—may hinder 
+climate action [20]. Waiting for a ‘unicorn technology’ to 
+solve the decarbonisation problem, thereby disregarding 
+low-carbon options available today, will fail to reach cli -
+mate targets [20]. Promptly investing in climate action is 
+required to bring about both immediate and long-term 
+benefits. The International Energy Agency established 
+that more than 40% of climate actions needed to limit 
+global warming to 1.5  °C are cost-effective [ 21]. More -
+over, health co-benefits are expected to be substantial 
+and may greatly outweigh climate mitigation costs while 
+preventing millions of people from dying prematurely 
+worldwide [ 22]. Health benefits mainly follow from 
+reducing air pollution, consuming a healthy and sus -
+tainable diet and promoting green and active travel [ 22]. 
+Additionally, transitioning towards low-carbon health -
+care systems is positively linked with the United Nations 
+Sustainable Development Goals while enhancing health 
+and well-being [23].
+The health sector is clearly responsible for taking 
+part in climate action and drastically reducing its foot -
+print to limit global warming and prevent numerous 
+Fig. 1 Climate change impacts on human health. Adapted from the Center for Disease Control and Prevention [10]
+ 
+Page 4 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+climate change-related injuries, illnesses and deaths. 
+First, because of the high emissions from health-sec -
+tor activities. Second, because of their social role in the 
+population. Healthcare institutions and the health work -
+force are usually trusted, respected and listened to by 
+their patients and the public [ 24]. Healthcare profession-
+als play a role as street-level bureaucrats in society. They 
+have the potential to advocate for climate-friendly behav-
+iours, promote sustainability efforts to policymakers and 
+the public and encourage climate action within health -
+care [25, 26]. Therefore, health workers are vital agents of 
+change in light of decarbonisation actions.
+The Director General of the World Health Organisation 
+Tedros Adhanom Ghebreyesus recognises healthcare sys-
+tems’ responsibility by stressing that “as medical profes -
+sionals, our commitment is to ‘first, do no harm. ’ Places of 
+healing should be leading the way, not contributing to the 
+burden of disease” [ 14]. The World Health Organisation 
+acknowledges the urgent need to respond to the climate 
+crisis by transitioning towards sustainable healthcare. At 
+the 26th United Nations Climate Change Conference, 
+the World Health Organisation’s member states commit-
+ted to developing climate-resilient and sustainable low-
+carbon health systems. They founded the Alliance for 
+Transformative Action on Climate and Health (ATACH) 
+to support member states in implementing their commit-
+ments [27].
+In summary, anthropogenic climate change poses a 
+substantial threat to human and planetary health. Sev -
+eral health professionals and scientists are developing 
+research on interventions and policies to address the 
+consequences of climate change on health. However, 
+the notion that healthcare systems substantially con -
+tribute to this problem has yet to prevail. Investigating 
+how healthcare systems can contribute to countering 
+the climate crisis by reducing their climate footprint 
+is thus highly relevant for the public, including but not 
+limited to patients—the ultimate beneficiaries of health -
+care—healthcare providers, manufacturers, public health 
+specialists, professionals from related fields as well as 
+regional, national, international and supranational deci -
+sion-and policymakers.
+An appropriate framework for classifying emissions is 
+the Greenhouse Gas Protocol. The initiative by the World 
+Resources Institute and the World Business Council for 
+Sustainable Development classifies emissions into scopes 
+1, 2 and 3 and thereby provides global standardised 
+frameworks for measuring and managing climate-warm -
+ing emissions within the private and public sectors [ 28, 
+29]. Health Care Without Harm [ 30] and the National 
+Health Service (NHS) England [31] apply the Greenhouse 
+Gas Protocol to categorise emissions associated with 
+healthcare (Fig.  2). Whereas a healthcare system may 
+control greenhouse gas emissions from scopes 1 and 2, 
+it has limited control over emissions from scope 3 and, 
+therefore, may only be capable of influencing them. Scope 
+1 includes direct greenhouse gas emissions from health -
+care facilities and owned vehicles, for example, emissions 
+from heating (stationary combustion), transportation 
+(mobile combustion), waste management (on-site treat -
+ment), cooling and anaesthetics (fugitive emissions). 
+Scope 2 encompasses indirect greenhouse gas emissions, 
+namely, purchased energy. Scope 3 covers greenhouse 
+gas emissions outside the direct control of the healthcare 
+system, such as off-site waste treatment, business travel, 
+employees’ communing to and from healthcare facili -
+ties, greenhouse gases from inhalers, electricity lost due 
+to transmission and distribution and information and 
+communications technology. Finally, indirect greenhouse 
+gas emissions with an external supply chain are associ -
+ated with, for example, medical devices, food, drugs, 
+construction and other purchased goods and services. 
+Patient and visitor travel is not explicitly included in the 
+Greenhouse Gas Protocol scopes but is nevertheless a 
+significant source of greenhouse gas emissions associated 
+with healthcare systems.
+Some research has been conducted on reducing green -
+house gas emissions in healthcare [ 32– 35]. However, 
+reviews are often limited in scope and unique solutions 
+are overlooked. Most research on reducing greenhouse 
+gas emissions in healthcare tends to focus on specific, 
+narrow aspects of the system. This could mean concen -
+trating on a single element like energy consumption in 
+hospitals, waste management or the carbon footprint of 
+medical equipment. While these areas are important, the 
+fragmented nature of the research means that the find -
+ings and recommendations might not account for the 
+interconnectedness of various components within the 
+healthcare system. This narrow focus leads to piecemeal 
+solutions that, while valuable, might miss opportuni -
+ties for more systemic and comprehensive decarbonisa -
+tion strategies. It also means that the potential synergies 
+between different decarbonisation measures are not fully 
+explored, which could result in suboptimal outcomes. 
+Furthermore, research often fails to explore or even rec -
+ognise unique solutions that could significantly reduce 
+emissions. These overlooked solutions might involve 
+new technologies, novel care delivery models, alternative 
+approaches to patient care that challenge the status quo 
+or even very simple actions that do not seem to warrant 
+mentioning, such as turning off appliances when not in 
+use. Actions like these are rarely reported in empirical 
+research studies but are no less important in achieving 
+healthcare decarbonisation. Additionally, unique solu -
+tions can come from transdisciplinary approaches, inte -
+grating insights from environmental science, engineering 
+and social sciences into healthcare decarbonisation 
+Page 5 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+strategies. However, this kind of cross-disciplinary 
+research is still relatively rare.
+What is needed is a synthesis of impactful solutions 
+to decarbonise healthcare systems, including decarboni -
+sation actions reported outside traditional empirical 
+research and critical considerations for implementation. 
+This scientific paper aims to provide a comprehensive 
+overview of the current state of healthcare decarbonisa -
+tion action, highlighting conventional and unique mitiga-
+tion strategies. By synthesising the latest research in this 
+field, we seek to contribute to the growing body of knowl-
+edge essential for guiding policy and collective efforts 
+to address climate change and safeguard the well-being 
+of future generations. This systematic literature review 
+answers the following question: What are the potential 
+actions and solutions to lower greenhouse gas emissions 
+of healthcare systems globally?
+Methods
+We conducted a systematic literature review with a sub -
+sequent thematic and descriptive analysis based on best 
+practice guidelines from the Joanna Briggs Institute (JBI) 
+[36] and the Preferred Reporting Items for Systematic 
+Reviews and Meta-Analyses (PRISMA) [ 37]. A system -
+atic literature review yields several benefits, including 
+comprehensive coverage of relevant literature, identifica -
+tion of knowledge gaps and recommendations for future 
+research to assist in evidence-based decision-making 
+[36]. Its methodology is designed to enhance transpar -
+ency and reproducibility to generate credibility of the 
+findings and to minimise bias since the search is con -
+ducted in a standardised manner based on pre-defined 
+criteria [36].
+Search strategy
+An exploratory literature search was conducted on the 
+database platform Elton B. Stephens Company (EBSCO) 
+and the scientific databases PubMed/Medical Literature 
+Analysis and Retrieval System Online (MEDLINE), Web 
+of Science Core Collection, Excerpta Medica database 
+(Embase) and Scopus. Based on the exploratory litera -
+ture search, suitable databases for the aim of this study 
+were selected, and search queries were generated. On 
+28 March 2023, the literature was searched using the 
+PubMed/MEDLINE, GreenFILE, Business Source Com -
+plete and the Cumulative Index to Nursing and Allied 
+Fig. 2 Emissions of healthcare systems. CO2 carbon dioxide, CH4 methane, N2O nitrous oxide, HFCs hydrofluorocarbons, PFCs perfluorocarbons, SF6 sul-
+phur hexafluoride. Healthcare systems have control over emissions from scopes 1 and 2 and limited control over emissions from scope 3. Figure adapted 
+from Health Care Without Harm and Arup [30] and NHS England [31]. Based on the Greenhouse Gas Protocol
+ 
+Page 6 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Health Literature (CINAHL) databases. The scientific 
+databases were searched using keywords, index terms 
+(Medical Subject Heading terms in PubMed) and Bool -
+ean operators (Table  1). The references of the included 
+studies were checked to identify additional studies that 
+may have been eligible (snowballing). The search strategy, 
+including all specified keywords and index terms, was 
+adapted for each included database. The search strategies 
+for the individual databases are reported in Additional 
+File 1.
+Eligibility criteria
+A combination of research literature, non-research litera-
+ture and grey literature was used to find the best available 
+evidence to answer the research question. In this study, 
+non-research evidence is deemed valuable and was uti -
+lised since “expert opinion has an important role to play 
+in evidence-based healthcare, as it can be used to either 
+complement empirical evidence or, in the absence of 
+scientific evidence, stand alone as the best available evi -
+dence” [38]. Table 2 summarises the inclusion and exclu -
+sion criteria.
+There were nearly no limitations concerning the study 
+type of the literature since the review aimed to collect 
+the best available evidence on decarbonising healthcare 
+systems. Systematic reviews were only included when 
+no overlap of the included studies was observed. How -
+ever, systematic reviews were used to identify additional 
+studies that potentially met the inclusion criteria. Jour -
+nal-news articles about grey literature were excluded; 
+instead, the original piece of grey literature was retrieved 
+(n = 1). Grey literature about specific sub-disciplines was 
+excluded since numerous publications exist in the respec-
+tive fields, which are less relevant to the present research. 
+Based on the assumption that knowledge and approaches 
+to decarbonisation and green technology advance rap -
+idly, the search was limited to the timespan of 2018–2023 
+to reduce the risk of obsolete results. Studies focusing on 
+biomanufacturing, biofuel production, wastewater puri -
+fication, carbon conservation, sustainable production 
+Table 1 Search terms for the systematic literature search
+Healthcare system Sustainability and 
+decarbonisation
+Emissions
+Healthcare, health care Sustainab* Carbon 
+footprint
+Health sector Decarbon* Climate 
+footprint
+Health system* Net Zero, Net-Zero Carbon di-
+oxide, CO2
+Health service* Carbon neutral* Air pollution
+NHS Carbon negativ* Greenhouse 
+gas*, GHG*
+Hospital, hospitals Green healthcare, green 
+health care
+Emission*
+Clinic, clinics Sustainable healthcare, 
+sustainable health care
+Anesthe*, anaesthe* Climate smart, 
+climate-smart
+Pharma*
+Digital health
+Telemedicine
+Medical device*
+Medical technolog*, 
+med-tech
+Health industr*
+CO2 carbon dioxide, Med-tech medical technology, NHS National Health Service, 
+GHG greenhouse gas
+The search terms were limited to title/abstract
+*means the program will search for the word without any ending. The terms in 
+columns were combined with the Boolean operator OR to broaden the search 
+to appropriate synonyms, and the terms across rows were combined with the 
+Boolean operator AND to narrow the search to relevant literature that includes 
+all key concepts. Literature relating to veterinary practices (‘veterinary’), 
+biomanufacturing (‘biomanufactur*’) and algae (‘microalga*’) was excluded 
+with the Boolean operator NOT. Filter: publication timespan 1 January 2018-28 
+March 2023; English language
+Table 2 Inclusion and exclusion criteria
+Inclusion criteria Exclusion criteria
+Research literature, practice/
+non-research literature, grey 
+literature about healthcare 
+decarbonisation
+Theoretical literature, policy 
+literature, grey literature specific 
+to certain sub disciplines (energy, 
+waste management, transportation, 
+procurement)
+Empirical studies, reviews, expert 
+opinions/viewpoints, commen-
+taries, perspectives, correspon-
+dences, editorials, position 
+papers, guidelines, journal-news 
+articles, original reports from 
+governmental and non-govern-
+mental organisations
+Scoping reviews and systematic (lit-
+erature) reviews (exception: included 
+if the main scope of the study was 
+deemed unique), journal-news 
+articles about grey literature
+Literature discussing, proposing 
+or evaluating actions to decar-
+bonise healthcare systems and/
+or services
+Literature only relating to healthcare 
+systems and/or services and not 
+decarbonisation
+Literature relating to decarbonisation 
+actions that are not applicable to 
+healthcare systems and/or services
+Literature focusing on biomanu-
+facturing, biofuel production, 
+wastewater purification (for example, 
+through algae), carbon conservation, 
+sustainable production of plastics or 
+sustainable synthesis of chemicals
+Literature assessing the climate foot-
+print of healthcare facilities (status 
+quo) without addressing solutions to 
+mitigate emissions
+Literature assessing the knowledge, 
+perceptions and attitudes of health-
+care personnel
+Human healthcare systems and/
+or services
+Veterinary systems and/or services
+English language only Not English language
+Published literature only Unpublished literature
+2018 onwards Pre-2018
+Full text available No full text available
+Page 7 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+of plastics and sustainable synthesis of chemicals were 
+excluded because these sub-themes are beyond the scope 
+of this study and necessitate separate investigation.
+Article screening process
+Following the search, all identified citations were loaded 
+into EndNote version 20.5 and duplicates were removed. 
+One researcher screened the titles and abstracts for 
+assessment against the inclusion criteria for the system -
+atic literature review. Potentially relevant records were 
+retrieved in full. The full texts of the selected records 
+were assessed in detail against the inclusion criteria. Rea -
+sons for excluding full-text papers that did not meet the 
+inclusion criteria were reported. The search results are 
+presented in a PRISMA flow diagram [37].
+Study validity assessment
+Due to the nature of the systematic literature review 
+and the included literature, formal risk of bias and cer -
+tainty assessments were not conducted. Nevertheless, as 
+expected, the methodologies of the papers included in 
+the final review were heterogeneous. Naturally, they dif -
+fered in their quality and strengths of evidence. These 
+differences were considered accordingly throughout the 
+data analysis and discussion of the findings to ensure the 
+best possible outcome.
+Data coding and extraction strategy
+A data extraction sheet was created, containing the 
+author and date of publication, type of literature and 
+study design, the location and setting of the study, the 
+aim of the paper, the decarbonisation action(s) discussed, 
+the main findings and further information (if applicable), 
+including details about the intervention, success fac -
+tors, a short critical appraisal and any other comments 
+(see Additional File  2). The data collection and analysis 
+were guided by the Greenhouse Gas Protocol applied to 
+healthcare (see Fig. 2).
+Data synthesis and presentation
+Qualitative synthesis (thematic and descriptive analyses) 
+was chosen as the mode of analysis since it allows for a 
+holistic and in-depth analysis of possible decarbonisa -
+tion actions within healthcare. It permits the identifica -
+tion of patterns and themes across the literature and the 
+exploration of inconsistencies and contradictory findings, 
+improves the generalisability of the results by pinpointing 
+differences and commonalities across differing popula -
+tions and settings and improves rigour and validity. Addi-
+tionally, thematic analysis is suitable for analysing large 
+datasets [39].
+The data analysis followed a multi-step approach. First, 
+data from each publication were compiled in tabulated 
+form, as proposed by Aveyard [ 40], to facilitate thematic 
+data analysis (see Additional File  2). Second, the data 
+were analysed deductively by applying the Greenhouse 
+Gas Protocol and its pre-defined scopes 1, 2 and 3. Third, 
+the literature was analysed inductively—the results were 
+categorised into newly developed, more detailed catego -
+ries within the Greenhouse Gas Protocol scopes. The 
+findings of every publication were grouped according 
+to the pre-defined and newly developed categories. The 
+results are presented in a table format, as proposed by 
+Aveyard [40] (see Additional File 4).
+Review findings and discussion
+A total of 675 records were identified through the data -
+base search, and an additional 67 were identified through 
+citation searching. After removing duplicates and records 
+that did not meet the inclusion criteria, 230 records were 
+included in the systematic literature review. Figure  3 
+depicts the PRISMA flow diagram.
+A diverse set of literature was included in the final 
+review. A total of 96 (41.7%) original studies were 
+included in the review, with the most common study 
+designs being prospective case or cohort studies, fol -
+lowed by modelling studies and life cycle assessment 
+studies. While many empirical studies about the decar -
+bonisation of healthcare systems were found, 132 (57.4%) 
+non-research articles were discovered, of which most 
+were non-specified articles and reviews. Additionally, 
+two (0.9%) pieces of grey literature were identified via 
+citation searching and included as examples of govern -
+mental reports outlining decarbonisation actions specifi -
+cally targeted to the healthcare system of their respective 
+countries, England, United Kingdom [ 31] and the United 
+States [42].
+Only a minority of studies from this systematic lit -
+erature review originated from the Global South, a geo -
+graphical area vastly affected by climate change. With 
+the Health and Care Act of 2022 coming into effect, the 
+NHS was the first health system to legally commit to net 
+zero emissions [ 31]. This is reflected by the amount of 
+literature from the United Kingdom: more than 45 pub -
+lications originated from a single country, approximately 
+20% of the literature sample. See Additional File  3 for 
+descriptive statistics of the included literature. The data 
+extraction sheet can be found in Additional File 2.
+Actions to lower direct and indirect greenhouse gas 
+emissions from healthcare systems were identified. Fig -
+ure  4 portrays the eight main themes. Additional File  4 
+describes all identified decarbonisation actions grouped 
+according to Greenhouse Gas Protocol scopes 1, 2 and 3. 
+Additionally, based on the findings of the empirical stud -
+ies, factors influencing successful implementation were 
+reported for key action items. The following section out -
+lines and discusses the synthesis of actions to decarbo -
+nise healthcare systems proposed in the literature.
+Page 8 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Reducing scope 1 emissions: transportation and 
+anaesthesia
+Globally, 17% of greenhouse gas emissions emitted 
+by healthcare systems globally originate directly from 
+healthcare facilities and their vehicles (scope 1) [ 14]. 
+Direct greenhouse gas emissions from mobile combus -
+tion can be reduced by replacing carbon-emitting vehi -
+cles with low-carbon and energy-efficient alternatives. 
+For example, carbon and noise-free drones can be used 
+for the healthcare supply chain to transport samples 
+from surgeries to analysis laboratories [ 43] and to deliver 
+emergency medical products to healthcare centres [ 44, 
+45]. A practical evaluation by Oakey et al. revealed that 
+drone transportation reduces travel distance, travel time 
+and carbon dioxide emissions [ 43]. However, due to 
+multiple challenges, such as restrictive regulations, high 
+operating costs, weather dependency and practical dif -
+ficulties in relation to ground characteristics and work -
+flows, their widespread use in healthcare systems seems 
+infeasible until a solution concerning airspace regulations 
+is found and technologies improve in ways that reduce 
+operating costs and enable the utilisation of drones even 
+during unfavourable weather and in locations with criti -
+cal ground characteristics [ 43]. A hybrid supply chain 
+management model that includes drones for transport -
+ing samples and medical products in selected areas seems 
+reasonable. More widespread solutions to decarbonise 
+are the transition to a hybrid or 100% electric vehicle fleet 
+[45– 64] (which should be powered by renewable energy 
+sources; otherwise, emissions are merely displaced), to 
+equip ambulances with solar panels [ 57], to power vehi -
+cles with biofuels [49] or hydrogen [31], to utilise smaller 
+vehicles [54] and to reduce the idling time of healthcare 
+facility-owned vehicles [54].
+Another way to reduce direct emissions within health -
+care systems is to reduce fugitive emissions from anaes -
+thesia. The most common halogenated anaesthetic agents 
+are desflurane and sevoflurane, which contain hydrofluo -
+rocarbons and isoflurane which contains chlorofluoro -
+carbons [ 65]. In particular, desflurane has an incredibly 
+high global warming potential and should therefore be 
+avoided as much as possible. The climate footprint of 
+inhaled halogenated anaesthetics can be lowered by tran -
+sitioning from desflurane to sevoflurane or isoflurane [31, 
+45, 52, 58, 60, 61, 65– 98] or the novel agent Xenon [ 82, 
+83]. Undeniably, desflurane increasingly disappears from 
+operating rooms. In 2023, NHS Scotland announced that 
+Scotland would be the first country to ban desflurane 
+[99].
+Additionally, anaesthesiologists may follow some sim -
+ple recommendations to reduce anaesthetic waste [ 31, 
+52, 60, 65, 66, 68, 71, 73– 76, 79, 80, 82, 83, 85, 93, 96, 
+Fig. 3 PRISMA flow diagram for the literature review. Created using the PRISMA-generation tool by Haddaway et al. [41]
+ 
+Page 9 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+100– 102] or deliver low-flow anaesthesia by reducing 
+the carrier for anaesthetic gases (fresh gas flow) to 1 L or 
+less with the help of technologies and behaviour change 
+campaigns [ 31, 60, 61, 65– 68, 71, 73– 76, 79– 81, 83, 84, 
+86, 87, 93– 98, 101– 105]. However, limitations exist in 
+this regard. First, low fresh gas flows cannot be univer -
+sally administered. High fresh gas flows are required in 
+emergency situations and for certain surgeries [ 87]. Sec-
+ond, due to the assumption that low-flow anaesthesia 
+potentially creates the nephrotoxic compound A, organ -
+isations such as the American Food and Drug Adminis -
+tration, have advised the use of fresh gas flows of at least 
+2  L [ 106]. The Food and Drug Administration revised 
+the exposure limit in 1997 since evidence suggested the 
+safety of low fresh gas flows [ 106, 107]. Indeed, Com -
+pound A has been shown to be nephrotoxic in rats but 
+not in humans [108], yet some anaesthesiologists are still 
+sceptical—the fact that many American package labels 
+still recommend high fresh gas flows does not help [ 87, 
+105]. Therefore, taking the concerns of anaesthesiologists 
+seriously and educating about the benefits and safety of 
+low-flow anaesthesia are essential [ 104]. No obstacles in 
+this regard were cited in a European context.
+Other actions to decarbonise anaesthesia include cap -
+turing anaesthetic gases for reuse or destruction [ 31, 52, 
+65, 71, 73, 75, 76, 80, 82, 83, 86, 91, 100, 109] and mini -
+mising the use of inhaled anaesthetics, including nitrous 
+oxide, altogether, by exploiting alternatives to inhaled 
+anaesthetic agents, such as total intravenous anaesthesia, 
+neuraxial, regional and local anaesthesia and hypnosis 
+[31, 42, 50, 52, 56, 65– 68, 71, 73– 76, 78– 83, 85, 88, 89, 
+91, 93– 97, 101, 102, 110– 116]. Although repeatedly rec -
+ommended in the literature, it is important to note that 
+the environmental footprint of regional anaesthesia is 
+uncertain [80], as is the life cycle impact of propofol, the 
+anaesthetic agent most often used in total intravenous 
+anaesthesia [ 111]. Propofol may be used as an alterna -
+tive with no direct greenhouse gas emissions associated 
+with it, but its use should be carefully evaluated. On 
+the one hand, greenhouse gases are emitted through its 
+manufacturing, packaging and transportation [ 111]. On 
+the other hand, the adverse impacts of propofol on the 
+Fig. 4 How to decarbonise global healthcare systems. Own creation
+ 
+Page 10 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+environment include a high potential for bioaccumula -
+tion, problematic degradation and toxicity to aquatic 
+life [ 117]. Future studies should measure the climate 
+footprint of regional anaesthesia and the impact of total 
+intravenous anaesthesia on both the environment and the 
+climate.
+Overall, the decarbonisation actions targeted at anaes -
+thesia reviewed in this study align with recommendations 
+in the field, such as advice from the American Society of 
+Anaesthesiologists [ 118] and the European Society of 
+Anaesthesiology and Intensive Care [ 119] but add more 
+specific actions to the discourse.
+Reducing scope 1 and 2 emissions: energy
+Greenhouse gas emissions from energy can be direct 
+(scope 1) or indirect (scope 2). Direct emissions stem 
+from stationary combustion at healthcare facilities and 
+indirect emissions stem from purchased electricity, 
+steam, heating and cooling. The latter is responsible for 
+12% of greenhouse gas emissions emitted from health -
+care systems globally [14].
+In general, mitigation measures can be grouped into 
+energy generation, energy management, energy effi -
+ciency and staff behaviour. The first category comprises 
+the conversion to renewable energy sources, such as 
+solar, wind and water [ 31, 45– 49, 51– 60, 62– 64, 76, 86, 
+88, 91, 92, 95, 112, 113, 120– 144] and waste [76]. Renew-
+able energy can be purchased or generated directly at 
+healthcare facilities, for example, by installing photovol -
+taic panels. Installing on-site renewable energy systems 
+not only has the benefits of reducing emissions from sta -
+tionary combustion and eliminating (or at least reducing) 
+the need to purchase energy from external suppliers but 
+also provides the advantage of securing the power sup -
+ply in energy crises, for example, in cases of regional or 
+national power cuts or when disconnected from the grid 
+due to conflict [ 122]. Two studies evaluated the applica -
+tion of (hybrid) photovoltaic systems to power health -
+care facilities and established their feasibility [ 122, 136]. 
+However, both studies were conducted in settings with 
+favourable conditions for generating solar energy: Libya 
+and the Philippines. Renewable energy generation from 
+the most popular technology—photovoltaic panels—is 
+weather-and climate-dependent. This challenge can be 
+mitigated by having hybrid systems. Furthermore, an ini -
+tial (quite substantial) economic investment is necessary, 
+although research suggests a return on investment of 20% 
+[122]. Exploiting combined energy generation and using 
+geothermal energy, hydrogen and biomass for heating 
+healthcare facilities are low-carbon alternatives to pollut-
+ing coal boilers [52, 113, 126, 128, 133, 137, 142, 145].
+The second category encompasses managerial strat -
+egies to optimise energy consumption, such as imple -
+menting retro-commissioning [ 146] and an (artificial 
+intelligence-supported) energy management system [ 31, 
+56, 110, 142], as well as ensuring the optimal use of space 
+and patient flow [ 61, 91, 128, 141, 147]. Other recom -
+mended strategies include monitoring and evaluating 
+energy consumption [ 110, 112, 128, 137, 142] and mak -
+ing use of energy benchmarking and energy certifications 
+[45, 48, 52, 54, 59, 76, 125, 128, 137, 142].
+The third category focuses on energy efficiency. It is 
+recommended that healthcare facilities are built with 
+natural light and ventilation, window shading, thermal 
+insulation and automatic doors to avoid heat loss [ 31, 
+49, 50, 53, 55, 56, 58– 64, 76, 86, 90, 100, 102, 112, 120, 
+123, 128, 137, 141, 142] and efficient, low-carbon heating, 
+ventilation and air-conditioning systems [ 31, 46, 48– 50, 
+56, 59– 63, 65, 76, 86, 88, 91, 92, 96, 97, 100, 110, 112–
+114, 120, 121, 123, 128– 130, 137, 141– 143, 148]. Further 
+strategies include installing energy-efficient lighting and 
+motion sensors [ 31, 45, 46, 48, 49, 54, 56, 58– 64, 76, 86, 
+88, 90, 91, 95, 97, 100, 102, 110, 112– 114, 121, 123– 125, 
+128– 130, 133, 134, 137, 141– 144, 149– 154] and invest -
+ing in energy-efficient devices [ 48, 49, 56, 60– 63, 85, 86, 
+88, 92, 110, 123, 124, 127, 128, 134, 137, 141, 142, 144, 
+155], including washing tunnels [ 76, 137, 142]. Energy 
+Star ratings help to choose high-efficiency equipment. 
+Additional actions include autoconfiguration to the most 
+energy-saving settings [ 76, 90] and eliminating unneces -
+sary machines from stations [142].
+The fourth category centres on staff behaviour. Rec -
+ommended strategies to reduce greenhouse gas emis -
+sions from energy use include turning off equipment and 
+lights when not needed and closing doors [ 31, 42, 46, 48, 
+49, 54, 59, 62, 74, 78, 80, 81, 85, 90, 91, 95, 112, 113, 121, 
+124, 125, 127– 130, 141– 143, 148, 150, 153– 156], taking 
+the stairs instead of elevators [ 54, 112, 142] and reducing 
+the use of laminar flow [ 78]. Behavioural interventions, 
+such as Operation TSC: ‘turning off equipment, switch -
+ing off lights and closing doors’ [ 31] or placing stickers 
+on elevators to nudge users to take the stairs [ 142] can 
+support individuals in making environmentally conscious 
+decisions. Moreover, some authors recommend interdis -
+ciplinary collaboration to rethink responsible energy use 
+[155], design best practice manuals for staff [ 137] and to 
+organise internal competitions to save energy [59].
+Saving energy in 2024 is not only necessary to combat 
+the climate crisis. Since the Russian invasion of Ukraine, 
+many parts of the world, especially Europe, have faced an 
+energy crisis. Energy prices rose steeply, and the energy 
+supply was uncertain at times [ 157]. There is a surge of 
+‘green’ alternatives to fossil fuels, as they can secure the 
+generation of affordable and clean energy [157].
+Page 11 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Reducing scope 3 emissions: telemedicine and ‘green’ 
+travel
+Most greenhouse gas emissions from global healthcare 
+systems are emitted through scope 3, and travel substan -
+tially contributes to these emissions [ 14]. Note that in 
+this study, patient and visitor commuting were grouped 
+into scope 3 since mitigation measures are similar for 
+patient, visitor and employee travel and can indirectly be 
+influenced by the healthcare system.
+One of the most widely used strategies for lowering 
+emissions stemming from patient, visitor and employee 
+travel is the implementation of digital technologies. 
+Patients can utilise virtual health clinics and telemedi -
+cine to receive pre- and post-operative care and special -
+ised services [ 31, 42, 45– 47, 49, 50, 53, 56, 58, 61– 63, 76, 
+78, 80– 82, 85, 86, 88, 90, 92, 97, 110, 112– 114, 121, 123, 
+124, 129, 131, 135, 138, 139, 141, 144, 153, 158– 186] as 
+well as general home-based healthcare [ 42, 62, 123, 135, 
+139, 187]. Electronic health applications can aid patients 
+in disease management and thus reduce excessive hos -
+pital visits. For example, Maastricht University Medical 
+Centre + has implemented a smart care avatar (‘Molly’) 
+for remotely monitoring patients with chronic cardiac 
+insufficiency [ 188]. Systematic reviews have shown that 
+telemedicine reduces the climate footprint of health -
+care systems by reducing greenhouse gas emissions 
+that are associated with travel, whereby videoconfer -
+ences emit more emissions than telephone consultations 
+because they consume more energy [ 189– 191]. Purohit 
+et al. concluded that, regardless of the type of technol -
+ogy, telemedicine carbon emissions are immaterially low 
+compared to emissions from mobile combustion [ 189]. 
+These findings align with different studies in the pres -
+ent systematic literature review [ 161, 162, 170]. Further-
+more, research suggests that telemedicine provides large 
+time and cost savings as additional benefits and that rural 
+and isolated patients, as well as patients requiring highly 
+specialised care, may benefit disproportionally from tele -
+medicine [ 190]. Indeed, many studies have emphasised 
+the co-benefits of telemedicine, ranging from increased 
+equity in access [ 180] over increased attendance and 
+engagement [162] to the decongestion of healthcare sys -
+tems [173]. In addition, healthcare staff could be granted 
+to work from home, if possible [ 48, 52, 56, 62, 150, 171], 
+trained in eco-driving [ 49, 148, 168, 184] and urged to 
+reduce business travel as much as possible, for example, 
+by attending meetings, conferences and educational 
+courses online [31, 42, 48, 50, 52, 56, 58, 62, 80, 81, 85, 88, 
+90, 113, 123, 131, 134, 135, 141, 142, 148, 156, 159, 168].
+Importance should be placed on avoiding potential 
+inequities arising from increased electronic health and 
+telemedicine. A digital infrastructure, technological 
+equipment and personal skills are needed to properly 
+participate in teleconsultations. However, these barriers 
+are mitigated when consultations take place with local 
+healthcare providers at telehealth outpatient clinics [160]. 
+Additionally, legislation on data protection and patient 
+consent must be followed to ensure data security and 
+patient well-being.
+Telemedicine has accelerated in the last few years, 
+particularly since the COVID-19 pandemic and may 
+continue to do so in the coming years. Nevertheless, it 
+remains to be seen whether teleconsultations will con -
+solidate their position in healthcare provision, especially 
+since patients may prefer in-person appointments over 
+video consultations outside the COVID-19 pandemic 
+[192].
+Finally, a possible rebound effect should be considered 
+[189]. One should think about what the time and money 
+saved through telemedicine are used for instead. Oppor -
+tunities arise that could harm the climate. Emissions sav -
+ings may be diluted if healthcare providers and patients 
+use their secured resources to engage in high-carbon 
+activities.
+Another promising strategy to reduce patient commut-
+ing is minimising the need to travel to healthcare facili -
+ties by increasing diagnostic and treatment efficiency. 
+For example, by implementing remote point-of-care 
+testing [171], reducing false-positive referrals [ 153, 193], 
+coordinating appointments efficiently [ 52, 88, 151, 168, 
+184, 194], ‘Getting It Right First Time’ [31, 78], reducing 
+appointment frequency [168, 184, 194], using global posi-
+tioning system-based electronic referral systems [ 168, 
+184] and community-based care [ 31, 56, 57, 88, 153]. 
+‘Getting It Right First Time’ is a national programme ini-
+tiated by NHS England to improve patient treatment and 
+care, thereby cutting unnecessary travel to and stays at 
+healthcare facilities [195].
+The last strategy to lower emissions from travel and 
+transportation is to promote green and active modes 
+of travel. Patients and employees may be encouraged 
+to travel actively by walking and cycling or use greener 
+travel options, such as electric (or, in the future, hydro -
+carbon) vehicles, public transportation, carpooling or 
+healthcare shuttle services [ 31, 42, 45, 46, 48, 49, 52– 54, 
+56– 62, 76, 80, 81, 85, 86, 88– 90, 112, 113, 121, 123, 129, 
+141, 142, 144, 148, 156, 159, 161, 168, 184]. NHS Eng -
+land, for example, tests the use of 100% electric mental 
+health response vehicles [196] and the ambulance service 
+of Basel in Switzerland recently introduced cargo e-bikes 
+in their daily practice [ 197]. Walking and cycling to work 
+or appointments are low-cost alternatives to polluting 
+vehicles. Reducing travel by car has synergistic effects: 
+researchers have observed fewer road traffic accidents 
+and increased physical activity, which positively impact 
+health and well-being [198, 199].
+Page 12 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Reducing scope 3 emissions: decarbonising the supply 
+chain
+Globally, healthcare systems emit greenhouse gases 
+largely indirectly via the global healthcare supply chain 
+(scope 3)—71% to be exact [ 14]. These emissions stem 
+primarily from medical instruments and equipment, 
+inhalers, pharmaceuticals, food and catering, water, con -
+struction, information and communications technology 
+and overall procurement.
+Medical instruments and equipment
+Medical instruments and equipment contribute substan -
+tially to indirect emissions, in addition to travel, particu -
+larly through production, transportation and disposal. 
+The 5Rs framework (Reduce, Reuse, Recycle, Rethink and 
+Research) is a guide to zero waste that can be applied to 
+reduce waste from the supply chain of healthcare sys -
+tems [ 149]. A commonly cited strategy is to minimise 
+the climate footprint of purchased goods and services 
+and procurement processes. For example, reducing the 
+use of single-use disposable devices and equipment and 
+by choosing more sustainable and reusable alternatives 
+instead [31, 42, 45, 47, 51– 54, 56, 58, 60, 61, 65, 68, 69, 
+72, 74, 76– 78, 80, 81, 85, 86, 88– 93, 95, 97, 100, 102, 110, 
+112– 114, 124, 127, 129– 131, 138, 141, 142, 148, 150, 
+153, 155, 156, 158, 161, 174, 200– 219], protecting medi -
+cal items for reuse [ 85, 220] and minimising unnecessary 
+product use, overage and waste [ 42, 54, 61, 63, 65, 66, 
+72, 74, 78, 80, 81, 86, 91– 93, 95, 97, 100, 102, 110, 112, 
+113, 141, 142, 150, 153, 159, 194, 210, 212, 215, 216, 220–
+223]. Moreover, it is recommended that medical devices, 
+equipment and any other material be properly separated 
+and recycled at the end of life [ 31, 42, 45, 47– 49, 51, 53, 
+54, 56, 58, 61, 62, 68, 69, 72, 74, 76, 80, 81, 89– 93, 95, 100, 
+102, 110, 112, 113, 121, 123, 124, 129, 131, 134, 137, 139, 
+140, 142– 144, 149, 150, 152– 156, 159, 169, 200, 202, 204, 
+207, 209, 211, 212, 215, 216, 224– 230]. Additionally, sin-
+gle-use disposable medical devices may be reprocessed 
+and reused, and unused supplies may be repurposed, 
+shared within other healthcare facilities or donated [ 31, 
+51, 54, 57, 74, 76, 80, 81, 85, 88, 91– 93, 95, 97, 102, 110, 
+112, 113, 132, 142, 143, 149, 150, 156, 200, 207, 208, 
+211, 214, 216, 220, 231– 234]. Banhidy and Banhidy, for 
+example, proposed repurposing sterilised mosquito nets 
+for hernia mesh repair in low-and middle-income coun -
+tries [149] and van Straten et al. reported that the climate 
+footprint of reprocessing and reusing filtering facepiece 
+2 face masks five times is more than half of the climate 
+footprint of masks used only once [ 234]. Notably, the 
+mode of reprocessing highly influences emissions from 
+reusing devices [ 235, 236]. Sterilisation via washer dis -
+infector systems requires dismantling, precleaning, leak 
+testing, cleaning, rinsing, drying, sterilisation, packag -
+ing and storage of the reusable device; this process is also 
+time-consuming, requires staff and equipment and uses 
+more than 150  L of water per cycle [ 236]. The mode of 
+sterilisation determines the environmental impact by up 
+to 90% [229].
+Furthermore, greenhouse gas emissions are highly 
+dependent on the energy efficiency of used appliances 
+and the use and disposal of personal protective equip -
+ment [ 237]. A trade-off must be reached: if single-use 
+disposable products are chosen, much waste will be pro -
+duced. In contrast, if reusable products are selected or 
+single-use disposable products are reprocessed for reuse, 
+less waste will be generated, but more energy and water 
+will be required for sterilisation [ 229]. Generally, reus -
+able products are more climate-friendly than products 
+disposed of immediately after use [ 238], but national 
+regulations must be checked, and environmental viability 
+should be considered individually.
+Another commonly cited measure to decarbonise the 
+supply chain is to reduce packaging and, if needed, to 
+use environmentally friendly packaging [ 31, 45, 48, 53, 
+56, 58, 66, 76– 78, 85, 95, 114, 115, 121, 127, 130, 132, 
+138– 140, 149, 169, 171, 200, 209, 216, 222]. Other action 
+items include switching from single-use bottles to tap 
+water [124, 142], composting organic and bio-degradable 
+materials [46, 49, 51, 53, 54, 60, 76, 151, 211, 226, 239], 
+increasing the lifespan of products [ 52, 55, 76, 86, 131, 
+134, 155, 156, 207, 208, 211, 233], adhering to medical 
+waste treatment and disposal guidelines [ 137, 224, 240], 
+introducing take-back programmes [ 48, 54, 74, 93, 121, 
+137, 138, 142, 203, 204, 209, 211, 228], collaborating in 
+interdisciplinary teams to discuss waste production [ 142, 
+149, 155], centralising waste collection in the hallways 
+of healthcare facilities [ 142], conducting regular waste 
+audits [ 48, 54, 62, 95, 100, 123, 132, 142, 169, 202, 214, 
+216, 220], compacting or shredding ordinary waste [ 137, 
+142, 144], using smart waste management systems [ 171] 
+and developing a low-carbon waste management net -
+work [241].
+Inhalers
+Inhalers contribute to healthcare’s climate footprint 
+because they contain potent greenhouse gases known 
+as hydrofluorocarbons, which are used as propellants to 
+deliver medication [242]. When these inhalers are used, a 
+significant amount of hydrofluorocarbons is released into 
+the atmosphere. These gases have a much greater global 
+warming potential than carbon dioxide, meaning that 
+they trap heat in the atmosphere more effectively. The 
+climate footprint of inhalers can be reduced by substitut -
+ing metered-dose inhalers with dry-powder or soft mist 
+inhalers or alternative treatment strategies whenever 
+possible and minimising propellant release [31, 48, 50, 57, 
+58, 60, 66, 88– 90, 230, 242– 244].
+Page 13 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Pharmaceuticals
+While pharmaceuticals play a crucial role in healthcare, 
+their production, distribution and disposal can have neg -
+ative environmental impacts that contribute to climate 
+change. Efforts to minimise these impacts include the 
+pursuit of ‘green prescribing’ principles and good man -
+agement to reduce pharmaceutical use and waste [ 52, 
+54, 56, 58, 63, 66, 78, 81, 88, 89, 102, 121, 141, 210, 245, 
+246], improving pharmaceutical properties so that they 
+become temperature resistant and last longer [ 66, 228], 
+providing multi-dose vials and different sizes [ 65, 66, 85], 
+choosing low-carbon pharmaceuticals, if possible [ 247], 
+‘greening’ the manufacturing process of pharmaceuticals 
+[48, 66], combining primary and secondary packaging at 
+one location [66], implementing e-labelling [48], ensuring 
+responsible disposal and waste (water) treatment [ 48, 54, 
+138, 247] and choosing sustainable options to transport 
+pharmaceuticals [228, 248].
+Food and catering
+Making sustainable food choices can help mitigate the 
+environmental impact of food production and contrib -
+ute to climate change mitigation efforts, for example, by 
+reducing food waste [ 31, 48, 54, 56, 58, 60, 88, 142, 239, 
+249], providing fresh, regional and seasonal plant-based 
+meals in hospitals [ 31, 46, 49– 54, 56– 58, 60, 76, 88, 113, 
+142, 148, 156, 210, 249, 250], purchasing from organic 
+and certified producers [ 142, 204], and organising farm -
+ers’ markets at hospitals, such as the Sidney Children’s 
+Hospital Network [53, 54].
+Water, construction and information and communications 
+technology
+Less known factors contributing to the climate footprint 
+of healthcare systems are water usage, construction and 
+emissions stemming from information and communica -
+tions technology. These can be mitigated by saving and 
+recovering water [ 42, 48, 54, 58, 62, 68, 78, 95, 102, 112, 
+121, 123, 124, 127, 134, 139, 142– 144, 150, 152, 212, 
+251], using aquifer systems, if possible [ 120], considering 
+environmental aspects when constructing or renovat -
+ing buildings [31, 142, 200, 252] and reducing the energy 
+consumption of teleconsultations [ 161] and electronic 
+health record software [172].
+Sustainable procurement
+Sustainable procurement plays a fundamental role in 
+mitigating climate change by driving emissions reduc -
+tions, promoting sustainable practices, protecting eco -
+systems, building resilience and aligning with corporate 
+sustainability goals. By integrating sustainability criteria 
+into procurement processes, healthcare organisations 
+can leverage their purchasing power to drive positive 
+environmental outcomes and contribute to global efforts 
+to address climate change. Sustainable procurement was 
+widely cited for decarbonising the supply chain. The lit -
+erature recommends implementing a sustainable pro -
+curement scheme and urging vendors to disclose their 
+environmental performance [ 31, 48, 49, 51, 54, 56– 62, 
+66, 74, 76, 77, 85, 88, 90, 93, 97, 110, 112, 113, 121, 124, 
+132, 134, 141, 142, 149, 155, 158, 200, 204, 208, 211, 212, 
+220, 247, 253], purchasing locally [ 58, 77, 88, 124, 130, 
+131, 149, 168, 200, 222] and in bulk [ 88, 144, 168], re-
+evaluating purchasing contracts [51, 60, 74, 92, 112, 204], 
+reducing purchasing needs, for example, by planting veg -
+etables on a rooftop farm [ 200, 251] or building beehive 
+boxes [143, 251], developing models for low-carbon sup -
+ply chain networks [ 48, 60, 66, 132, 149, 193, 254– 261], 
+advocating for a circular economy [52, 53, 55, 60, 66, 208, 
+211, 234] and assisting and incentivising manufacturers 
+to become more sustainable [ 48, 51, 52, 61, 66, 133, 229]. 
+Some healthcare facilities implement creative solutions. 
+The Holy Name Medical Center set up beehives to pro -
+duce honey locally for eating or creating lip balms and 
+skin care products, and the Boston Medical Center built 
+a rooftop farm to harvest vegetables [ 251]. In this way, 
+fewer products need to be procured via the supply chain.
+Co-benefits
+Increasing green spaces, planting trees and vegetables, 
+and building beehives have multiple co-benefits. On the 
+one hand, they contribute to protecting biodiversity, 
+which is essential for the functioning of ecosystems and 
+climate regulation [ 4, 6]. On the other hand, some stud -
+ies suggest that green and blue spaces positively impact 
+physical and mental health [ 262, 263]. Moreover, plant -
+ing vegetables on healthcare facility premises or organ -
+ising farmers’ markets facilitates the provision of fresh, 
+locally sourced and sustainable food. Several authors rec -
+ommend that hospitals serve vegetarian and plant-based 
+meals and reduce dairy and meat consumption associ -
+ated with high carbon emissions. This is a particularly 
+appealing solution because plant-based meals provide 
+several health benefits [264, 265].
+‘Greening’ clinical practices, planetary health education 
+and system change
+Healthcare provision has become increasingly complex, 
+technologically advanced and resource-intensive [ 266]. 
+An effective strategy to reduce the climate footprint of 
+healthcare is to upsurge outpatient [ 31, 63, 86, 95, 141], 
+non-invasive and non-robotic procedures [ 47, 61, 63, 72, 
+78, 86, 92, 95, 110, 113, 115, 124, 141, 150, 207, 215, 223] 
+and to minimise the production of personalised materials 
+with no added value for patients [267]. Innovative robotic 
+procedures may be beneficial for surgeons; however, a 
+systematic review by Papadopoulou et al. revealed that 
+the environmental impact of robotic surgery outweighs 
+Page 14 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+the clinical benefit and should therefore be used scarcely 
+[268]. Another issue is overdiagnosis and overtesting. 
+Unnecessary imaging and laboratory tests contribute 
+to direct and indirect greenhouse emissions and should 
+be reduced to a clinically valuable minimum [ 47, 50, 52, 
+56– 58, 63, 80, 81, 89, 90, 92, 114, 121, 124, 131, 141, 158, 
+169, 205, 207, 269– 276], including duplicate work [ 63, 
+156]. ‘Choosing Wisely’ is a campaign from the American 
+Board of Internal Medicine Foundation initiating discus -
+sions between healthcare providers and patients about 
+the necessity of tests, treatments and procedures [277].
+Other action items associated with clinical practices 
+that affect multiple scopes include utilising artificial 
+intelligence [ 61, 153, 171, 246], choosing reprocessing 
+methods with the lowest climate footprint and optimis -
+ing the reprocessing process [ 42, 110, 123, 127, 140, 213, 
+229, 235], reducing paper consumption, particularly by 
+digitalisation [31, 49, 50, 54, 62, 85, 90, 92, 112, 113, 121, 
+129– 131, 137, 141, 142, 144, 148, 156, 169, 171, 184, 204, 
+211, 247], utilising three-dimensional printing [ 72, 171] 
+and adequately managing stock and inventory [74, 80, 92, 
+93, 204, 247, 278].
+Educating healthcare professionals about the climate 
+change and health nexus and healthcare’s contribution 
+to the climate crisis is essential. Multiple authors have 
+called for the integration of planetary health and sustain -
+able healthcare provision in medical curricula, forming a 
+new generation of sustainable and climate-smart health -
+care workers [50, 66, 86, 124, 141, 152, 158, 210, 247, 253, 
+279– 287].
+Moreover, organising hackathons to find innovative 
+solutions to healthcare system decarbonisation [ 149, 
+171], implementing possibilities for knowledge exchange 
+between healthcare workers from high-income and low-
+and middle-income countries (‘twinning’) [149] and set -
+ting up Green Teams to raise awareness and implement 
+sustainability interventions [ 42, 51, 53, 54, 56, 62, 68, 69, 
+82, 85, 93, 95, 100, 112, 113, 121, 123, 124, 132, 142, 143, 
+210, 212, 216, 220, 247, 288] may be effective emission 
+reduction actions. The ATACH is one example of an ini -
+tiative promoting knowledge exchange and collaborative 
+work to foster low-carbon healthcare systems [27].
+Furthermore, studies recommend adhering to environ -
+mental standards by the International Standardisation 
+Organisation [ 49, 158], participating in decarbonisation 
+alliances and initiatives to collectively work towards a 
+shared goal [ 51, 54, 85, 92, 100, 142, 210], applying car -
+bon capture technologies, engaging in carbon offset proj -
+ects and increasing green spaces [ 31, 48, 134, 142], and 
+considering greenhouse gas emissions in organisational 
+procedures, such as job descriptions and performance 
+evaluations to substantiate decarbonisation efforts [ 52, 
+56, 112, 154]. Finally, some authors propose system-level 
+changes in healthcare system activities, such as climate 
+footprint monitoring and conducting life cycle assess -
+ments of products and services to enable the selection 
+of better alternatives [ 31, 47– 49, 53, 56, 57, 62, 66, 69, 
+74, 76, 80, 81, 85, 86, 88, 91, 93, 112, 113, 123, 124, 137, 
+139, 141– 143, 156, 158, 194, 201, 203, 205– 207, 212– 218, 
+229, 234– 237, 245, 250, 253, 289– 295], incorporating 
+carbon costs into health technology assessments [ 47, 
+158, 187, 291, 296], integrating health services, shifting 
+towards value-based healthcare and eliminating activity-
+based payment schemes [ 55, 76, 82, 158, 211], acceler -
+ating health promotion and disease prevention [ 47, 52, 
+53, 55, 63, 78, 85, 113, 124, 139, 158, 168, 210, 245] and 
+introducing carbon emission caps [ 158]. Moreover, two 
+authors called for patient and public involvement [ 124, 
+142]. A complete list of personal, organisational, and sys -
+tem-level actions for decarbonising healthcare systems, 
+including important considerations and advice identified 
+from the literature, can be found in Additional File 4.
+Measuring the climate footprint of healthcare systems
+Sustainability interventions may be implemented by 
+dedicated working groups, so-called Green Teams. Note 
+that it is essential to make evidence-informed recom -
+mendations. Therefore, technical, economic and human 
+resource feasibility should be determined beforehand 
+[212]. Likewise, assessing the climate footprint of prod -
+ucts, technologies, practices and services is important to 
+justify organisational changes and base decisions to tran -
+sition to allegedly climate-friendlier options on evidence. 
+It is equally important to evaluate decarbonisation inter -
+ventions and determine their effectiveness correctly since 
+the most environmentally sustainable choice may not 
+always be the expected one [ 229, 235– 237, 295]. Assess-
+ing the cradle-to-grave climate footprint of specific prod-
+ucts is often unproblematic since validated standardised 
+tools exist. The life cycle assessment of practices and 
+services poses more of a challenge, for example, as there 
+are no standardised methods or validated tools to assess 
+the climate footprint of telehealth services [ 297]. Typi-
+cally, publicly available (sometimes adapted) carbon cal -
+culators are used to determine carbon emissions [ 297]. 
+Indeed, the present study confirms this finding. Most 
+studies have used unvalidated methods to estimate the 
+carbon footprint.
+Five studies proposed the inclusion of carbon costs 
+and sustainability considerations in health technology 
+assessments [47, 158, 187, 291, 296]. Hensher and McAli-
+ster et al. demonstrated the feasibility of doing so [ 291, 
+296]. In contrast, a scoping review by Pinho-Gomes et 
+al. concluded that the lack of disaggregated data about 
+single technologies’ environmental impact, together with 
+uncertainty about the handling of trade-offs between 
+health and the environment, make the integration of 
+sustainability considerations into health technology 
+Page 15 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+assessment and public health and medical guidelines 
+challenging [298].
+Climate change mitigation and adaptation will likely be 
+cost-effective and generate significant health co-benefits 
+[299]. The great potential of decarbonisation actions to 
+generate substantial positive externalities and create syn -
+ergistic benefits for ecosystems and society [ 300] neces -
+sitates adding social value, including health co-benefits, 
+to the evaluation of mitigation investments. Recognising 
+this need, the World Health Organisation developed ‘ A 
+framework for the quantification and economic valua -
+tion of health outcomes originating from health and non-
+health climate change mitigation and adaptation action’ 
+[301]. Aligning with the idea of Health in all Policies, 
+this newly published economic framework aims to inte -
+grate health outcomes into climate policy. Quantifying 
+the value of climate action in healthcare and beyond may 
+encourage decision-makers to ‘step up their game’ and 
+fully commit to decarbonising healthcare systems.
+The future: artificial intelligence to decarbonise 
+healthcare?
+Artificial intelligence will arguably shape the future of 
+healthcare. Publications from this systematic literature 
+review discussed the application of artificial intelligence 
+to support laboratory work [171], triage patients in emer-
+gency rooms [246], detect emerging outbreaks with novel 
+symptom patterns [ 246], aid diagnosis [ 153] and deliver 
+remote care [ 61]. Other studies have proposed enhanc -
+ing drones [ 44] and energy-management systems [ 56] 
+with artificial intelligence. Using artificial intelligence in 
+healthcare has the potential to save resources and thereby 
+contribute to decarbonisation efforts. However, the life 
+cycle greenhouse gas emissions of artificial intelligence 
+technologies cannot be disregarded. According to Richie, 
+artificial intelligence programming, development and 
+use are energy-and resource-intensive, thereby forming a 
+considerable climate footprint [246]. Contradicting opin-
+ions about the environmental sustainability of artificial 
+intelligence applications in healthcare exist, illustrating a 
+need for further research.
+It is essential to note that pioneering decarbonisation 
+strategies exist that were not discussed in this paper. 
+‘Greening’ chemical and industrial processes can contrib-
+ute to lowering indirect scope 3 emissions of healthcare 
+systems and may significantly impact their emissions in 
+the future.
+Strengths and limitations
+The findings of this systematic literature review widely 
+align with results from previous studies [ 32, 34, 302] 
+and recommendations from key stakeholders, such as 
+the World Health Organisation [ 11] and Health Care 
+Without Harm [ 15], but add more detail and scope to 
+reviewed decarbonisation actions, including conven -
+tional and unique approaches to climate-friendly health -
+care and important considerations and recommendations 
+for implementation (see Additional File  4). Among all 
+identified decarbonisation actions, 104 can be classified 
+as ‘unique, ’ as they have been studied or recommended 
+by three papers or fewer. These novel and less-researched 
+strategies span all emission scopes and focus on various 
+areas, from smart technology and novel agents to highly 
+effective and resourceful appointment scheduling and 
+referral systems. Moreover, this study underlines the pro-
+posed recommendations with evidence from 96 empiri -
+cal studies. Actions were grouped into Greenhouse Gas 
+Protocol scopes 1, 2 and 3 to explore interventions tar -
+geted at emissions originating from various activities of a 
+healthcare system.
+One strength of the present study is the inclusion of 
+non-research literature. Including literature beyond 
+empirical studies enabled the collection of a compre -
+hensive list of decarbonisation actions, including unique 
+solutions not assessed in primary studies. Addition -
+ally, this systematic literature review was not limited to 
+a particular field within healthcare, which made it pos -
+sible to identify solutions across specialities and to cover 
+essentially all areas within healthcare, offering a holistic 
+approach to decarbonisation efforts.
+Searching for literature across multiple domains related 
+to healthcare and not limiting the search to specific study 
+designs and types of literature mitigated the problem of 
+needing more literature to conduct a meaningful system -
+atic literature review which was a problem cited in the 
+literature [150, 303]. Lastly, the high level of detail con -
+cerning decarbonisation actions across all Greenhouse 
+Gas Protocol scopes may be helpful for healthcare per -
+sonnel and decision-makers who seek more information 
+beyond official guidance documents that are often lim -
+ited in their provision of detail. We created a repository 
+which ideally offers practitioners straight-forward entry 
+points to decarbonise healthcare systems.
+The present systematic literature review has its limita -
+tions. First, the time and resources for conducting this 
+systematic literature review were restricted: a single 
+researcher was conducting the research as part of a uni -
+versity undergraduate dissertation. Second, the value of a 
+literature review always depends on the quality of exist -
+ing studies. In the present case, the body of research 
+evidence on healthcare decarbonisation approaches 
+was very diverse and of varying quality—a considerable 
+amount of non-research literature was included. More -
+over, despite utilising a comprehensive search strategy, 
+it is possible that not all relevant studies were identified 
+since sustainable healthcare is a highly interdisciplin -
+ary matter, and searches were limited to the timespan of 
+2018–2023, studies published in English and listed in the 
+Page 16 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+PubMed/MEDLINE, GreenFILE, Business Source Com -
+plete and CINAHL databases. Thus, relevant searches 
+might have been overlooked, even though backward 
+citation searching (snowballing) may have attenuated 
+this limitation. Additionally, not all potentially pertinent 
+publications could be retrieved in full because of access 
+restrictions. Finally, knowledge and approaches to 
+healthcare system decarbonisation advance rapidly. After 
+the literature search was completed, several new studies 
+were published that were not included in this review.
+In addition to potential limitations in the review pro -
+cess, there is a risk of bias resulting from the included 
+literature, such as selection, measurement, confound -
+ing, information, publication, reporting and confirma -
+tion biases, and ‘Greenwashing’ from industry-supported 
+papers. The publications vary in their study designs and 
+methodologies. For example, deviations in system bound-
+aries exist. The individual limitations and methodologi -
+cal differences between the publications (including their 
+degrees of reliability and validity) may limit the compa -
+rability and generalisability of the findings. Neverthe -
+less, the study did not aim to quantify the effectiveness of 
+decarbonisation efforts (see Blom et al. [ 35]). Instead, it 
+aimed to examine various actions that can be undertaken 
+to lower greenhouse gas emissions of healthcare systems 
+worldwide. Therefore, the possible heterogeneous find -
+ings of the studies were not considered a disadvantage.
+Recommendations for research, policy and practice
+Having reviewed decarbonisation actions at the personal, 
+organisational and system levels, the following measures 
+related to research, policy and practice seem necessary to 
+drive action.
+Recommendations for research
+This review identifies a diverse range of decarbonisa -
+tion actions in healthcare. Strategies to lower emis -
+sions related to transportation, anaesthesia, energy use 
+and single-use products seem of particular interest to 
+researchers. Future studies should focus on quantifying 
+the greenhouse gas emission reductions achieved by indi-
+vidual interventions, such as regional and total intrave -
+nous anaesthesia, reusable medical devices, telemedicine 
+and the application of artificial intelligence in healthcare. 
+Additionally, less popular interventions (see Additional 
+File  4) should be investigated better. Providing robust 
+evidence of the effectiveness of these interventions is 
+crucial for guiding healthcare workers and decision-
+makers. Moreover, it is essential to continuously monitor 
+the global climate footprint of healthcare systems, as “we 
+can’t mitigate what we don’t monitor” [294]. Clear com -
+munication of the connection between climate change 
+and health to healthcare providers and the public is also 
+imperative.
+Recommendations for policy
+Healthcare system decarbonisation must be prioritised 
+on the political agenda to drive meaningful system-wide 
+change. Policymakers should heed the long-standing calls 
+from advocacy groups for a socio-ecological transfor -
+mation within healthcare. Collaborative efforts between 
+policymakers and practitioners are essential to design 
+and implement sustainable reforms for national health -
+care systems. Introducing a carbon cap for healthcare 
+facilities, pharmaceutical industries and suppliers could 
+be a powerful mechanism to accelerate decarbonisation. 
+Additionally, companies should be mandated to disclose 
+information on the environmental performance and life 
+cycle assessments of their products and services, with 
+sustainable manufacturers receiving competitive advan -
+tages to promote environmentally responsible practices. 
+The active involvement of key stakeholders, such as 
+experts at the intersection of climate change and health, 
+healthcare decision-makers and healthcare staff, is cru -
+cial to ensure successful implementation of these policies.
+Recommendations for practice
+Collaboration within transdisciplinary teams is crucial 
+for implementing sustainable practices in the daily opera-
+tions of healthcare providers. Healthcare staff—including 
+medical personnel, allied health professionals, adminis -
+trative and support teams, IT specialists, technical staff  
+and researchers—should receive targeted training in sus -
+tainability practices relevant to their specific roles. Deter-
+mining responsibilities within a healthcare facility can 
+be challenging. To address this, we recommend to orga -
+nise workshops where teams can collaboratively explore 
+all available decarbonisation options and clearly assign 
+responsibility for implementing each action. Recognised 
+organisations and bodies in the field can facilitate this 
+transition by offering a wealth of freely available online 
+resources, as well as consultancy and training services 
+globally. It is also important to identify and train front -
+runners who can lead the change in promoting sustain -
+able practices within their organisations. Encouraging 
+healthcare professionals to become ‘low-carbon health -
+care providers’ can be achieved by developing clear, prac-
+tical and transparent guidelines and policies, along with 
+introducing incentive and reward structures to support 
+and motivate sustainable behaviours.
+Recommendations for healthcare reform
+A key recommendation is the shift towards integrated 
+and value-based healthcare, which prioritises preven -
+tion over cure, minimises overdiagnosis and overtreat -
+ment, moves away from activity-based payment models 
+and promotes planetary health. This approach can sig -
+nificantly reduce healthcare’s climate footprint, as most 
+greenhouse gas emissions stem from healthcare system 
+Page 17 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+activities. By reducing these activities, energy consump -
+tion, anaesthetic emissions, health-related travel and 
+waste would logically decrease. Charlesworth et al. also 
+highlight essential strategies for addressing the climate 
+impact of health organisations, including the impor -
+tance of implementation, multi-level leadership, secur -
+ing resources, data collection on emissions, system-level 
+reforms such as telemedicine and value-based care and 
+fostering political awareness and effective engagement 
+[304]. These lessons align with the findings of this study, 
+underscoring their importance in the pursuit of sustain -
+able healthcare.
+Additionally, it is exceptionally important to decar -
+bonise fairly. Inequalities and disparities within and 
+across countries exist—the burden of climate change is 
+not equally shared among societies, nor is the burden of 
+reducing emissions [ 305]. Healthcare systems must con -
+tribute to a just transition towards climate sustainability. 
+Moreover, no trade-off should be made between excel -
+lent health services and sustainability. Likewise, it must 
+be noted that healthcare systems around the world dif -
+fer—from private health systems to Bismarck-like health 
+insurance systems to Beveridge-like national health 
+insurance systems. Therefore, implementing decarboni -
+sation actions may be challenging in some healthcare 
+systems and special attention should be given to the 
+transferability and adaptability of interventions.
+Conclusions and outlook
+Modern human activities generate environmental dis -
+ruptions, including climate change, that adversely affect 
+public health. Highly developed healthcare systems are 
+needed to meet the rising demand for health services 
+related to the climate crisis, consequently provoking a 
+rise in healthcare activities and related expenditures. In 
+turn, healthcare systems emit increasing greenhouse gas 
+emissions further contributing to the climate crisis. But 
+good news is, this paradox can be solved with smart plans 
+for decarbonisation and original solutions, such as those 
+presented in this study. This systematic literature review 
+explored potential actions to lower greenhouse gas emis -
+sions of healthcare systems globally and aimed to identify 
+what it will take to make the decarbonisation of health -
+care systems work. Practical actions at the personal and 
+organisational levels targeted at transportation, anaesthe-
+sia, energy, travel, the supply chain and clinical practices 
+can be supported by promoting the planetary health lit -
+eracy of healthcare workers, patients and their caregiv -
+ers and system changes that need to be implemented at 
+a higher level. This review emphasises the critical role 
+of transdisciplinary cooperation in achieving healthcare 
+decarbonisation, involving collaboration among medical 
+staff, allied health professionals, administrative and sup -
+port staff, IT and technical teams, as well as researchers 
+and educators. Additionally, it provides specific recom -
+mendations for conserving resources, such as anaesthetic 
+gases, medication and medical equipment and under -
+scores the importance of patient and public involvement, 
+along with standardisation to best practices.
+Transitioning to climate-friendly materials and prac -
+tices, combined with a reduction in consumption and 
+excessive activities may not be the magic bullet to solve 
+the climate crisis but may very well be a meaningful step 
+in the right direction towards sustainable, low-carbon 
+healthcare systems. This can be achieved by actions 
+encompassing all levels of society and looking beyond the 
+borders of health systems. Healthcare workers are agents 
+of change and are vital in attaining sustained transfor -
+mation. Countries may benefit from global knowledge 
+exchange, sharing best-practice examples and learnings. 
+Looking forward, action plans and audits at the local 
+level combined with large-scale measures and policies 
+are needed to influence the system as a whole.
+Abbreviations
+ATACH  Alliance for Transformative Action on Climate and Health
+CINAHL  Cumulative Index to Nursing and Allied Health Literature
+COVID-19  Coronavirus disease 2019
+EBSCO  Elton B. Stephens Company
+Embase  Excerpta Medica database
+JBI  Joanna Briggs Institute
+MEDLINE  Medical Literature Analysis and Retrieval System Online
+NHS  National Health Service
+PRISMA  Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s42055-024-00098-3.
+Supplementary Material 1 Additional File 1 Search strategies for identifica-
+tion of studies per database
+Supplementary Material 2 Additional File 2 Data extraction sheet
+Supplementary Material 3 Additional File 3 Descriptive statistics of 
+included literature
+Supplementary Material 4 Additional File 4 Actions to lower the climate 
+footprint of healthcare systems
+Acknowledgements
+Not applicable.
+Author contributions
+JM co-designed and conducted the review, analysed the findings, wrote the 
+manuscript and prepared the figures and supplementary files. JV conceived 
+the original idea, co-designed the review and supervised the project. 
+AB supervised the project. All authors have read and approved the final 
+manuscript.
+Funding
+None.
+Data availability
+Data is provided within the manuscript or supplementary information files.
+Page 18 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Author information
+The study was part of JM’s undergraduate dissertation from the BSc European 
+Public Health at Maastricht University. JM works part-time at the German 
+Alliance on Climate Change and Health (KLUG) and is involved in several 
+projects focusing on planetary health and the intersection between climate 
+change and health.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Faculty of Health, Medicine and Life Sciences, Maastricht University, 
+Maastricht, The Netherlands
+2Universitat de Barcelona (CHARM-European University), Barcelona, Spain
+3United Nations University – Maastricht Economic and Social Research 
+Institute on Innovation and Technology (UNU-MERIT), Maastricht, The 
+Netherlands
+Received: 8 June 2024 / Accepted: 23 August 2024
+References
+1. World Economic Forum. Global risks report. 2024. https://www.weforum.org/
+publications/global-risks-report-2024/. Accessed 11 Feb 2024.
+2. Intergovernmental Panel on Climate Change (IPCC). Climate change 2023 
+synthesis report: sixth assessment report. 2023. https://www.ipcc.ch/report/
+ar6/syr/. Accessed 12 Nov 2023.
+3. Intergovernmental Panel on Climate Change (IPCC). Annex I: Glossary. In: 
+climate change 2022: mitigation of climate change. 2023. https://www.ipcc.
+ch/report/ar6/wg3/. Accessed 12 Nov 2023.
+4. Richardson K, Steffen W, Lucht W, Bendtsen J, Cornell SE, Donges JF, et al. 
+Earth beyond six of nine planetary boundaries. Sci Adv. 2023;9(37):eadh2458. 
+https://doi.org/10.1126/sciadv.adh2458.
+5. Planetary Health Alliance. Planetary Health. 2024. https://www.planetary-
+healthalliance.org/planetary-health. Accessed 16 Aug 2024.
+6. Word Health Organisation Regional Office for Europe. Nature, biodiversity 
+and health: an overview of interconnections. 2021. https://apps.who.int/iris/
+handle/10665/341376. Accessed 12 Nov 2023.
+7. Romanello M, Di Napoli C, Green C, Kennard H, Lampard P , Scamman D, et 
+al. The 2023 report of the Lancet countdown on health and climate change: 
+the imperative for a health-centred response in a world facing irrevers-
+ible harms. Lancet. 2023;402(10419):2346–94. https://doi.org/10.1016/
+s0140-6736(23)01859-7.
+8. McMichael AJ, Woodruff RE, Hales S. Climate change and human health: pres-
+ent and future risks. Lancet. 2006;367(9513):859–. https://doi.org/10.1016/
+s0140-6736(06)68079-3.  69.
+9. World Health Organisation. COP26 special report on climate change and 
+health: the health argument for climate action. 2021. https://iris.who.int/
+handle/10665/346168. Accessed 12 Nov 2023.
+10. Center for Disease Control and Prevention. Climate effects on health. N.d. 
+https://www.cdc.gov/climateandhealth/effects/default.htm. Accessed 9 Mar 
+2023.
+11. World Health Organisation. Operational framework for building climate 
+resilient and low carbon health systems. 2023. https://iris.who.int/bitstream/
+handle/10665/373837/9789240081888-eng.pdf?sequence=1. Accessed 12 
+Nov 2023.
+12. World Health Organisation. Climate change and health: key facts. 12 Oct 
+2023. https://www.who.int/news-room/fact-sheets/detail/climate-change-
+and-health. Accessed 12 Nov 2023.
+13. World Economic Forum. Quantifying the impact of climate change on 
+human health. 2024. https://www.weforum.org/publications/quantifying-
+the-impact-of-climate-change-on-human-health/ . Accessed 11 Feb 2024.
+14. Health Care Without Harm, Arup. Health care’s climate footprint: how the 
+health sector contributes to the global climate crisis and opportunities for 
+action. 2019. Accessed 12 Nov 2023 https://noharm-global.org/documents/
+health-care-climate-footprint-report
+15. Health Care Without Harm, Arup. Global road map for health care decarboni-
+sation: a navigational tool for achieving zero emissions with climate resilience 
+and health equity. 2021. Accessed 12 Nov 2023. https://healthcareclimateac-
+tion.org/roadmap
+16. United Nations Environment Programme. Emissions gap report 2022: the 
+closing window: climate crisis calls for rapid transformation of societies. 2022. 
+https://www.unep.org/emissions-gap-report-2022. Accessed 12 Nov 2023.
+17. United Nations Framework Convention on Climate Change. The Paris Agree-
+ment. 2016. https://unfccc.int/documents/184656. Accessed 17 Mar 2023.
+18. Le Quéré C, Jackson RB, Jones MW, Smith AJP , Abernethy S, Andrew RM, et 
+al. Temporary reduction in daily global CO2 emissions during the COVID-19 
+forced confinement. Nat Clim Change. 2020;10(7):647–53. https://doi.
+org/10.1038/s41558-020-0797-x.
+19. Stern N. Why are we waiting? The logic, urgency, and promise of tackling 
+climate change. Cambridge (MA): MIT Press; 2015. https://doi.org/10.7551/
+mitpress/10408.001.0001.
+20. Heuberger CF, Staffell I, Shah N, Mac Dowell N. Impact of myopic decision-
+making and disruptive events in power systems planning. Nat Energy. 
+2018;3(8):634–40. https://doi.org/10.1038/s41560-018-0159-3.
+21. International Energy Agency. Net zero roadmap: a global pathway to keep 
+the 1.5°C goal in reach. Sep 2023. https://www.iea.org/reports/net-zero-
+roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach. Accessed 17 
+Mar 2024.
+22. Whitmee S, Green R, Belesova K, Hassan S, Cuevas S, Murage P , et al. 
+Pathways to a healthy net-zero future: report of the Lancet Pathfinder 
+Commission. Lancet. 2024;403(10421):67–110. https://doi.org/10.1016/
+s0140-6736(23)02466-2.
+23. World Health Organisation. Adelaide statement II on health in all policies: 
+implementing the Sustainable Development Agenda through good gover-
+nance for health and well-being: building on the experience of health in all 
+policies. 2019. https://apps.who.int/iris/handle/10665/331585. Accessed 17 
+Mar 2024.
+24. Ipsos. Ipsos Veracity Index. 2020. 26 November 2020. https://www.ipsos.com/
+en-uk/ipsos-veracity-index-2020-trust-in-professions. Accessed 16 Mar 2024.
+25. Hubbert B, Ahmed M, Kotcher J, Maibach E, Sarfaty M. Recruiting health pro-
+fessionals as sustainability advocates. Lancet Planet Health. 2020;4(10):e445–
+6. https://doi.org/10.1016/S2542-5196(20)30225-4.
+26. Maibach E, Frumkin H, Ahdoot S. Health professionals and the climate crisis: 
+trusted voices, essential roles. World Med Health Policy. 2021;13(1):137–45. 
+https://doi.org/10.1002/wmh3.421.
+27. Alliance for Transformative Action on Climate and Health (ATACH). https://
+www.atachcommunity.com/. Accessed 17 Mar 2024.
+28. Greenhouse Gas Protocol. Corporate value chain (scope 3) accounting and 
+reporting standard: supplement to the GHG protocol corporate account-
+ing and reporting standard. World Resources Institute, World Business 
+Council for Sustainable Development., 2011. https://ghgprotocol.org/sites/
+default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Stan-
+dard_041613_2.pdf. Accessed 16 Mar 2024.
+29. Greenhouse Gas Protocol. GHG protocol scope 2 guidance: an amendment 
+to the GHG protocol corporate standard. World Resources Institute. 2015. 
+https://ghgprotocol.org/sites/default/files/2023-03/Scope%202%20Guid-
+ance.pdf. Accessed 16 Mar 2024.
+30. Health Care Without Harm, Arup. Designing a net zero roadmap for health-
+care: technical methodology and guidance. 2022. Accessed 12 Nov 2023 
+https://noharm-europe.org/sites/default/files/documents-files/7186/2022-
+08-HCWH-Europe-Designing-a-net-zero-roadmap-for-healthcare-web.pdf
+31. National Health Service England. Delivering a. ‘net zero’ National Health Ser-
+vice. 2022. https://www.england.nhs.uk/greenernhs/wp-content/uploads/
+sites/51/2022/07/B1728-delivering-a-net-zero-nhs-july-2022.pdf. Accessed 30 
+Jan 2024.
+32. Duindam D. Transitioning to sustainable healthcare: decarbonising 
+healthcare clinics, a literature review. Challenges. 2022;13(2):68. https://doi.
+org/10.3390/challe13020068.
+33. Mashallahi A, Ardalan A, Nejati A, Ostadtaghizadeh A. Climate adaptive hospi-
+tal: a systematic review of determinants and actions. J Environ Health Sci Eng. 
+2022;20(2):983–1013. https://doi.org/10.1007/s40201-022-00810-5.
+34. Pradere B, Mallet R, de La Taille A, Bladou F, Prunet D, Beurrier S, et al. Climate-
+smart actions in the operating theatre for improving sustainability practices: 
+Page 19 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+a systematic review. Eur Urol. 2023;83(4):331–42. https://doi.org/10.1016/j.
+eururo.2022.01.027.
+35. Blom IM, Eissa M, Mattijsen JC, Sana H, Haines A, Whitmee S. Effectiveness of 
+greenhouse gas mitigation intervention for health-care systems: a systematic 
+review. Bull World Health Organ. 2024;102(3):159–75. https://doi.org/10.2471/
+BLT.23.290464. B.
+36. Aromataris E, Munn Z, editors. JBI manual for evidence synthesis. Joanna 
+Briggs Institute. 2020. https://doi.org/10.46658/JBIMES-20-01
+37. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann T, Mulrow CD, et al. 
+The PRISMA 2020 statement: an updated guideline for reporting systematic 
+reviews. Syst Rev. 2021;10(1):89. https://doi.org/10.1186/s13643-021-01626-4.
+38. McArthur A, Klugarová J, Hu Y, Florescu S. Innovations in the systematic 
+review of text and opinion. Int J Evid Based Healthc. 2015;13(3):188–95. 
+https://doi.org/10.1097/xeb.0000000000000060.
+39. Nowell LS, Norris JM, White DE, Moules NJ. Thematic analysis: striving to meet 
+the trustworthiness criteria. Int J Qual Methods. 2017;16(1):160940691773384. 
+https://doi.org/10.1177/1609406917733847.
+40. Aveyard H. Doing a literature review in health and social care: a practical 
+guide. 4th ed. London: Open University; 2019.
+41. Haddaway NR, Page MJ, Pritchard CC, McGuinness LA. PRISMA2020: an 
+R package and Shiny app for producing PRISMA 2020-compliant flow 
+diagrams, with interactivity for optimised digital transparency and open syn-
+thesis. Campbell Syst Rev. 2022;18(2):e1230. https://doi.org/10.1002/cl2.1230.
+42. Sampath B, Jensen M, Lenoci-Edwards J, Little K, Singh H, Sherman JD. 
+Reducing healthcare carbon emissions: a primer on measures and actions for 
+healthcare organizations to mitigate climate change. Agency for Healthcare 
+Research and Quality. 2022. https://www.ahrq.gov/sites/default/files/wysi-
+wyg/healthsystemsresearch/decarbonization/decarbonization.pdf. Accessed 
+31 Jan 2024.
+43. Oakey A, Grote M, Smith A, Cherrett T, Pilko A, Dickinson J, et al. Integrating 
+drones into NHS patient diagnostic logistics systems: flight or fantasy? PLoS 
+ONE. 2022;17(12):e0264669. https://doi.org/10.1371/journal.pone.0264669.
+44. Damoah IS, Ayakwah A, Tingbani I. Artificial intelligence (AI)-enhanced medi-
+cal drones in the healthcare supply chain (HSC) for sustainability develop-
+ment: a case study. J Clean Prod. 2021;328:129598. https://doi.org/10.1016/j.
+jclepro.2021.129598.
+45. Ewbank C, Stewart B, Bruns B, Deckelbaum D, Gologorsky R, Groen R, et al. 
+Introduction of the Surgical providers Assessment and Response to Climate 
+Change (SPARC2) tool: one small step toward reducing the carbon footprint 
+of surgical care. Ann Surg. 2021;273(4):e135–7. https://doi.org/10.1097/
+sla.0000000000004367.
+46. Bennett H, King P . Pro-equity climate change and environmental sustain-
+ability action by district health boards in Aotearoa/New Zealand. N Z Med J. 
+2018;131(1481):56–63.
+47. Bhopal A, Norheim OF. Priority setting and net zero healthcare: how much 
+health can a tonne of carbon buy? BMJ. 2021;375:e067199. https://doi.
+org/10.1136/bmj-2021-067199.
+48. Booth A, Jager A, Faulkner SD, Winchester CC, Shaw SE. Pharmaceutical 
+company targets and strategies to address climate change: content analysis 
+of public reports from 20 Pharmaceutical companies. Int J Environ Res Public 
+Health. 2023;20(4):3206. https://doi.org/10.3390/ijerph20043206.
+49. Bozoudis V, Sebos I, Tsakanikas A. Action plan for the mitigation of 
+greenhouse gas emissions in the hospital-based health care of the Hel-
+lenic Army. Environ Monit Assess. 2022;194(221). https://doi.org/10.1007/
+s10661-022-09871-3.
+50. Campos L, Barreto JV, Bassetti S, Bivol M, Burbridge A, Castellino P , et al. Physi-
+cians’ responsibility toward environmental degradation and climate change: 
+a position paper of the European Federation of Internal Medicine. Eur J Intern 
+Med. 2022;104:55–8. https://doi.org/10.1016/j.ejim.2022.08.001.
+51. Cordola C. How a faith-based healthcare organization is turning the tide of 
+environmental impact. Front Health Serv Manag. 2022;39(1):11–9. https://doi.
+org/10.1097/HAP .0000000000000145.
+52. Gerwig K. Climate change and healthcare: a complicated relationship. 
+Front Health Serv Manag. 2022;39(1):4–10. https://doi.org/10.1097/
+hap.0000000000000148.
+53. Kiang KM, Behne C. Delivering environmental sustainability in healthcare for 
+future generations: time to clean up our own cubby house. J Paediatr Child 
+Health. 2021;57(11):1767–74. https://doi.org/10.1111/jpc.15746.
+54. Linstadt H, Collins A, Slutzman JE, Kimball E, Lemery J, Sorensen C, et al. 
+The climate-smart emergency department: a primer. Ann Emerg Med. 
+2020;76(2):155–67. https://doi.org/10.1016/j.annemergmed.2019.11.003.
+55. MacNeill AJ, McGain F, Sherman JD. Planetary health care: a framework for 
+sustainable health systems. Lancet Planet Health. 2021;5(2):e66–8. https://doi.
+org/10.1016/s2542-5196(21)00005-x.
+56. Salas RN, Maibach E, Pencheon D, Watts N, Frumkin H. A pathway to net zero 
+emissions for healthcare. BMJ. 2020;371:m3785. https://doi.org/10.1136/bmj.
+m3785.
+57. Pencheon D, Wight J. Making healthcare and health systems net zero. Volume 
+368. BMJ; 2020. p. m970. https://doi.org/10.1136/bmj.m970.
+58. Pratt P B. Sustainable global health practice: an ethical imperative? Bioeth. 
+2022;36(8):874–82. https://doi.org/10.1111/bioe.13071.
+59. Reed C. Decarbonizing health care facilities: three steps to help chart the 
+path forward. Health Facil Manag. 2022;35(7):48–51.
+60. Saleh JR, Mitchell A, Kha ST, Outterson R, Choi A, Allen L, et al. The environ-
+mental impact of orthopaedic surgery. J Bone Jt Surg. 2023;105(1):74–82. 
+https://doi.org/10.2106/jbjs.22.00548.
+61. Syed H, Syed L, Stone A, Phadnis J. Supporting the sustainability agenda in 
+healthcare. Orthop Trauma. 2022;36(5):284–90. https://doi.org/10.1016/j.
+mporth.2022.07.006.
+62. Talbot B, Barraclough K, Sypek M, Gois P , Arnold L, McDonald S, et al. A survey 
+of environmental sustainability practices in dialysis facilities in Australia 
+and New Zealand. Clin J Am Soc Nephrol. 2022;17(12):1792–9. https://doi.
+org/10.2215/cjn.08090722.
+63. Weisz U, Pichler P-P , Jaccard IS, Haas W, Matej S, Bachner F, et al. Carbon emis-
+sion trends and sustainability options in Austrian health care. Resour Conserv 
+Recycl. 2020;160:104862. https://doi.org/10.1016/j.resconrec.2020.104862.
+64. Wilkinson E. Reaching net zero carbon emissions in health systems. Lancet. 
+2021;398(10315):1953–4. https://doi.org/10.1016/s0140-6736(21)02642-8.
+65. Gordon D. Sustainability in the operating room: reducing our impact on 
+the planet. Anesthesiol Clin. 2020;38(3):679–92. https://doi.org/10.1016/j.
+anclin.2020.06.006.
+66. Adeyeye E, New BJM, Chen F, Kulkarni S, Fisk M, Coleman JJ. Sustainable 
+medicines use in clinical practice: a clinical pharmacological view on eco-
+pharmaco-stewardship. Br J Clin Pharmacol. 2022;88(7):3023–9. https://doi.
+org/10.1111/bcp.15140.
+67. Alexander R, Poznikoff AK, Malherbe S. Greenhouse gases: the choice of 
+volatile anesthetic does matter. Can J Anaesth. 2018;65(2):221–2. https://doi.
+org/10.1007/s12630-017-1006-x.
+68. Chambrin C, de Souza S, Gariel C, Chassard D, Bouvet L. Association between 
+anesthesia provider education and carbon footprint related to the use of 
+inhaled halogenated anesthetics. Anesth Analg. 2023;136(1):101–10. https://
+doi.org/10.1213/ane.0000000000006172.
+69. Davies J, Seglenieks R, Cameron R, Kuruvilla NA, Grove EM, Shrivathsa A, et al. 
+Operation clean up: a model for eco-leadership and sustainability implemen-
+tation. Anaesth Intensive Care. 2023;51(2):88–95. https://doi.org/10.1177/031
+0057x221102469.
+70. de Vos M, Alexander R. BC anesthesiologists reduce carbon footprint by 
+choosing wisely. BC Med J. 2021;63(1):30–3.
+71. Devlin-Hegedus JA, McGain F, Harris RD, Sherman JD. Action guidance 
+for addressing pollution from inhalational anaesthetics. Anaesthesia. 
+2022;77(9):1023–9. https://doi.org/10.1111/anae.15785.
+72. Engler ID, Curley AJ, Fu FH, Bilec MM. Environmental sustainability in ortho-
+paedic surgery. J Am Acad Orthop Surg. 2022;30(11):504–11. https://doi.
+org/10.5435/JAAOS-D-21-01254.
+73. He H, Ge FZ, Ly O, Paul J. Greener gases starter pack: a tool for transitioning 
+to more sustainable anesthetic volatile agents. Can J Anaesth. 2023;70:445–6. 
+https://doi.org/10.1007/s12630-022-02394-y.
+74. Herr MM, Outterson RE, Aggarwal S. Lost in the ether: the environmental 
+impact of anesthesia. Oper Tech Orthop. 2022;32(4):100997. https://doi.
+org/10.1016/j.oto.2022.100997.
+75. Hu X, Pierce JMT, Taylor T, Morrissey K. The carbon footprint of general 
+anaesthetics: a case study in the UK. Resour Conserv Recycl. 2021;167:105411. 
+https://doi.org/10.1016/j.resconrec.2021.105411.
+76. Hu H, Cohen G, Sharma B, Yin H, McConnell R. Sustainability in health care. 
+Annu Rev Environ Resour. 2022;47(1):173–96. https://doi.org/10.1146/
+annurev-environ-112320-095157.
+77. Hut N. Hospitals work to make the supply chain green. Healthc Financ Man-
+age. 2022;76(9):21–4.
+78. Jesudason EP . Pushing sustainability up the surgical agenda: practical steps 
+towards sustainable orthopaedic care. Orthop Trauma. 2022;36(5):274–8. 
+https://doi.org/10.1016/j.mporth.2022.07.004.
+79. Keady T, Nordrum OL, Duffy O, Cummins T, Wall V, Ó’Cróinín D, et al. Annual 
+greenhouse gas emissions from inhaled anaesthetic agents in the Republic 
+Page 20 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+of Ireland. Br J Anaesth. 2023;130(1):e13–6. https://doi.org/10.1016/j.
+bja.2022.09.019.
+80. McGain F, Muret J, Lawson C, Sherman JD. Environmental sustainability in 
+anaesthesia and critical care. Br J Anaesth. 2020;125(5):680–92. https://doi.
+org/10.1016/j.bja.2020.06.055.
+81. McGain F, Ma SC, Burrell RH, Percival VG, Roessler P , Weatherall AD, et al. Why 
+be sustainable? The Australian and New Zealand College of anaesthetists 
+Professional Document PS64: Statement on Environmental sustainability in 
+Anaesthesia and Pain Medicine Practice and its accompanying background 
+paper. Anaesth Intensive Care. 2019;47(5):413–22. https://doi.org/10.1177/03
+10057X19884075.
+82. McNally S, Phizacklea EC, Gibbs VN, Brown R, Wilcocks KV, O’Brien S, et al. Lean 
+pathways in orthopaedics: multiple wins for sustainability. Orthop Trauma. 
+2022;36(5):265–73. https://doi.org/10.1016/j.mporth.2022.07.003.
+83. Özelsel TJP , Sondekoppam RV, Ip VHY, Tsui BCH. Re-defining the 3R’s (reduce, 
+refine, and replace) of sustainability to minimize the environmental impact of 
+inhalational anesthetic agents. Can J Anaesth. 2018;66(3):249–54. https://doi.
+org/10.1007/s12630-018-01279-3.
+84. Pauchard JC, Gress G, Biais M, Beloeil H, Nouette-Gaulain K. Reducing the 
+greenhouse gas emissions from halogenated agents in daily clinical practice: 
+an audit at the University Hospital of Bordeaux. Anaesth Crit Care Pain Med 
+39(5):685–7. https://doi.org/10.1016/j.accpm.2020.08.005
+85. Petre MA, Malherbe S. Environmentally sustainable perioperative medicine: 
+simple strategies for anesthetic practice. Can J Anaesth. 2020;67(8):1044–63. 
+https://doi.org/10.1007/s12630-020-01726-0.
+86. Qin RX, Velin L, Yates EF, El Omrani O, McLeod E, Tudravu J, et al. Building 
+sustainable and resilient surgical systems: a narrative review of opportunities 
+to integrate climate change into national surgical planning in the Western 
+Pacific region. Lancet Reg Health West Pac. 2022;22:100407. https://doi.
+org/10.1016/j.lanwpc.2022.100407.
+87. Ramaswamy P , Shah A, Kothari R, Schloemerkemper N, Methangkool E, Aleck 
+A, et al. An accessible clinical decision support system to curtail anesthetic 
+greenhouse gases in a large health network: implementation study. JMIR 
+Perioper Med. 2022;5(1):e40831. https://doi.org/10.2196/40831.
+88. Rasheed FN, Baddley J, Prabhakaran P , De Barros EF, Reddy KS, Vianna 
+NA, et al. Decarbonising healthcare in low and middle income countries: 
+potential pathways to net zero emissions. BMJ. 2021;375:n1284. https://doi.
+org/10.1136/bmj.n1284.
+89. Spooner R, Glover Williams A, Roome C. Improving the environmental sus-
+tainability of paediatric care. Arch Dis Child Educ Pract Ed. 2022;108:218–24. 
+https://doi.org/10.1136/archdischild-2021-322933.
+90. Spruell T, Webb H, Steley Z, Chan J, Robertson A. Environmentally sustainable 
+emergency medicine. Emerg Med. 2021;38(4):315–8. https://doi.org/10.1136/
+emermed-2020-210421.
+91. Thiel CL, Woods NC, Bilec MM. Strategies to reduce greenhouse gas emis-
+sions from laparoscopic surgery. Am J Public Health. 2018;108(S2):S158–64. 
+https://doi.org/10.2105/ajph.2018.304397.
+92. Thiel CL, Richie C. Carbon emissions from overuse of U.S. health care: medi-
+cal and ethical problems. Hastings Cent Rep. 2022;52(4):10–6. https://doi.
+org/10.1002/hast.1404.
+93. Van Norman GA, Jackson S. The anesthesiologist and global climate change: 
+an ethical obligation to act. Curr Opin Anaesthesiol. 2020;33(4):577–83. 
+https://doi.org/10.1097/aco.0000000000000887.
+94. Vorster FC, Diedericks BJS. Waste not, want not: the anaesthesiologist and 
+the environment. South Afr J Anaesth Analg. 2022;28(5):188–92. https://doi.
+org/10.36303/SAJAA.2022.28.5.2801.
+95. Wu S, Cerceo E. Sustainability initiatives in the operating room. Jt Comm J 
+Qual Saf. 2021;47(10):663–. https://doi.org/10.1016/j.jcjq.2021.06.010.  72.
+96. Wyssusek KH, Chan KL, Eames G, Whately Y. Greenhouse gas reduction in 
+anaesthesia practice: a departmental environmental strategy. BMJ Open 
+Qual. 2022;11(3):e001867. https://doi.org/10.1136/bmjoq-2022-001867.
+97. Yates EF, Bowder AN, Roa L, Velin L, Goodman AS, Nguyen LL, et al. Empower-
+ing surgeons, anesthesiologists, and obstetricians to incorporate environ-
+mental sustainability in the operating room. Ann Surg. 2021;273(6):1108–14. 
+https://doi.org/10.1097/sla.0000000000004755.
+98. Zuegge KL, Bunsen SK, Volz LM, Stromich AK, Ward RC, King A, et al. Provider 
+education and vaporizer labeling lead to reduced anesthetic agent purchas-
+ing with cost savings and reduced greenhouse gas emissions. Anesth Analg. 
+2019;128(6):e97–9. https://doi.org/10.1213/ane.0000000000003771.
+99. Centre for Sustainable Delivery National Health Service 
+Scotland. NHS Scotland first in world to ‘clean up’ anaes-
+thetic gases. 3 Mar 2023. https://www.nhscfsd.co.uk/news/
+nhs-scotland-first-in-world-to-clean-up-anaesthetic-gases/. Accessed 13 Jan 
+2024.
+100. Candan Dönmez Y, Aslan A, Van Yavuz M. Environment-friendly practices 
+in operating rooms in Turkey. J Nurs Res. 2019;27(2):e18. https://doi.
+org/10.1097/jnr.0000000000000296.
+101. Narayanan H, Raistrick C, Pierce JMT, Shelton C. Carbon footprint of 
+inhalational and total intravenous anaesthesia for paediatric anaesthesia: a 
+modelling study. Br J Anaesth. 2022;129(2):231–43. https://doi.org/10.1016/j.
+bja.2022.04.022.
+102. Wyssusek KH, Keys MT, van Zundert AAJ. Operating room greening initiatives 
+– the old, the new, and the way forward: a narrative review. Waste Manag Res. 
+2019;37(1):3–19. https://doi.org/10.1177/0734242x18793937.
+103. Edmonds A, Stambaugh H, Pettey S, Daratha KB. Evidence-based project: cost 
+savings and reduction in environmental release with low-flow anesthesia. 
+AANA J. 2021;89(1):27–33.
+104. Glenski TA, Levine L. The implementation of low-flow anesthesia at a 
+tertiary pediatric center: a quality improvement initiative. Paediatr Anaesth. 
+2020;30(10):1139–45. https://doi.org/10.1111/pan.13994.
+105. Olmos AV, Robinowitz D, Feiner JR, Chen CL, Gandhi S. Reducing volatile 
+anesthetic waste using a commercial electronic health record clinical deci-
+sion support tool to lower fresh gas flows. Anesth Analg. 2023;136(2):327–37. 
+https://doi.org/10.1213/ane.0000000000006242.
+106. Nunn GE. Low-flow anaesthesia. Cont Educ Anaesth Crit Care Pain. 
+2008;8(1):1–4. https://doi.org/10.1093/bjaceaccp/mkm052.
+107. Lineburger EB, Módolo NSP , Braz LG, do Nascimento P . Minimal fresh gas 
+flow sevoflurane anesthesia and postoperative acute kidney injury in on-
+pump cardiac surgery: a randomized comparative trial. Braz J Anesthesiol. 
+2023;73(1):46–53. https://doi.org/10.1016/j.bjane.2021.11.004.
+108. Kennedy RR, Hendrickx JF, Feldman JM. There are no dragons: low-flow 
+anaesthesia with sevoflurane is safe. Anaesth Intensive Care. 2019;47(3):223–
+5. https://doi.org/10.1177/0310057x19843304.
+109. Rauchenwald V, Rollins MD, Ryan SM, Voronov A, Feiner JR, Šarka K, et 
+al. New method of destroying waste anesthetic gases using gas-phase 
+photochemistry. Anesth Analg. 2020;131(1):288–97. https://doi.org/10.1213/
+ane.0000000000004119.
+110. Bravo D, Gaston RG, Melamed E. Environmentally responsible hand surgery: 
+past, present, and future. J Hand Surg Am. 2020;45(5):444–8. https://doi.
+org/10.1016/j.jhsa.2019.10.031.
+111. Lane SF. The environmental sustainability of propofol use in daily practice. Br 
+J Anaesth. 2020;124(6):e221–2. https://doi.org/10.1016/j.bja.2020.03.009.
+112. Martins RS, Joseph EA, Tariq J, Aziz N, Fatimi SH. The environment under the 
+knife: a review of current eco-surgical strategies and recommendations for 
+Pakistan. J Pak Med Assoc. 2022;72(1). https://doi.org/10.47391/JPMA.AKU-23.
+113. McNamee C, Rakovac A, Cawley DT. The environmental impact of spine 
+surgery and the path to sustainability. Spine. 2022;48(8):545–51. https://doi.
+org/10.1097/brs.0000000000004550.
+114. Shao C, Tsai S, Woo R, Dream S. Becoming a sustainable academic surgeon. J 
+Surg Res. 2023;283:606–10. https://doi.org/10.1016/j.jss.2022.10.091.
+115. Van Demark RE Jr, Smith VJS, Fiegen A. Lean and green hand surgery. J Hand 
+Surg Am. 2018;43(2):179–81. https://doi.org/10.1016/j.jhsa.2017.11.007.
+116. White SM, Shelton CL. Abandoning inhalational anaesthesia. Anaesthesia. 
+2019;75(4):451–4. https://doi.org/10.1111/anae.14853.
+117. Kostrubiak M, Vatovec C, Dupigny-Giroux L, Rizzo DM, Paganelli WC, Tsai MH. 
+Water pollution and environmental concerns in anesthesiology. J Med Syst. 
+2020;44(9). https://doi.org/10.1007/s10916-020-01634-2.
+118. American Society of Anesthesiologists. Greening the operating room and 
+perioperative arena: environmental sustainability for anesthesia practice. 
+2014. https://www.asahq.org/about-asa/governance-and-committees/asa-
+committees/environmental-sustainability/greening-the-operating-room. 
+Accessed 17 Mar 2024.
+119. European Society of Anaesthesiology and Intensive Care. Feedback from: the 
+European Society of Anaesthesiology and Intensive Care (ESAIC). European 
+Commission. 2022. https://ec.europa.eu/info/law/better-regulation/have-
+your-say/initiatives/12479-Fluorinated-greenhouse-gases-review-of-EU-
+rules-2015-20-/F3296189_en. Accessed 16 Mar 2024.
+120. Bardineh YH, Mohamadian F, Ahmadi MH, Akbarianrad N. Medical and 
+dental applications of renewable energy systems. Int J Low Carbon Technol. 
+2018;13(4):320–6. https://doi.org/10.1093/ijlct/cty040.
+121. Barraclough KA, Agar JWM. Green nephrology. Nat Rev Nephrol. 
+2020;16(5):257–68. https://doi.org/10.1038/s41581-019-0245-1.
+122. Beitelmal WH, Okonkwo PC, Al Housni F, Grami S, Emori W, Uzoma PC, et al. 
+Renewable energy as a source of electricity for Murzuq health clinic during 
+Page 21 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+COVID-19. MRS Energy Sustain. 2022;9(1):79–93. https://doi.org/10.1557/
+s43581-021-00020-w.
+123. Bendine G, Autin F, Fabre B, Bardin O, Rabasco F, Cabanel JM, et al. Haemo-
+dialysis therapy and sustainable growth: a corporate experience in France. 
+Nephrol Dial Transpl. 2020;35(12):2154–60. https://doi.org/10.1093/ndt/
+gfz284.
+124. Bortoluzzi F, Sorge A, Vassallo R, Montalbano LM, Monica F, La Mura S, et al. 
+Sustainability in gastroenterology and digestive endoscopy: position paper 
+from the Italian Association of Hospital Gastroenterologists and Diges-
+tive endoscopists (AIGO). Dig Liver Dis. 2022;54(12):1623–9. https://doi.
+org/10.1016/j.dld.2022.08.018.
+125. Burmahl B. Aurora Medical Center – Manitowoc County: blazing a trail 
+through innovation and leadership in sustainability. Health Facil Manag. 
+2022;35(7):28–9.
+126. Chen X, Chen Y, Zhang M, Jiang S, Gou H, Pang Z, et al. Hospital-oriented 
+quad-generation (HOQG): a combined cooling, heating, power and gas 
+(CCHPG) system. Appl Energy. 2021;300:117382. https://doi.org/10.1016/j.
+apenergy.2021.117382.
+127. Duane B, Ashley P , Ramasubbu D, Fennell-Wells A, Maloney B, McKerlie T, et al. 
+A review of HTM 01–05 through an environmentally sustainable lens. Br Dent 
+J. 2022;233(4):343–50. https://doi.org/10.1038/s41415-022-4903-5.
+128. Duane B, Harford S, Steinbach I, Stancliffe R, Swan J, Lomax R, et al. Environ-
+mentally sustainable dentistry: energy use within the dental practice. Br Dent 
+J. 2019;226(5):367–73. https://doi.org/10.1038/s41415-019-0044-x.
+129. Evans AM. Green podiatry’: reducing our carbon footprints. Lessons from a 
+sustainability panel. J Foot Ankle Res. 2021;14(59). https://doi.org/10.1186/
+s13047-021-00497-1.
+130. Evans AM. Sustainable healthcare: time for ‘green podiatry’ . J Foot Ankle Res. 
+2021;14(45). https://doi.org/10.1186/s13047-021-00483-7.
+131. Evans AM. Incorporating ‘green podiatry’ into your clinic, and into your life. J 
+Foot Ankle Res. 2022;15(87). https://doi.org/10.1186/s13047-022-00591-y.
+132. Haddock R, de Latour R, Siau K, Hayee B, Gayam S. Climate change and 
+gastroenterology: planetary primum non nocere and how industry must 
+help. Am J Gastroenterol. 2022;117(3):394–400. https://doi.org/10.14309/
+ajg.0000000000001604.
+133. Hartnett K. Moving the needle without breaking the bank. Mod Healthc. 
+2023;53(1):12.
+134. Headley M. Kaiser reveals next steps after achieving carbon neutrality. Health 
+Facil Manag. 2021;34(2):8.
+135. Jiang CY, Strohbehn GW, Dedinsky RM, Raupp SM, Pannecouk BM, Yentz S, et 
+al. Teleoncology for veterans: high patient satisfaction coupled with positive 
+financial and environmental impacts. JCO Oncol Pract. 2021;17(9):e1362–74. 
+https://doi.org/10.1200/op.21.00317.
+136. Lemence ALG, Tamayao MAM. Energy consumption profile estimation and 
+benefits of hybrid solar energy system adoption for rural health units in 
+the Philippines. Renew Energy. 2021;178:651–68. https://doi.org/10.1016/j.
+renene.2021.06.090.
+137. Migdadi YKA-A, Omari AA. Identifying the best practices in green opera-
+tions strategy of hospitals. Bench: Int J. 2019;26(4):1106–31. https://doi.
+org/10.1108/bij-09-2017-0242.
+138. Newton J. Green giants: pharma and agency leaders in charge of sustainabil-
+ity efforts defend healthcare’s track record. Med Mark Media. 2023;58(1):26–9.
+139. Rajan T, Amin SO, Davis K, Finkle N, Glick N, Kahlon B, et al. Redesign-
+ing kidney care for the Anthropocene: a new framework for plan-
+etary health in nephrology. Can J Kidney Health Dis. 2022;9. https://doi.
+org/10.1177/20543581221116215.
+140. Rizan C, Lillywhite R, Reed M, Bhutta MF. Minimising carbon and financial 
+costs of steam sterilisation and packaging of reusable surgical instruments. Br 
+J Surg. 2022;109(2):200–10. https://doi.org/10.1093/bjs/znab406.
+141. Rodríguez de Santiago E, Dinis-Ribeiro M, Pohl H, Agrawal D, Arvanitakis M, 
+Baddeley R, et al. Reducing the environmental footprint of gastrointestinal 
+endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) and 
+European Society of Gastroenterology and Endoscopy Nurses and Associ-
+ates (ESGENA) position statement. Endosc. 2022;54(8):797–826. https://doi.
+org/10.1055/a-1859-3726.
+142. Seifert C, Guenther E. Prevention is better than cure – environmental 
+management measures in hospitals. Corp Soc Responsib Environ Manag. 
+2019;26(4):781–90. https://doi.org/10.1002/csr.1720.
+143. Stamps DC, Waller MG, Foley SM, Gales J, Alley R, Lovetro C, et al. Chief 
+nursing officer council partners with sustainability department to develop 
+a model of success for reducing the organization’s carbon footprint. Nurse 
+Lead. 2020;18(6):586–91. https://doi.org/10.1016/j.mnl.2020.01.006.
+144. Yeo SC, Ooi XY, Tan TSM. Sustainable kidney care delivery and climate 
+change: a call to action. Glob Health. 2022;18(1). https://doi.org/10.1186/
+s12992-022-00867-9.
+145. Fong KF, Lee CK. Biofuel-driven trigeneration systems for non-residential 
+building applications: a holistic assessment from the energy, environmental 
+and economic perspectives. Build Simul. 2023;16(4):557–76. https://doi.
+org/10.1007/s12273-022-0958-0.
+146. Martin EJ. Centralized operations yields efficiency upgrade: banner health 
+receives ASHE annual award for excellence in health care facility manage-
+ment. Health Facil Manag. 2022;35(1):24–7.
+147. Vali M, Salimifard K, Gandomi AH, Chaussalet TJ. Application of job shop 
+scheduling approach in green patient flow optimization using a hybrid 
+swarm intelligence. Comput Ind Eng. 2022;172:108606. https://doi.
+org/10.1016/j.cie.2022.108603.
+148. Storz MA. A practical guide for physicians and health care workers to reduce 
+their carbon footprint in daily clinical work. Perm J. 2018;22(2). https://doi.
+org/10.7812/tpp/17-145.
+149. Banhidy FP , Banhidy NF. The role and duty of global surgery in increasing sus-
+tainability and improving patient care in low and middle-income countries. 
+Cureus. 2022;14(10):e30023. https://doi.org/10.7759/cureus.30023.
+150. Brown CM, Meals C. Four ways plastic surgeons can fight climate change. 
+Plast Reconstr Surg – Glob Open. 2020;8(7):e2961. https://doi.org/10.1097/
+gox.0000000000002961.
+151. Cheema B. Carbon emissions: dentistry in a sustainable NHS. Br Dent J. 
+2019;226(2):84. https://doi.org/10.1038/sj.bdj.2019.53.
+152. Vacharathit V, Walsh RM, Utech J, Asfaw SH. Action in healthcare sustain-
+ability is a surgical imperative: this is a novel way to do it. J Surg Educ. 
+2022;79(2):275–8. https://doi.org/10.1016/j.jsurg.2021.09.002.
+153. Wong YL, Noor M, James KL, Aslam TM. Ophthalmology going greener: a nar-
+rative review. Ophthalmol Ther. 2021;10(4):845–57. https://doi.org/10.1007/
+s40123-021-00404-8.
+154. Woolen SA, Kim CJ, Hernandez AM, Becker A, Martin AJ, Kuoy E, et al. Radiol-
+ogy environmental impact: what is known and how can we improve? Acad 
+Radiol. 2022;30(4):625–30. https://doi.org/10.1016/j.acra.2022.10.021.
+155. Brown M, Snelling E, De Alba M, Ebrahimi G, Forster BB. Quantitative assess-
+ment of computed tomography energy use and cost savings through 
+overnight and weekend power down in a radiology department. Can Assoc 
+Radiol J. 2023;74(2):298–304. https://doi.org/10.1177/08465371221133074.
+156. Ligozat AL, Névéol A, Daly B, Frenoux E. Ten simple rules to make your 
+research more sustainable. PLOS Comput Biol. 2020;16(9):e1008148. https://
+doi.org/10.1371/journal.pcbi.1008148.
+157. International Energy Agency. Analysing the impacts of Russia’s invasion of 
+Ukraine on energy markets and energy security: Russia’s war on Ukraine. N.d. 
+https://www.iea.org/topics/russias-war-on-ukraine. Accessed 17 Mar 2024.
+158. Alami H, Lehoux P , Miller FA, Shaw SE, Fortin JP . An urgent call for the environ-
+mental sustainability of health systems: a ‘sextuple aim’ to care for patients, 
+costs, providers, population equity and the planet. Int J Health Plann Manage. 
+2023;38(2):289–95. https://doi.org/10.1002/hpm.3616.
+159. Allwright E, Abbott RA. Environmentally sustainable dermatology. Clin Exp 
+Dermatol. 2021;46(5):807–13. https://doi.org/10.1111/ced.14516.
+160. Andrew N, Barraclough KA, Long K, Fazio TN, Holt S, Kanhutu K, et al. Tele-
+health model of care for routine follow up of renal transplant recipients in a 
+tertiary centre: a case study. J Telemed Telecare. 2020;26(4):232–8. https://doi.
+org/10.1177/1357633x18807834.
+161. Bartlett S, Keir S. Calculating the carbon footprint of a geriatric medicine 
+clinic before and after COVID-19. Age Ageing. 2022;51(2):afab275. https://doi.
+org/10.1093/ageing/afab275.
+162. Blenkinsop S, Foley A, Schneider N, Willis JE, Fowler HJ, Sisodiya SM. Carbon 
+emission savings and short-term health care impacts from telemedicine: 
+an evaluation in epilepsy. Epilepsia. 2021;62(11):2732–40. https://doi.
+org/10.1111/epi.17046.
+163. Calyx C, Weerasuriya R, White SJ. Embedding telehealth for sustainable 
+health services linking Oceania. Fam Pract. 2022;40(3):505–7. https://doi.
+org/10.1093/fampra/cmac123.
+164. Cockrell HC, Maine RG, Hansen EE, Mehta K, Salazar DR, Stewart BT, et al. 
+Environmental impact of telehealth use for pediatric surgery. J Pediatr Surg. 
+2022;57(12):865–9. https://doi.org/10.1016/j.jpedsurg.2022.06.023.
+165. Connor MJ, Miah S, Edison MA, Brittain J, Smith MK, Hanna M, et al. Clini-
+cal, fiscal and environmental benefits of a specialist-led virtual ureteric 
+colic clinic: a prospective study. BJU Int. 2019;124(6):1034–9. https://doi.
+org/10.1111/bju.14847.
+Page 22 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+166. Croghan SM, Rohan P , Considine S, Salloum A, Smyth L, Ahmad I, et al. 
+Time, cost and carbon-efficiency: a silver lining of COVID era virtual urology 
+clinics? Ann R Coll Surg Engl. 2021;103(8):599–603. https://doi.org/10.1308/
+rcsann.2021.0097.
+167. Curtis A, Parwaiz H, Winkworth C, Sweeting L, Pallant L, Davoudi K, et al. 
+Remote clinics during coronavirus disease 2019: lessons for a sustainable 
+future. Cureus. 2021;13(3):e14114. https://doi.org/10.7759/cureus.14114.
+168. Duane B, Steinbach I, Ramasubbu D, Stancliffe R, Croasdale K, Harford S, et al. 
+Environmental sustainability and travel within the dental practice. Br Dent J. 
+2019;226(7):525–30. https://doi.org/10.1038/s41415-019-0115-z.
+169. Ferguson Bryan A, Yates E, Tummala N. How should we respond to health 
+sector emissions that exacerbate climate change and inequity? AMA J Ethics. 
+2022;24(10):e927–33. https://doi.org/10.1001/amajethics.2022.927.
+170. Filfilan A, Anract J, Chartier-Kastler E, Parra J, Vaessen C, de La Taille A, et 
+al. Positive environmental impact of remote teleconsultation in urology 
+during the COVID-19 pandemic in a highly populated area. Prog Urol. 
+2021;31(16):1133–8. https://doi.org/10.1016/j.purol.2021.08.036.
+171. Fragão-Marques M, Ozben T. Digital transformation and sustainability in 
+healthcare and clinical laboratories. Clin Chem Lab Med. 2023;61(4):627–33. 
+https://doi.org/10.1515/cclm-2022-1092.
+172. García-Berná JA, Fernández-Alemán JL, Carrillo De Gea JM, Toval A, Mancebo 
+J, Calero C, et al. Energy efficiency in software: a case study on sustainabil-
+ity in personal health records. J Clean Prod. 2021;282:124262. https://doi.
+org/10.1016/j.jclepro.2020.124262.
+173. Moncho-Santonja M, Aparisi-Navarro S, Defez Garcia B, Davol A, Peris-Fajarnés 
+G. Health care in rural areas: proposal of a new telemedicine program 
+assisted from the reference health centers, for a sustainable digitization and 
+its contribution to the carbon footprint reduction. Heliyon. 2022;8(7):e09812. 
+https://doi.org/10.1016/j.heliyon.2022.e09812.
+174. Miah S, Dunford C, Edison M, Eldred-Evans D, Gan C, Shah TT, et al. A prospec-
+tive clinical, cost and environmental analysis of a clinician-led virtual urology 
+clinic. Ann R Coll Surg Engl. 2019;101(1):30–4. https://doi.org/10.1308/
+rcsann.2018.0151.
+175. Mojdehbakhsh RP , Rose S, Peterson M, Rice L, Spencer R. A quality improve-
+ment pathway to rapidly increase telemedicine services in a gynecologic 
+oncology clinic during the COVID-19 pandemic with patient satisfaction 
+scores and environmental impact. Gynecol Oncol Rep. 2021;36:100708. 
+https://doi.org/10.1016/j.gore.2021.100708.
+176. Muschol J, Heinrich M, Heiss C, Hernández AM, Knapp G, Repp H, et al. Eco-
+nomic and environmental impact of digital health app Vvdeo consultations 
+in follow-up care for patients in orthopedic and trauma surgery in Germany: 
+randomized controlled trial. J Med Internet Res. 2022;24(11):e42839. https://
+doi.org/10.2196/42839.
+177. Paquette S, Lin JC. Outpatient telemedicine program in vascular surgery 
+reduces patient travel time, cost, and environmental pollutant emissions. Ann 
+Vasc Surg. 2019;59:167–72. https://doi.org/10.1016/j.avsg.2019.01.021.
+178. Richards JD, Stoddart M, Bolland B. Virtual arthroplasty follow-up: better for 
+the trust, patients, and the planet. Cureus. 2022;14(11):e31978. https://doi.
+org/10.7759/cureus.31978.
+179. Sellars H, Ramsay G, Sunny A, Gunner CK, Oliphant R, Watson AJM. Video 
+consultation for new colorectal patients. Colorectal Dis. 2020;22(9):1015–21. 
+https://doi.org/10.1111/codi.15239.
+180. Thota R, Gill DM, Brant JL, Yeatman TJ, Haslem DS. Telehealth is a sustainable 
+population health strategy to lower costs and increase quality of health care 
+in rural Utah. JCO Oncol Pract. 2020;16(7):e557–62. https://doi.org/10.1200/
+jop.19.00764.
+181. Tsagkaris C, Hoian AV, Ahmad S, Essar MY, Campbell LW, Grobusch L, et al. 
+Using telemedicine for a lower carbon footprint in healthcare: a twofold tale 
+of healing. J Clim Change Health. 2021;1:100006. https://doi.org/10.1016/j.
+joclim.2021.100006.
+182. Udayaraj UP , Watson O, Ben-Shlomo Y, Langdon M, Anderson K, Power 
+A, et al. Establishing a tele-clinic service for kidney transplant recipients 
+through a patient-codesigned quality improvement project. BMJ Open Qual. 
+2019;8(2):e000427. https://doi.org/10.1136/bmjoq-2018-000427.
+183. Vidal-Alaball J, Franch-Parella J, Lopez Seguí F, Garcia Cuyàs F, Mendioroz Peña 
+J. Impact of a telemedicine program on the reduction in the emission of 
+atmospheric pollutants and journeys by road. Int J Environ Res Public Health. 
+2019;16(22):4366. https://doi.org/10.3390/ijerph16224366.
+184. Wainer C. Discussing the environmental impact of dental-associated travel: 
+how do we build from the current COVID-19 crisis towards a more sustain-
+able future within dentistry? Br Dent J. 2022;232(7):437–40. https://doi.
+org/10.1038/s41415-022-4136-7.
+185. Welk B, McArthur E, Zorzi AP . Association of virtual care expansion with 
+environmental sustainability and reduced patient costs during the COVID-19 
+pandemic in Ontario, Canada. JAMA Netw Open. 2022;5(10):e2237545. 
+https://doi.org/10.1001/jamanetworkopen.2022.37545.
+186. Whetten J, Montoya J, Yonas H. ACCESS to better health and clear 
+skies: telemedicine and greenhouse gas reduction. Telemed J E Health. 
+2019;25(10):960–5. https://doi.org/10.1089/tmj.2018.0172.
+187. de Preux L, Rizmie D. Beyond financial efficiency to support environmental 
+sustainability in economic evaluations. Future Healthc J. 2018;5(2):103–7. 
+https://doi.org/10.7861/futurehosp.5-2-103.
+188. Maastricht University Medical Centre+. Healthy living 2025. 2019. https://
+www.mumc.nl/sites/default/files/2021-06/Healthy_Living_2025.pdf. 
+Accessed 16 Mar 2024.
+189. Purohit A, Smith J, Hibble A. Does telemedicine reduce the carbon footprint 
+of healthcare? A systematic review. Future Healthc J. 2021;8(1):e85–91. 
+https://doi.org/10.7861/fhj.2020-0080.
+190. Donald N, Irukulla S. Greenhouse gas emission savings in relation to tele-
+medicine and associated patient benefits: a systematic review. Telemed J E 
+Health. 2022;28(11):1555–63. https://doi.org/10.1089/tmj.2022.0047.
+191. Ravindrane R, Patel J. The environmental impacts of telemedicine in place of 
+face-to-face patient care: a systematic review. Future Healthc J. 2021;9(1):28–
+33. https://doi.org/10.7861/fhj.2021-0148.
+192. Gilbert A, Billany JCT, Adam R, Martin L, Tobin R, Bagdai S, et al. Rapid imple-
+mentation of virtual clinics due to COVID-19: report and early evaluation of 
+a quality improvement initiative. BMJ Open Qual. 2020;9(2):e000985. https://
+doi.org/10.1136/bmjoq-2020-000985.
+193. Janatyan N, Zandieh M, Alem-Tabriz A, Rabieh M. A robust optimization 
+model for sustainable pharmaceutical distribution network design: a case 
+study. Ann Oper Res. 2021. https://doi.org/10.1007/s10479-020-03900-5.
+194. Power B, Brady R, Connell P . Analyzing the carbon footprint of an intravitreal 
+injection. J Ophthalmic Vis Res. 2021;16(3):367–76. https://doi.org/10.18502/
+jovr.v16i3.9433.
+195. Getting It Right First Time. https://gettingitrightfirsttime.co.uk/. Accessed 17 
+Mar 2024.
+196. National Health Service England. NHS rolls out new electric vehicles to help 
+patients and the planet. 8 Sep 2022. https://www.england.nhs.uk/2022/08/
+nhs-rolls-out-new-electric-vehicles-to-help-patients-and-the-planet/. 
+Accessed 16 March 2024.
+197. Rettung Basel-Stadt. LinkedIn [Internet]. Dürfen wir vorstellen: Das neueste 
+Fahrzeug im Fuhrpark der Sanität Basel. Keine Angst: Es wird niemand damit 
+transportiert. Das Cargovelo [Post];13 May 2023. https://www.linkedin.com/
+company/rettung-basel-stadt/posts/?feedView=all. Accessed 13 May 2023.
+198. Barban P , De Nazelle A, Chatelin S, Quirion P , Jean K. Assessing the health 
+benefits of physical activity due to active commuting in a French energy 
+transition scenario. Int J Public Health. 2022;67:1605012. https://doi.
+org/10.3389/ijph.2022.1605012.
+199. Dutheil F, Pélangeon S, Duclos M, Vorilhon P , Mermillod M, Baker JS, et al. Pro-
+tective effect on mortality of active commuting to work: a systematic review 
+and meta-analysis. Sports Med. 2020;50(12):2237–50. https://doi.org/10.1007/
+s40279-020-01354-0.
+200. Barlow RD. Options, starting points for relevant, useful sustainability projects, 
+programs. Healthc Purchasing News. 2022;46(11):50–3.
+201. Byrne D, Saget S, Davidson A, Haneef H, Abdeldaim T, Almudahkah A, 
+et al. Comparing the environmental impact of reusable and dispos-
+able dental examination kits: a life cycle assessment approach. Br Dent J. 
+2022;233(4):317–25. https://doi.org/10.1038/s41415-022-4912-4.
+202. Cunha Neves JA, Roseira J, Queirós P , Sousa HT, Pellino G, Cunha MF. Targeted 
+intervention to achieve waste reduction in gastrointestinal endoscopy. Gut. 
+2023;72(2):306–13. https://doi.org/10.1136/gutjnl-2022-327005.
+203. Duane B, Ashley P , Saget S, Richards D, Pasdeki-Clewer E, Lyne A. Incorporat-
+ing sustainability into assessment of oral health interventions. Br Dent J. 
+2020;229(5):310–4. https://doi.org/10.1038/s41415-020-1993-9.
+204. Duane B, Ramasubbu D, Harford S, Steinbach I, Stancliffe R, Croasdale K, et 
+al. Environmental sustainability and procurement: purchasing products for 
+the dental setting. Br Dent J. 2019;226(6):453–8. https://doi.org/10.1038/
+s41415-019-0080-6.
+205. Gordon IO, Sherman JD, Leapman M, Overcash M, Thiel CL. Life cycle 
+greenhouse gas emissions of gastrointestinal biopsies in a surgical pathology 
+laboratory. Am J Clin Pathol. 2021;156(4):540–9. https://doi.org/10.1093/ajcp/
+aqab021.
+206. Grimmond TR, Bright A, Cadman J, Dixon J, Ludditt S, Robinson C, et al. 
+Before/after intervention study to determine impact on life-cycle carbon 
+Page 23 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+footprint of converting from single-use to reusable sharps containers in 
+40 UK NHS trusts. BMJ Open. 2021;11(9):e046200. https://doi.org/10.1136/
+bmjopen-2020-046200.
+207. Hehenkamp WJK, Rudnicki M. Sustainability in gynecology and obstetrics: 
+now or never! Acta Obstet Gynecol Scand. 2022;101(10):1036–7. https://doi.
+org/10.1111/aogs.14457.
+208. MacNeill AJ, Hopf H, Khanuja A, Alizamir S, Bilec M, Eckelman MJ, et al. Trans-
+forming the medical device Iidustry: road map to a circular economy. Health 
+Aff. 2020;39(12):2088–97. https://doi.org/10.1377/hlthaff.2020.01118.
+209. Phadke R, dos Santos Costa AC, Dapke K, Ghosh S, Ahmad S, Tsagkaris C, et 
+al. Eco-friendly vaccination: tackling an unforeseen adverse effect. J Clim 
+Change Health. 2021;1:100005. https://doi.org/10.1016/j.joclim.2021.100005.
+210. Richie C. Can United States healthcare become environmentally sustain-
+able? Towards green healthcare reform. J Law Med Ethics. 2020;48(4):643–52. 
+https://doi.org/10.1177/1073110520979371.
+211. Ritchie NH. Leadership for a climate resilient, net-zero health system: 
+transforming supply chains to the circular economy. Healthc Manage Forum. 
+2021;34(4):216–20. https://doi.org/10.1177/08404704211003610.
+212. Rouvière N, Chkair S, Auger F, Alloviseti C, Bernard MJ, Cuvillon P , et al. 
+Ecoresponsible actions in operating rooms: a health ecological and eco-
+nomic evaluation. Int Surg J. 2022;101:106637. https://doi.org/10.1016/j.
+ijsu.2022.106637.
+213. Sherman JD, Raibley LA, Eckelman MJ. Life cycle assessment and costing 
+methods for device procurement: comparing reusable and single-use 
+disposable laryngoscopes. Anesth Analg. 2018;127(2):434–43. https://doi.
+org/10.1213/ane.0000000000002683.
+214. Silva GS, Thiel C. What would it mean for health care organizations to 
+justly manage their waste? AMA J Ethics. 2022;24(10):e934–43. https://doi.
+org/10.1001/amajethics.2022.934.
+215. Szirt R, Monjur MR, McGovern L, Charlesworth K, O’Connor S, Weaver J, et al. 
+Environmental sustainability in the cardiac catheter laboratory. Heart Lung 
+Circ. 2023;32(1):11–5. https://doi.org/10.1016/j.hlc.2022.06.694.
+216. Voudrias EA. Healthcare waste management from the point of view of 
+circular economy. Waste Manage. 2018;75:1–2. https://doi.org/10.1016/j.
+wasman.2018.04.020.
+217. Vozzola E, Overcash M, Griffing E. An environmental analysis of reusable 
+and disposable surgical gowns. AORN J. 2020;111(3):315–25. https://doi.
+org/10.1002/aorn.12885.
+218. Vozzola E, Overcash M, Griffing E. Environmental considerations in the selec-
+tion of isolation gowns: a life cycle assessment of reusable and disposable 
+alternatives. Am J Infect Control. 2018;46(8):881–6. https://doi.org/10.1016/j.
+ajic.2018.02.002.
+219. McPherson B, Sharip M, Grimmond T. The impact on life cycle carbon 
+footprint of converting from disposable to reusable sharps containers in a 
+large US hospital geographically distant from manufacturing and processing 
+facilities. PeerJ. 2019;7:e6204. https://doi.org/10.7717/peerj.6204.
+220. Ghersin ZJ, Flaherty MR, Yager P , Cummings BM. Going green: decreasing 
+medical waste in a paediatric intensive care unit in the United States. New 
+Bioeth. 2020;26(2):98–110. https://doi.org/10.1080/20502877.2020.1767916.
+221. Denny NA, Guyer JM, Schroeder DR, Marienau MS. Operating room waste 
+reduction. AANA J. 2019;87(6):477–82.
+222. Ongaro AE, Ndlovu Z, Sollier E, Otieno C, Ondoa P , Street A, et al. Engineering 
+a sustainable future for point-of-care diagnostics and single-use microfluidic 
+devices. Lab Chip. 2022;22(17):3122–37. https://doi.org/10.1039/d2lc00380e.
+223. Thiel CL, Fiorin Carvalho R, Hess L, Tighe J, Laurence V, Bilec MM, et al. Minimal 
+custom pack design and wide-awake hand surgery: reducing waste and 
+spending in the orthopedic operating room. HAND. 2019;14(2):271–6. 
+https://doi.org/10.1177/1558944717743595.
+224. Ahmad R, Liu G, Santagata R, Casazza M, Xue J, Khan K, et al. LCA of hospital 
+solid waste treatment alternatives in a developing country: the case of 
+district swat. Pakistan Sustain. 2019;11(13):3501. https://doi.org/10.3390/
+su11133501.
+225. Babu MA, Dalenberg AK, Goodsell G, Holloway AB, Belau MM, Link MJ. Green-
+ing the operating room: results of a scalable initiative to reduce waste and 
+recover supply costs. Neurosurg. 2019;85(3):432–7. https://doi.org/10.1093/
+neuros/nyy275.
+226. Brassfield M. Illinois Medical Center composts tons of food scraps. Health 
+Facil Manag. 2022;35(7):11.
+227. Burbridge MA, Chua P , Jaffe RA, Pearl RG, Brock-Utne JG. An anesthesia 
+attempt to be green: how do you waste your carbon dioxide absorbers? 
+Pract. 2019;13(11):440–1. https://doi.org/10.1213/xaa.0000000000001113.
+228. Dibona K. Healthy planet, healthy people: how pharma can lead the way: 
+reaching new heights in sustainability a win-win for industry. Pharm Exec. 
+2022;42(10):59.
+229. Leiden A, Cerdas F, Noriega D, Beyerlein J, Herrmann C. Life cycle assess-
+ment of a disposable and a reusable surgery instrument set for spinal fusion 
+surgeries. Resour Conserv Recycl. 2020;156:104704. https://doi.org/10.1016/j.
+resconrec.2020.104704.
+230. Wilkinson AJK, Anderson G. Sustainability in inhaled drug delivery. Pharm 
+Med. 2020;34(3):191–9. https://doi.org/10.1007/s40290-020-00339-8.
+231. Chung J. Healthcare providers shouldn’t be green about going green. 
+Healthc Purchasing News. 2021;45(12):44.
+232. Gable B, Ballas D, Ahmed RA. Enhancing simulation education using expired 
+materials. BMJ Simul Technol Enhanc Learn. 2019;6(3):129–31. https://doi.
+org/10.1136/bmjstel-2019-000524.
+233. Narang S, Vij D. The COVID-19 pandemic: an analytical study on opportunities 
+for circular economy practices in India’s healthcare sector. Asia Pac J Health 
+Manag. 2021;16(4):236–42. https://doi.org/10.24083/apjhm.v16i4.1305.
+234. van Straten B, Ligtelijn S, Droog L, Putman E, Dankelman J, Weiland 
+NHS, et al. A life cycle assessment of reprocessing face masks during the 
+Covid-19 pandemic. Sci Rep. 2021;11(1):17680. https://doi.org/10.1038/
+s41598-021-97188-5.
+235. Davis NF, McGrath S, Quinlan M, Jack G, Lawrentschuk N, Bolton DM. Carbon 
+footprint in flexible ureteroscopy: a comparative study on the environmental 
+impact of reusable and single-use ureteroscopes. J Endourol. 2018;32(3):214–
+7. https://doi.org/10.1089/end.2018.0001.
+236. Hogan D, Rauf H, Kinnear N, Hennessey DB. The carbon footprint of single-
+use flexible cystoscopes compared with reusable cystoscopes. J Endourol. 
+2022;36(11):1460–4. https://doi.org/10.1089/end.2021.0891.
+237. Sørensen BL, Grüttner H. Comparative study on environmental impacts of 
+reusable and single-use bronchoscopes. Am J Environ Prot. 2018;7(4):55. 
+https://doi.org/10.11648/j.ajep.20180704.11.
+238. Keil M, Viere T, Helms K, Rogowski W. The impact of switching from single-use 
+to reusable healthcare products: a transparency checklist and systematic 
+review of life-cycle assessments. Eur J Public Health. 2022;33(1):56–63. 
+https://doi.org/10.1093/eurpub/ckac174.
+239. Thiel CL, Park S, Musicus AA, Agins J, Gan J, Held J, et al. Waste generation 
+and carbon emissions of a hospital kitchen in the US: potential for waste 
+diversion and carbon reductions. PLoS ONE. 2021;16(3):e0247616. https://doi.
+org/10.1371/journal.pone.0247616.
+240. Chisholm JM, Zamani R, Negm AM, Said N, Daiem MMA, Dibaj M, et al. 
+Sustainable waste management of medical waste in African developing 
+countries: a narrative review. Waste Manag Res. 2021;39(9):1149–63. https://
+doi.org/10.1177/0734242x211029175.
+241. Joneghani NM, Zarrinpoor N, Eghtesadifard M. A mathematical model for 
+designing a network of sustainable medical waste management under 
+uncertainty. Comput Ind Eng. 2022;171:108372. https://doi.org/10.1016/j.
+cie.2022.108372.
+242. Montoro J, Antolín-Amérigo D, Izquierdo-Domínguez A, Zapata JJ, González 
+G, Valero A. Impact of asthma inhalers on global climate: a systematic review 
+of their carbon footprint and clinical outcomes in Spain. J Investig Allergol 
+Clin Immunol. 2023;33(4):250–62. https://doi.org/10.18176/jiaci.0887.
+243. Parker J. Barriers to green inhaler prescribing: ethical issues in environmen-
+tally sustainable clinical practice. J Med Ethics. 2023;49(2):92–8. https://doi.
+org/10.1136/jme-2022-108388.
+244. Starup-Hansen J, Dunne H, Sadler J, Jones A, Okorie M. Climate change in 
+healthcare: exploring the potential role of inhaler prescribing. Pharmacol Res 
+Perspect. 2020;8(6):e00675. https://doi.org/10.1002/prp2.675.
+245. Richie C. Environmental sustainability and the carbon emissions of 
+pharmaceuticals. J Med Ethics. 2022;48(5):334–37. https://doi.org/10.1136/
+medethics-2020-106842.
+246. Richie C. Environmentally sustainable development and use of artificial intel-
+ligence in health care. Bioeth. 2022;36(5):547–55. https://doi.org/10.1111/
+bioe.13018.
+247. Levy R. Pharmacy forecast Australia 2022: key findings. J Pharm Pract Res. 
+2022;52(6):458–81. https://doi.org/10.1002/jppr.1849.
+248. Grape E. Pharmaceutical cold chain sustainability. Focus. 2022;24(6):48–9.
+249. Berardy A, Egan B, Birchfield N, Sabaté J, Lynch H. Comparison of plate waste 
+between vegetarian and meat-containing meals in a hospital setting: envi-
+ronmental and nutritional considerations. Nutrients. 2022;14(6):1174. https://
+doi.org/10.3390/nu14061174.
+Page 24 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+250. Wight J. Towards a carbon neutral NHS: plant based catering, carbon 
+footprint of all procedures, and embedding the commitment. BMJ. 
+2020;371:m4274. https://doi.org/10.1136/bmj.m4274.
+251. Abrams M. Healthcare is dirty: hospitals are doing something about it. Mod 
+Healthc. 2022;52(15):34.
+252. Carrasco-Amador JP , Canito-Lobo JL, Castaño-Liberal A, Rodríguez-Rego JM, 
+Matamoros-Pacheco M. Actions to reduce carbon footprint in materials to 
+healthcare buildings. Heliyon. 2022;8(11):e11281. https://doi.org/10.1016/j.
+heliyon.2022.e11281.
+253. Duane B, Stancliffe R, Miller FA, Sherman JD, Pasdeki-Clewer E. Sustainability 
+in dentistry: a multifaceted approach needed. J Dent Res. 2020;99(9):998–
+1003. https://doi.org/10.1177/0022034520919391.
+254. Abad ARKK, Barzinpour F, Pasandideh SHR. A novel separate chance-
+constrained programming model to design a sustainable medical ventilator 
+supply chain network during the COVID-19 pandemic. J Ind Manag Optim. 
+2023;19(2):1395–425. https://doi.org/10.3934/jimo.2021234.
+255. Asghari M, Al-E-Hashem SMJM. A green delivery-pickup problem for home 
+hemodialysis machines; sharing economy in distributing scarce resources. 
+Transp Res E: Logist Transp Rev. 2020;134:101815. https://doi.org/10.1016/j.
+tre.2019.11.009.
+256. Chowdhury NR, Ahmed M, Mahmud P , Paul SK, Liza SA. Modeling a 
+sustainable vaccine supply chain for a healthcare system. J Clean Prod. 
+2022;370:133423. https://doi.org/10.1016/j.jclepro.2022.133423.
+257. Fallahi A, Mousavian Anaraki SA, Mokhtari H, Niaki STA. Blood plasma supply 
+chain planning to respond COVID-19 pandemic: a case study. Environ Dev 
+Sustain. 2022. https://doi.org/10.1007/s10668-022-02793-7.
+258. Fathollahi-Fard AM, Govindan K, Hajiaghaei–Keshteli M, Ahmadi A. A 
+green home health care supply chain: new modified simulated anneal-
+ing algorithms. J Clean Prod. 2019;240:118200. https://doi.org/10.1016/j.
+jclepro.2019.118200.
+259. Halim I, Ang P , Adhitya A. A decision support framework and system 
+for design of sustainable pharmaceutical supply chain network. Clean 
+Technol Environ Policy. 2019;21(2):431–46. https://doi.org/10.1007/
+s10098-018-1646-8.
+260. Nayeri S, Sazvar Z, Heydari J. A global-responsive supply chain consid-
+ering sustainability and resiliency: application in the medical devices 
+industry. Socio-Econ Plan Sci. 2022;82:101303. https://doi.org/10.1016/j.
+seps.2022.101303.
+261. Song Z, He S, Wang Y, An J. Green pharmaceutical supply chain coordination 
+considering green investment, green logistics, and government interven-
+tion. Environ Sci Pollut Res. 2022;29(42):63321–43. https://doi.org/10.1007/
+s11356-021-18275-8.
+262. Geneshka M, Coventry P , Cruz J, Gilbody S. Relationship between green and 
+blue spaces with mental and physical health: a systematic review of longitu-
+dinal observational studies. Int J Environ Res Public Health. 2021;18(17):9010. 
+https://doi.org/10.3390/ijerph18179010.
+263. O’Hara AC, Miller AC, Spinks H, Seifert A, Mills T, Tuininga AR. The sustainable 
+prescription: benefits of green roof implementation for urban hospitals. Front 
+Sustain Cities. 2022;4:798012. https://doi.org/10.3389/frsc.2022.798012.
+264. Willett W, Rockström J, Loken B, Springmann M, Lang T, Vermeulen S, et al. 
+Food in the Anthropocene: the EAT-Lancet Commission on healthy diets 
+from Sustainable Food Systems. Lancet. 2019;393(10170):447–92. https://doi.
+org/10.1016/s0140-6736(18)31788-4.
+265. Greger M, Stone G. How not to die: discover the foods scientifically proven to 
+prevent and reverse disease. New York: Flatiron Books; 2015.
+266. Cimprich A, Santillán-Saldivar J, Thiel CL, Sonnemann G, Young SB. Potential 
+for industrial ecology to support healthcare sustainability: scoping review of 
+a fragmented literature and conceptual framework for future research. J Ind 
+Ecol. 2019;23(6):1344–52. https://doi.org/10.1111/jiec.12921.
+267. Hellstrand S, Sundberg L, Karlsson J, Zügner R, Tranberg R, Hellstrand Tang U. 
+Measuring sustainability in healthcare: an analysis of two systems providing 
+insoles to patients with diabetes. Environ Dev Sustain. 2021;23(5):6987–7001. 
+https://doi.org/10.1007/s10668-020-00901-z.
+268. Papadopoulou A, Kumar NS, Vanhoestenberghe A, Francis N. Environmental 
+sustainability in robotic and laparoscopic surgery: systematic review. Br J 
+Surg. 2022;109(10):921–32. https://doi.org/10.1093/bjs/znac191.
+269. Erard Y, Del Giorno R, Zasa A, De Gottardi S, Della Bruna R, Keller F, et al. A 
+multi-level strategy for a long lasting reduction in unnecessary laboratory 
+testing: a multicenter before and after study in a teaching hospital network. 
+Int J Clin Pract. 2018;73(3):e13286. https://doi.org/10.1111/ijcp.13286.
+270. McAlister S, Smyth B, Koprivic I, Di Tanna GL, McGain F, Charlesworth K, et 
+al. Carbon emissions and hospital pathology stewardship: a retrospective 
+cohort analysis. Intern Med J. 2023;53(4):584–9. https://doi.org/10.1111/
+imj.15622.
+271. Overmars LM, van Es B, Groepenhoff F, De Groot MCH, Pasterkamp G, den 
+Ruijter HM, et al. Preventing unnecessary imaging in patients suspect of coro-
+nary artery disease through machine learning of electronic health records. 
+Eur Heart J. 2022;3(1):11–9. https://doi.org/10.1093/ehjdh/ztab103.
+272. Picano E. Economic, ethical, and environmental sustainability of cardiac 
+imaging. Eur Heart J. 2022;44(45):4748–51. https://doi.org/10.1093/eurheartj/
+ehac716.
+273. Picano E, Mangia C, D’Andrea A. Climate change, carbon dioxide emissions, 
+and medical imaging contribution. J Clin Med. 2022;12(1):215. https://doi.
+org/10.3390/jcm12010215.
+274. Regan W, Hothi D, Jones K. Sustainable approach to reducing unnecessary 
+combined biochemistry tests on a paediatric cardiology ward. BMJ Open 
+Qual. 2018;7(4):e000372. https://doi.org/10.1136/bmjoq-2018-000372.
+275. Walsh O, Harris R, Flower O, Anstey M, McGain F. Everyone’s a winner if we 
+test less: the Coda action plan. Aust Health Rev. 2022;46(4):460–2. https://doi.
+org/10.1071/AH22145.
+276. Wong SH. Better quality of care equals better carbon footprint? Pract Neurol. 
+2018;18(6):522. https://doi.org/10.1136/practneurol-2018-002049.
+277. Choosing Wisely. https://www.choosingwisely.org/. Accessed 17 Mar 2024.
+278. Sohrabi M, Zandieh M, Shokouhifar M. Sustainable inventory management 
+in blood banks considering health equity using a combined metaheuris-
+tic-based robust fuzzy stochastic programming. Socio-Econ Plan Sci. 
+2023;86:101462. https://doi.org/10.1016/j.seps.2022.101462.
+279. Barna S, Marić F, Simons J, Kumar S, Blankestijn PJ. Education for the 
+Anthropocene: planetary health, sustainable health care, and the health 
+workforce. Med Teach. 2020;42(10):1091–6. https://doi.org/10.1080/01421
+59x.2020.1798914.
+280. Blankestijn PJ. Towards sustainable environmental development in nephrol-
+ogy care, research and education. Nat Rev Nephrol. 2020;17(1):7–8. https://
+doi.org/10.1038/s41581-020-00353-8.
+281. Brand G, Wise S, Bedi G, Kickett R. Embedding indigenous knowledges and 
+voices in planetary health education. Lancet Planet Health. 2023;7(1):e97–
+102. https://doi.org/10.1016/s2542-5196(22)00308-4.
+282. Dunne H, Jones A, Okorie M. Combatting climate change using educa-
+tion and training in pharmacology and therapeutics. Br J Clin Pharmacol. 
+2023;89(5):1518–20. https://doi.org/10.1111/bcp.15705.
+283. Dunne H, Rizan C, Jones A, Bhutta MF, Taylor T, Barna S, et al. Effectiveness of 
+an online module: climate-change and sustainability in clinical practice. BMC 
+Med Educ. 2022;22(1):682. https://doi.org/10.1186/s12909-022-03734-8.
+284. Gandhi V, Al-Hadithy N, Göpfert A, Knight K, van Hove M, Hockey P . Integrat-
+ing sustainability into postgraduate medical education. Future Healthc J. 
+2020;7(2):102–4. https://doi.org/10.7861/fhj.2020-0042.
+285. Huss N, Ikiugu MN, Hackett F, Sheffield PE, Palipane N, Groome J. Education 
+for sustainable health care: from learning to professional practice. Med Teach. 
+2020;42(10):1097–101. https://doi.org/10.1080/0142159x.2020.1797998.
+286. Shaw E, Walpole S, McLean M, Alvarez-Nieto C, Barna S, Bazin K, et al. AMEE 
+consensus statement: planetary health and education for sustainable 
+healthcare. Med Teach. 2021;43(3):272–86. https://doi.org/10.1080/01421
+59x.2020.1860207.
+287. Sood N, Teherani A. How should health systems science promote health 
+systems’ sustainability? AMA J Ethics. 2022;24(10):e951–8. https://doi.
+org/10.1001/amajethics.2022.951.
+288. Husain SA, Sidhu M. Realist evaluation of the implementation and impact of 
+the NHS carbon reduction strategy in the UK. BMJ Open. 2021;11(9):e044259. 
+https://doi.org/10.1136/bmjopen-2020-044259.
+289. Atia NG, Bassily MA, Elamer AA. Do life-cycle costing and assessment integra-
+tion support decision-making towards sustainable development? J Clean 
+Prod. 2020;267:122056. https://doi.org/10.1016/j.jclepro.2020.122056.
+290. Hess JJ, Salas RN. Invited perspective: life cycle analysis: a potentially trans-
+formative tool for lowering health care’s carbon footprint. Environ Health 
+Perspect. 2021;129(7):071302. https://doi.org/10.1289/EHP9630.
+291. McAlister S, Morton RL, Barratt A. Incorporating carbon into health care: 
+adding carbon emissions to health technology assessments. Lancet Planet 
+Health. 2022;6(12):e993–9. https://doi.org/10.1016/s2542-5196(22)00258-3.
+292. Sherman JD, MacNeill A, Thiel C. Reducing pollution from the health 
+care industry. JAMA. 2019;322(11):1043–4. https://doi.org/10.1001/
+jama.2019.10823.
+293. Singh H, Eckelman MJ, Berwick DM, Sherman JD. Mandatory reporting of 
+emissions to achieve net-zero health care. N Engl J Med. 2022;387(26):2469–
+76. https://doi.org/10.1056/NEJMsb2210022.
+Page 25 of 25
+Mirow et al. Sustainable Earth Reviews             (2024) 7:28 
+294. Smith CL, Zurynski Y, Braithwaite J. We can’t mitigate what we don’t moni-
+tor: using informatics to measure and improve healthcare systems’ climate 
+impact and environmental footprint. J Am Med Inf Assoc. 2022;29(12):2168–
+73. https://doi.org/10.1093/jamia/ocac113.
+295. Sørensen BL, Larsen S, Andersen C. A review of environmental and eco-
+nomic aspects of medical devices, illustrated with a comparative study of 
+double-lumen tubes used for one-lung ventilation. Environ Dev Sustain. 
+2022;25:13219–52. https://doi.org/10.1007/s10668-022-02611-0.
+296. Hensher M. Incorporating environmental impacts into the economic 
+evaluation of health care systems: perspectives from ecological econom-
+ics. Resour Conserv Recycl. 2020;154:104623. https://doi.org/10.1016/j.
+resconrec.2019.104623.
+297. Lokmic-Tomkins Z, Davies S, Block L, Cochrane L, Dorin A, Von Gerich H, et 
+al. Assessing the carbon footprint of digital health interventions: a scoping 
+review. J Am Med Inf Assoc. 2022;29(12):2128–39. https://doi.org/10.1093/
+jamia/ocac196.
+298. Pinho-Gomes AC, Yoo SH, Allen A, Maiden H, Shah K, Toolan M. Incorporat-
+ing environmental and sustainability considerations into health technology 
+assessment and clinical and public health guidelines: a scoping review. 
+Int J Technol Assess Health Care. 2022;38(1):e84. https://doi.org/10.1017/
+s0266462322003282.
+299. Gao J, Kovats S, Vardoulakis S, Wilkinson P , Woodward A, Li J, et al. Public 
+health co-benefits of greenhouse gas emissions reduction: a systematic 
+review. Sci Total Environ. 2018;627:388–402. https://doi.org/10.1016/j.
+scitotenv.2018.01.193.
+300. Bikomeye JC, Rublee CS, Beyer K. Positive externalities of climate change miti-
+gation and adaptation for human health: a review and conceptual framework 
+for public health research. Int J Environ Res Public Health. 2021;18(5):2481. 
+https://doi.org/10.3390/ijerph18052481.
+301. World Health Organisation. A framework for the quantification and economic 
+valuation of health outcomes originating from health and non-health climate 
+change mitigation and adaptation action. 2023. https://apps.who.int/iris/
+handle/10665/367385. Accessed 16 Mar 2024.
+302. Schmidt L, Bohnet-Joschko S. Planetary health and hospitals’ contribution: a 
+scoping review. Int J Environ Res Public Health. 2022;19(20):13536. https://
+doi.org/10.3390/ijerph192013536.
+303. Perisetti A, Desai M, Bourke MJ, Penman I, Repici A, Reddy DN, et al. Produc-
+tion and possible reduction of greenhouse gases produced during GI endos-
+copy activity: a systematic review of available literature. Gut. 2022;72(3):493–
+500. https://doi.org/10.1136/gutjnl-2022-328369.
+304. Charlesworth KE, Stewart GJ, Sainsbury P . Addressing the carbon footprint 
+of health organisations: eight lessons for implementation. Public Health Res 
+Pract. 2018;28(4):e2841830. https://doi.org/10.17061/phrp2841830.
+305. Bhopal A, Bærøe K, Norheim OF. How do we decarbonise fairly? Emis-
+sions, inequities and the implications for net zero healthcare. J R Soc Med. 
+2022;115(9):337–40. https://doi.org/10.1177/01410768221113069.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

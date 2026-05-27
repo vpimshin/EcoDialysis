@@ -1,0 +1,1327 @@
+Feuille de route
+Planification 
+écologique  
+du système  
+de santé
+Décembre 2023
+
+2
+Feuille de route  Planification écologique du système de santé
+Sommaire
+P.4 SYNTHÈSE DE LA FEUILLE DE ROUTE
+P.8  OBJECTIFS CIBLES ET PRINCIPALES 
+ANNONCES
+P.12 LES 8 DOMAINES D’ACTION 
+P.18 Bâtiment et énergie
+P.20 Industries et produits de santé
+P.23 Achats durables
+P.26 Soins écoresponsables
+P.29 Déchets du secteur
+P.31 Formation et recherche
+P.34 Transports et mobilités durables
+P.36  Numérique en santé et impact 
+environnemental
+3
+Feuille de route  Planification écologique du système de santé
+Synthèse 
+de la feuille 
+de route
+4
+Feuille de route  Planification écologique du système de santé
+Synthèse 
+de la feuille 
+de route
+ PLANIFICATION ÉCOLOGIQUE POUR LES SECTEURS SANITAIRE  
+ ET MÉDICO-SOCIAL : UN ENGAGEMENT INCONTOURNABLE 
+L
+es urgences climatiques, énergétiques et écologiques imposent une accélération sans 
+précédent des mesures collectives et de leur pilotage pour réduire drastiquement l’empreinte 
+environnementale de nos activités. Pour cela, le Président de la République a, pour la première 
+fois dans l’histoire du pays, confié la planification écologique directement à la Première ministre.
+La hausse de la température globale s’est accélérée et a des impacts importants sur tous 
+les écosystèmes et la santé humaine, et dans tous les secteurs. Il est impératif d’accélérer la 
+transformation écologique de l’ensemble des activités, notamment celle du soin :
+ Le système de soins français représente plus de 8 % des émissions de gaz à effet de serre nationales 
+(près de 50 millions de tonnes équivalent CO2)1. 
+ L’impact de l’offre de soins représente environ 45 % de ces 50 millions de tonnes. Les médicaments 
+et les dispositifs médicaux engendrent les 55 % restants.
+ Le secteur sanitaire et médicosocial, à l’image de tous les autres, doit faire sa part dans la nécessaire 
+baisse des émissions de gaz à effet de serre de 5 % par an jusqu’en 2050, afin de respecter 
+l’engagement national français de rester sous la barre des +1,5°C supplémentaires.
+ Le système de santé a également un rôle majeur à jouer dans la maîtrise de son impact en matière 
+de biodiversité, d’épuisement des ressources naturelles et d’accès à l’eau douce, ou encore de 
+dégradation et de pollutions des milieux naturels. 
+Au-delà des nombreux bénéfices sanitaires de l’intégration des mesures d’atténuation visant une 
+stabilisation du dérèglement climatique, le secteur doit se transformer pour ouvrir la voie vers 
+un système plus sobre, plus soutenable, circulaire et moins dépendant des énergies fossiles.  La 
+transition écologique en santé est une démarche de santé durable favorisant l’intégration de mesures 
+économiquement viables, socialement équitables et écologiquement soutenables, promotrices de 
+santé et de bien-être, dans une logique de co-bénéfices.
+De nombreuses initiatives locales de transformation écologique,  hétérogènes et variées, ont 
+essaimé sur le territoire ces dernières années, dont certaines sont présentées dans ce document. 
+Ces initiatives, ainsi que la forte attente  exprimée régulièrement par les acteurs du secteur, ont 
+guidé la mise en œuvre de ce COPIL ainsi que l’élaboration des principaux axes d’action. Le souhait 
+partagé par le plus grand nombre de « trouver du sens » au travail et de collaborer autour de projets 
+engagés, porteurs et enthousiasmants, font de la stratégie nationale de transformation écologique 
+un outil de cohésion et d’attractivité majeur pour les personnels du secteur.
+1. Dans son rapport « Décarboner la santé », publié en avril 2023, le think tank « The Shift Project » estime les émissions de gaz à effet de serre du secteur entre 40 et 61 millions de 
+tonnes de CO2 (MtCO2), soit entre 6,6 % et 10 % du total national.
+5
+Feuille de route  Planification écologique du système de santé
+ CRÉATION D’UN COMITÉ DE PILOTAGE  DE LA PLANIFICATION  
+ ÉCOLOGIQUE DANS LES SECTEURS SANITAIRE  ET MÉDICO-SOCIAL 
+D
+ans la continuité des travaux lancé par la Première ministre sous la marque « France Nation 
+verte », coordonnés par le secrétariat général à la Planification écologique, un comité de 
+pilotage (COPIL) inédit structuré autour de sept thématiques, est mis en place le 22 mai 2023 
+pour le secteur de la santé (sanitaire et médico-social) afin de maîtriser ses impacts environnementaux 
+et d’assurer la transformation écologique du secteur sur le long terme. 
+Le comité de pilotage de la planification écologique pour le secteur de la santé présidé par Agnès 
+Firmin Le Bodo, ministre déléguée chargée de l’Organisation territoriale et des Professions de santé, 
+réunit pour la première fois les ministères de la Santé et de la Prévention, des Solidarités, de l’Autonomie 
+et des Personnes handicapées, de la Transition écologique et de la Cohésion des territoires, de la 
+Transition énergétique, de la Transformation et de la Fonction publique, de l’Industrie, des Outre-mer, 
+l’Agence nationale d'appui à la performance des établissements de santé et médicosociaux (Anap), 
+la Caisse nationale de l'assurance maladie (CNAM), la Caisse nationale de solidarité pour l'autonomie 
+(CNSA), l’Agence de l'environnement et de la maîtrise de l'énergie (Ademe), l’Agence nationale de 
+sécurité du médicament et des produits de santé (ANSM), la Haute Autorité de Santé (HAS), les 
+fédérations du secteur et les conférences hospitalières, les représentants d’usagers ainsi que cinq 
+experts identifiés pour leur engagement et leurs travaux sur le sujet. Les Agences Régionales de Santé 
+(ARS) Nouvelle-Aquitaine et Grand-Est représentent les ARS au sein de ce COPIL. 
+Un deuxième comité de pilotage s’est tenu le 15 décembre 2023. Diverses avancées depuis le mois 
+de mai y ont été présentées, recensées dans ce document actualisé, principalement autour du secteur 
+des produits de santé et du calcul des bilans carbone. Les membres du COPIL ont par ailleurs pu 
+officiellement signer la Convention de Planification écologique pour le système de santé. Remplaçant 
+la Convention de développement durable, jusqu’à présent passée entre l’État et les représentants 
+du secteur, elle s’inspire largement de cette feuille de route et permet d’ancrer les engagements des 
+différentes parties prenantes. 
+ 8 CHAMPS D’ACTIONS POUR ASSURER LA TRANSFORMATION  
+ ÉCOLOGIQUE DU SECTEUR 
+Les engagements pris à l’occasion du COPIL seront insérés dans une convention de planification 
+écologique, qui liera les parties prenantes à l’automne 2023. Ils seront pris autour de 8 axes :
+1  Bâtiment et maîtrise de l’énergie
+2  Industries et produits de santé
+3  Achats durables
+4  Soins écoresponsables
+5  Déchets du secteur
+6  Formation et recherche en transformation écologique
+7  Mobilités durables
+8  Impact environnemental du numérique
+Les enjeux d’adaptation du secteur au changement climatique seront traités dans un autre cadre par le ministère de la Santé 
+et de la Prévention, par le biais de sa politique de prévention et de surveillance relative aux évolutions environnementales et 
+climatiques impactant la santé, son engagement en matière de sécurité transfusionnelle et de sécurité sanitaire des eaux, son 
+plan de gestion des vagues de chaleur ou d’autres événements climatiques exceptionnels. 
+6
+Feuille de route  Planification écologique du système de santé
+ 5 EXPERTS CHARGÉS DE SUIVRE  
+ LES TRAVAUX DU COPIL
+Cinq personnalités qualifiées et reconnues dans leur domaine assureront une mission de conseil et 
+de suivi des travaux menés dans le cadre du COPIL :
+ALICE BARAS
+Professionnelle de santé, le Dr Alice Baras a souhaité se spécialiser dans la 
+sensibilisation et la formation des professionnels de santé à la démarche 
+écoresponsable et à la promotion de la santé environnementale après avoir 
+exercé 15 ans en tant que chirurgien-dentiste. Après s’être formée notamment à la 
+médecine environnementale, au management du développement durable en santé et 
+de la qualité, elle crée et développe aujourd’hui des actions et médias de formation et sensibilisation 
+aux enjeux de la transformation écologique en santé. Elle a publié le Guide du cabinet de santé 
+écoresponsable aux presses de l’ École des Hautes É tudes en santé publique, avec pour objectif 
+d’accompagner tous les professionnels de santé exerçant en cabinet libéral, officine ou encore en 
+centre de santé souhaitant s’inscrire dans une démarche de transformation écologique. Elle a réalisé 
+de nombreux projets promoteurs de l’écoresponsabilité en santé pour une santé durable auprès 
+d’organisations de santé, unions régionales de professionnels de santé, agences régionales de santé 
+et associations en santé-environnement.
+LAURIE MARRAULD
+Maîtresse de conférences à l’EHESP, Laurie Marrauld est initialement experte de la 
+question des usages des technologies numériques en santé. Docteure en sciences 
+de gestion, elle est titulaire depuis 2022 de la Chaire RESPECT – Résilience en 
+Santé, Prévention, Environnement Climat et Transitons. Elle dirige depuis 2019 
+au sein du think tank « The Shift Project » les travaux de recherche alimentant le 
+rapport sur la décarbonation de la santé, dont la nouvelle version est parue en avril 2023. Elle fait 
+également partie du groupe de travail sur le « développement durable et à la sobriété numérique » 
+de la cellule éthique de la Délégation ministérielle au numérique en santé au ministère de la Santé 
+et de la prévention. Laurie a mis en place la formation ChancES à l’EHESP2 qui permet aux étudiants 
+d’appréhender les défis à relever en termes de gestion de la santé publique posés par le changement 
+climatique et les grandes évolutions environnementales.
+SARAH OUANHNON
+Diplômée de Centrale Supélec et de la London School of Hygiene and Tropical 
+Medicine, Sarah Ouanhnon pilote les sujets achats, médicaments et alimentation 
+du programme For a Greener National Health Service (NHS) (« pour un NHS plus 
+vert ») au Royaume-Uni. Le NHS est le premier système national de santé à avoir 
+affiché une ambition net zéro carbone pour 2040, en octobre 2020. Sarah Ouanhnon 
+est également responsable des partenariats internationaux au sein du Greener NHS, 
+en collaboration avec l’OMS (via l’Alliance pour une Action Transformatrice sur le Climat et la Santé 
+(ATACH) notamment).
+2. ChanCES - Changement Climatique, transitions Et Santé | EHESP
+
+7
+Feuille de route  Planification écologique du système de santé
+PATRICK PESSAUX
+Le professeur Patrick Pessaux est chef de service de chirurgie viscérale et digestive 
+au Nouvel hôpital civil de Strasbourg. Il est président du comité de Transition 
+écologique en santé de la Fédération Hospitalière de France (FHF), président du 
+Collectif éco-responsabilité en santé (CERES), président de l’Association française de 
+chirurgie (AFC), et trésorier du Collège de chirurgie générale viscérale et digestive. Il est auteur de 
+plus de 350 publications dans des revues médicales nationales ou internationales. 
+CHARLOTTE SORIN
+Charlotte Sorin travaille depuis plus de 15 ans à la Croix Rouge Française, où elle 
+occupe les fonctions de Responsable Responsabilité sociétale des organisations 
+/ Développement Durable. Diagnostic, stratégie bas carbone, création d’un 
+réseau d’ambassadeurs, formation aux enjeux du développement durable, sobriété 
+énergétique : elle met en œuvre opérationnellement une démarche DD à l’échelle 
+du groupe CRF. Elle fait également partie du Consortium Bilan Carbone du Réseau environnement 
+humanitaire.
+
+8
+Feuille de route  Planification écologique du système de santé
+Objectifs 
+cibles et 
+principales 
+annonces
+9
+Feuille de route  Planification écologique du système de santé
+  Objectif transversal   
+RENFORCER LE PILOTAGE ET LA TRANSVERSALITÉ POUR ASSURER UNE 
+EFFICACITÉ ET UN SUIVI DE LA TRANSFORMATION DU SECTEUR
+POUR Y ARRIVER :
+Février 2023 : mettre en place et pérenniser task force interministérielle  dédiée au suivi de la 
+Planification écologique pour le système de santé.
+Mai 2023 : rejoindre l’Accord de l’Organisation mondiale de la santé « Alliance pour une action 
+transformatrice sur le climat et la santé » (ATACH), avec comme principal engagement la mise 
+en place d’actions visant à contribuer à la neutralité carbone du secteur de la santé français 
+d’ici 2050.
+Septembre 2023 : refondre l’outil déployé dans le secteur depuis 2017 « Mon observatoire du 
+développement durable » pour notamment piloter l’empreinte carbone nationale du secteur.
+Septembre 2023 : publier l’empreinte carbone de la branche autonomie et partager les enjeux 
+inter-caisses de sécurité sociale sur les leviers de la décarbonation.
+Décembre 2023 : signer une convention de planification écologique listant les engagements des 
+parties prenantes du comité de pilotage.
+Les objectifs cibles pour 
+contribuer à la neutralité 
+carbone du secteur 
+de la santé et maîtriser 
+les risques environnementaux
+  Objectif 1   
+ACCENTUER LA RÉNOVATION ÉCOLOGIQUE ET 
+LA TRANSFORMATION ÉNERGÉTIQUE DES ÉTABLISSEMENTS 
+DE SANTÉ ET MÉDICOSOCIAUX D’ICI 2040
+POUR Y ARRIVER :
+Juillet 2023 : financer 15 nouveaux postes de conseillers en transition écologique et énergétique 
+dans le secteur médico-social.
+2024 : créer un guichet unique « Développement durable » afin d’effectuer une veille continue 
+de tous les dispositifs d’aide existants à destination des établissements.
+Avril 2024 : établir les scénarios de décarbonation de la branche autonomie. 
+Octobre 2024 : sur la base de ces scénarios, et de l’évaluation du coût global et de l’impact 
+sur les modèles économiques des ESMS, faire évoluer les outils de financement et de soutien à 
+l’investissement, favorables à leur mise en œuvre dont la rénovation thermique.
+1er semestre 2024 :  consolider le dispositif réglementaire pour inciter à l’utilisation d’eaux 
+impropres à la consommation humaine pour des usages domestiques, notamment dans les 
+établissements de santé et prévoir un guide pour accompagner les professionnels du secteur.
+10
+Feuille de route  Planification écologique du système de santé
+  Objectif 2 :    
+ACCÉLÉRER LA TRANSITION ÉCOLOGIQUE DES INDUSTRIES ET 
+PRODUITS DE SANTE
+POUR Y ARRIVER :
+Avril 2023 : publier la feuille de route de décarbonation des industriels du médicament avec 15 propositions 
+qui pourront être reprises ou étudiées.
+Octobre 2023 : lancer les travaux d’élaboration d’une méthodologie commune d’évaluation de l’empreinte 
+carbone des médicaments.
+Janvier 2024 : les industriels les plus engagés lancent les travaux d’élaboration des feuilles de route de 
+réduction des émissions pour les principaux sites industriels en France. Ces feuilles de route traiteront dans 
+un premier temps les émissions directes de ces sites puis, une fois la méthodologie commune d’évaluation 
+de l’empreinte carbone des médicaments en place, leurs émissions indirectes. 
+Été 2024 : production d’une étude sur les émissions spécifiques aux dispositifs médicaux et dispositifs 
+médicaux de diagnostic in vitro  par le Comité stratégique de filière (CSF).
+  Objectif 2 :    
+ACCÉLÉRER ET PROMOUVOIR LA TRANSITION VERS DES ACHATS DURABLES, 
+D’ICI 2030
+POUR Y ARRIVER :
+2023 : élaborer une plateforme d’achats durables basée sur des analyses de cycle de vie et des scores 
+environnementaux communs.
+Octobre 2024 : piloter l’abaissement de l’empreinte carbone de l’alimentation des ESMS en veillant à 
+l’équilibre nutritionnel spécifique des personnes accompagnées : outiller les acteurs en bonne pratique
+Janvier 2025 : interdire les contenants alimentaires en plastique dans les services accueillant des enfants 
+et des femmes enceintes.
+Janvier 2025 : travailler avec les fédérations du médico-social le recours à des centrales d’achats 
+alimentaires plus décarbonées ou l’intégration dans des circuits d’approvisionnements territoriaux courts 
+ou bas-carbone.
+  Objectif 4 :   
+TRANSFORMER ET ACCOMPAGNER LES PRATIQUES VERS DES SOINS 
+ÉCORESPONSABLES DÈS 2023
+POUR Y ARRIVER :
+2023 : déployer l’information et les recommandations de bonnes pratiques en matière de soins 
+écoresponsables et de prescriptions plus sobres par le biais d’un référentiel national pour favoriser leur 
+intégration tout en assurant qualité et sécurité des soins.
+2024 : réduire l’usage des gaz médicaux à fort effet de serre.
+2024 : travailler à la mise en place de référentiels de pratiques médicamenteuses permettant aux ESMS 
+d’abaisser leur empreinte carbone dans le respect des soins des personnes accompagnées.
+2025 : travailler au lancement d’une expérimentation sur la faisabilité du retraitement des dispositifs 
+médicaux à usage unique, afin d’identifier le cadre juridique et les pratiques qui garantiraient la sécurité 
+des soins.
+11
+Feuille de route  Planification écologique du système de santé
+  Objectif 5   
+ACCÉLÉRER LA RÉDUCTION DES DÉCHETS ET LEUR VALORISATION  D’ICI 2030 
+ET OPTIMISER LE PÉRIMÈTRE DES DÉCHETS D'ACTIVITÉS  DE SOINS À RISQUE 
+INFECTIEUX (DASRI) POUR LE LIMITER LE PLUS POSSIBLE DÈS 2024
+POUR Y ARRIVER :
+2023 - 2024 : saisir en 2023 le Haut conseil de la santé publique sur la définition du risque infectieux lié 
+aux DASRI afin de définir le périmètre de ces derniers et en 2024, poursuivre le développement de la 
+réutilisation des emballages des DASRI.
+2023 - 2024 : développer des circuits d’économie circulaires et favoriser le réemploi et la réutilisation.
+2024 : expérimentation sur la dématérialisation de certaines notices de médicaments.
+  Objectif 6    
+FORMER ET SENSIBILISER TOUS LES PROFESSIONNELS ET ACTEURS DE 
+SANTÉ À L’URGENCE ÉCOLOGIQUE, AUX ENJEUX SANTÉ-ENVIRONNEMENT, 
+À L’ÉCOCONCEPTION DES SOINS ET DES ACCOMPAGNEMENTS 
+MÉDICOSOCIAUX, ET SOUTENIR DES PROJETS DE RECHERCHE D’ICI 2025
+POUR Y ARRIVER :
+2023 : financer des projets de recherche en matière de soutenabilité et de transformation écologique 
+du système de santé dans le cadre du Programme de recherche sur la performance du système des soins 
+(PREPS) et du Partenariat européen sur la transformation des systèmes de soins (PTHCS).
+Janvier 2025 : former à la transformation écologique et énergétique 6 500 professionnels encadrants de la 
+fonction publique hospitalière, avec le ministère de la Transformation et de la fonction publiques.
+2025 : diffuser à l’ensemble des acteurs de la branche autonomie les conclusions des scénarios de 
+décarbonation et favoriser l’intégration des enjeux environnementaux dans l’offre de formation à 
+destination des professionnels du secteur.
+  Objectif 7    
+ACCÉLÉRER LA TRANSITION VERS DES TRANSPORTS ET DES SCHÉMAS DE 
+MOBILITÉ À FAIBLES ET TRÈS FAIBLES ÉMISSIONS D’ICI 2030
+POUR Y ARRIVER :
+Novembre 2023 : mettre en place un bonus écologique aux transporteurs sanitaires qui utiliseront 
+des véhicules électriques et inciter les patients à recourir à des transports partagés lorsque leur 
+état de santé le permet.
+Octobre 2024 : favoriser le recours à des véhicules électriques ou basses consommations de carbone 
+et de vélos de service pour les professionnels intervenant à domicile et favoriser l’équipement des 
+ESMS de bornes de charges contribuant à l’équipement des territoires pour la mobilité durable.
+2025 : améliorer l’organisation et la mutualisation des transports pour réduire l’empreinte 
+carbone des déplacements et en tenir compte dans les approches domiciliaires et inclusives.
+  Objectif 8    
+ÉLABORER UNE FEUILLE DE ROUTE POUR « VERDIR » LE NUMÉRIQUE EN 
+SANTÉ D’ICI 2024
+POUR Y ARRIVER :
+2023 : élaborer des éco-scores des applications de santé et des systèmes d’information hospitaliers. 
+12
+Feuille de route  Planification écologique du système de santé
+Les 8 
+domaines 
+d'action
+13
+Feuille de route  Planification écologique du système de santé
+ Objectif transversal 
+Renforcer le pilotage  
+et la transversalité pour 
+assurer une efficacité 
+et un suivi de la 
+transformation du secteur
+1. Données de la Campagne 2022 du MODD menée par l’Anap, 2 656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+2. L’APHP a lancé des travaux de recherche destinés à disposer d’estimations des émissions de GES par parcours patient. Trois parcours sont en cours d’analyse : 
+- maladie longue et chirurgie lourde : parcours d’un patient atteint d’un cancer colorectal subissant une colectomie et traité par chimiothérapie ; - chirurgie ambulatoire : parcours 
+d’un patient adulte subissant une ethmoïdectomie et parcours d’un patient enfant subissant une amygdalectomie ; - maladie chronique : parcours d’un patient atteint de diabète.
+À ce jour, seules 34 % des structures du secteur ont nommé un ou plusieurs professionnels 
+comme référent à temps partiel sur le sujet de la transformation écologique1.
+ ENGAGEMENTS 
+1. FACILITER LE PILOTAGE
+Structurer au sein de l’État la stratégie de planification écologique du secteur :
+ O Assurer la pérennisation de la task force interministérielle et identifier les règles de mise en œuvre 
+et d’accompagnement de la feuille de route nationale.
+  Refonte de l’outil Mon observatoire du développement durable en un outil de pilotage du secteur : 
+mise en œuvre d’un tableau de bord des indicateurs quantitatifs de développement durable 
+(national, régional et par établissement) et élaboration d’un nouvel outil de calcul de l’empreinte 
+carbone des secteurs sanitaire et médicosocial, se basant sur une méthodologie dite monétaire 
+L’outil « Empreinte Carbone » permet un suivi national des réductions des émissions de GES du 
+secteur. Sa première mouture a été soumise à concertation mi-octobre puis fera l’objet d’une phase 
+de test de grandeur ampleur à l’issue de laquelle il pourra être généralisé au premier trimestre 2024.
+ O Développer des bilans carbone spécifiques : parcours patient type (émissions directes et 
+indirectes) sur le modèle de celui élaboré par l’Assistance publique-Hôpitaux de Paris 2, et bilans 
+d’analyses du cycle de vie (ACV).
+  Coordonner et valoriser les actions de prévention et promotion de la santé comme autant 
+d’actions de transition écologique en santé.
+ O Compléter et valoriser les travaux autour des autres enjeux de la planification écologique : la 
+santé environnement et la préservation de la biodiversité, traités dans un autre cadre ministériel.
+Structurer au sein de l’Assurance Maladie une stratégie spécifique pour  l’offre « de ville » : des partenariats 
+d’études et de recherche seront mis en place, dans un cadre national, notamment avec « The Shift Project », 
+comme dans un cadre international, mais aussi potentiellement dans un cadre régional. Parce qu’il y a un lien 
+entre sobriété et pertinence, les actions de gestion du risque de l’Assurance Maladie intégreront les enjeux 
+de transformation écologique. Par ailleurs, un volet transition écologique sera intégré dans tous les accords 
+conventionnels mono-professionnels et pluri-professionnels, à l’instar de la dispensation de médicament 
+à l’unité, la sensibilisation à la démarche écoresponsable en cabinet ou encore du développement du 
+transport partagé. Enfin, les structures de soins de l’Assurance Maladie pourront être utilisées comme 
+terrain d’expérimentation et d’innovation en matière de décarbonation.
+14
+Feuille de route  Planification écologique du système de santé
+Structurer une démarche de décarbonation spécifique à la branche Autonomie  : sur la base de la 
+structuration engagée début 2023 et du projet initié avec le Shift Project en mars 2023 : projeter des 
+scénarios de décarbonation de la branche pour atteindre les objectifs de l’Accord de Paris en lien 
+avec le Shift Project et l’Ademe :
+-  Évaluer le coût global de la décarbonation de la branche Autonomie, estimer son impact sur les 
+modèles économiques des établissements et services médico-sociaux et proposer des évolutions 
+des outils de financement favorables à leur mise en œuvre ;
+-  Intégrer ces enjeux dans le cadre de coopération de la branche associant ARS et conseils 
+départementaux.
+Insérer des critères environnementaux à la stratégie de la Haute Autorité de santé (HAS) : le 
+projet stratégique 2019-2024 a été enrichi pour mettre en avant l’importance des enjeux relatifs à 
+l’environnement, aux questions de santé publique et de prévention et à la responsabilité sociale et 
+environnementale (RSE) de la HAS. Cet ajout constitue une première étape qui devra se poursuivre 
+lors de l’élaboration du prochain projet stratégique.
+2. ASSURER LA MISE EN CONFORMITÉ AVEC LES ENGAGEMENTS ET LA RÉGLEMENTATION
+ O Identifier le corpus des réglementations environnementales existantes  afin de permettre aux 
+établissements, cabinets médicaux et paramédicaux, et structures d’exercice coordonné de réaliser 
+leur mise en conformité par rapport à la réglementation actuelle et le publier sur une plateforme 
+accessible à tous.
+ O Prévoir des objectifs chiffrés de transformation écologique et énergétique dans les contrats 
+pluriannuels d'objectifs et de moyens  passés entre les Agences régionales de santé et les 
+établissements et entre les Agences régionales de santé et l’Etat.
+  Intégrer des indicateurs de performance environnementale et des objectifs verts dans les 
+prochains COP des opérateurs financés par le 6 e sous-objectif de l’Ondam.
+3. VALORISER ET MESURER L’ACTION
+  Adopter en 2024 une labélisation spécifique aux lieux de soins et d’accompagnement médico-
+social engagés dans une démarche de transformation écologique et de sobriété qui, à terme, pourra 
+concerner l’ensemble des acteurs et sur l’ensemble des engagements. Soutenir dès 2023 l’Ecolabel 
+NF Environnement développé par AFNOR sur le champ de la prestation d'hébergement ainsi que 
+les services auxiliaires et satellites gérés par les établissements sanitaires et/ou médico-sociaux 
+(hébergement, services de restauration, espaces verts, locaux pour les événements particuliers tels 
+que les conférences, réunions ou formations, installations sanitaires, endroits aménagés pour laver 
+la vaisselle ou le linge ou faire la cuisine, et services d'information).
+ O Faire de la France un fer de lance en matière de transformation écologique des secteurs sanitaire 
+et médico-social à l’international.
+ DÉJÀ ENGAGÉS 
+ O Obligation légale depuis 2013 pour les établissements de santé et du médicosocial de plus de 250 
+salariés de réaliser un bilan de gaz à effet de serre (émissions directes et indirectes).
+ O Déploiement en 2017 de l’outil Mon observatoire du développement durable piloté par la 
+Direction générale de l’offre de soins et l’Anap, permettant de mener les premiers autodiagnostics 
+« carbone » au sein des établissements de santé.
+ O Inscription au Ségur de la santé en 2020 d’une mesure rendant obligatoire la mise en œuvre d’un 
+volet écoresponsable au sein du projet d’établissement.
+15
+Feuille de route  Planification écologique du système de santé
+ O Création et financement à hauteur de 10 millions d’euros par an, dans le cadre du Ségur de la Santé, 
+de 151 postes de conseillers en transition écologique et énergétiques en santé  (CTEES), pour les 
+secteurs sanitaires et médico-social, dont le réseau est piloté par l’Anap. Ces CTEES accompagnent 
+la réalisation des audits énergétiques et autres études de faisabilité (ENR, suivi AMO), aident à la 
+définition et à la mise en œuvre des plans d’action de réduction de la consommation énergétique 
+et de mise en conformité avec le Décret tertiaire du 23 juillet 2019. Ils accompagnent également les 
+établissements dans leur stratégie de transformation écologique et énergétique.
+  Juin 2023 : à l’été 2023, la CNSA, en lien avec l’Anap et la DGCS, a débloqué 2 millions d’euros 
+supplémentaires sur 2023 et 2024 pour renforcer le réseau actuellement en place, en ouvrant des 
+accompagnements supplémentaires afin de consolider la couverture de groupements existants et 
+de couvrir des régions dans lesquelles elle ne porte pas de groupement.
+ O Mise en place en février 2023 d’une task force interministérielle dédiée au suivi de la Planification 
+écologique pour le système de santé.
+ O Engagement de contribution à la neutralité carbone du secteur pris par la France en mai 2023 
+dans le cadre de l’Alliance pour une Action Transformatrice sur le Climat et la Santé de l’OMS. A 
+l’automne 2023, la feuille de route a été présentée aux instances de l’ATACH et de l’Organisation 
+de coopération et de développement économiques (OCDE). Elle sera présentée en 2024 à l’Agence 
+française de développement (AFD). 
+QUATRE AXES DE TRAVAIL SONT PILOTÉS PAR L’ALLIANCE À CE STADE :
+1   « Financement des engagements sur des systèmes de santé résilients face aux changements 
+climatiques, durables et à faible empreinte carbone » ;
+2  « Systèmes de santé résilients face aux changements climatiques » ;
+3  « Systèmes de santé durables à faible empreinte carbone » ;
+4  « Chaînes d’approvisionnement ».
+  Décembre 2023 : la France a été représentée par Madame la ministre Agnès Firmin Le Bodo lors 
+d’une journée de la COP28 dédiée à la prise en compte du lien entre santé et climat et qui a mobilisé 
+plus de 100 pays dont 74 ministres. La Déclaration sur le changement climatique et la santé adoptée 
+par 124 parties à cette occasion – dont la Commission européenne au nom des Etats membres 
+de l’Union européenne – est une prise de conscience salutaire concernant les effets négatifs du 
+changement climatique sur la santé humaine, la nécessité d’opérationnaliser l’approche « Une seule 
+santé » et de la mise en place des systèmes de santé plus résistants au climat ainsi que de leur 
+décarbonation et l’importance de renforcer la collaboration internationale en la matière. Parmi 120 
+autres représentants d’Etats invités à faire une déclaration à titre national, la Ministre a présenté les 
+actions nationales et internationales de la France mises en œuvre pour faire face au changement 
+climatique et adapter son système de santé pour être plus résilient et neutre en carbone. 
+ O Plateforme nationale des bonnes pratiques3 : mise en ligne par l’Anap d‘une plateforme collaborative 
+dans laquelle chaque établissement ou professionnel peut partager l’initiative qu’il a mis en place pour 
+permettre à l’ensemble de la communauté de professionnels de santé de s’en inspirer et la mettre en 
+œuvre. La thématique « Développement Durable » est mise à l’honneur au mois de mai 2023 avec le 
+lancement d’un appel à contributions. La plateforme comporte désormais près de 50 bonnes pratiques.
+  Octobre 2023 : des « Appuis terrains Développement durable » sont proposés par l’Anap aux 
+établissements de santé qui en font la demande. Ils prennent la forme d’un accompagnement réalisé 
+par des experts en quatre jours non consécutifs (6 à 9 mois de mise en œuvre) pour leur donner les 
+outils et les méthodes permettant d’élaborer une stratégie RSE/Développement durable solide et 
+un plan d’actions concret. L’accompagnement de 400 sites a été engagée en 2022, tant sanitaires 
+que médico-sociaux, publics et privés à but lucratif. Une seconde vague d’accompagnement a été 
+engagée en octobre 2023.
+3. Lien vers la plateforme en ligne
+16
+Feuille de route  Planification écologique du système de santé
+  Décembre 2023 : signature  d’une convention de planification écologique  le 15 décembre 2023, 
+listant les engagements des parties prenantes du Comité de pilotage.
+  Décembre 2023 : mise en ligne de la page PESS sur le site internet du ministère de la santé et de 
+la prévention en décembre 2023. Elle recense les axes de la feuille de route, leur état d’avancement, 
+ainsi qu’une documentation fournie sur le sujet (rapports, recommandations, bonnes pratiques…).
+  Décembre 2023 : dans le cadre du renouvellement des CPOM État/ARS, inscription de la 
+transformation écologique comme objectif incontournable du secteur médico-social et intégration 
+dans le tableau de bord de performance du secteur médico-social des indicateurs en lien avec la 
+démarche de développement durable.
+Insérer des critères environnementaux à la stratégie de la Haute Autorité de santé (HAS) :  
+ O Intégration à la démarche de certification des établissements de santé  pour la qualité des soins 
+de la Haute Autorité de santé (HAS) du critère 3.6-04 « Les risques environnementaux et enjeux du 
+développement durable sont maîtrisés ». Critère intégré également pour le secteur médico-social : 
+3.15.1 « L’ESSMS définit et met en œuvre sa stratégie d’optimisation des achats et de développement 
+durable ».
+  Novembre 2023 :  la HAS a rendu publique sa feuille de route santé-environnement pour renforcer 
+son implication sur les enjeux environnementaux dans le cadre de ses missions.
+Structurer au sein de l’Assurance Maladie une stratégie spécifique pour l’offre « de ville » : 
+  Novembre 2023  : création de deux missions nationales au sein de la Cnam pour piloter la 
+transition écologique : une mission portant sur la transition des organismes de l’assurance maladie 
+(160 organismes et plus de 80 000 collaborateurs) et une mission portant sur la contribution en tant 
+que régulateur du système de santé et intégrant la dimension santé environnementale. 
+  Novembre 2023 : signature de la convention de partenariat avec le Shift Project dans le cadre du 
+programme de recherche « Santé, Climat, Résilience ». 
+Structurer une démarche de décarbonation spécifique à la branche Autonomie pilotée par la CNSA :
+ O Mise en place d’un projet partenarial en mars 2023 avec l’Ecole nationale supérieure de Sécurité 
+sociale (EN3S) et « The Shift Project » pour calculer l’empreinte carbone des opérateurs  de la 
+branche autonomie (établissements et services, dont à domicile), en vue de proposer des scénarios 
+de décarbonation (variantes démographiques, rythme d’atteinte des objectifs de l’accord de Paris ; 
+en lien avec les objectifs de la branche comme le virage domiciliaire…) à la maille départementale. 
+  Septembre 2023 : publication d’une empreinte carbone de la branche autonomie (8,8 MT CO2).
+17
+Feuille de route  Planification écologique du système de santé
+ Des initiatives locales inspirantes
+Le centre hospitalier (CH) de Niort (79) s’est lancé en 2022 dans l’élaboration de son 
+« Agenda 2030 » en s’appuyant sur les 17 objectifs de développement durable des Nations unies. Le 
+plan d’action s’articule autour de 69 actions couvrant tous les champs du développement durable. 
+Dans le respect des 17 objectifs, l’hôpital s’est donné cinq objectifs : 
+1. Contribuer à la neutralité carbone (réduire les émissions associées à la consommation d’énergie, 
+au gaz médicaux, augmenter la part des énergies renouvelables,...)
+2. Accroître la résilience au changement climatique (adopter une gestion différenciée de la 
+biodiversité, développer la végétalisation pour réduire les fortes chaleurs liées à l’augmentation 
+des températures,...)
+3. Adopter des pratiques de consommation responsables (limiter l’usage de produits jetables, 
+poursuivre l’optimisation des filières de traitement et les efforts pour réduire le gaspillage 
+alimentaire,...)
+4. Améliorer le bien-être des patients et du personnel (favoriser un cadre de travail agréable pour 
+les agents et le personnel soignant, favoriser le maintien dans l’emploi, promouvoir la diversité,...)
+5. Assurer la bonne gouvernance et le dynamisme de la démarche (valoriser les actions entreprises 
+pour renforcer la raison d’être de l’Établissement et fédérer ses agents autour d’une vision 
+commune, s’engager dans une démarche RSE, ...)
+« CAP Hôpital durable »
+La Direction interministérielle de la transformation publique (DITP) a mis en synergie 
+trois initiatives initialement séparées mais fortement complémentaires, au sein d’un 
+programme cohérent, expérimenté avec l’ARS Nouvelle Aquitaine. Le programme Comprendre 
+Agir Promouvoir l’hôpital durable a vocation à encapaciter les agents et les établissements dans la 
+mise en œuvre de la transition écologique. Il repose sur trois dispositifs : 
+• Le Plan Health Faire® est un dispositif pédagogique qui permet de monter en compétence sur le 
+sujet : il s’agit d’un atelier de formation basé sur le consensus scientifique et destiné à l’ensemble 
+des agents de la fonction publique hospitalière et des universitaires afin de leur donner une culture 
+commune et les compétences nécessaires pour mettre en place des pratiques durables. Né au CH 
+de Poitiers et à l’APHP, ce dispositif fait l’objet de demandes de déploiement quotidiennes dans la 
+plupart les régions de France, en Belgique, en Suisse…  
+• Les Unités Durables sont des démonstrateurs opérationnels à l’échelle d’unité hospitalière. Grâce 
+à une courte formation-action, un guide méthodologique et un recueil de bonnes pratiques, les 
+agents volontaires sont en capacité d’identifier les actions à mettre en œuvre selon les enjeux 
+propres à leur unité. Né au CHU de Bordeaux, ce dispositif a été déployé ensuite au CH de Niort. 
+• Agenda 2030 appliqué à la santé est une boîte à outils qui permet de passer de l’étape de 
+sensibilisation au sujet, voire de démonstrateurs opérationnels, à un véritable projet d’établissement, 
+qui est seul à même d’embarquer durablement l’ensemble du collectif. Dans une même logique 
+d’encapacitation, les établissements hospitaliers peuvent évaluer leur niveau de performance 
+environnementale et déterminer les axes d'amélioration prioritaires grâce à des outils d'auto-
+diagnostic et de co-construction d’une feuille de route. Né au CH de Niort, ce dispositif sera 
+prochainement essaimé au GHU de La Rochelle. 
+L’ambition du programme est de mettre à disposition de tout établissement qui souhaite s’engager 
+dans une démarque de transition écologique une base de connaissances et d’outils adaptés à 
+mobiliser selon son besoin.
+18
+Feuille de route  Planification écologique du système de santé
+  Objectif 1 
+Accentuer la rénovation  
+et la transformation 
+énergétique  
+des établissements du secteur 
+4. Données de la Campagne 2022 du MODD menée par l’Anap, 2 656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+7 . Rapport « Décarboner la santé », « The Shift Project », avril 2023
+Seulement 32 % des structures du secteur interrogées ont à ce jour entrepris des travaux 
+d’efficacité énergétique. 33% ont mis en place des équipements économes en eau4.
+Le volet « énergie et hors énergie » du secteur sanitaire et médicosocial est estimé par le rapport 
+d'avril 2023 du think tank « The Shift Project » à plus de 7,4 millions de tonnes équivalent CO2 
+(MtCO2e)5 (sources fixes de combustion, consommation d’électricité et immobilisations des 
+bâtiments). La rénovation énergétique des bâtiments constitue un prérequis pour contribuer à la 
+neutralité carbone du secteur, à la fois via des rénovations performantes des bâtiments anciens, 
+l’encadrement des constructions neuves au regard des nouvelles normes environnementales 
+ainsi qu’une limitation stricte de l’artificialisation des sols.
+ ENGAGEMENTS 
+  Un « Guichet Unique Développement durable » sera élaboré afin d’effectuer une veille continue 
+de tous les dispositifs d’aide existants sur les thèmes de cette feuille de route, de monter le dossier 
+de demande d’aide pour le compte de l’établissement demandeur (voire de l’ARS), d’accompagner 
+l’établissement demandeur dans le suivi des justificatifs apportés et enfin d’effectuer le suivi et le 
+reporting des montants d’aide obtenus.
+ O Consolider au cours du premier semestre 22024 le dispositif réglementaire pour inciter à l’utilisation 
+d’eaux impropres à la consommation humaine pour des usages domestiques, notamment dans les 
+établissements de santé et prévoir un guide pour accompagner les professionnels du secteur.
+ O La signature de Contrats de Performance É nergétique (CPE) devra être soutenue lors de la 
+réalisation de travaux énergétiques au sein des établissements du secteur, permettant de fiabiliser 
+les économies d'énergie qui seront réalisées (garantir sur une durée fixée un certain niveau de 
+performance énergétique au regard des investissements réalisés).
+ O Réduire l’empreinte environnementale des bâtiments en renforçant la prise en compte de la 
+biodiversité et des déchets  lors des chantiers.
+  Accompagner les établissements pour mettre en œuvre le mode veille des zones à risque très 
+énergivores, pouvant ainsi réduire la consommation énergétique et électrique de 30 % à 50 %.
+ DÉJÀ ENGAGÉS 
+ O Publication en octobre 2022 d’un Guide pour l’intégration de la responsabilité sociétale des 
+établissements dans leur projet d’investissement par le Conseil Scientifique de l’Investissement en 
+Santé (CSIS), orientant les projets de rénovation immobilière et énergétique au regard des enjeux 
+environnementaux et sociétaux. 
+19
+Feuille de route  Planification écologique du système de santé
+ O Soutien, via le Ségur de la santé, d’opérations de construction et de rénovation immobilières  
+comportant un volet énergétique et d’adaptation des établissements au changement climatique 
+(rénovation du clos-couvert, mise en place de dispositifs visant à limiter l’exposition à la chaleur et 
+à favoriser la ventilation naturelle pour améliorer le confort d’été…). Dans le cadre du Plan Séisme 
+Antilles 3e phase, soutien financier apporté à des opérations ciblées répondant aux enjeux d’épisodes 
+climatiques extrêmes en Martinique et Guadeloupe. 
+ O Financement dans le cadre du Ségur de la santé de travaux de rénovation de l'hébergement 
+des personnes âgées dépendantes. 250 millions d'euros d'Investissements du quotidien ont été 
+déployés dans plus de 8 000 établissements d'hébergement pour personnes âgées dépendantes 
+(EHPAD) pour apporter des améliorations concrètes et rapides au bénéfice des professionnels et 
+des résidents. Ces crédits sont destinés à financer des dépenses d’investissement, s’orientant vers 
+un objectif de qualité, telles que des travaux et achats d’équipements améliorant le confort d’été, 
+limitant l’exposition à la chaleur et privilégiant la ventilation naturelle tels que la protection des 
+ouvertures, l’installation des brasseurs d’air, l'isolation de la toiture et des murs.
+ O Déploiement via l’Anap d’un livrable sur les bonnes pratiques de performance et de sobriété 
+énergétique, animation d’une communauté de pratiques sur le sujet du développement durable, 
+apport d’appuis terrains permettant d’impulser ou de renforcer la démarche RSE des établissements 
+(accompagnement de plus de 500 établissements en cours de réalisation) et mise en place un kit 
+pratique et opérationnel dédié à l'application du décret tertiaire.
+ O Dès le mois de mai 2023, et pour la première fois, dans le cadre des 200 millions d’euros dédiés 
+aux investissements du quotidien du Ségur de la santé, des crédits ont été alloués à des actions 
+d’efficacité énergétique dans le secteur sanitaire.
+  Octobre 2023 : une mission de l’Inspection générale des affaires sociales a été lancée en octobre 
+2023 sur l’impact du Ségur de l'investissement sur les objectifs de transformation écologique du 
+système de santé. Les conclusions seront partagées au printemps 2024.
+  Décembre 2023 : Publication d’un Guide de sobriété énergétique et d’une fiche pratique à 
+destination des établissements pour l’hiver 2023-2024, permettant de diffuser les bonnes pratiques 
+et d’orienter les établissements pour limiter leur consommation énergétique en période hivernale.
+  Juillet 2023 : Utilisation du Fonds vert pour certains établissements relevant de la fonction publique 
+territoriale : un chèque de 230.000 euros a été remis en juillet à une maison de santé en Gironde, 
+lauréat du fonds. Le Fonds Vert constitue un levier concret pour les maisons de santé, les centres de 
+santé et tous les autres bâtiments médico-sociaux portés par les collectivités territoriales, permettant 
+d’engager des rénovations énergétiques. 13 dossiers du secteur, représentant un montant total de 
+9,8 millions d'euros, ont été soutenus à hauteur de 3,2 millions d'euros par le Fonds Vert. Illustration 
+de cette action, la création d'une maison de soins de proximité dans un ancien presbytère à Sainte-
+Terre, en Gironde (chauffage de type géothermie à sondes verticales et utilisation de matériaux 
+biosourcés notamment).
+Une initiative locale inspirante 
+Depuis juillet 2022, la climatisation du centre hospitalier de la Polynésie Française est 
+assurée en intégralité par un système SWAC (Sea Water Air Conditioning) ou système 
+de climatisation marine. Cette solution technique de climatisation utilise une source renouvelable 
+et locale : les eaux profondes des océans et lacs et les courants froids de surface. Dans le cas 
+du CHPF, l’eau de mer est pompée à une profondeur de 900 mètres, assurant une température 
+stable toute l’année. L’eau salée atteint une température de 5°C dans le local de production, puis 
+passe par des échangeurs pour refroidir la boucle du réseau centralisé d’eau glacée existant. En 
+termes de consommation énergétique, avant le SWAC, la production d’eau glacée via  les groupes 
+frigorifiques classiques représentait 37 % de la consommation électrique totale du CHPF. Elle ne 
+s’élève aujourd’hui plus qu’à 7 % du mix énergétique de l’hôpital. La consommation d’électricité 
+pour la production de froid a été divisée par 10 et représente une réduction de consommation de 
+10 GWh par an, soit 2 % de la consommation électrique totale de l’île de Tahiti, et l’équivalent de 
+5.000 tonnes d’émission de CO2 en moins annuellement.
+20
+Feuille de route  Planification écologique du système de santé
+  Objectif 2 
+Accélérer la transition 
+écologique des industries 
+et produits de santé
+6. Il s’agit des acteurs de la chimie fine pharmacie, des laboratoires pharmaceutiques et façonniers, ainsi que des logisticiens (cf. étude CSF ITS, fig. 1.1)
+7 . Feuille de route décarbonation, CSF Industries et Technologies de Santé
+8. The Shift project – Décarboner la santé pour soigner durablement – Avril 2023
+64 % des industriels de la filière pharmaceutique6 ont mis en place des mesures de réduction 
+de leurs émissions, mais seuls 27 % des industriels se sont engagés dans cette démarche 
+depuis plus de 5 ans7.
+En France, la consommation en produits de santé contribue pour 25 MtCO2eq par an (4% du 
+total national et 48% de l’ensemble des émissions du système de soin français), à 60% pour les 
+médicaments et 40% pour les dispositifs médicaux 8. La feuille de route produite par le comité 
+stratégique de filière (CSF ITS) des industries et technologies de santé estime un potentiel de 
+réduction des émissions de 33% en 2030 par rapport à 2015, et formule 15 propositions pour 
+accélérer les efforts des industriels. Chacune de ces 15 mesures sera mise en œuvre ou étudiée 
+dans le cadre de cette feuille de route.
+Afin d’accélérer la décarbonation de la filière, l’Etat travaillera avec les principaux acteurs de 
+la filière pharmaceutiques et les plus volontaires, à l’écriture de feuilles de route de réduction 
+des émissions spécifiques à leurs sites de production et à leurs intrants. L’Etat accompagnera 
+les industriels dans l’opérationnalisation de leur transition écologique pour leur permettre 
+d’accélérer de façon viable leur trajectoire de décarbonation. 
+En parallèle, un groupe de travail interministériel piloté par la Direction générale des entreprises 
+(DGE) a initié la construction d’une méthodologie d’évaluation simplifiée de l’empreinte carbone 
+des médicaments. Cette méthodologie pourra servir de base à une éventuelle prise en compte 
+de l’empreinte carbone des médicaments dans le cadre de la régulation macroéconomique du 
+secteur et dans les critères des marchés publics, en lien avec les travaux menés aux niveaux 
+européen et international.
+Cette stratégie initiée sur la filière pharmaceutique pourra être adaptée à la filière du dispositif 
+médical et du diagnostic in vitro suite aux propositions qui remonteront des travaux en cours 
+engagés par le CSF ITS.
+ENGAGEMENTS 
+ O Élaborer d’ici l’été 2024, une méthodologie simplifiée et harmonisée d’évaluation de l’empreinte 
+carbone des produits de santé , médicaments en premier lieu puis dispositifs médicaux et de 
+diagnostics in vitro  dans un second temps.  Ces méthodologies faciliteront la prise en compte 
+uniformisée au niveau national dans les évaluations d’autorisation de mise sur le marché et dans 
+les appels d’offres hospitaliers, d’un critère environnemental. Dans le cadre des travaux européens 
+relatifs à la révision des textes règlementaires pharmaceutiques dont les négociations vont débuter 
+en 2024, les Autorités Françaises soutiendront ces méthodologies pour une meilleure prise en 
+21
+Feuille de route  Planification écologique du système de santé
+compte de l’impact carbone dans les évaluations d’autorisation de mise sur le marché. A la suite de 
+la publication du rapport de la mission régulation des produits de santé, l’Etat étudiera les modalités 
+permettant de prendre en compte l’empreinte carbone des produits de santé dans les mécanismes 
+existants de régulation économique.   
+ O Elaborer avec les industriels, dès le mois de décembre 2023, des feuilles de route de réduction 
+des émissions de gaz à effet de serre . Seront concernés, en plus des principaux sites industriels 
+français, tous les acteurs qui voudraient s’inscrire volontairement dans cette démarche. Ces feuilles 
+de route seront d’abord centrées sur la réduction des émissions directes puis étendues aux émissions 
+indirectes lorsque nous disposerons d’une méthodologie permettant d’évaluer l’empreinte carbone 
+des médicaments et de leurs intrants. Les industriels qui élaboreront de telles feuilles de route 
+bénéficieront d’un accompagnement personnalisé vers les différents guichets d’aide en faveur de la 
+décarbonation. La même démarche sera reproduite avec les industriels du dispositif médical et du 
+diagnostic in vitro dans un second temps.
+ O L’Etat s’engage à expertiser la faisabilité les propositions du comité stratégique de filière afin de 
+compléter les actions déjà identifiées telles que les révisions des dates de péremptions, la e-notice, 
+l’écoconception des conditionnements et emballages, etc. Plusieurs propositions devront être 
+expertisées, notamment les variations du dossier d’autorisation de mise sur le marché en faveur 
+de la décarbonation, l’élargissement des températures de stockage, l’impact sur les émissions des 
+combinaisons à doses fixes de médicaments et les formes à libérations prolongées, l’allongement de 
+la durée de conservation de certains médicaments.
+Parmi les 15 propositions de cette feuille de route, 6 sont déjà lancées et en cours d’opérationnalisation, 
+notamment :
+ ȧ  Une méthodologie commune de bilan carbone des médicaments est en cours de 
+développement et devrait être disponible d’ici l’été 2024 ;
+ ȧ  Cette méthodologie pourra servir de base à une éventuelle prise en compte uniformisée 
+d’un critère environnemental dans les appels d’offre hospitaliers ;
+ ȧ  La démarche « 50 sites » permettra de rediriger les industriels vers les guichets France 2030 
+adéquats pour leurs demandes d’aides en faveur de la décarbonation ;
+ ȧ  L’approvisionnement local en principes actifs et intrants chimiques est pris en compte dans 
+la tarification via l’article 65 de la LFSS 2022 et des relocalisations de principes actifs et 
+intrants essentiels sont soutenues par France 2030 ;
+Les 9 autres propositions sont en cours d’étude et seront instruites par les différents groupes de 
+travail constitués dans le cadre de la feuille de route PESS. D’ici mi-2024, une feuille de route de 
+réduction des émissions de la filière du dispositif médical sera construite par le CSF. 
+ O Par ailleurs, pour le dispositif médical et le diagnostic in vitro, de premiers constats sont attendus 
+pour mi-2024.
+ O Élaborer dans un second temps et une fois la méthodologie en place, d es feuilles de route de 
+réduction des émissions médicament par médicament , en commençant par les plus consommés, 
+passant notamment par un usage approprié ainsi que par l’amélioration des procédés de production 
+ou un approvisionnement local en matières premières et principes actifs. 
+ O Expertiser l’allongement de la durée de conservation de certains médicaments.
+ O Poursuivre les discussions en cours au niveau européen pour intégrer, après une phase 
+d’expérimentation, des critères environnementaux minimaux  déjà prévus par les réglementations 
+s’appliquant aux producteurs européens dans les bonnes pratiques de fabrication des produits 
+importés.   
+22
+Feuille de route  Planification écologique du système de santé
+ DÉJÀ ENGAGÉS 
+ O Dans le cadre de la Stratégie Nationale Bas Carbone, l’ADEME soutient des projets de 
+développement et de déploiement de solutions innovantes en faveur de la décarbonation via  les 
+appels à projets IBaC PME et DEMIBaC.  
+ O Dans le cadre de France 2030, des appels à projets DECARB’IND et DECARB Flash accompagnent 
+la transformation des sites industriels existants et accroissent la demande en solutions innovantes 
+de décarbonation.   
+ O Dans le cadre de France 2030, l’AAP Industrialisation et Capacités Santé 2030 soutient la 
+relocalisation et la réindustrialisation de médicaments essentiels, des biothérapies, des dispositifs 
+médicaux et des produits de lutte contre les maladies infectieuses émergentes avec une attention 
+particulière aux projets passant par une décarbonation des procédés.
+ O Le PIIEC santé intègre un volet verdissement des procédés de production. Ce volet permettra 
+d’accélérer le développement de procédés de production de médicaments et dispositifs médicaux 
+moins émetteurs à échelle européenne ainsi que leur déploiement industriel.
+ O Conformément au cadre défini par la loi relative à la transition énergétique pour une croissance 
+verte, l’État poursuivra, via les Certificats d’Economie d’Energie, le soutien aux efforts de rénovation 
+énergétique des bâtiments, y compris industriels. Au cours de la quatrième période des CEE (2018-
+2021), 18,1% des CEE délivrés étaient à destination de l’industrie. 
+Des initiatives locales inspirantes
+Le développement d’un nouveau procédé de production en chimie en flux continu du paracétamol 
+a permis à Seqens de réduire de près de 80% les émissions liées à la production de ce principe actif. 
+En partenariat avec Sanofi et UPSA et grâce au soutien de l’Etat, la relocalisation de la production de 
+plus de 12 000T/an de ce médicament sur son site de Roussillon permettra à Seqens d’économiser 
+annuellement plus de 50kTCO2eq.
+EUROAPI investit 24 millions d’euros pour la construction d’une chaufferie biomasse de pointe 
+sur son site de Saint-Aubin-lès-Elbeuf (Seine-Maritime). Cet investissement, soutenu par l’Etat à 
+hauteur de 10,4 millions d’euros, devrait permettre de réduire les émissions de près de 76 % en 
+2026 comparativement à 2020, évitant ainsi les émissions d’environ 20 000 tonnes de CO2 par an.
+Dès 2019, Novo Nordisk a transformé sur son site de Chartres l’ensemble de ses process de 
+production pour atteindre la neutralité carbone, objectif atteint depuis début 2022, grâce 
+notamment à la mise en service d’une chaudière biomasse et de deux pompes à chaleur. Par 
+ailleurs, alors que la production augmente de façon continue depuis son implantation en 1961, le 
+site Chartrain est parvenu à réduire sa consommation d’eau de 10% par an ces qu atre dernières 
+années grâce à des optimisations de process.
+  
+23
+Feuille de route  Planification écologique du système de santé
+  Objectif 3 
+Accélérer la transition  
+vers des achats durables  
+9. Données de la Campagne 2022 du MODD menée par l’Anap, 2656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+10. Rapport « Décarboner la santé », The Shift Project, avril 2023
+11. Ibid.
+44 % des structures du secteur interrogées mènent à ce jour des actions en faveur d’achats 
+plus durables mais ne disposent pas d’une politique achats responsables formalisée. 
+53 % n’ont pas de politique de réduction du gaspillage alimentaire, et 20 % ne trient pas 
+ces déchets9.
+La transition des achats du secteur vers des produits durables s’inscrit pleinement dans une démarche 
+de décarbonation ambitieuse des établissements, d’une part, à travers les produits achetés qui 
+intègrent des « quotas carbone » du fait du processus de fabrication industrielle, à l’image des 
+médicaments. Et d’autre part, à travers les impacts de l’utilisation des produits, engendrant des 
+déchets chimiques et plastiques par exemple, ou par le biais des prestations achetées (blanchisseries, 
+restauration, etc.). Le rapport du think tank « The Shift Project » évalue les émissions de la catégorie 
+« Achats » à environ 32 MtCO2e10 , soit plus de 60 % des émissions du secteur.
+Le sujet de l’alimentation durable est intégré aux travaux sur les achats. Le poste de l’alimen-
+tation occupe une part très importante des émissions de gaz à effet de serre du secteur : 11 %, 
+3e source d’émission11.
+ ENGAGEMENTS 
+SUR LES ACHATS DURABLES
+ O La mission Performance Hospitalière pour des Achats REsponsables (PHARE) de la Direction 
+générale de l’offre de soins (DGOS) collabore à la construction de la politique des achats hospitaliers 
+durables, en complément des démarches interministérielles suivantes :
+• Accompagner avec le Plan national des achats durables 2022-2025 les établissements et les 
+réseaux d’acheteurs, en élaborant une plateforme d’achats durables (guichet unique avec espace 
+dédié aux acheteurs de la santé), par des travaux sur l’analyse du cycle de vie, ou encore par la 
+participation aux MOOC élaborés par le Commissariat général au Développement Durable ;
+• Élaborer via  l’Observatoire économique de la commande publique des indicateurs d’achats 
+durables et réaliser un recensement de tous les indicateurs présents dans les textes réglementaires 
+et législatifs ;
+• Promouvoir systématiquement la prise en compte d’un critère environnemental dans les achats 
+hospitaliers de produits de santé, pour lequel les offres pourront notamment être évaluées à partir 
+de la méthodologie de bilan carbone développée avec la Direction générale des entreprises.
+24
+Feuille de route  Planification écologique du système de santé
+  Publier début 2024 de nouveaux outils pour les acheteurs hospitaliers - boussole verte présentant 
+par thèmes l’intégralité des mesures applicables aux établissements hospitaliers et les ressources 
+associées, et cartes d’orientation pour informer sur les bonnes pratiques par segments d’achats.
+  Publier début 2024 les résultats de l’itinéraire éco-maturité, visant à mesurer l’état d’avancement 
+des achats durables au sein des établissements de santé.
+ O L’Assurance Maladie s’engage également en matière d’achats durables à :  
+• Examiner la prise en compte de critères environnementaux dans les négociations tarifaires ;
+• Étudier la mise en place d'un scoring carbone (en lien avec le Greener NHS) ;
+• Analyser dans un cadre européen les conditions permettant de mettre en place un scoring  
+commun.
+SUR L’ALIMENTATION DURABLE 
+ O Dans le cadre du Plan national des achats durables (PNAD) : travaux en cours pour atteindre 100 % 
+des marchés avec une considération environnementale en 2025  (dont l’alimentation).
+ O Déploiement en 2024 de l’expérimentation « Lundis verts  » (repas végétarien pour tous les 
+professionnels et usagers une fois par semaine) dans plusieurs établissements volontaires, 
+accompagnée d’une campagne de communication dédiée. A titre d’illustration, la réduction des 
+émissions de GES générée par le déploiement de ce dispositif dans chaque ménage français serait à 
+peu près équivalente à celles de tous les vols domestiques en France .
+ O Sensibiliser les établissements sanitaires et médicosociaux à la diminution du gaspillage alimentaire 
+et les inciter à passer des partenariats avec des associations locales pour limiter le gaspillage 
+alimentaire. Déployer des logiciels open source permettant de calculer le gaspillage alimentaire ainsi 
+que l’impact carbone de la restauration collective.
+  Piloter l’abaissement de l’empreinte carbone de l’alimentation en veillant à l’équilibre nutritionnel 
+spécifique des personnes accompagnées : outiller les acteurs en bonnes pratiques et travailler avec 
+les fédérations sur le recours à des centrales d’achats plus décarbonées ou à l’intégration dans des 
+circuits d’approvisionnements territoriaux courts ou bas-carbone. Mobiliser les filières d’insertion 
+du handicap par le travail pour contribuer à l’émergence des filières courtes et décarbonées.
+  Associer les personnes âgées/vivant avec un handicap et leurs proches à la mise en place de 
+nouveaux modes d’alimentation.
+ DÉJÀ ENGAGÉS 
+SUR LES ACHATS DURABLES
+ O Définition d’un dispositif interministériel dès 2021 pour définir des actions vertueuses et pérennes 
+dans le cadre d’une transformation nationale des achats durables hospitaliers :
+• Carnets de bord à destination des acheteurs et du management de la fonction achats durables ;
+• Parcours de formation aux achats durables pour rendre les bonnes pratiques et les organisations 
+achats durables pérennes.
+  Septembre 2024 :  des formations aux achats durables , élaborées par l’ANFH, ont été déployées 
+pour les acheteurs et responsables achats du secteur. 200 personnes ont été formées à l’automne 
+2023. Un MOOC Achat durable du PNAD est également diffusé depuis la rentrée 2023 ; une centaine 
+d’établissements de santé s’y sont inscrits.
+25
+Feuille de route  Planification écologique du système de santé
+SUR L’ALIMENTATION DURABLE
+ O Mesure prévue par le Ségur de la Santé « Repas à l’Hôpital » : expérimentation pilotée par la 
+DGOS, menée dans trois établissements de santé pilotes afin d’augmenter la part d’alimentation 
+durable et biologique et de réduire le gaspillage alimentaire.
+ O Mise en œuvre de la loi du 30 octobre 2018 pour l'équilibre des relations commerciales dans le 
+secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous, dite loi Egalim 
+et de la loi du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la 
+résilience face à ses effets, dite loi Climat et Résilience , avec notamment :
+• La suppression des bouteilles d’eau distribuées gratuitement depuis le 1er janvier 2021 ;
+• L’obligation du don des repas non consommés par la signature d’une convention avec une 
+association d’aide alimentaire au-delà de 3000 repas par jour ;
+• L’obligation de 50 % de produits de qualité dont 20 % bio et 100 % de viande et produits de la 
+pêche durables et de qualité depuis le 1er janvier 2022 ;
+• L’obligation du tri des bio-déchets depuis le 1er janvier 2023 pour les producteurs et détenteurs 
+de plus de 5 tonnes puis pour tous au 31 décembre 2023.
+ O Mise en œuvre de la loi du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie 
+circulaire, dite loi AGEC , qui impose l’interdiction du plastique pour les contenants alimentaires 
+de cuisson, de réchauffage et de service notamment dans les services de pédiatrie et de maternité 
+au plus tard le 1er janvier 2025. En plus de la réduction du volume des déchets plastiques, l’objectif 
+est de diminuer l’exposition des enfants et des femmes enceintes aux perturbateurs endocriniens. 
+Des concertations sont actuellement menées par le ministère de la Santé et de la Prévention afin 
+d’assurer la suppression progressive des contenants alimentaires en plastique dans ces services. 
+Certaines dérogations sont à l’étude afin de respecter un objectif d’hygiène et de traçabilité. 
+ O Élaboration de la cartographie de l’ensemble des réglementations  portant sur la restauration 
+collective par la mission PHARE de la DGOS.
+Des initiatives locales inspirantes
+Dans le cadre de leur partenariat stratégique d’innovation baptisé ASTRI&DD 1, le Centre 
+hospitalier universitaire de Rennes et la société Philips se sont engagés à participer activement à 
+la réduction de leur empreinte environnementale, avec un premier cas d’usage : l’analyse de cycle 
+de vie (ACV) d’un système biplan d’imagerie interventionnelle (Azurion FD20/15, Philips, Pays-Bas) 
+dédié à la neuroradiologie. Différents leviers ont été identifiés par les équipes afin de diminuer 
+cette contribution, et un plan d’action concret est en cours de déploiement : co-développement 
+d’un mode d’économie d’énergie, élargissement du périmètre de l’ACV à l’ensemble de la 
+salle (équipements, consommables, déchets, traitement et stockage des données médicales, 
+ventilation, etc.), exploration d’un modèle d’économie circulaire, partage des bonnes pratiques 
+des programmes fournisseurs, retour d’expérience sur la méthode PEF auprès de la Commission 
+européenne, etc.
+Une politique active de lutte contre le gaspillage alimentaire a été mise en place au sein du centre 
+hospitalier de Jonzac (17). Une réflexion a été menée par un groupe de travail coordonné par le 
+Comité de Liaison Alimentation Nutrition (CLAN) afin de réduire fortement le gaspillage alimentaire 
+notamment dans les services de très courts séjours (urgences, hôpitaux de jour).
+26
+Feuille de route  Planification écologique du système de santé
+  Objectif 4 
+Transformer et accompagner 
+les pratiques vers les soins 
+écoresponsables dès 2023
+12. Données de la Campagne 2022 du MODD menée par l’Anap, 2 656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+53 % des structures du secteur interrogées ne mènent pas d’action pour limiter l’impact 
+environnemental des produits dangereux qu’elles utilisent12.
+Le soin « écoresponsable » est un acte de soin qui, à qualité et sécurité égales, engendre un impact 
+moindre sur l’environnement. De plus en plus plébiscité par les professionnels, il questionne la 
+pertinence du soin effectué. La réduction de l’impact environnemental des soins répond aux 
+problématiques de sur-utilisation, de sous-utilisation ainsi que de gaspillage opérationnel. Les 
+démarches de soins écoresponsables peuvent contribuer à améliorer la qualité de vie au travail 
+et à terme, à renforcer l’attractivité des structures où elles sont mises en œuvre.
+ ENGAGEMENTS 
+ O  Déployer des bonnes pratiques en matière de soins écoresponsables et de prescriptions plus 
+sobres par le biais d’un référentiel national : recenser l’existant et disposer d’un état des lieux avec 
+des critères de priorisation (impact, facilité de mise en œuvre, reproductibilité, engagement des 
+professionnels…), identifier les dispositions réglementaires bloquantes pour les faire évoluer.
+  Déployer en janvier 2024 le deuxième questionnaire de recensement des pratiques, en capitalisant 
+sur l’expérience issue du premier recensement, sous pilotage Anap-DGOS. L’enjeu est d’identifier les 
+bonnes pratiques de soins écoresponsables, évaluées et validées, afin de les diffuser pour les faire 
+connaître et embarquer les structures et les professionnels dans la démarche. Un comité de lecture 
+composé d’experts en santé environnement est mis en place pour identifier les pratiques pouvant 
+être diffusées.
+ O Développer la sobriété des prescriptions  et mener une réflexion sur la dé-prescription et les 
+alternatives non médicamenteuses .
+ O Développer et renforcer les évaluations de pratiques de soins écoresponsables, par des analyses 
+scientifiques, des analyses de cycle de vie et des bilans carbone effectués de façon globale et 
+standardisée.
+ O Identifier les ressources et les leviers nécessaires à la promotion de la sobriété du soin. Outre les 
+actions de formation et de sensibilisation à la démarche, la recherche devra être développée, de 
+même que les données scientifiques, notamment sur la promotion et le soutien des thérapeutiques 
+non médicamenteuses qui présentent de nombreux co-bénéfices.
+27
+Feuille de route  Planification écologique du système de santé
+ O Travailler sur la pertinence des soins et des parcours de soins incluant des critères environnementaux, 
+en lien notamment avec les réflexions sur la tarification à l’activité. Ajuster la consommation de 
+médicament aux besoins réels (juste prescription, juste délivrance, dé-prescription, prescription de 
+thérapeutiques non médicamenteuses, etc.).
+ O Réduire d’ici 2025 l’usage des gaz anesthésiants à fort effet de serre (remplacer notamment 
+le desflurane et l’isoflurane par du sévoflurane) sauf cas clinique exceptionnel, et interdire la 
+construction des réseaux de Protoxyde d’azote dans les nouveaux projets immobiliers.
+ O Réduire d’ici 2025 l’usage des inhalateurs à gaz à fort effet de serre au profit d’autres types 
+d’inhalateurs lorsque le cas clinique le permet.
+  Poursuivre les efforts de maitrise médicalisée, identifier et réduire les prescriptions non conformes.
+ O Réfléchir à l’intégration de la dimension écoresponsable des actes et soins dans les évaluations et 
+recommandations de la Haute Autorité de santé.
+ O Embarquer les usagers de l’offre de soins pour les convaincre du bien-fondé et des co-bénéfices 
+d’une démarche de sobriété du soin et en faire des acteurs à part entière des soins écoresponsables.
+  Promouvoir une utilisation raisonnée des produits chimiques  en milieu hospitalier (exemple des 
+produits biocides utilisés pour le nettoyage des surfaces).
+ DÉJÀ ENGAGÉS 
+ O Déploiement en décembre 2022 d’un questionnaire visant à recenser les pratiques actuelles en 
+matière de soins écoresponsables afin d’établir un premier état des lieux et de permettre un partage 
+généralisé de bonnes pratiques, piloté par la Direction générale de l’offre de soins et un groupe de 
+travail de professionnels de santé bénévoles.
+ O Des travaux déjà engagés par le ministère de la Santé et de la prévention relatifs à la dispensation de 
+médicaments à l’unité, la sensibilisation à la nécessité de protéger les professionnels de santé en contact 
+avec le formaldéhyde (formol) et la promotion de l’utilisation de dispositifs adaptés à investiguer.
+ O Lancement d’un Comité de pilotage développement durable sur les produits de santé  : en 
+collaboration avec l’Ordre national des Pharmaciens, l’Anap a engagé un recensement des initiatives 
+écologiques relatives à l’approvisionnement et à l’utilisation des produits de santé (médicaments et 
+dispositifs médicaux). Ces initiatives peuvent émaner d’industriels ou de professionnels de santé. Elles 
+sont notamment valorisées dans la « Plateforme des Bonnes Pratiques » mise en place par l’Anap. Les 
+travaux de ce Copil étant terminés, certains des membres ont rejoint le groupe de travail sur les soins 
+écoresponsables pour mieux porter la dimension « produits de santé ».
+  Décembre 2023 : inscription en LFSS 2024 d’une mesure d’expérimentation pour le retraitement 
+des dispositifs médicaux à usage unique (DMUU) . Les établissements de santé seront les seules 
+structures autorisées à participer à cette expérimentation, qui vise notamment à mesurer l’impact 
+environnemental de cette pratique. Il est ainsi proposé aux établissements, soit d’acheter des 
+dispositifs à usage unique retraités auprès de fabricants de dispositifs médicaux, en vue de leur 
+réutilisation, soit de faire retraiter les DMUU utilisés en leur sein par une entreprise de retraitement 
+externe. Quatre structures seront accompagnées pendant deux ans, avec un financement pour les 
+moyens humains et l'ingénierie. Par ailleurs, une mission des Inspections générales des Affaires sociales 
+et de l'environnement et du développement durable a également été lancée en septembre 2023 afin 
+d’étudier les organisations mises en place dans les Etats-membres, pour réfléchir à la faisabilité d’une 
+filière de DMUU retraités marqués CE (identification des DM (coût, volume, type de DM), qui pourrait 
+porter cette activité.
+28
+Feuille de route  Planification écologique du système de santé
+ O Le projet de décret en Conseil d’État relatif à la remise en bon état d’usage des dispositifs médicaux 
+a fait l’objet d’une concertation avec l’ensemble des parties prenantes. Il sera prochainement transmis 
+au Conseil d’État avec un objectif de publication au premier trimestre 2024.
+Une initiative locale inspirante
+La polyclinique La Pergola  à Vichy (03) a déployé une politique environnementale 
+ambitieuse. Parmi les mesures mises en place, l'établissement a souhaité parvenir à la suppression 
+totale de l'usage du protoxyde d'azote dans les blocs opératoires. Ce gaz anesthésique, quatrième 
+gaz à effet de serre avec un potentiel « réchauffant » 300 fois supérieur à celui du CO2 à masse 
+équivalente, a également des effets délétères pour les personnels fréquemment exposés et 
+est souvent responsable de nausées et de vomissements postopératoires pour les patients. La 
+consommation de ce gaz a été réduite par 10 en deux ans. Son usage a été totalement supprimé 
+au bloc opératoire ; il reste utilisé aux urgences, pour les actes de confort en pédiatrie, et pour 
+certaines interventions spécifiques en pneumologie et radiologie, avec le recours à des dispositifs 
+portatifs de mélanges gazeux.
+29
+Feuille de route  Planification écologique du système de santé
+  Objectif 5      Accélérer la réduction
+des déchets et leur 
+valorisation d’ici 2030 et 
+optimiser le périmètre 
+DASRI pour le limiter le 
+plus possible dès 2024
+13. Données de la Campagne 2022 du MODD menée par l’Anap, 2 656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+14. Rapport « Décarboner la santé », « The Shift Project », avril 2023
+15. The impact of surgery on global climate: a carbon footprinting study of operating theatres in three health systems, Andrea J MacNeill MD, Robert Lillywhite, Prof Carl J Brown MD, 
+2017).
+33 % des structures du secteur interrogées se sont fixé des objectifs de réduction et 
+valorisation des déchets. Seulement 24 % d’entre elles trient, pèsent et valorisent leurs 
+déchets alimentaires13.
+Le think tank « The Shift Project » estime les émissions de la catégorie « Déchets » du secteur à 
+0,4 MtCO2e14. Ces émissions se répartissent entre DASRI (déchets d’activités de soins à risques 
+infectieux), DAOM (déchets assimilés aux ordures ménagères), et traitement des eaux usées. 
+Le secteur produirait 700 000 tonnes  par an de déchets de toutes sortes, soit 3,5 % de la 
+production nationale. 20 à 30 % des déchets hospitaliers proviendraient des blocs opératoires 
+et la production moyenne d’équivalent carbone par opération chirurgicale a été estimée à 
+184 kgCO2e15. Le traitement des DASRI représente un impact environnemental et écologique 
+significativement plus important que les DAOM.
+ ENGAGEMENTS 
+  Travaux en 2024 sur la dématérialisation de certaines notices de médicaments, afin de limiter les 
+coûts carbone et environnementaux liés à la production et aux déchets de notices imprimées.
+ O Automatiser les stocks dans les pharmacies à usage intérieur pour permettre une meilleure 
+gestion des stocks et une réduction des déchets de médicaments.
+ O Redéfinir le périmètre des déchets d'activités de soins à risques infectieux et assimilés (DASRI) et 
+développer la réutilisation des emballages des DASRI en accompagnant les expérimentations. Achever 
+l’actualisation du guide des DASRI en 2024 et limiter le périmètre d’application en accord avec les 
+représentants des secteurs et l’avis rendu par le Haut Conseil de la Santé Publique (HCSP) en juin 2023.
+ O Développer le recyclage des déchets hors DASRI, permettre la valorisation des déchets d’activités 
+de soins issus notamment des dispositifs médicaux et mettre en place une filière de valorisation des 
+matériaux précieux. 
+ O Développer des circuits d’économie circulaires dans le prolongement des mesures relatives à la 
+remise en bon état d’usage des dispositifs médicaux.
+ O Préfigurer une filière à responsabilité élargie des producteurs (REP) sur l es textiles sanitaires à 
+usage unique.
+  Réviser les critères légaux de détermination d’un médicament non utilisé (MNU).
+  Travaux d’expertise visant à créer et expérimenter les conditions permettant la re-dispensation 
+de certains médicaments non utilisés.
+30
+Feuille de route  Planification écologique du système de santé
+  Apprécier l’évolution ou l’adjonction au dispositif des filières REP d’un outil de revalorisation des 
+produits de santé en fin de vie et notamment des médicaments non utilisés.
+ O Adopter et systématiser le principe des « 5R  » (« Refuser, Réduire, Réutiliser, Recycler et Rendre 
+à la terre ») et intégrer la notion de fin de vie dès l'achat (récupération, circuit de valorisation en 
+privilégiant le réemploi, la réutilisation et ensuite le recyclage).
+  Expertiser l’allongement de la durée de conservation de certains médicaments.
+ O Développer des circuits d’économie circulaires et soutenir la remise en bon état d’usage.
+ O Développer des solutions pour la gestion des excrétas des patients traités par des cytotoxiques, 
+dans les établissements et à domicile.
+ O Mettre en place une filière de collecte et valorisation des verres médicaux issus des soins en 
+établissements.
+ O Permettre la régénération des surplus industriels .
+  Renforcer l’écoconception des conditionnements et emballages.
+ O Inciter les établissements à faire composter sur site les bio-déchets, permettant de réduire les 
+taxes et coûts de collecte et traitement des déchets, ainsi que le budget lié à l’entretien des espaces 
+verts, ou bien à s’inscrire dans le groupement de communes pour les collecter et valoriser.
+ DÉJÀ ENGAGÉS 
+ O Lancement en février 2023 par la DGOS d’un appel à projet en lien avec la Mesure 14 du Ségur auprès 
+d’établissements publics de santé visant à mener une expérimentation sur un an pour la réduction et la 
+valorisation du plastique à usage unique et des déchets alimentaires. 6 lauréats ont été annoncés en mai 
+2023 : le CH de Mende (48), le GH Nord-Essonne (91), le CH Eure-Seine (27), le CHU de Nantes (44), l’AP-HM 
+(13) et le GHT Alliance de Gironde (33). O 2023 : développement de la délivrance de médicaments à l'unité.
+  2023 : développement de la délivrance de médicaments à l'unité.
+  Décembre 2023 : une mesure inscrite en LFSS 2024 vise à limiter la génération de déchets de soins. 
+Le texte prévoit un mécanisme de remise obligatoire pour l'exploitant en cas d'inscription sur la 
+liste des produits et prestations d'un produit de santé présentant un conditionnement inadapté ou 
+dont l'utilisation est génératrice de déchets de soins supplémentaires ou de gaspillage par rapport 
+à la prise en charge existante. Ce mécanisme contribue à assurer le développement et la mise à 
+disposition de dispositifs médicaux plus vertueux sur le plan environnemental.
+  Décembre 2023 : une mesure inscrite en LFSS 2024 promeut l’usage de protections périodiques 
+réutilisables afin de réduire les déchets. Ces protections sont prises en charge dans un cadre 
+spécifique par un circuit Assurance maladie, pour les femmes de moins de 26 ans et les bénéficiaires 
+de la Complémentaire santé solidaire, à compter de 2024.
+Des initiatives locales inspirantes
+Au centre hospitalier universitaire de Toulouse (31), l’initiative « Leboncoin du CHU » est 
+proposée depuis octobre 2020 aux 16 000 agents du CHU. Ce projet permet de déposer 
+un matériel à échanger, validé par le cadre puis vérifié par les équipes logistiques en 
+charge des déménagements, de récupérer un matériel disponible sur la base d'une liste classée 
+par catégorie, avec photo et éléments qualitatifs. Une communication spécifique – axée sur une 
+newsletter, un référent par site et une assistance téléphonique – a permis de diffuser largement 
+et de susciter l’intérêt du personnel. En dix-huit mois d'existence, les résultats sont probants : 
+près de 800 équipements échangés, 58 % concernent du mobilier de bureau, 13 % du mobilier de 
+chambre, 11 % du mobilier de soin et 18 % du mobilier divers (logistique, autres), pour une économie 
+financière générée estimée à 250 000 €.
+Au sein des crèches du centre hospitalier universitaire de Limoges  (87), pour limiter l'usage du 
+plastique, des contenants en verre (verres et biberons) sont utilisés pour boire. Les repas et les 
+goûters sont servis dans des plateaux en porcelaine, qui sont également déployés au domicile des 
+assistantes maternelles.
+31
+Feuille de route  Planification écologique du système de santé
+  Objectif 6      Former et sensibiliser tous
+les professionnels et 
+acteurs de santé à l’urgence 
+écologique, aux enjeux 
+santé-environnement,
+à l’écoconception des soins 
+et des accompagnements 
+médicosociaux, et soutenir des 
+projets de recherche d’ici 2025 
+16. Rhumatologue cheffe de Clinique des Universités et assistante des Hôpitaux aux Hospices Civils de Lyon, référente du volet formation du rapport du think tank « The Shift 
+Project » « Décarboner la santé », avril 2023
+Dans le cadre d’une étude sur la nécessité de préparer les soignants de demain aux enjeux 
+environnementaux, réalisée par le Docteur Marine Sarfati 16, 96 % des étudiants interrogés 
+ont estimé que le changement climatique figure parmi les enjeux majeurs du XXI e siècle. 
+84 % pensent que les enjeux climatiques devraient être enseignés durant les études en 
+santé, dont 54 % de manière obligatoire.
+ ENGAGEMENTS 
+1. FORMER TOUS LES AGENTS EN ÉTABLISSEMENT PUBLIC DE SANTÉ À LA TRANSFORMA-
+TION ÉCOLOGIQUE 
+ O Former d’ici 2025, 6  500 professionnels encadrants de la Fonction publique hospitalière 
+(Directeurs d’hôpital, directeurs d’établissements sanitaires, sociaux et médicosociaux, directeurs 
+des soins, présidents de Commissions médicales d'établissement), en co-pilotage avec le ministère 
+de la Transformation et de la Fonction publiques. Seront en parallèle formés des agents volontaires, 
+à l’École des Hautes Études en Santé Publique, pour devenir formateurs relais et ainsi former 100% 
+des agents de la fonction publique hospitalière d’ici fin 2027. 
+  Former l’ensemble des agents de l’Assurance maladie aux enjeux de la transition écologique.
+2. EN PARALLÈLE, D’AUTRES ACTIONS DE FORMATION ET DE SENSIBILISATION SERONT 
+DÉVELOPPÉES
+ O Insérer à l’offre de formation initiale  un socle commun obligatoire de connaissances et de 
+compétences sur la transition écologique pour tous les étudiants en santé de premier cycle, en lien 
+avec le ministère de l’Enseignement supérieur et de la Recherche (MESR).
+ O Inscrire la formation continue aux enjeux santé-environnement et à l’évolution des 
+recommandations et bonnes pratiques pour une transformation écologique au plan de formation de 
+chaque établissement de santé et parmi les orientations prioritaires du Développement Professionnel 
+32
+Feuille de route  Planification écologique du système de santé
+Continu (DPC) des professionnels libéraux et des OPCO pour l’ensemble des professionnels et 
+acteurs de santé.
+ O Déployer dans les établissements des ateliers de sensibilisation à fort impact.
+ O Diffuser largement les divers guides de bonnes pratiques et référentiels élaborés par le ministère de la 
+Santé et de la prévention, l’Anap et le CSIS. Pour les cabinets de santé, déployer les outils déjà développés 
+par associations santé-environnement, et organisations professionnelles, après les avoir validés.
+ O Sensibiliser et impliquer les résidents  dans les établissements médicosociaux, via notamment les 
+Conseils de la vie sociale. 
+ O Sensibiliser les patients, usagers et la population  en général à ces initiatives favorables à la santé 
+et la protection des écosystèmes.
+3. DE NOUVEAUX PROJETS DE RECHERCHE DEVRONT ÉGALEMENT ÊTRE SOUTENUS
+Sensibiliser et inciter les communautés de recherche à proposer des projets portant sur l’impact 
+environnemental des soins et du système de soins  aux guichets de financement de la recherche 
+appliquée en santé, afin notamment d’ étoffer le corpus scientifique sur les méthodologies 
+d’estimation de l’impact environnemental  des soins et du système de soins. Encourager la 
+mutualisation des efforts d’innovation en matière d’équipements à basse consommation ou faible 
+émission de GES. Encourager les Partenariats Publics-Privés sous pilotage des centres universitaires 
+ou de formation permettant l’accès à leurs plateformes d’équipements.  
+ DÉJÀ ENGAGÉS 
+EN MATIÈRE DE FORMATION
+ O Prise en compte dans les référentiels de certification périodique d’actions correspondant aux 
+orientations scientifiques en faveur de la santé environnementale et sociétale, promouvant les soins 
+écoresponsables. 
+ O Inscription aux orientations annuelles de Développement professionnel continu de 2020 
+et 2022 d’éléments relatifs à la santé environnementale (« appréhension des enjeux liés à la santé 
+environnementale »).
+ O Mise en place de la formation ChanCES – Changement climatique, transitions et santé  à l’EHESP, 
+ouverte à tous les professionnels du secteur intéressés, afin d’analyser, de coordonner, de piloter ou 
+de développer des projets pour atténuer l’impact environnemental des modes de fonctionnement 
+d’une institution ou d’un territoire, et de les adapter aux bouleversements en lien avec le changement 
+climatique dans un objectif de protection des populations et des fondements de la santé publique. 
+La formation vise le déploiement sur le territoire de formateurs relais .
+   Juillet 2023 : Déploiement depuis juillet 2023 d’un programme à la transition écologique qui fait 
+partie du premier plan en Europe pour former tous les agents publics aux enjeux environnementaux 
+et à la mise en œuvre d’un plan d’une démarche de transition écologique dans leur établissement. 
+La formation est prévue en 3 phases :
+• Formation présentielle des trios de tête de GHT, soit environ 500 personnes d’ici fin 2024.
+• Formation mixte (présentiel et distanciel) des dirigeants. Soit environ 6000 personnes d’ici 2025.
+• Formation distancielle des agents publics d’ici à 2027.
+Déployée dans une première phase pour les trios de GHT par l’Anap (Président du COSTRAT de GHT, 
+PCMG et Coordonnateur Général des soins), le relais de formation pour les autres phases sera pris 
+par l’EHESP. La région PACA est pilote du déploiement et sera suivie par l’Ile de France, la Bretagne, 
+la Normandie et la Nouvelle-Aquitaine. La formation se compose d’une partie sur la compréhension 
+33
+Feuille de route  Planification écologique du système de santé
+des grand enjeux environnementaux et de leurs impacts sur le secteur de la santé, de la projection 
+sur comment impulser la démarche dans son établissement et de l’action sur l’identification des 
+actions les plus impactantes à mettre en œuvre. Elle se termine par une visite terrain multi versants, 
+organisée en région, et partagée avec les cadres de la Fonction publique d’Etat.
+EN MATIÈRE DE RECHERCHE
+ O Ouverture en 2023 par la Direction générale de l’offre de soins du Programme de recherche sur la 
+performance du système de soins (PREPS, doté d’environ 15 millions d’euros) aux projets s’intéressant 
+à l’impact environnemental du système de soins.
+ O Pilotage et financement un appel à projets européen dans le cadre du Partenariat européen sur 
+la transformation des systèmes de soins (PTHCS) portant sur la soutenabilité environnementale des 
+systèmes de soin , à hauteur de 4,5 millions d’euros. L’appel à projets a été publié en avril 2023, les 
+premiers projets financés seront connus en fin d’année 2023.
+Une initiative inspirante
+L’Institut des Sciences de l’Entreprise et du Management (ISEM) de l’Université de 
+Montpellier ont développé, en partenariat avec le C2DS et le CESEGH, un Diplôme universitaire de 
+Management du développement durable en santé. Ouvert à la formation initiale et continue, dans un 
+contexte de sensibilisation croissante des acteurs de la santé à leur rôle environnemental, social et 
+sociétal, ce DU vise à transmettre les savoirs constitués en matière auprès du public des responsables 
+hospitaliers et des entreprises qui interviennent dans les secteurs sanitaire et médicosocial.
+34
+Feuille de route  Planification écologique du système de santé
+  Objectif 7 
+Accélérer la transition vers 
+des transports et des 
+schémas de mobilité 
+à faibles et très faibles 
+émissions d’ici 2030
+17 . Données de la Campagne 2022 du MODD menée par l’Anap, 2656 établissements interrogés (sanitaire, médicosocial, social, tous secteurs confondus).
+18. Rapport « Décarboner la santé », « The Shift Project », avril 2023
+19. Guide des pratiques vertueuses en développement durable des établissements de santé, C2DS, novembre 2021
+43 % des structures du secteur affirment n’avoir pas encore pris en compte l’enjeu de la 
+mobilité. 29 % d’entre elles seulement ont mis en place un plan d’actions de premier niveau 
+pour les déplacements domicile/travail17.
+Le volet « Déplacements » du secteur sanitaire et médicosocial représente, selon le rapport 
+du think tank « The Shift Project », 6,8 MtCO2e 18. D’après son Guide des pratiques vertueuses 
+en développement durable des établissements de santé, le Comité pour le Développement 
+Durable en Santé (C2DS) estime qu’un quart des émissions de gaz à effet de serre générées 
+par un établissement de santé est dû aux transports 19. Le bilan carbone du volet transports 
+est encore plus conséquent pour certaines spécialités médicales, à l’image des centres de 
+radiothérapie, pour lesquels il s’agit de la première source d’émissions carbone. L’ensemble de 
+la filière transports et mobilités doit être repensée : transports sanitaires et véhicules d’urgence, 
+déplacements professionnels (médicaux et paramédicaux, hospitalisation à domicile), 
+déplacements des usagers et des visiteurs et déplacements domicile-travail des professionnels.
+ ENGAGEMENTS 
+ O Accompagner la transition du transport pour la réalisation de soins (transporteurs sanitaires, taxis, 
+déplacements des professionnels de santé de ville, etc.) : intégration d’objectifs et de dispositifs 
+incitant aux déplacements sobres en carbone (ex. : bonus électrique pour les transporteurs sanitaires, 
+indemnité kilométrique vélo pour les professionnels de santé de ville,…).
+ O Développer le recours au carburant Biogaz  pour les flottes de poids lourds.
+ O Aider au développement d'outils favorisant le covoiturage et les transports sanitaires partagés
+ O Appuyer le déploiement des outils de plateformes de commandes permettant une optimisation 
+des tournées ou la gestion de véhicules en pool .
+ O Déployer des navettes de délestage .
+ O Inciter à l’achat de véhicules d’occasion et de vélos de service.
+ O Évaluer les plans de mobilité  rendus obligatoires par la LOM pour les établissements de plus de 
+100 salariés.
+  Faciliter le dialogue de filière  pour harmoniser les pratiques et apprécier les conditions de 
+communalisation du dernier kilomètre.
+  Étudier la possibilité de mettre en place la dématérialisation des documents de transport.
+ O Mettre en place, pour les déplacements patients et visiteurs et les déplacements domicile-travail, 
+un « point info mobilité  » sur le site internet de l’établissement indiquant les modes de transports 
+35
+Feuille de route  Planification écologique du système de santé
+possibles, ainsi que les avantages et inconvénients de chacun des modes.
+ O Intégrer la sobriété carbone dans le virage domiciliaire du médico-social et la manière d’organiser 
+l’accompagnement hors les murs.
+ O Inciter à limiter les kilomètres parcourus pour les formations et conférences : développer le 
+e-learning et les colloques de proximité accessibles en train .
+ O Développer la communication  autour des co-bénéfices santé-environnement-économie de la 
+mobilité active, douce, collective.
+ DÉJÀ ENGAGÉS 
+ O Obligation depuis le 1 er janvier 2020, dans le cadre de la loi d'orientation des mobilités de 2019 
+(LOM) d’établir un Plan de Mobilité employeur pour chaque établissement de santé (transport des 
+professionnels, déplacements professionnels, transport des patients, des visiteurs, des fournisseurs, 
+des marchandises et des partenaires. Facilitation à l’usage de moyens de mobilité active (marche, 
+vélo, trottinette), au co-voiturage, aux transports en commun, mise à disposition de stationnement 
+adéquat et sécurisé, de douches, réflexion sur les horaires de travail (personnel administratif et 
+soignant), etc.). Le plan de mobilité doit être intégré dans le volet écoresponsable des projets 
+d’établissement de santé, dans leurs CPOM validés par l’Agence régionale de santé.
+ O Entrée en vigueur le 10 mai 2020 du « Forfait mobilités durables  » pour la Fonction publique 
+hospitalière afin d'encourager le recours à des transports plus propres pour les trajets domicile-travail.
+ O Réalisation en septembre 2022 d’un guide par l’Anap pour mettre en œuvre une flotte de véhicules à 
+faibles ou très faibles émissions et mise en place en cours d’appuis terrain demandés par des établissements.
+  Novembre 2023 : un bonus écologique est versé depuis novembre 2023 aux transporteurs 
+sanitaires qui utiliseront des véhicules électriques (sous la forme de forfait : 300 euros pour les 
+véhicules sanitaires légers et 1 100 euros pour les ambulances).
+  Décembre 2023 : inscription en LFSS 2024 d’une mesure visant à développer l’usage de transports 
+partagés pour les patients. Elle prévoit que « lorsque le transport partagé est jugé compatible avec 
+l'état de santé du patient et que le transporteur a été en capacité de proposer un transport partagé 
+au patient, si le patient le refuse, il doit faire l'avance de frais et ne sera remboursé par l'Assurance 
+maladie que sur la base du tarif de transport partagé ». Actuellement, le transport partagé représente 
+moins de 15% des dépenses pour les véhicules sanitaires légers, une part stable depuis 2018 mais 
+aussi plus faible que dans d'autres pays. Le développement des transports partagés a par ailleurs été 
+inscrit en 2023 aux textes conventionnels de la Caisse nationale d’assurance maladie.
+Une initiative locale inspirante
+Au centre hospitalier universitaire de Montpellier (34) : au premier semestre 2022, une 
+réflexion a été lancée sur les déplacements domicile/travail des 12 000 agents et les déplacements 
+professionnels des 264 véhicules de la flotte. Le CHU s’est engagé à planifier le renouvellement des 
+véhicules de sa flotte jusqu’à 2027 afin d’augmenter la part de véhicules à faibles émissions. Lors 
+des acquisitions ou remplacements de véhicules, les citadines circulant dans la métropole sont 
+systématiquement achetées avec une motorisation électrique. A minima 50 % des renouvellements 
+des VP ou des VUL seront des véhicules à faibles émissions (CO2 < 50 g/km). En parallèle, le CHU 
+réalise des tests de motorisation électrique pour des véhicules spécifiques (mise en service 
+d’un véhicule électrique à température dirigée pour le transport sanguin, expérimentation pour 
+alimenter les systèmes de froid du véhicule grâce à de l’énergie solaire, expérimentation d’un 
+véhicule Samu électrique).  Au-delà des véhicules de la flotte, le CHU embarque ses prestataires 
+dans la démarche. Les 12 poids lourds de la société Berto qui acheminent les approvisionnements 
+entre la plateforme logistique et les différents sites du CHU fonctionnent au biodiesel depuis 
+le 1er septembre 2022. Le CHU est le premier établissement à avoir été labélisé « Employeur Pro 
+Vélo ! » en avril 2023.
+36
+Feuille de route  Planification écologique du système de santé
+  Objectif 8 
+Élaborer une feuille 
+de route pour verdir 
+le numérique en santé
+Bien qu’immatériels, les systèmes numériques représentent près de 4 % des émissions mondiales 
+d’équivalent CO2. En France, un rapport publié au Sénat 20 évalue l'empreinte carbone du 
+numérique à 15 MtCO2e par an, soit environ 2 % de l'ensemble des émissions nationales. Sans 
+action pour réduire cet impact, il pourrait tripler en 205021. L’informatique interne d’un système 
+d’information hospitalier représente plus de 5 % du bilan carbone d’un CHU moyen 22. Il est 
+donc urgent d’agir avant de recourir à un service ou un équipement numérique, pendant la vie 
+de ces équipement et services, et sur l’obsolescence, le réemploi et le recyclage en fin de vie. 
+ ENGAGEMENTS ET PERSPECTIVES 
+ O Promouvoir l’achat des équipements et matériels numériques issus de l’économie circulaire par la 
+mise en place d’un écolabel23.
+ O Favoriser l’achat de dispositifs éco-conçus. La modularité des dispositifs est notamment un point 
+fort en ce qu’elle permet le remplacement de pièces au lieu du renouvellement total (en lien avec le 
+volet achats durables).
+ O Lutter notamment contre l’« obésiciel  » et promouvoir la désinstallation des services inutilisés 
+et le nettoyage les serveurs et ordinateurs afin d’éviter l’accumulation de déchets numériques qui 
+consomment de l’énergie inutilement.
+ O Promouvoir les démarches d’écoconception  et favoriser l’élaboration de logiciels moins 
+énergivores en modifiant la manière de coder par la formation des professionnels du logiciel et en 
+instaurant la notion de « bugs énergétiques » pour tout code consommant de l’énergie sans aucune 
+nécessité fonctionnelle.
+ O Calculer et contrôler les impacts environnementaux des services numériques en santé  (mise à 
+disposition de services de calcul d’éco-scores des applications de santé, des logiciels de gestion des 
+cabinets de villes, de la télésanté et notamment de la téléconsultation, des établissements de santé 
+et des secteurs social et médico-social).
+ O Lutter contre l’obsolescence en proposant de ne pas renouveler le matériel toujours fonctionnel, 
+de privilégier le réemploi dans le cadre d’opérations de solidarité, et de systématiser le recyclage 
+des dispositifs en fin de vie.
+ O Promouvoir les actions permettant de maîtriser la consommation énergétique des data centers et 
+de certains matériels médicaux (un tiers seulement de l’énergie sert à faire fonctionner les serveurs, 
+20. https://www.senat.fr/rap/r19-555/r19-5550.html#toc0 
+21. https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-nume-
+rique-2020-2030-2050.html 
+22. 34 estimations réalisées à partir de l’inventaire informatique des établissements de santé, publié par la DGOS (Atlas de SI Hospitaliers 2018 - https://solidarites-sante.gouv.fr/IMG/
+pdf/dgos_atlas_sih_2018.pdf) et du modèle de calcul mis au point par F. Bordage pour le GT6
+23. Un écolabel est un label écologique attribué par un organisme indépendant (certificateur) à un produit ou service susceptible de réduire certains impacts négatifs sur l'environne-
+ment par comparaison avec d'autres produits ou services de la même catégorie.
+37
+Feuille de route  Planification écologique du système de santé
+le reste étant utilisé pour alimenter un système de refroidissement), par exemple la régulation de la 
+climatisation, permettant d'optimiser la production de froid, la réutilisation du surplus de chaleur 
+produite pour chauffer d’autres bâtiments, etc.
+ O Mesurer et maîtriser les volumes des données échangées . Toutes les données personnelles ne 
+sont peut-être pas pertinentes dans le cadre d’études cliniques ou populationnelles.
+ O Évaluer le bénéfice santé réel d’un dispositif numérique innovant avant de le mettre en place, en 
+comparaison du risque environnemental qu’il représente et des éventuels effets rebonds.
+ DÉJÀ ENGAGÉS 
+ O Une première feuille de route a déjà été élaborée par la cellule éthique de la Délégation 
+ministérielle au numérique en santé, du ministère de la Santé et de la prévention. Une série de 
+recommandations pour le secteur est accessible dans un rapport publié en mai 2021, intitulé « 
+L’impact environnemental du numérique en santé »24.
+ O Élaboration et mise à disposition des éditeurs d’un service de calcul de l’éco-score des applications 
+de santé25, utilisé pour le référencement dans le catalogue de services de Mon espace santé.
+ O Élaboration et mise à disposition des Directions des Systèmes d’information des établissements 
+de santé, sociaux et médico-sociaux d’un éco-score des systèmes d’information hospitaliers dans le 
+cadre de la certification MATURIN (Direction générale de l’offre de soins).
+Une initiative inspirante
+Dans le cadre de ses implantations, le Mipih , structure publique de coopération 
+hospitalière, spécialisé dans l'édition et l'hébergement de systèmes d'informations hospitaliers et 
+de santé, met en place des systèmes de régulation de la climatisation permettant d'optimiser la 
+production de froid. Le surplus de chaleur produite par le data center de Toulouse est recyclé 
+pour chauffer d’autres bâtiments. Le data center d’Amiens est ainsi connecté au réseau chaleur 
+et froid de la ville. Les calories produites par le data center servent à chauffer le réseau de ville 
+et le froid est produit par géothermie. Ainsi, la société d’économie mixte à opération unique, 
+Amiens Energies, s’est engagée auprès de l’Ademe à injecter de l’énergie sur le réseau Intercampus 
+(fédération étudiante sur la Champagne-Ardenne) dans le cadre du développement de ses réseaux.
+notes d’information, sensibilisation aux éco-gestes
+24. https://esante.gouv.fr/sites/default/files/media_entity/documents/RAPPORT_GT6_VF.pdf
+25. https://ecoscore-appli.esante.gouv.fr/
+Contact presse
+Cabinet de Madame Agnès FIRMIN LE BODO, ministre déléguée 
+chargée de l’Organisation Territoriale et des Professions de Santé
+14, avenue Duquesne, 75007 PARIS 
+sec.presse.cabotps@sante.gouv.fr
+01.40.56.84.86
+Édition : Ministère de la Santé et de la Prévention • Mise en page : Dicom des ministères sociaux • Décembre 2023

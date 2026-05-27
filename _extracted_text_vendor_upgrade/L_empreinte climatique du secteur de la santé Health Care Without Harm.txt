@@ -1,0 +1,3012 @@
+L ’EMPREINTE CLIMATIQUE 
+DU SECTEUR DE LA SANTÉ
+COMMENT LE SECTEUR DE LA SANTÉ
+PARTICIPE À LA CRISE CLIMATIQUE MONDIALE
+ET LES POSSIBILITÉS D’ACTION
+Health Care Without Harm 
+Série Climate-Smart Healthcare
+Rapport vert numéro un
+Créé en collaboration avec Arup
+Septembre 2019
+À propos de ce rapport : C’est le premier d’une série de 
+rapports sur la recherche et les politiques que Health Care 
+Without Harm et ses partenaires, dont Arup, ont pour ambition 
+de réaliser au cours des trois prochaines années. Cette série 
+définira l’empreinte climatique des systèmes de santé et 
+exposera les grandes lignes d’un ensemble d’actions que 
+le secteur pourra mettre en place pour être conforme aux 
+objectifs de l’Accord de Paris tout en atteignant ses buts en 
+matière de santé. Les sujets des rapports futurs incluront un 
+plan d’action mondial pour la décarbonation et la résilience 
+du secteur de la santé ; des stratégies de développement et 
+de mise en œuvre de politiques adaptées au changement 
+climatique pour les autorités nationales et infranationales ; 
+une décarbonation de la chaîne logistique du secteur de la 
+santé ; des recommandations pour une aide au développement 
+sanitaire durable, résilient au changement climatique et 
+décarboné ; et bien plus.
+Auteurs :  
+Health Care Without Harm : Josh Karliner et  
+Scott Slotterback
+Arup : Richard Boyd, Ben Ashby et Kristian Steele 
+Conseiller scientifique externe :  Dr. Peter-Paul Pichler, 
+Métabolismes sociaux et conséquences, Potsdam Institute for 
+Climate Impact Research, Allemagne
+Groupe technique consultatif : Health Care Without Harm a 
+mis en place un Groupe technique consultatif sur les mesures 
+climatiques afin d’accompagner le développement de la 
+méthodologie et des recherches pour ce projet ainsi que 
+pour les études à venir, dans le but de garantir l’exactitude 
+et l’intégrité des données ; la prise en compte d'éléments 
+spécifiques au secteur de la santé dans la mesure de l’impact 
+climatique ; l’adoption de meilleures pratiques pour la mesure 
+d’empreinte climatique ; la flexibilité vis-à-vis des différences 
+régionales dans le secteur de la santé ; et l’adhésion des 
+principales parties prenantes.
+Le groupe consultatif, qui s’est réuni virtuellement à des étapes 
+clefs du développement du projet, se compose d’organisations 
+internationales, d’établissements de santé, d’organismes pour 
+le climat, et d’experts universitaires. Les membres incluent : 
+• Andrés Alvarado, Directeur de la gestion des installations, 
+Hôpital Clínica Bíblica (Costa Rica)
+• Joe Bialowitz, Responsable du Plan d’action 
+environnemental national, Kaiser Permanente (États-Unis)
+• Anthony Capon, Professeur en santé planétaire, 
+Université de Sydney (Australie)
+• Dr. Diarmid Campbell-Lendrum, Chef d’équipe 
+Changement Climatique et Santé, Organisation mondiale 
+de la Santé
+• Sally Edwards, Conseillère régionale, Organisation 
+panaméricaine de la santé/Organisation mondiale de la 
+Santé
+• Dr. Rosemary Kumwenda, Coordinatrice du Groupe de 
+travail inter-organismes non officiel des Nations Unies sur 
+l’approvisionnement durable dans le secteur de la santé, 
+Programme des Nations Unies pour le développement
+• Dan Plechaty, Associé principal, ClimateWorks 
+Foundation (États-Unis)
+• Sonia Roschnik, Directrice, Service national de santé 
+(NHS) d’Angleterre, Unité de Développement Durable 
+(SDU) (Royaume-Uni)
+• Jonas Age Saide Schwartzman, Ingénieur en 
+environnement, SPDM Health System (Brésil)
+• Dr. DongChun Shin, Professeur, Département de 
+médecine préventive et Directeur de l’Institut de 
+recherche sur l’environnement, College of Medicine, 
+Université de Y onsei (République de Corée)
+• Dr. Nick Watts, Directeur général, Lancet Countdown on 
+Health and Climate Change (Royaume-Uni)
+• Chendan Yan, Analyste de recherche, World Resources 
+Institute (États-Unis)
+Remerciements : En complément de ceux listés ci-dessus, 
+l’équipe en charge du projet souhaiterait remercier les 
+personnes suivantes pour leurs contributions, leur temps, 
+leurs critiques et/ou leurs conseils : Fiona Armstrong, Climate 
+and Health Alliance, Australie ; Ana Belluscio, Équipe Health 
+Care Without Harm Global ; William Clark, Health Care Without 
+Harm Europe ; Gary Cohen, Health Care Without Harm ; Kevin 
+Conway, Health Care Without Harm États-Unis ; Lindsey 
+Corey, Health Care Without Harm, États-Unis ; Mandeep 
+Dhaliwal, PNUD ; Mireia Figueras Alsius, Health Care Without 
+Harm Europe ; Laura Gilbert, Arup ; Benn Grover, Health Care 
+Without Harm ; Suvi Huikuri, PNUD ; Viktor Jósa, Health Care 
+Without Harm Europe ; Nick Knock, Health Care Without 
+Harm États-Unis ; Lauren Koch, Health Care Without Harm 
+États-Unis ; Aidan Long, Health Care Without Harm Europe ; 
+Manfred Lenzen, Université de Sydney ; Natalia Linou, 
+PNUD ; Rick Lomax, Unité de Développement Durable (SDU), 
+Service National de Santé (NHS) d’Angleterre ; Marina Maiero, 
+Organisation mondiale de la Santé ; Dr. Peter Orris, Université 
+de l’Illinois, Chicago ; Dr. Anne Owen, Université de Leeds ; 
+Vital Ribeiro, Projeto Hospitais Saudáveis, Brésil Antonella 
+Risso, Health Care Without Harm Amérique latine ; Dr. José 
+Rueda-Cantuche, Commission européenne ; Ramon San 
+Pascual, Health Care Without Harm Asie du Sud-Est ; Sangwon 
+Suh, Université de Californie, Santa Barbara ; Maria Sunyer 
+Pinya, Arup ; Imogen Tennison, SDU, NHS d’Angleterre ; Elena 
+Villalobos Pratts, OMS ; Jennifer Wang, Équipe Health Care 
+Without Harm Global ; Jessica Wolff, Health Care Without Harm 
+États-Unis ; Zhao Ang, Rock Environment and Energy Institute, 
+Chine.
+Health Care Without Harm (HCWH) est une ONG internationale qui cherche 
+à transformer le secteur de la santé à travers le monde afin qu’il devienne 
+durable sur le plan écologique ; c’est aussi un des principaux défenseurs de 
+la santé et de la justice environnementale. Health Care Without Harm travaille 
+depuis 23 ans avec le secteur de la santé à la réduction d’utilisation de 
+substances toxiques et de production de déchets, tout en transformant la chaîne 
+d’approvisionnement et en encourageant les actions pour le climat. 
+Avec des bureaux aux États-Unis, en Europe, et en Asie ; une équipe régionale 
+en Amérique latine ; et des partenariats à l’échelle nationale avec des 
+organisations locales en Australie, au Brésil, en Chine, en Inde, en Afrique du 
+Sud, et au Népal ; Health Care Without Harm est un leader du secteur de la 
+santé pour concrétiser cette vision. 
+Les équipes de professionnels de la santé, de chercheurs, et d’avocats de 
+Health Care Without Harm travaillent avec les hôpitaux, les systèmes de 
+santé, les gouvernements et les agences internationales afin d'accélérer la 
+décarbonation du secteur de la santé, sa résilience et de mener de front les 
+politiques climatiques à travers le monde. Le réseau Global Green and Healthy 
+Hospitals de Health Care Without Harm se compose de 1 200 membres 
+institutionnels répartis à travers 60 pays ; ils travaillent tous à intégrer le secteur 
+de la santé au mouvement pour le climat et à étendre leurs missions curatives 
+au-delà des murs de leurs établissements.
+Arup est la force créative au cœur des projets les plus ambitieux du monde 
+dans le milieu bâti et dans toutes les industries confondues. Ils offrent un large 
+éventail de services professionnels qui, combinés, font à la fois une réelle 
+différence pour leurs clients ainsi que pour les communautés au sein desquelles 
+ils travaillent.
+Arup est foncièrement global. Depuis les 89 bureaux répartis dans 34 pays, 
+les 14 000 planificateurs, concepteurs, ingénieurs et consultants unissent leurs 
+créativités et leurs passions pour livrer des projets innovants à travers le monde.
+Créé en 1946 sur un socle de valeurs fortes, leur sens unique de la propriété 
+génère une culture sans pareil et une indépendance intellectuelle qui encourage 
+le travail collaboratif. Une énergie qui se reflète dans tout ce qu’ils font, qui leur 
+permet de développer des idées constructives, et qui les aide à consolider leurs 
+programmes et à obtenir des résultats qui surpassent souvent les attentes des 
+clients.
+Les équipes chez Arup sont déterminées à se surpasser et à offrir la meilleure 
+solution à leurs clients.
+Health Care Without Harm souhaiterait remercier les fonds de démarrage rapide 
+de la Fondation Climate Works, l’Agence suédoise de coopération internationale 
+au développement (Asdi) via le PNUD, le Wallace Global Fund, et la Fondation 
+MacArthur, pour leur soutien qui a permis de concrétiser la réalisation de ce 
+rapport. 
+Rapport vert
+/livʁɛ/ ‘veʁt/
+1. Un rapport sur les politiques de 
+santé environnementale.
+2. Une première version de ce 
+document sur un domaine 
+stratégique spécifique a circulé 
+parmi les personnes concernées 
+qui sont invitées à se joindre 
+au processus de consultation 
+et à débattre. L’objectif d’un 
+rapport vert est de parvenir à 
+un consensus général avant 
+de rédiger le texte officiel, le 
+rapport blanc.
+1
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+CONTENU
+             
+ Sommaire              4
+1 Introduction            8
+Le changement climatique est un enjeu sanitaire       9
+L’impact climatique du secteur de la santé        10
+La contribution de ce rapport          10
+2 Méthodologie de l’étude          14
+Définition du secteur de la santé         14
+Bases de données, informations appliquées et procédé d’architecture    15
+Choix MRIO (Entrées-sorties plurirégionales)         15
+Extensions environnementales          15
+Données de dépenses nationales          16
+Présentation et compte-rendu des résultats        16
+Limites de l’étude            18
+3 Conclusion : L ’empreinte climatique mondiale du secteur de la santé    19
+Le secteur de la santé contribue largement à la crise climatique     19
+Plus de la moitié de l’empreinte émise par le secteur de la santé provient    19
+de sa consommation énergétique 
+L’empreinte climatique du secteur de la santé reflète généralement le modèle   22
+des émissions nationales
+Décarboner la chaîne d’approvisionnement du secteur de la santé est un enjeu majeur  28
+La combustion d’énergies fossiles est au cœur de l’empreinte climatique émise par le  28
+secteur de la santé
+Les dépenses du secteur de la santé et leurs croissances sont un facteur clé de ces émissions 29
+Un important déficit de données subsiste        32
+4 Recommandations politiques         34
+La responsabilité du secteur de la santé        34
+Six zones d’action pour un secteur de la santé adapté aux changements climatiques  34
+Action 1 : Réduire dès maintenant l’empreinte climatique du secteur de la santé   34
+Action 2 : Soutenir une transition sociétale vers des énergies propres et renouvelables  36
+Action 3 : Ouvrir la voie vers un secteur de la santé à émission zéro d’ici 2050  36
+Action 4 : Mettre en place une aide au développement pour un secteur    37
+ de la santé adapté aux changements climatiques
+Action 5 : Élaborer et mettre en place des plans d’actions gouvernementaux   38
+ pour un secteur de la santé adapté au changement climatique
+Action 6 : Approfondir les recherches dans le secteur de la santé et le changement climatique 39
+5 Le mot de la fin           40
+2
+ANNEXES
+Annexe A
+Tableau des émissions des secteurs de santé nationaux de 43 pays enregistrés au WIOD
+(base de données entrée-sortie mondiale) disponible ici : 
+www.noharm.org/ClimateFootprintReport 
+Annexe B
+Méthodologie détaillée disponible ici www.noharm.org/ClimateFootprintReport
+Annexe C
+Aperçu par pays disponible ici www.noharm.org/ClimateFootprintReport
+  
+3
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+• Établit la toute première estimation de l’empreinte climatique mondiale du secteur de la santé. 
+• Il est basé sur la couverture des dépenses ainsi que sur les informations détaillées de 43 pays. 
+• Il identifie les sources clés d’émissions du secteur de la santé, tout en permettant de les comparer entre nations et 
+différentes régions du monde. 
+• Il offre un ensemble de recommandations afin que les objectifs mondiaux du secteur de la santé soient cohérents 
+avec les objectifs climatiques mondiaux. 
+   PRINCIPAUX RÉSULTATS
+ 
+L ’empreinte climatique mondiale du secteur de la santé
+• Le secteur de la santé, dont la mission est de protéger et de promouvoir la santé, participe largement à la 
+crise climatique, qui est la plus grande menace sanitaire du 21e siècle. Il a donc un rôle crucial à jouer pour 
+remédier à cette crise. 
+• L’empreinte climatique du secteur de la santé équivaut à 4,4 % des émissions nettes mondiales, soit 
+l’équivalent de 2 gigatonnes de dioxyde de carbone. 
+• L’empreinte climatique du secteur de la santé mondial est équivalente aux émissions de gaz à effet de serre 
+annuelles de 514 centrales à charbon. 
+• Si le secteur de santé était un pays, il serait le cinquième plus gros émetteur de la planète. 
+Les plus gros émetteurs du secteur de la santé
+• Les trois plus gros émetteurs, les États-Unis, la Chine, et les pays de l’Union européenne, représentent plus 
+de la moitié de l’empreinte climatique mondiale du secteur de la santé (56 %). 
+• Les dix plus gros émetteurs constituent 75 % de l’empreinte climatique mondiale du secteur de la santé.
+• Le secteur de la santé aux États-Unis, le plus gros émetteur mondial en terme absolu et par habitant, émet 57 
+fois plus par habitant que ne le fait l’Inde. 
+• Alors que l’Inde est le septième plus gros émetteur mondial en termes d’empreinte climatique absolue, ses 
+émissions par habitant, dans le secteur de la santé, sont les plus basses des 43 pays qui apparaissent dans 
+cette étude. 
+• Le secteur de la santé en Chine produit six fois plus de gaz à effet de serre par personne que celui d’Inde. 
+Mais le secteur de la santé chinois émet aussi un septième des gaz à effet de serre par personne comparé à 
+celui des États-Unis, un tiers du secteur coréen et un peu moins de la moitié de celui de l’Union européenne.
+SOMMAIRE
+CE RAPPORT
+« L’empreinte climatique du secteur de la santé 
+équivaut à 4,4 % des émissions nettes mondiales »
+4
+Les sources de l’empreinte climatique du secteur de la santé
+• Alors que l’échelle est très variable d’un pays à l’autre, chaque secteur de la santé national émet directement 
+et indirectement des gaz à effet de serre lors de la prestation de soins et de l’achat de produits, de services et 
+de technologies issus de chaînes d’approvisionnement hautement carbonées. 
+• Le secteur de la santé contribue à l’émission de gaz à effet de serre via la consommation d’énergie, le 
+transport, la fabrication de produits, leur utilisation et leur traitement. 
+• Les émissions qui proviennent directement des établissements et des véhicules sanitaires (Périmètre 1) 
+constituent 17 % de l’empreinte mondiale du secteur. 
+• Les émissions indirectes, qui proviennent de l’achat de sources d’énergie telles que l'électricité, la vapeur, la 
+climatisation et le chauffage (Périmètre 2), représentent 12 % supplémentaires.
+• La part du lion des émissions, 71 % proviennent principalement de la chaîne d’approvisionnement du secteur 
+de la santé (Périmètre 3) à travers la production, le transport, et le traitement de biens et de services, tels que 
+les médicaments et autres composés chimiques, les produits agroalimentaires et agricoles, les équipements 
+médicaux, les équipements hospitaliers, et les instruments.
+• Trois quarts des émissions de tout le secteur de la santé, chaîne d’approvisionnement incluse, sont générées 
+localement. Ce qui signifie qu’à peine un quart des émissions du secteur de la santé sont générées en dehors 
+du pays où le produit sanitaire est finalement consommé.
+• La consommation d’énergie fossile est au cœur des émissions du secteur de la santé. Les énergies, et 
+principalement la combustion de carburants fossiles, représentent plus de la moitié de l’empreinte climatique 
+du secteur de la santé lorsqu’on la mesure à travers les trois périmètres. 
+L ’empreinte du secteur de la santé est liée aux dépenses sanitaires
+• Il existe une forte corrélation entre l’empreinte climatique du secteur de la santé d’un pays et ses dépenses 
+sanitaires. En général, plus les dépenses sont élevées, mesurées en pourcentage du PIB d’un pays, plus les 
+émissions du secteur de la santé par habitant sont élevées dans ce même pays.
+• D’autres facteurs ont une importance majeure, notamment l’intensité énergétique de l’économie d’un pays et 
+l’intensité des émissions de son système énergétique. 
+• Si la croissance et les investissements du secteur de la santé sont couplés à une nouvelle trajectoire qui 
+vise le zéro émission, l’empreinte climatique du secteur de la santé peut être sensiblement réduite, même 
+si les dépenses sanitaires augmentent. Un tel scénariwo peut permettre d’atteindre à la fois les objectifs de 
+développement du secteur de la santé, tels qu’une assurance maladie universelle, et les objectifs mondiaux 
+liés au climat.
+  PROCHAINES ÉTAPES
+Le secteur de la santé doit prendre ses responsabilités vis-à-vis de son empreinte climatique
+• Le secteur de la santé doit répondre à l’urgence climatique qui se fait de plus en plus pressante, non 
+seulement en traitant ceux qui sont malades, blessés ou qui meurent à cause de la crise climatique et de ses 
+conséquences, mais aussi en instaurant une prévention primaire et en réduisant drastiquement ses propres 
+émissions. 
+• Afin que les actions climatiques du secteur de la santé puissent être cohérentes avec les objectifs de l’Accord 
+de Paris, les établissements et systèmes sanitaires ainsi que les ministères devront travailler avec les fabricants 
+et les fournisseurs de produits et services sanitaires, dans le but d’atteindre le zéro émission net d’ici 2050. 
+• Le secteur doit s’engager à faire ces efforts tout en réalisant les objectifs sanitaires mondiaux tels que 
+l’assurance maladie universelle, et en travaillant à atteindre les Objectifs de développement durable. 
+• De nombreux systèmes sanitaires dans divers pays sont déjà en train d’ouvrir la voie vers la décarbonation, ils 
+sont les modèles à suivre.
+5
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+SIX ZONES D’ACTION POUR UN SECTEUR DE LA SANTÉ ADAPTÉ AU CHANGEMENT CLIMATIQUE
+SOMMAIRE
+Action 1
+Réduire dès maintenant l’empreinte climatique du secteur de la santé. Les acteurs à tous les 
+niveaux du secteur de la santé peuvent tirer parti du travail en cours dans des milliers d’hôpitaux 
+et de systèmes sanitaires qui sont déjà en train de travailler sur leur empreinte climatique afin de 
+dessiner et de consolider de nouvelles voies alternatives qui tendent vers le zéro émission net. Des 
+étapes clés peuvent se baser sur le Greenhouse Gas Protocol et devraient inclure : 
+Action 2
+Soutenir une transition sociétale vers des énergies propres et renouvelables. Le secteur de la 
+santé de chaque pays devrait prôner une suppression rapide des combustibles fossiles et une 
+transition vers des énergies propres et renouvelables, afin que le secteur ait une consommation 
+d’énergie à zéro émission nette tout en protégeant la santé publique de la pollution locale et des 
+conséquences climatiques mondiales. 
+Périmètre 1 :  Agir 
+immédiatement afin de 
+réduire les émissions des 
+établissements sanitaires. 
+Périmètre 2 : Investir et 
+défendre la décarbonation 
+des systèmes énergétiques 
+locaux et nationaux et la mise 
+en place d’énergies propres et 
+renouvelables.
+Périmètre 3 : Mettre en 
+place des critères pour des 
+approvisionnements à faible 
+émission de carbone ou à 
+zéro émission afin d’initier la 
+décarbonation de la chaîne 
+d’approvisionnement.
+Action 3
+Ouvrir la voie vers un secteur de la santé à émission zéro d’ici 2050. Un plan d’action mondial 
+harmonisé est essentiel pour identifier les éléments à prioriser pour aller de l’avant, tout en mettant 
+en place des calendriers et des cadres d’actions. Le plan d’action devrait être basé sur les principes 
+d’équité mondiale pour le climat et la santé, une approche unifiée, et adaptée au changement 
+climatique, de la réduction et de la résilience, et une approche qui encourage les actions à tous les 
+niveaux.
+Action 4
+Mettre en place une aide au développement pour un secteur de la santé adapté aux 
+changements climatiques. Les organismes d’aide bilatéraux, les banques multilatérales de 
+développement, et d’autres organismes philanthropiques et de financement pour la santé, devraient 
+intégrer les stratégies et principes adaptés au changement climatique à leurs assistances sanitaires, 
+leurs prêts, et leurs orientations politiques envers les pays en développement. Ceux qui financent 
+les actions en faveur de l’atténuation du changement climatique et de l’adaptation devraient inclure 
+la santé à leurs programmes. La mise en place devra se faire en accord avec les conclusions du 
+Secrétaire Général de l’ONU suite au Sommet Action Climat 2019. 
+Action 6
+Approfondir les recherches dans le secteur de la santé et le changement climatique. Des 
+recherches plus poussées seront nécessaires à une meilleure compréhension des tendances quant 
+à l’interaction entre le secteur de la santé et le changement climatique ; il faudra inclure une analyse 
+de la future trajectoire des émissions de carbone du secteur de la santé, une analyse en profondeur 
+de l’impact climatique de la chaîne d’approvisionnement, une étude de l’empreinte climatique 
+au niveau national et régional, une analyse économique et sanitaire des coûts et bénéfices de la 
+transition vers un secteur de la santé adapté au changement climatique, et plus. 
+Action 5
+Élaborer et mettre en place des plans d’actions gouvernementaux pour un secteur de la santé 
+adapté au changement climatique. Les gouvernements nationaux et infranationaux devraient 
+tirer parti des initiatives existantes pour élaborer des plans d’actions qui visent à décarboner les 
+systèmes de santé, à favoriser la résilience et à améliorer les conséquences sanitaires. La mise en 
+place devrait participer à la politique climatique gouvernementale et aux Contributions déterminées 
+au niveau national pour l’Accord de Paris. Les pays qui sont majoritairement responsables de ce 
+problème devraient ouvrir la voie.
+6
+SIX ZONES D’ACTION POUR UN SECTEUR DE LA SANTÉ ADAPTÉ AU CHANGEMENT CLIMATIQUE CONCLUSION
+• La santé, comme chaque secteur de la société, est en charge de la mise en cohérence de ses actions et de sa 
+trajectoire de développement avec l’Accord de Paris, afin d’éviter les conséquences les plus désastreuses de la 
+crise climatique. 
+• Étant donné sa mission de protection et de promotion de la santé, le secteur a également pour responsabilité 
+de faire respecter le Serment d’Hippocrate : « tout d’abord, ne pas nuire », qui est en lien direct avec sa propre 
+empreinte climatique, et de servir d’exemple à d’autres secteurs pour qu’ils fassent de même. 
+• Les politiques et les investissements sanitaires doivent être revus afin de soutenir la décarbonation. Si le 
+secteur de la santé (établissements de soins individuels, systèmes de santé, ministères de la Santé, agences de 
+développement internationales et bilatérales, et organisations sanitaires privées) s’engage à agir pour atteindre 
+cet objectif, alors il pourra être atteint. 
+• Si le développement, la croissance et l’investissement du secteur de la santé concordent avec les objectifs 
+climatiques mondiaux, les 10 % de l’économie mondiale que ce secteur représente, conjointement avec son 
+influence politique à chaque niveau des gouvernements, permettront au secteur de la santé d’être moteur 
+dans la transition vers un futur à faible émission de carbone, plus équitable, plus sain et adapté au changement 
+climatique. 
+7
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+« Les établissements du secteur de la 
+santé sont le centre opérationnel des 
+prestations de services, pour protéger la 
+santé, traiter les patients et sauver des 
+vies. Mais les établissements sanitaires 
+sont aussi une source d’émissions de 
+carbone qui contribue au changement 
+climatique. Les établissements sanitaires 
+du monde entier produisent du CO2 en 
+utilisant d’importantes ressources et des 
+équipements énergivores. Ça peut paraitre 
+ironique, puisque notre engagement en 
+tant que professionnel de la santé est 
+“tout d’abord, (de) ne pas nuire”. Les lieux 
+de soin devraient ouvrir la voie, et non 
+contribuer à aggraver la maladie. »
+- Tedros Adhanom Ghebreyesus, 
+Directeur général, Organisation mondiale de la Santé
+En octobre 2018, le Groupe d'experts 
+Intergouvernemental sur l'Évolution du Climat (GIEC) a 
+publié un rapport alarmant qui stipule que pour éviter 
+les pires conséquences du changement climatique en 
+limitant le réchauffement mondial à 1,5°C, l’ambition de 
+l’Accord de Paris, « il faudrait des changements rapides et 
+sans précédents, dans toutes les sphères de la société. » 
+D’après le GIEC, de tels changements structurels devront 
+inclure une transition des terres, des énergies, des 
+industries, des bâtiments, des transports et des villes, qui 
+réduira les émissions de dioxyde de carbone mondiales 
+nettes causées par l’humain (CO2) « d’à peu près 45 % 
+entre 2010 et 2030, pour atteindre « zéro émission » d’ici 
+2050 ». 1
+Ce message sinistre et urgent des meilleurs 
+climatologues mondiaux, associé aux catastrophes 
+naturelles incessantes et à d’autres conséquences 
+climatiques qui apparaissent partout dans le monde, 
+tirent la sonnette d’alarme et nous enjoignent à opérer 
+une transformation de l’économie mondiale vers une 
+réduction des émissions de carbone, pour atteindre 
+un futur à zéro émission. Un nombre grandissant 
+d’institutions et de juridictions déclarent une « urgence 
+climatique » suite à ce message. Par exemple, au moment 
+de la publication, près de 900 gouvernements locaux 
+à travers 18 pays ont déclaré « l’urgence climatique » et 
+se sont engagés à agir afin de réduire rapidement leurs 
+émissions.2
+Ce rapport se concentre sur la manière dont le secteur 
+de la santé, qui est en première ligne pour répondre au 
+changement climatique, a une contribution significative 
+au problème, bien qu’elle ait été peu prise en compte 
+jusqu’ici. Le rapport plaide pour que le secteur de la 
+santé réponde à l’urgence climatique, non seulement en 
+traitant ceux qui sont malades, blessés ou qui meurent 
+à cause de la crise climatique et de ses conséquences, 
+mais aussi en instaurant une prévention primaire et en 
+réduisant drastiquement ses propres émissions. 
+Malgré son identité explicite en tant que secteur 
+cohésif de la société, qui a une dimension privée non 
+négligeable et des instances dirigeantes aux niveaux 
+locaux, nationaux et mondiaux (un secteur qui tout 
+confondu dépense 7,2 billions de dollars par an, soit 
+10 % du PIB mondial 3), l’empreinte des émissions du 
+secteur de la santé a été largement ignoré par ceux qui 
+se sont attaqués au changement climatique au cours des 
+cinquante dernières années. Le secteur de la santé lui-
+même ne s’en est pas préoccupé outre mesure jusqu’à 
+récemment. 
+Ce rapport étudie avec la plus grande attentiona les 
+émissions de gaz du secteur de la santé générées 
+jusqu’à aujourd’hui, afin de comprendre d’où vient le 
+problème, pour relever le défi sans compromettre la 
+qualité des soins dispensés, mais avec la volonté de 
+les améliorer. Ce rapport identifie la voie à suivre pour 
+responsabiliser les systèmes de santé, les ministères, 
+les donateurs et créanciers sanitaires multilatéraux 
+et bilatéraux, conjointement avec les fabricants et 
+fournisseurs de produits et services sanitaires, pour 
+commencer à prendre des mesures urgentes et rentables 
+qui tendent vers le zéro émission, afin de protéger la 
+santé publique d’un dérèglement climatique. 
+INTRODUCTION
+a. Les données des dépenses mondiales, couplées aux informations détaillées des 43 pays, nous offrent une couverture mondiale qui nous permet de comparer les nations et diverses 
+régions du monde.
+8
+Le changement climatique est un enjeu sanitaire
+Aujourd’hui, le changement climatique nuit à la santé 
+humaine et aura un impact bien plus grave dans le futur. 
+Le Lancet le qualifie de « plus grande menace sanitaire 
+mondiale du 21e siècle » 4
+Les conséquences climatiques directes, telles que la 
+propagation de maladies à transmission vectorielle, 
+les canicules, les sècheresses, les cyclones, et les 
+inondations, mais aussi les flux migratoires massifs de 
+réfugiés climatiques, auront des conséquences sanitaires 
+qui vont anormalement affecter les populations les plus 
+vulnérables et marginalisées, et elles s’aggraveront avec 
+le temps (Graphique 1).
+Tous les pays feront face aux conséquences majeures 
+et croissantes du changement climatique. Les pays à 
+revenus faibles ou intermédiaires seront les plus touchés 
+puisque ce sont les plus vulnérables face au changement 
+climatique ; leurs systèmes de santé et leur manque 
+d’infrastructures ne leur permettront pas de faire face. 
+Le changement climatique pourrait entrainer l’extrême 
+pauvreté chez plus de 100 millions de personnes d’ici 
+2030, un retournement de situation qu’on peut attribuer 
+aux impacts négatifs sur la santé.5
+Selon Lancet Countdown on Health and Climate : « le 
+manque de progrès à ce jour pour réduire les émissions 
+et développer des capacités d’adaptation représente 
+une menace pour les vies humaines et la viabilité des 
+systèmes de santé nationaux qui en dépendent (…) et a 
+le pouvoir de bouleverser les infrastructures de santé 
+publique et de submerger les services sanitaires ». 6
+Les hôpitaux, les centres de santé et les agents de 
+santé publique sont les premiers à faire face aux effets 
+sanitaires du changement climatique. Les hôpitaux 
+et les systèmes de santé vont inévitablement devoir 
+supporter des coûts élevés suite au nombre grandissant 
+de catastrophes naturelles ; ils doivent devenir résilients 
+face aux conséquences climatiques. Les systèmes de 
+santé les plus pauvres du monde sont souvent les plus 
+vulnérables, à la fois en termes de dangers à affronter et 
+de manque d’outils et de ressources pour se protéger. 
+Dans le même temps, le moteur principal du changement 
+climatique, la combustion de combustibles fossiles, 
+entraine des problèmes sanitaires majeurs, et participe 
+à la pollution de l’air qui tue prématurément plus de 
+sept millions de personnes par an, à peu près deux 
+fois plus de personnes que le VIH, le paludisme et la 
+tuberculose réunis.7 La pollution de l’air joue également 
+un rôle majeur dans les maladies chroniques de longue 
+durée qui requièrent un traitement et une hospitalisation, 
+ce qui à son tour participe à l’augmentation des 
+dépenses et des émissions du secteur de la santé. 
+Cela est directement lié aux inégalités, puisque 
+plus de 80 % des morts prématurées attribuées aux 
+maladies non transmissibles surviennent dans les pays 
+à revenus faibles et intermédiaires. Les pires causes 
+et conséquences du changement climatique peuvent 
+être évitées, et leurs préventions représentent une 
+opportunité majeure pour améliorer les conséquences 
+sanitaires et assurer une meilleure équité en matière de 
+santé.8
+Graphique 1 : Conséquences du changement climatique sur la santé humaine (Source : Centre de Contrôle et de Prévention des Maladies des États-Unis) 
+Les impacts des blessures 
+et des morts sur la santé 
+mentale
+Maladies et morts liées 
+à la chaleur, défaillances 
+cardiovasculaires
+Migration forcée, 
+guerres civiles, 
+conséquences sur la santé 
+mentale
+Malnutrition, 
+maladie diarrhéique
+Asthme et maladies 
+cardiovasculaires
+Paludisme, dengue, encéphalite, 
+hantavirus, fièvre de la vallée du Rift, 
+maladie de Lyme, chikungunya,
+virus du Nil occidental
+Allergies respiratoires, asthme
+Choléra, cryptosporidiose, 
+campylobacter, leptospirose, 
+prolifération d’algues nuisibles
+9
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+L ’impact climatique du secteur de la santé
+Alors que l’échelle est très variable d’un pays à l’autre, 
+chaque secteur de la santé national émet directement 
+et indirectement des gaz à effet de serre (GES) lors de la 
+prestation de soins et de l’achat de produits, de services 
+et de technologies issus de chaînes d’approvisionnement 
+hautement carbonées. Le secteur de la santé contribue 
+à l’émission de gaz à effet de serre via la consommation 
+d’énergie, le transport, la fabrication de produits, leur 
+utilisation et leur traitement. 
+En effet, le secteur de la santé, qui représente 10 % 
+du PIB mondial et qui est dédié à la prévention, au 
+traitement et à la guérison des maladies, relève de 
+nombreuses catégories que l’on associe souvent aux 
+mesures d’empreinte climatique. Jusqu’à récemment, ce 
+secteur n’avait pas été considéré comme pertinent dans 
+la mesure de l’empreinte climatique mondiale. 
+Au cours des dernières années, des mesures exhaustives 
+de l’empreinte climatique du secteur de la santé ont été 
+réalisées dans différents pays. Deux études menées 
+aux États-Unis ont révélé que les émissions du secteur 
+de la santé du pays ont atteint 8 % 9 et 9,8 % du total 
+national respectif, la dernière estimation représentant 
+l’équivalent de 655 millions de tonnes de dioxyde de 
+carbone (CO2e).10  Au Royaume-Uni, le Service National 
+de la Santé (NHS) et Public Health England ont estimé 
+que, en 2017, l’empreinte climatique du secteur de la 
+santé et de la protection sociale représente 27,1 Mt de 
+CO2e, soit 6,3 % de l’empreinte climatique du pays.11 Des 
+études similaires ont obtenu des résultats équivalents en 
+Australie (7 %) 12 et au Canada (5 %). 13
+Jusqu’à récemment, personne n’avait entrepris une 
+étude mondiale et approfondie des émissions du 
+secteur de la santé. En 2017, la Banque mondiale, en 
+collaboration avec Health Care Without Harm, a publié 
+une estimation selon laquelle le secteur de la santé 
+générait 2,6 milliards des 52 milliards de tonnes de CO2e 
+émises mondialement en 2011, soit 5 % des émissions 
+mondiales.14
+En 2018, le Kigali Cooling Efficiency Program (K-CEP) a 
+publié une étude sur les émissions mondiales liées à la 
+climatisation et à la réfrigération dans le secteur de la 
+santé. Ils estiment qu’environ 365 Mt de CO2e (+/- 90 Mt) 
+sont générés annuellement par l’énergie nécessaire à 
+la climatisation et à la réfrigération dans les hôpitaux. 
+Ce qui équivaut aux émissions de plus de 75 millions 
+de voitures en circulation ou de 110 centrales à charbon 
+pour une année entière. Cette étude ne prenait pas en 
+compte les gaz fluorés nocifs (HFC, HCFC) utilisés pour 
+climatiser et réfrigérer, si tel avait été le cas, les chiffres 
+seraient encore plus élevés. L’étude a révélé que réduire 
+de 30 % la consommation d’énergie liée à la climatisation 
+et à la réfrigération pourrait diminuer les émissions 
+annuelles de CO2e d’environ 110 Mt, soit l’équivalent de 
+27 400 éoliennes. 15
+En 2019, une étude approfondie menée par Pichler et. al., 
+publiée dans Environmental Research Letters, a passé 
+en revue tous les pays (hors Chili) de l’Organisation 
+de Coopération et de Développement Économique 
+(OCDE), plus l’Inde et la Chine. Elle a révélé que les 
+secteurs de la santé des 36 pays examinés confondus 
+sont responsables de l’émission de 1,6 Gt de CO2e, soit 
+4,4 % des émissions totales de ces pays en 2014. Cette 
+étude fournit la première estimation comparative sur 
+les émissions de CO2 du secteur de la santé à travers 
+un large groupe de pays qui représente 54 % de la 
+population mondiale et 78 % du PIB mondial. 16
+La contribution de ce rapport 
+Jusqu’à maintenant, le secteur de la santé et la 
+communauté scientifique sur le climat avaient une 
+connaissance limitée quant à la contribution significative 
+de ce secteur aux émissions de gaz à effet de serre. La 
+prise de conscience doit se répercuter sur les actions à 
+entreprendre pour être en cohérence avec les objectifs 
+de l’Accord de Paris. Ce rapport, associé à d’autres 
+études en cours, fournit un référentiel qui permet 
+d’informer sur le chemin à suivre pour décarboner le 
+secteur de la santé grâce à des actions sectorielles. Les 
+domaines concernés par les conclusions révolutionnaires 
+du rapport sont les suivants : 
+Estimation mondiale : Ce rapport établit la toute 
+première estimation globale de l’empreinte climatique du 
+secteur de la santé. Il contribue de plusieurs manières à 
+une compréhension mondiale de l’ampleur des émissions 
+du secteur de la santé et de leurs sources. À cet effet, il 
+s’appuie sur une base de connaissance grandissante de 
+l’empreinte climatique du secteur de la santé. 
+Ce rapport va plus loin que les travaux qui l’ont précédé 
+en termes de nombre de pays étudiés en détail et de gaz 
+à effet de serre analysés. La Base de données entrée-
+sortie mondiale (WIOD) a été utilisée et elle couvre tous 
+les pays du monde restant, bien qu’ils soient bien moins 
+détaillés. Ce qui a permis de générer une estimation 
+mondiale avec une confiance raisonnable (Section 2 - 
+Méthodologie de l’étude). 
+INTRODUCTION
+10
+L’étude décompose l’estimation de plusieurs manières, 
+notamment en considérant à la fois les émissions 
+absolues et par habitant du secteur de la santé, pour 
+chaque pays et région, mais aussi les corrélations entre 
+les dépenses du secteur de la santé et ses émissions, 
+par pays. 
+Estimations régionales : L’étude a développé une 
+approche qui permet de décomposer rationnellement 
+l’empreinte climatique du secteur de la santé pour les 
+régions du monde où les données sont suffisantes. Ainsi, 
+elle nous offre une estimation régionale pour l’Asie de 
+l’Est et le Pacifique (y compris les pays de l’ASEAN), 
+l’Europe et l’Asie Centrale (dont l’Union européenne), 
+l’Amérique latine et les Caraïbes, et l’Asie du Sud. 
+Ce rapport se concentre particulièrement sur l’Union 
+européenne en tant qu’union politique qui consolide 
+une réponse politique collective à la crise climatique. 
+Des objectifs communs ont été fixés ce qui permet de 
+mener des actions au niveau national. C’est pourquoi 
+cette étude considère l’UE comme une entité lorsqu’elle 
+la compare à d’autres émetteurs majeurs, tels que les 
+États-Unis, la Chine ou d’autres nations. (Les données 
+spécifiques aux 28 pays de l’UE sont disponibles dans 
+l’Annexe A) 
+Au vue de la qualité insuffisante des données collectées 
+par notre base de données sélectionnée sur les pays 
+d’Afrique et du Moyen-Orient, nous avons choisi de 
+ne pas retranscrire les résultats par région pour ces 
+importantes parties du monde ; des mises à jour 
+ultérieures à cette méthodologie tenteront de remédier à 
+cette lacune. 
+Mise en conformité avec le Greenhouse Gas Protocol : 
+Le rapport décompose les émissions mondiales selon 
+le cadre établi par le Greenhouse Gas Protocol, le 
+référentiel comptable des gaz à effet de serre le plus 
+largement utilisé au monde. Il fait concorder la définition 
+du secteur de la santé de l’Organisation mondiale de 
+la Santé (OMS) avec l’analyse des émissions organisée 
+par catégories du Périmètre 1 (émissions directes en 
+provenance des établissements sanitaires), celles du 
+Périmètre 2 (émissions indirectes qui proviennent de 
+l’achat de sources d’énergie), et du Périmètre 3 (toutes 
+les émissions indirectes, qui ne figurent pas dans le 
+Périmètre 2, et qui surviennent dans la chaîne de valeurs, 
+en amont et en aval). 
+L’estimation du secteur de la santé est conforme au 
+cadre utilisé par bien d’autres secteurs, gouvernements 
+nationaux et infranationaux, ainsi que par les systèmes 
+et établissements sanitaires. Il est important de noter 
+que les proportions de chacun des trois périmètres 
+qui apparaissent dans les estimations mondiales et 
+nationales diffèrent de celles d’un hôpital par exemple, 
+puisque cette étude couvre l’intégralité du secteur de 
+la santé et inclut de ce fait les prestataires d’assurance 
+maladie ou les commerces d’appareils médicaux. (Voir 
+Annexe B pour plus de détails.) 
+Estimation par pays décomposée par périmètre : 
+L’étude offre cinq exemples d’émissions par pays 
+basées sur les périmètres du GHG Protocol. Des 
+analyses similaires pour les 43 pays sont disponibles 
+en ligne, dans les informations complémentaires. Il est 
+important de noter que l’empreinte climatique estimée du 
+secteur de la santé qui figure dans ce rapport peut être 
+différente de celles qui figurent dans la poignée d’études 
+nationales qui ont été menées jusqu’alors. Les études 
+nationales ont accès à des données plus précises et plus 
+granulaires à l’échelle du pays, ce qui permet d’obtenir 
+plus facilement des résultats spécifiques ; alors que cette 
+étude utilise des bases de données mondiales pour 
+générer une estimation mondiale, mais aussi une série 
+d’estimations nationales qui se basent sur les mêmes 
+données. 
+Analyse par secteur économique : L’étude a retracé 
+l’empreinte climatique du secteur de la santé jusqu’à 
+l’origine de ses émissions qui figurent dans la base de 
+données WIOD. Ce qui a permis d’examiner en détail la 
+plupart des sources d’émission du secteur de la santé, 
+dont l’énergie, le transport, l’agriculture, la production de 
+médicaments, et plus. 
+Gaz anesthésiques et inhalateurs-doseurs : Bien que 
+limitée par l’exploitation de données de seulement 31 
+pays, l’étude a pu générer une estimation prudente de 
+l’impact climatique des gaz anesthésiques, puissants 
+gaz à effet de serre, et des inhalateurs-doseurs qui les 
+utilisent. En raison des sources de données variées, 
+ces estimations n’apparaissent pas dans l’estimation 
+mondiale de l’empreinte du secteur de la santé, mais 
+viennent s’y rajouter.
+Programme de recherches : L’étude identifie un 
+nombre de domaines dans lesquels des recherches 
+complémentaires et un développement méthodologique 
+pourront aider à soutenir le secteur dans ses efforts à 
+comprendre et à réduire son empreinte climatique.
+Recommandations politiques : À partir des conclusions, 
+l’étude présente un ensemble de recommandations 
+basées sur notre connaissance grandissante quant à 
+l’importance du rôle opéré par le secteur de la santé sur 
+le changement climatique, de même que sur la nécessité 
+pour le secteur d’être en conformité avec l’Accord de 
+Paris et ses objectifs de développement durable. 
+11
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Le secteur de la santé prend des mesures pour le climat
+De nombreuses institutions sanitaires dans 
+divers pays ouvrent déjà la voie vers une 
+décarbonation. Ces hôpitaux et systèmes 
+de santé de pays développés et en 
+développement servent de modèles pour la 
+mise en place d’actions qui visent à réduire 
+l’empreinte climatique et/ou à atteindre le zéro 
+émission, tout en développant la résilience et 
+en prenant des initiatives. Ci-après, quelques 
+exemples. Il en existe beaucoup plus. 
+Le Health Care Climate Challenge : 54 Lancé 
+en 2015 à la Conférence de Paris sur les 
+changements climatiques, le Health Care 
+Climate Challenge est une initiative de Health 
+Care Without Harm pour inciter les institutions 
+sanitaires à travers le monde à jouer un rôle 
+moteur dans la lutte contre le changement 
+climatique.
+Le Challenge et sa promesse, que les 
+institutions signent pour participer, sont basés 
+sur trois piliers : la réduction, la résilience et le 
+leadership. 
+À ce jour, plus de 190 institutions, qui 
+représentent les intérêts de plus de 18 000 
+hôpitaux et centres de santé dans 31 pays, 
+ont rejoint le Challenge et se sont engagées à 
+agir. Les participants sont aussi bien de petits 
+centres de santé que de larges systèmes de 
+santé. Jusqu’ici, ils se sont engagés ensemble 
+à réduire leurs émissions de 30 millions de 
+tonnes.
+100 % d’électricité renouvelable : En 2018, 
+Health Care Without Harm, dans le cadre du 
+Challenge, a commencé à rassembler des 
+établissements sanitaires à travers le monde 
+qui s’engagent à viser l’utilisation d’électricité 100 % renouvelable. À ce jour, 21 institutions dans 12 pays ont signé cet 
+engagement et ont permis de mettre la barre plus haut pour un secteur de la santé durable sur chaque continent. 
+Avec cet engagement, le secteur de la santé rejoint des milliers de villes,55, d’entreprises,56 d’établissements 
+d’enseignement supérieur,57 et d’autres organismes qui s’engagent de la même manière dans un effort mondial commun 
+pour accélérer la transition d’une dépendance aux énergies fossiles vers une économie basée sur des énergies propres et 
+renouvelables, telles que les énergies éoliennes et solaires.
+Lorsque ces 21 institutions seront entièrement opérationnelles, elles soigneront collectivement plus de 23 millions de 
+patients par an dans des établissements sanitaires, qui seront alimentés par 3,3 milliards de kilowattheures d’électricité 
+renouvelable. Ce faisant, ils réduiront leurs émissions de GES annuelles globales de plus d’1 million de tonnes de CO2e. 
+12
+Actions du secteur de la santé en faveur du climat, par région
+Europe :  Le Service National de Santé britannique a réduit l’empreinte du secteur de la santé et de la protection sociale 
+de 18,5 % depuis 2007, Périmètres 1, 2 et 3 inclus. Son objectif est d’être conforme au Climate Change Act du pays, qui 
+requiert la réduction de l’empreinte afin que le Royaume-Uni atteigne une réduction de 34 % d’ici 2020, et 80 % d’ici à 
+2050.58 D’autres exemples remarquables, locaux ou nationaux, existent en Europe, notamment en Scandinavie et aux Pays-
+Bas, où des hôpitaux « zéro émission » voient le jour, où les engagements des organismes vers une neutralité carbone sont 
+grandissants, où apparaissent des technologies innovantes adaptées au changement climatique, et où des stratégies pour 
+remédier aux émissions des chaînes d’approvisionnement sont adoptées dans ce secteur.59
+Amérique du Nord :  Aux États-Unis, où il y a sans doute le plus à faire, de nombreux systèmes de santé majeurs agissent 
+en faveur d’une décarbonation des Périmètres 1 et 2. Par exemple, le Kaiser Permanente, un des systèmes de santé 
+américains à but non lucratif les plus importants du pays, s’engage à avoir un bilan carbone net positif d’ici 2025 ; le 
+système de santé de l’Université de Californie a fixé un objectif « neutralité carbone » pour 2025 ; et la Cleveland Clinic 
+ambitionne d’avoir un bilan carbone neutre d’ici 2027.60 De nombreux systèmes de santé canadiens s’engagent aussi pour 
+la neutralité carbone. 
+Amérique latine :  En Amérique latine, plus de 175 hôpitaux en Argentine, au Brésil, au Chili, en Colombie et au Costa Rica, 
+travaillent ensemble avec le réseau Global Green and Healthy Hospitals de Health Care Without Harm, pour calculer leurs 
+empreintes climatiques et s’engagent à les réduire. 
+Afrique :  En Afrique, l’Hôpital Universitaire Mohammed VI s’est fixé l’objectif du 100 % d’électricité renouvelable d’ici 2030. 
+Ils atteindront cet objectif en investissant dans les énergies solaires et géothermales sur site. Au Zimbabwe, le Solar for 
+Health Program du PNUD a installé des panneaux solaires afin d’alimenter plus de 400 centres de santé, d’améliorer la 
+qualité des soins, de réduire les coûts et d’optimiser la résilience grâce au zéro émission. En Afrique du Sud, Netcare, 
+un système de santé privé, a pour ambition de réduire ses émissions de plus de 35 % d’ici 2023. L’énergie solaire est un 
+élément clé à cet effort. Ils ont actuellement des panneaux solaires qui fournissent 10 MW et ils prévoient d’étendre leur 
+réseau. 
+Asie :  En Corée du Sud, l’Hôpital Severence de l’Université de Y onsei s’est engagé à réduire de 30 % ses émissions 
+de carbone d’ici à 2020, ce qui équivaut à presque 12 000 tonnes de CO2e. En Inde, le Chhattisgarh State Renewable 
+Energy Development Agency (CREDA) et le State Health Department ont collaboré afin de mettre en place, d’exploiter 
+et d’entretenir des systèmes de panneaux solaires photovoltaïques dans 900 centres de santé et hôpitaux de district, 
+réduisant ainsi leurs empreintes carbones tout en devenant plus résilients. De nombreux grands hôpitaux et plus petits 
+centres de santé indiens ont également mis en place des stratégies adaptées au changement climatique. Des initiatives 
+similaires existent partout à travers l’Asie du Sud-Est.  Au Népal, l’Hôpital Kirtipur et le Tilganga Institute of Ophthalmology 
+se sont tous deux engagés à alimenter leurs établissements avec de l’électricité 100 % renouvelable. Ce qui va leur 
+permettre de réduire drastiquement leur empreinte climatique tout en assurant une qualité de soins constante, le Népal 
+ayant un réseau électrique instable et sujet aux pannes.
+La Chine a élaboré de nombreux plans et régulations aux niveaux nationaux, provinciaux et municipaux, qui se concentrent 
+sur l’économie d’énergie dans les institutions publiques, dont le secteur de la santé représente une large part. Par exemple, 
+en 2016, la Commission sur la santé municipale et la planification familiale de Pékin a dévoilé son Plan d’action pour 
+l’économie d’énergie et la réduction de carbone au sein du 13e Plan quinquennal (2016-2020) des Institutions sanitaires 
+de Pékin, dans lequel elle a fixé un objectif de réduction de consommation d’énergie pour les institutions sanitaires. Dans 
+ce cadre, de nombreux hôpitaux de Pékin ont déjà réduit de façon significative leurs émissions de carbone en menant des 
+rénovations écologiques des bâtiments, en améliorant la gestion des énergies et en construisant de nouveaux bâtiments 
+d’après les nouveaux standards Green Hospital Building.    
+Les actions en faveur du climat dans la chaîne d’approvisionnement mondiale : Certaines entreprises de la chaîne 
+d’approvisionnement, telles que Johnson & Johnson ou Philips, se sont engagées à s’alimenter en électricité 100 % 
+renouvelable d’ici à 2050. Le PNUD et Health Care Without Harm développent des critères pour un approvisionnement à 
+faible émission de carbone qui puissent encourager la demande de produits sanitaires à zéro émission.61
+13
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Le but de cette étude était de calculer l’empreinte 
+climatique des secteurs de la santé dans le monde. Une 
+empreinte climatique couvre les émissions de dioxyde 
+de carbone, de méthane et de protoxyde d’azote dans 
+le cadre des activités d’un secteur ou d’un organisme, 
+et permet de mesurer plus en détail sa contribution 
+au changement climatique comparée à une empreinte 
+carbone seule.
+La méthode utilisée pour calculer l’impact climatique 
+d’un système étudié consiste généralement à multiplier 
+les unités de production du système (c.-à-d. la quantité 
+d’activités prise en compte) par la quantité de carbone 
+associée à cette unité de production (c.-à-d. l’intensité 
+carbone). Le calcul peut être fait à différentes échelles : 
+de la chaîne d’approvisionnement de produits séparés, à 
+des organisations entières et des secteurs économiques, 
+ou même des régions géographiques ou des pays. 
+Presque toutes les activités de l’économie mondiale 
+sont en lien avec les émissions. Les systèmes 
+économiques, tels que celui de la santé, sont largement 
+interconnectés aux secteurs connexes via les chaînes 
+d’approvisionnement régionales et internationales. Ce 
+qui signifie que la vraie difficulté qui se pose lors du 
+calcul de l’empreinte climatique est de sélectionner les 
+sources (activité et intensité carbone), de repérer les 
+conséquences à travers la chaîne de valeurs, et d’utiliser 
+les méthodes de comptabilisation adéquates pour 
+imputer précisément les conséquences à travers les 
+systèmes connectés.
+La modélisation MRIO (Entrées-sorties plurirégionales) 
+propose une méthodologie puissante pour y arriver. C’est 
+un outil particulièrement utile puisqu’il évite les erreurs 
+de troncature qui peuvent survenir lorsque les données 
+sont insuffisantes ou qui résultent de la complexité et de 
+l’interdépendance de la chaîne d’approvisionnement. 
+La modélisation MRIO exploite les tableaux d’économie 
+Entrée-Sortie (ES), qui détaillent les flux commerciaux et 
+les quantités de transactions entre les secteurs d’une 
+économie. En combinant les tableaux ES nationaux, 
+un modèle de commerce mondial divisé par secteur 
+et nation est établi pour créer un tableau MRIO, qui 
+capture les flux économiques à travers les frontières et 
+les secteurs. De tels tableaux, combinés à des données 
+d’émissions de carbone, peuvent ensuite être utilisés 
+pour des analyses environnementales complémentaires 
+(EE-MRIO) qui permettent d’évaluer les liens entre 
+l’activité économique et l’utilisation de ressources, dont 
+les émissions de gaz à effet de serre.17 En perfectionnant 
+l’approche, les tableaux EE-MRIO peuvent être utilisés 
+pour estimer les émissions climatiques aux niveaux 
+nationaux, régionaux et sectoriels des activités 
+économiques. 
+Une description complète de la méthodologie utilisée 
+pour cette étude et prenant en compte l’approche MRIO, 
+les données appliquées et les structures de présentation 
+des résultats, est à retrouver dans l’Annexe B.
+Définition du secteur de la santé
+Afin de définir les limites de l’étude et de créer une 
+définition pour ce qui devrait être inclus dans l’évaluation 
+des émissions de carbone des secteurs de la santé 
+mondiaux, il était capital de définir le secteur lui-
+même. La définition qui a été retenue est celle que 
+l’Organisation mondiale de la Santé utilise pour le 
+secteur de la santé, car elle est reconnue mondialement 
+et elle est cohérente avec les publications pertinentes 
+et les données disponibles. Elle définit le secteur de la 
+santé comme suit : « toutes organisations, institutions 
+et ressources qui sont dévouées à produire des actions 
+en faveur de la santé. Une action en faveur de la santé 
+est définie comme tout effort, qu’il relève des soins 
+médicaux personnels, des services de santé publique 
+ou d’initiatives intersectorielles, dont le but primaire est 
+d’améliorer la santé. »
+En utilisant la définition de l’OMS comme base, l’étude l’a 
+combinée avec les statistiques sanitaires de l’OCDE qui 
+apparaissent dans le Système de comptes sur la santé 
+(SCS) de 2011 (co-publié par l’OCDE, l’Eurostat et l’OMS), 
+sa répartition des activités sanitaires à travers l’économie 
+mondiale, et les dépenses déclarées par ces activités 
+au sein du MRIO. Ce qui a permis de développer une 
+méthode qui détermine l’ampleur des activités à travers 
+le secteur de la santé mondial et qui génère des résultats 
+d’évaluation de l’empreinte climatique en lien avec les 
+définitions du secteur de la santé.
+MÉTHODOLOGIE DE L’ÉTUDE
+14
+Bases de données, informations appliquées et 
+procédé d’architecture
+Lorsque la méthodologie d’étude a été développée, il a 
+fallu faire des choix et prendre des décisions concernant 
+les bases de données. Ces choix sont explicités ci-
+dessous, notamment ceux relatifs à la base de données 
+MRIO, aux extensions environnementales, et aux 
+données de dépenses nationales dans le domaine de 
+la santé. L’ensemble de la méthodologie appliquée est 
+résumé sur le Graphique 2. 
+Choix MRIO (Entrées-sorties plurirégionales)
+Cette étude a été menée avec l’utilisation de la Base 
+de données entrée-sortie mondiale (WIOD), un modèle 
+mondial MRIO financé par la Commission européenne.19 
+WIOD offre un modèle complet du commerce mondial, 
+en utilisant une définition compatible avec 56 secteurs 
+pour décrire les économies de 43 pays en détail, avec la 
+catégorie agrégée reste-du-monde (RDM), qui garantit 
+une couverture mondiale complète. C’est un modèle 
+hautement apprécié, qui a été largement utilisé et validé 
+dans les publications scientifiques. WIOD a été préféré 
+à d’autres options de base de données en raison de sa 
+méthodologie fiable et de sa résolution sectorielle et 
+géographique.
+Extensions environnementales 
+L’ensemble de données de WIOD offre une extension 
+environnementale (EE) détaillée qui couvre les émissions 
+de dioxyde de carbone de toutes les nations et tous les 
+secteurs.20 Malheureusement, d’autres GES ne sont pas 
+inclus dans les EE, une approche sur-mesure qui les 
+prend en compte a donc dû être ajoutée. Le Greenhouse 
+Gas Protocol liste six catégories de gaz à effet de serre 
+qui doivent être intégrées aux calculs de l’empreinte : 
+• dioxyde de carbone
+• méthane
+• protoxyde d’azote 
+• hydrofluorocarbones (HFC)
+• perfluorocarbures (PFC)
+• hexafluorure de soufre (SF6)
+Après le dioxyde de carbone, les contributeurs majeurs 
+au réchauffement climatique sont le méthane et le 
+protoxyde d’azote. Ces gaz ont été ajoutés à notre 
+méthodologie en répartissant les émissions qui figurent 
+dans la base de données d’émissions PRIMAP sous 
+les catégories WIOD. Cette approche nous permet 
+d’incorporer virtuellement à notre modèle toutes les 
+émissions de méthane mondiales et plus de 93 % des 
+émissions mondiales de protoxyde d’azote. Le dioxyde 
+de carbone, le méthane et le protoxyde d’azote réunis 
+représentent plus de 98 % des émissions mondiales de 
+GES en 2014.21
+Graphique 2 : Méthodologie d’architecture pour l’empreinte climatique du secteur de la santé mondiale HCWH
+MÉTHODOLOGIE RÉSULTATS
+Base de données WIOD ES - 
+saisir les relations commerciales 
+mondiales
+Extensions environnementales et 
+données d’émissions PRIMAP
+Définition du secteur de la santé de 
+l’OMS, données des dépenses du 
+secteur de la santé OCDE/OMS
+Total des intensités d’émissions de 
+CO2, CH4, et N2O pour toutes les 
+catégories WIOD
+Les données des dépenses 
+OCDE/OMS cartographiées et 
+représentées dans la ventilation 
+par secteur WIOD
+Concordance / processus de cartographie 
+basé(e) sur Pichler et al. (2019)18
+Les empreintes climatiques 
+nationales et mondiales 
+du secteur de la santé
+15
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Données de dépenses nationales
+Le procédé de vérification de la concordance utilisé pour 
+cartographier les dépenses est largement plébiscité et 
+documenté dans les publications scientifiques12, 18. Les 
+données de dépenses sanitaires ont été utilisées pour 
+garantir une cohérence entre les limites du secteur de 
+la santé et sa définition fournie par l’OMS. Les données 
+de dépenses nationales ont été cartographiées par 
+catégorie WIOD en utilisant une matrice de concordance 
+entre les définitions de secteurs de l’OMS et de WIOD. La 
+théorie sous-jacente à ce procédé est développée dans 
+les informations complémentaires à l’étude de Pichler 
+et al.22. Des descriptions détaillées des définitions21 
+par secteur WIOD et par catégorie de dépenses23 de 
+l’OMS ont été utilisées pour garantir une cartographie 
+cohérente des dépenses. Plus de détails sur les données 
+des dépenses sanitaires pour chaque nation et région de 
+la WIOD sont à retrouver dans l’Annexe B.
+Présentation et compte-rendu des résultats
+Ce rapport sur les conséquences du changement 
+climatique requiert une présentation minutieuse afin que 
+le public cible et les utilisateurs des informations puissent 
+se familiariser avec le langage, les systèmes et les 
+périmètres utilisés. Le rapport d’étude est encadré par 
+trois perspectives générales dont :
+• Les secteurs économiques et la structure de la base 
+de données entrée-sortie mondiale (WIOD)
+• La structure du Système de  
+comptes sur la santé (SCS) de l’OMS
+• Les catégories des Périmètres 1, 2 et 3 du 
+Greenhouse Gas Protocol (GHGP)
+Les catégories de périmètres GHGP sont un cadre 
+commun largement utilisé (également dans le secteur 
+de la santé), pour la répartition et le compte rendu 
+d’émissions de GES générées par les organismes et les 
+chaînes d’approvisionnement (Graphique 3).
+Graphique 3 : Les Périmètres 1, 2 et 3 du Greenhouse Gas Protocol. (Source : Greenhouse Gas Protocol)
+MÉTHODOLOGIE DE L’ÉTUDE
+16
+Il était important d’avoir un moyen de traduire les 
+résultats de l’étude basés sur les structures WIOD et SCS 
+sous une forme compatible avec les périmètres GHGP. 
+L’approche développée pour l’encadrement des résultats 
+a nécessité la cartographie du SCS en Périmètres 1, 2 et 
+3, puis la division en catégories par secteur économique 
+de la WIOD. Plus de détails sont à retrouver dans 
+l’Annexe B, dont un résumé sur la manière dont les 
+définitions de périmètres GHGP ont été interprétées 
+pour les activités spécifiques du secteur de la santé. Un 
+résumé de cette cartographie figure sur le Graphique 4.
+Hôpitaux Soins de 
+longue durée
+Soins
+ambulatoires
+Services 
+auxiliaires
+Revendeurs Soins 
+préventifs
+Admin + 
+finance
+Soins à 
+domicile
+Offrir des 
+soins aux 
+non-résidents
+Émissions totales par secteur - segmentées par catégorie de production WIOD
+Périmètre 3 = Total - Périmètre 1 - Périmètre 2
+Périmètre 1 
+Périmètre 2 
+Graphique 4 : Approche utilisée pour cartographier les émissions par catégories et par Périmètre GHGP 1, 2 et 3,
+à partir du modèle d’étude d’empreinte climatique du SCS et de la WIOD
+Le public de ce rapport est large et inclut ceux qui font 
+partie de la chaîne de valeurs du secteur de la santé. 
+L’accent est mis sur le soutien au développement 
+d’orientations stratégiques pour les actions du 
+système sanitaire en faveur du climat. Au cours de 
+ses observations, le lecteur trouvera des résultats 
+présentés sous les périmètres de la WIOD et du 
+GHGP. Ce qui devrait fournir un équilibre suffisant à la 
+compréhension des sources clés d’émissions (via WIOD) 
+et des catégories de notification (via GHGP) qui sont 
+généralement utilisées pour communiquer et présenter 
+les actions en faveur du climat. Une variété de résumés 
+propres aux pays et aux régions figure également dans 
+le livre.
+Inhalateurs-doseurs 
+Les inhalateurs-doseurs, généralement utilisés pour traiter l’asthme ou d’autres maladies respiratoires, contiennent des 
+hydrofluorocarbones qui agissent comme propulseurs. Ces gaz sont des gaz à effet de serre extrêmement puissants, dont 
+le potentiel de réchauffement est 1 480 à 2 900 fois plus élevé que le dioxyde de carbone. 26 Les données mondiales des 
+émissions provenant d’inhalateurs-doseurs, utilisés en tant qu’anesthésiques, ne sont pas disponibles ; cependant, l’Annexe 
+1 de la CCNUCC sur les pays fournit des données sur les émissions de cette source.27 D’après l’Annexe 1 sur les pays de la 
+CCNUCC, les émissions des inhalateurs-doseurs représentent un total de 6,9 Mt de CO 2e, soit 0,3 % à ajouter à l’empreinte 
+mondiale de la santé. Le total des émissions mondiales des inhalateurs-doseurs est probablement bien supérieur à ce 
+chiffre, et alors que les médicaments contre l’asthme figurent sur la liste des médicaments essentiels de l’OMS,28 des 
+mécanismes alternatifs aux inhalateurs-doseurs, tels que des inhalateurs à poudre sèche, sont disponibles et tout aussi 
+efficaces, mais ne contiennent pas de propulseurs à potentiel de réchauffement climatique.
+Les prestataires de santé SCS
+17
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Limites de l’étude 
+Ce rapport a pour but de permettre une meilleure 
+compréhension de l’empreinte climatique mondiale du 
+secteur de la santé, et a, pour ce faire, utilisé des sources 
+de données et des méthodes qui favorisent l’exhaustivité 
+au profit de la résolution. Par conséquent, on ne devrait 
+pas attendre de cette approche qu’elle fournisse des 
+résultats aussi détaillés que ceux des empreintes 
+calculées pour les systèmes sanitaires nationaux, les 
+organismes sanitaires, ou les établissements de santé. 
+Un résumé général d’autres limites, dont la collecte de 
+données et les approches de compte rendu, inclut :  
+1. Mise en conformité avec des études précédentes :  Ce 
+rapport est le premier à estimer l’impact climatique du 
+secteur de la santé dans tous les pays et à prendre 
+en compte trois gaz à effet de serre majeurs. L’étude 
+comparable18 qui se rapproche le plus de celle-ci a 
+utilisé une méthodologie similaire, mais ce rapport se 
+distingue par cinq aspects clés (parmi d’autres) : 
+a. Il couvre tous les pays, dont 25 % supplémentaires 
+au PIB mondial.
+b. Il considère les émissions de méthane et de 
+protoxyde d’azote en plus de celles de dioxyde 
+de carbone, ce qui représente un ajout de 25 % à 
+l’impact climatique mondial.
+c. Son modèle est basé sur la base de données 
+MRIO WIOD plutôt que sur Eora afin de faciliter la 
+comparaison entre les pays.
+d. Il utilise une approche plus granulaire de la 
+cartographie des dépenses sanitaires pour les pays 
+hors OCDE, tels que la Chine et l’Inde.
+e. Dans le cas précis de la Chine, les données de 
+dépenses ont été revues à la baisse de 15 % entre la 
+publication du rapport de Pichler et al. et ce rapport.
+2. Données de dépenses : Les données de dépenses 
+du Système de comptes sur la santé (SCS) sont 
+cohérentes en termes de définition du système de la 
+santé et de catégorisation des prestataires de soins à 
+travers les pays.
+3. La répartition des données de dépenses du SCS dans 
+les secteurs économiques WIOD : Les catégories de 
+prestataires de soins du SCS ne sont pas totalement 
+cohérentes avec les secteurs économiques de la 
+WIOD. La méthode de traduction entre les deux 
+requiert des approximations basées sur les définitions 
+détaillées des catégories du SCS et de la WIOD.
+4. Pays détaillés dans la WIOD et le reste du monde 
+(RDM) : La base de données WIOD fournit des 
+informations détaillées sur 43 pays et combine le reste 
+du monde dans un secteur agrégé. Ce qui signifie qu’il 
+y a une perte de résolution dans de nombreux pays. 
+La catégorie RDM, qui fait office de balance au sein 
+du modèle, masque les inégalités dans les comptes 
+rendus de données et dans les définitions de secteurs 
+entre les pays détaillés. Ce qui signifie qu’il manque les 
+données spécifiques des pays de toute l’Afrique et du 
+Moyen-Orient, ainsi que celles de beaucoup de pays 
+à revenus faibles et intermédiaires d’Asie, d’Amérique 
+latine et des Caraïbes. 
+5. La répartition des empreintes en termes d’émissions 
+par périmètre GHGP : Il est compliqué de ventiler 
+l’approche basée sur le MRIO pour évaluer les 
+structures de compte-rendu des Périmètres 1, 2 
+et 3, notamment lorsqu’on s’attarde sur les sous-
+catégories du Périmètre 3. Cette étude n’offre que 
+des perspectives partielles. Une analyse de trajectoire 
+structurelle est essentielle pour montrer l’intégralité 
+des relations de la chaîne d’approvisionnement au sein 
+du modèle. 
+6. Le protoxyde d’azote comme anesthésique : On 
+conduit l’analyse à partir des données disponibles 
+pour 31 pays sous le régime de déclaration de la 
+CCNUCC. Ces pays représentent 15 % de la population 
+mondiale, 57 % du PIB, et 73 % des dépenses sanitaires 
+mondiales. En raison des limites, nous présentons ces 
+données séparément. 
+7. Les gaz fluorés comme anesthésiques (desflurane, 
+sévoflurane, isoflurane) : Les chiffres proviennent 
+des recherches publiées sur les concentrations 
+atmosphériques. Le potentiel de réchauffement 
+climatique est déduit de ces mesures. Il peut être 
+considéré comme une empreinte mondiale, mais en 
+raison de différentes méthodes utilisées pour calculer 
+les valeurs, nous les présentons séparément. 
+8. Année de compte rendu : Cette étude considère les 
+émissions générées par le secteur de la santé en 2014, 
+qui est l’année la plus récente disponible sur la base 
+de données WIOD. Les prestataires de santé et leurs 
+partenaires ont fait des progrès pour décarboner leurs 
+activités au cours des cinq dernières années. Mais cela 
+n’apparait pas dans les conclusions. 
+MÉTHODOLOGIE DE L’ÉTUDE
+18
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+Ce rapport contribue à livrer une quantité de preuves croissantes qui documente l’étendue et la nature de 
+l’empreinte climatique du secteur de la santé. Six conclusions clés peuvent être tirées de cette étude. 
+1. Le secteur de la santé contribue largement à la 
+crise climatique 
+La santé, un secteur qui a pour mission première de « ne 
+pas nuire » et de soigner, a une empreinte climatique 
+élevée et contribue largement à la crise climatique, qui 
+se transforme rapidement en urgence sanitaire mondiale. 
+De plus en plus d’études nationales et internationales 
+viennent le confirmer et mettent en lumière ces 
+observations. 
+Cette étude, la seule analyse mondiale aussi approfondie 
+à ce jour, révèle que le secteur de la santé mondial avait 
+une empreinte climatique de 2,0 Gt de CO 2e en 2014, 
+soit 4,4 % des émissions nettes mondiales. 
+Si le secteur de la santé était un pays, il serait le 
+cinquième plus gros émetteur de la planète. L’empreinte 
+climatique du secteur de la santé est inférieure à celle de 
+la Chine, des États-Unis, de l’Inde, et de la Russie, mais 
+elle est supérieure à celle du Japon et du Brésil. 
+L’empreinte climatique du secteur de la santé mondial 
+est équivalente aux émissions de gaz à effet de serre 
+annuelles de 514 centrales à charbon.24
+Les trois contributeurs majeurs à l’empreinte climatique 
+mondiale du secteur de la santé sont : les États-Unis 
+(546 millions de tonnes de CO2e), la Chine (342 Mt de 
+CO2e), et l’Union européenne (248 Mt de CO2e). (Voir 
+Annexe A pour le classement des 43 pays, plus l’Union 
+européenne.) 
+Les émissions du secteur de la santé représentent un 
+pourcentage varié de l’empreinte climatique en fonction 
+des pays. Ils vont du plus élevé, comme aux États-Unis 
+(7,6 %), en Suisse (6,7 %) ou au Japon (6,4 %), au plus 
+faible, comme en Inde (1,5 %) ou en Indonésie (1,9 %). Les 
+données ne sont pas disponibles pour de nombreux pays 
+à revenus faibles et modérés. La plupart des 43 pays 
+de l’étude se situent dans la moyenne mondiale qui est 
+d’environ 4,4 % (Graphique 7). 
+2. Plus de la moitié de l’empreinte émise 
+par le secteur de la santé provient de sa 
+consommation énergétique
+Les émissions qui proviennent directement des 
+établissements sanitaires (Périmètre 1) constituent 17 % 
+de l’empreinte mondiale du secteur. Les émissions 
+indirectes, qui proviennent de l’achat de sources 
+d’énergie telles que l'électricité, la vapeur, la climatisation 
+et le chauffage (Périmètre 2), représentent 12 %. Et la part 
+du lion des émissions, 71 %, provient de ce qu’on appelle 
+le Périmètre 3, soit la chaîne d’approvisionnement 
+du secteur de la santé : la production, le transport, 
+l’utilisation, et le traitement des biens et services 
+consommés par le secteur. 
+Lorsqu’on a une vue d’ensemble, au travers des 
+trois périmètres, plus de la moitié de l’empreinte du 
+secteur de la santé est imputable à la consommation 
+d’énergie, et principalement celle d’électricité, de gaz, 
+de vapeur et d’air conditionné, combinée aux émissions 
+opérationnelles du secteur de la santé. 
+D’autres activités significatives contribuent à l’empreinte 
+du secteur de la santé, dont : l’agriculture (9 % qui 
+inclut la restauration des établissements sanitaires, la 
+culture du coton pour les blouses chirurgicales, etc.), 
+les médicamentsb,21 et les produits chimiques (5 % 
+hors énergie utilisée pour les fabriquer), les transports 
+(7 %), et le traitement des déchets (3 %). De plus, une 
+estimation limitée ne couvrant que 31 des pays montre 
+qu’il faut rajouter 1 % à l’empreinte climatique du secteur 
+de la santé, soit près de quatre millions de tonnes, 
+en provenance des gaz anesthésiques (0,6 %) et des 
+inhalateurs-doseurs (0,3 %). (Voir : les inhalateurs-doseurs 
+page 17 et les gaz anesthésiques page 31) 
+b.  D’autres études dans ce domaine ont révélé que la contribution des médicaments est bien plus élevée que celle qui figure dans nos résultats. Ce résultat s’explique par 
+les différentes techniques de compte-rendu. Nous présentons les émissions générées par les fabricants de médicaments et de produits chimiques, alors que les études 
+précédentes présentaient les émissions globales générées par l’achat des produits pharmaceutiques. Ces chiffres diffèrent principalement parce que les émissions générées 
+par la consommation d’énergie de la chaîne d’approvisionnement sont comptabilisées dans les résultats lorsqu’on présente l’intégralité des émissions.
+19
+CONCLUSION : L’EMPREINTE CLIMATIQUE 
+MONDIALE DU SECTEUR DE LA SANTÉ
+L ’empreinte mondiale des catégories GHGP
+Le Graphique 5 montre l’empreinte mondiale du secteur 
+de la santé divisée en Périmètres GHGP. Les résultats ont 
+été cartographiés par catégories selon le Graphique 3.
+Graphique 5 : Empreinte mondiale du secteur de la santé divisé par 
+Périmètre GHGP 
+Empreinte climatique par sources 
+d’émissions WIOD
+Le Graphique 6 montre les secteurs d’émissions initiales 
+de l’empreinte mondiale du secteur de la santé ; ils 
+figurent dans les catégories WIOD et les groupements 
+détaillés en Annexe B.
+c.  Cette ventilation diffère de celle qu’on peut trouver dans des études précédentes dans le même domaine (telles que celle menée par le Service National de 
+Santé du Royaume-Uni). Ces études ont imputé les émissions de la chaîne d’approvisionnement aux secteurs de prestations de biens et de services en lien direct 
+avec le secteur de la santé, alors que cette étude retrace les émissions depuis la chaîne d’approvisionnement jusqu’à son émetteur initial.
+Périmètre 1 Périmètre 2 Périmètre 3
+Graphique 6 : Émissions mondiales du secteur de la santé divisées par secteur de production. Les définitions des catégories utilisées en légende 
+sont disponibles en Annexe B. c,25
+La production et la distribution d’électricité, de gaz, de chauffage et de 
+systèmes de refroidissement
+Les émissions opérationnelles des établissements sanitaires
+Autres fabricants (métaux de base, textiles et produits agroalimentaires, etc.)
+Agriculture (approvisionnement de nourriture et de produits, etc.)
+Autres secteurs et services
+Transports ; (vo yages d’affaire, transport opérationnel, logistique de la 
+chaîne d’approvisionnement, etc.)
+Produits pharmaceutiques et chimiques
+Traitement des déchets
+Autres industries primaires (mine, sylviculture, pêche/aquaculture, etc.)
+Produits en caoutchouc et plastique
+Ordinateurs, électronique et équipements optiques
+40 %
+13 %11 %
+9 %
+8 %
+7 %
+5 %
+3 % 3 %
+17 %
+12 %
+71 %
+20
+Relation entre les catégories GHGP et les sources d’émissions WIOD
+Le Graphique 6a montre la proportion des sources d’émissions WIOD imputée aux Périmètres GHGP 1, 2 et 3.
+LES CATÉGORIES DE 
+PÉRIMÈTRES GHGP LES CATÉGORIES WIOD
+Périmètre 1
+17 %
+Périmètre 2
+12 %
+Périmètre 3
+71 %
+Les émissions opérationnelles 
+du secteur de la santé
+Transports
+Transports
+Autres 
+fabricants
+Agriculture
+Autres secteurs 
+et services
+Produits pharmaceutiques 
+et chimiques
+Traitement des déchets
+Autres industries primaires
+Produits en caoutchouc 
+et plastique
+Ordinateurs, électronique 
+et équipements optiques
+La distribution d’électricité, 
+de gaz, de chauffage et de 
+systèmes de refroidissement
+La distribution d’électricité, 
+de gaz, de chauffage et de 
+systèmes de refroidissement
+40 %
+3 %
+3 %
+5 %
+8 %
+9 %
+11 %
+7 %
+13 %
+1,3 %
+0,2 %
+21
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Australie 2 %
+Canada 2 %
+Corée du Sud 2 %
+Inde 2 %
+Russie 4 %
+Japon
+5 %
+États-Unis 
+d’Amérique  
+27 % Chine  
+17 %
+Union 
+européenne
+12 %
+Brésil 2 %
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+3. L ’empreinte climatique du secteur de la santé 
+reflète généralement le modèle des émissions 
+nationales
+Rien d’étonnant à ce que les plus gros pollueurs 
+mondiaux aient l’empreinte climatique la plus élevée du 
+secteur de la santé. Dans le même temps, ces pays aux 
+émissions élevées par habitant voient cette réalité se 
+refléter également dans leurs secteurs de santé.
+Émissions absolues 
+Les États-Unis, la Chine et l’Union européenne sont les 
+trois plus gros contributeurs à l’empreinte climatique du 
+secteur de la santé. Ils sont également les trois plus gros 
+émetteurs toutes émissions confondues.31
+Les dix plus gros émetteurs de carbone du secteur de 
+la santé, dont l’Union européenne qui est considérée 
+comme un émetteur unique, représentent 75 % du total 
+des émissions mondiales du secteur de la santé. 
+Il est intéressant de noter que la Chine est aujourd’hui 
+le plus gros émetteur absolu de gaz à effet de serre au 
+monde, mais cette étude révèle que ce sont les États-
+Unis qui sont loin devant en termes d’émissions absolues 
+dans le secteur de la santé (États-Unis = 546 Mt ; Chine = 
+342 Mt).d
+d.  Dans une étude différente, Pichler et. al. ont révélé que l’empreinte climatique du système de la santé chinois était bien plus importante (600 Mt) que celle des 
+États-Unis. Les différences entre cette étude et la publication de Pichler et al. sont abordées dans la partie « Limites de l’étude » page 16.
+Graphique 8 : Les dix émetteurs principaux ramenés 
+en pourcentage de l’empreinte mondiale du 
+secteur de la santé.
+Tableau 1 : Le top dix des émetteurs de carbone dans le secteur de la santé comparé au top dix des émetteurs globaux
+Classement des émissions du 
+secteur de la santé par pays/région
+Classement du total des 
+émissions par pays/région
+1 États-Unis d’Amérique Chine
+2 Chine États-Unis d’Amérique
+3 Union européenne Union européenne
+4 Japon Inde
+5 Russie Russie
+6 Brésil Japon
+7 Inde Brésil
+8 Corée du Sud Canada
+9 Canada Corée du Sud
+10 Australie Mexique
+Mexique (11) Australie (17) 
+Toutes 
+les autres 
+nations
+25 %
+22
+Émissions par habitant
+Cette image change lorsqu’on envisage les émissions 
+du secteur de la santé par habitant. Au niveau mondial, 
+les émissions moyennes par habitant, en lien avec les 
+activités du secteur médical, sont de 0,28 t de CO 2e. Les 
+émissions par habitant sont une mesure importante pour 
+comprendre et trouver des solutions au changement 
+climatique sur la base de l’équité. 
+Par exemple, l’Inde, qui a la septième empreinte 
+climatique mondiale absolue dans le secteur de la santé 
+(39 Mt de CO 2e) a les plus basses émissions liées à 
+la santé par habitant (0,03 tonnes) des 43 pays de ce 
+rapport. Alors que le secteur de la santé aux États-Unis, 
+le plus gros émetteur mondial en terme absolu et par 
+habitant (546 Mt absolues, 1,72 tonnes par habitant), 
+émet 57 fois plus par habitant que ne le fait l’Inde. 
+D’autres gros émetteurs du secteur de la santé, tels que 
+l’Australie, le Canada et la Suisse, émettent entre 30 et 
+50 fois plus par habitant que ne le fait l’Inde. 
+La Chine, numéro deux en termes d’émissions absolues 
+dans le secteur de la santé, a des émissions par habitant 
+(0,25) juste en dessous de la moyenne mondiale (0,28). 
+Ce taux d’émissions signifie que le secteur de la santé 
+en Chine produit six fois plus de gaz à effet de serre par 
+personne que celui d’Inde. Mais le secteur de la santé 
+chinois émet aussi un septième des gaz à effet de serre 
+par personne comparé à celui des États-Unis, un tiers du 
+secteur coréen et un peu moins de la moitié de celui de 
+l’Union européenne.
+Les émissions du secteur de la santé par habitant par pays
+Les plus gros 
+émetteurs : 
+(plus d’1 t par habitant)
+Les émetteurs 
+majeurs
+(entre 0,50 t et 1 t  
+par habitant)
+Émetteurs supérieurs à 
+la moyenne  
+(entre la moyenne mondiale 
+0,28 t et 0,50 t par habitant)
+Émetteurs inférieurs 
+à la moyenne Inconnu
+Australie Autriche Bulgarie Brésil
+Reste du monde 
+(RDM) 
+Canada Belgique Chypre Chine
+Suisse Danemark République tchèque Croatie
+États-Unis d’Amérique Estonie France Hongrie
+Finlande Grèce Inde
+Allemagne Italie Indonésie
+Irlande Malte Lettonie
+Japon Pologne Lituanie
+Corée Portugal Mexique
+Luxembourg Slovénie Roumanie
+Pays-Bas Espagne République Slovaque
+Norvège Suède Turquie
+Russie Union européenne
+Taïwan
+Royaume-Uni
+Tableau 2 : Les émissions du secteur de la santé par habitant par pays
+23
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+Graphique 7 : L’empreinte du secteur de la santé en pourcentage des émissions nationales pour toutes les nations et régions couvertes par cette étude
+Empreinte du secteur de la santé en % de l’empreinte nationale
+Australie
+Autriche
+Belgique
+Brésil
+Bulgarie
+Canada
+Chine
+Croatie
+Chypre
+République tchèque
+Danemark
+Estonie
+Finlande
+France
+Allemagne
+Grèce
+Hongrie
+Inde
+Indonésie
+Irlande
+Italie
+Japon
+Corée
+Lettonie
+Lituanie
+Luxembourg
+Malte
+Mexique
+Pays-Bas
+Norvège
+Pologne
+Portugal
+Roumanie
+Russie
+République Slovaque
+Slovénie
+Espagne
+Suède
+Suisse
+Taïwan
+Turquie
+Royaume-Uni
+États-Unis d’Amérique
+Reste du monde
+Union européenne Nation
+0 % 1 % 6 % 7 %2 % 3 % 4 % 5 % 9 % 10 %8 %
+Monde - 4,4 %
+5,1 %
+5,2 %
+5,5 %
+4,4 %
+6,0 %
+5,2 %
+3,1 %
+3,2 %
+2,9 %
+3,6 %
+6,3 %
+4,7 %
+5,0 %
+4,6 %
+5,2 %
+3,7 %
+4,3 %
+1,5 %
+1,9 %
+4,4 %
+4,0 %
+6,4 %
+5,3 %
+3,2 %
+2,0 %
+3,7 %
+4,8 %
+3,4 %
+5,9 %
+4,3 %
+3,7 %
+4,8 %
+2,7 %
+4,0 %
+2,8 %
+4,6 %
+4,5 %
+4,4 %
+6,7 %
+4,6 %
+3,2 %
+5,4 %
+7,6 %  
+3,9 %
+4,7 %
+Dioxyde de carbone Méthane Protoxyde d’azote
+24
+Aperçus
+Les sections suivantes offrent une série d’aperçus des pays aux émissions élevées dans le secteur de la santé, dont 
+les États-Unis, la Chine, l’Inde et le Brésil, ainsi que les 28 nations de l’Union européenne. 
+Une documentation complète des aperçus pour les 43 pays est à retrouver en Annexe C.
+États-Unis d’Amérique
+Le secteur de la santé aux États-Unis Valeur Unité
+Empreinte climatique 547 Mt de CO2e
+Émissions par habitant 1,72 t de CO2e/
+habitant
+Émissions en % de l’empreinte 
+nationale 7,6 %
+Dépenses par habitant 9053 USD
+Dépenses en pourcentage du PIB 16,5 %
+% de l’empreinte générée 
+domestiquement 78,2 %
+L’empreinte du secteur de la santé 
+et son équivalence en émissions des 
+centrales à charbon32
+141
+centrales à 
+charbon en 
+un an
+Chine
+21 % 
+15 %
+64 %
+12 %
+7 %
+80 %
+Système de santé chinois Valeur Unité
+Empreinte climatique 342 Mt de CO2e
+Émissions par habitant 0,25 t de CO2e/
+habitant
+Émissions en % de l’empreinte 
+nationale 3,0 %
+Dépenses par habitant 362 USD
+Dépenses en pourcentage du PIB 4,8 %
+% de l’empreinte générée 
+domestiquement 90,5 %
+L’empreinte du secteur de la santé 
+et son équivalence en émissions des 
+centrales à charbon32
+87,8
+centrales à 
+charbon en 
+un an
+Périmètre 1 Périmètre 2 Périmètre 3
+25
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+Union européenne
+14 %
+11 %
+75 %
+Système de santé en Union 
+européenne Valeur Unité
+Empreinte climatique 249 Mt de CO2e
+Émissions par habitant 0,49 t de CO2e/
+habitant
+Émissions en % de l’empreinte 
+nationale 4,7 %
+Dépenses par habitant 3668 USD
+Dépenses en pourcentage du PIB 10,0 %
+L’empreinte du secteur de la santé 
+et son équivalence en émissions des 
+centrales à charbon32
+64
+centrales à 
+charbon en 
+un an
+Inde
+8 %
+11 %
+81 %
+Système de santé en Inde Valeur Unité
+Empreinte climatique 39 Mt de CO2e
+Émissions par habitant 0,03 t de CO2e/
+habitant
+Émissions en % de l’empreinte 
+nationale 1,5 %
+Dépenses par habitant 57 USD
+Dépenses en pourcentage du PIB 3,6 %
+% de l’empreinte générée 
+domestiquement 80,1 %
+L’empreinte du secteur de la santé 
+et son équivalence en émissions des 
+centrales à charbon32
+10
+centrales à 
+charbon en 
+un an
+Périmètre 1 Périmètre 2 Périmètre 3
+26
+Émissions de GES par région
+Graphique 9 : Les émissions estimées du secteur de la santé pour les régions de la Banque mondiale,
+autres que l’Afrique subsaharienne, le Moyen-Orient et l’Afrique du Nord
+Brésil
+21 %
+6 %
+73 %
+Système de santé au Brésil Valeur Unité
+Empreinte climatique 44 Mt de CO2e
+Émissions par habitant 0,21 t de CO2e/
+habitant
+Émissions en % de l’empreinte 
+nationale 4,4 %
+Dépenses par habitant 1301 USD
+Dépenses en pourcentage du PIB 10,8 %
+% de l’empreinte générée 
+domestiquement 70,6 %
+L’empreinte du secteur de la santé 
+et son équivalence en émissions des 
+centrales à charbon32
+11,3
+centrales à 
+charbon en 
+un an
+Amérique du Nord Amérique latine et 
+Caraïbes
+Asie de l’Est 
+Pacifique
+Asie du Sud Europe et Asie 
+Centrale
+1,65 0,20 0,26 0,03 0,43 t de CO2e/habitant
+0,58 0,13 0,60 0,05 0,39 Gt de CO2e total
+29 6 30 2 19 % mondial
+Périmètre 1 Périmètre 2 Périmètre 3
+27
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+4. Décarboner la chaîne d’approvisionnement du 
+secteur de la santé est un enjeu majeur 
+La conclusion que 71 % de l’empreinte climatique du 
+secteur de la santé est imputable aux émissions du 
+Périmètre 3 est importante (Graphique 3). Alors qu’une 
+étude approfondie est nécessaire, il est probable qu’une 
+vaste majorité des émissions provienne de la production, 
+du conditionnement, du transport, et du traitement 
+des biens et des services que le secteur de la santé 
+achète. Ce qui inclut les médicaments et autres produits 
+chimiques, les appareils médicaux, les équipements 
+hospitaliers, les instruments, et plus. 
+Un travail complémentaire doit être effectué afin d’avoir 
+une image globale des émissions de GES générées 
+par la chaîne d’approvisionnement du secteur de la 
+santé. Afin de traiter l’empreinte climatique de la chaîne 
+d’approvisionnement du secteur de la santé, il est 
+impératif de comprendre son caractère mondial. 
+Ce rapport révèle que 76 % des émissions du secteur 
+de la santé, dont la chaîne d’approvisionnement, sont 
+générées domestiquement. Ce qui signifie qu’à peine un 
+quart des émissions du secteur de la santé est généré 
+en dehors du pays où le produit sanitaire est finalement 
+consommé. Chez certains des plus gros émetteurs, le 
+profil des émissions domestiques est encore plus élevé : 
+la Chine atteint 90 %, les États-Unis sont à 78 %, l’Inde à 
+80 %, et le Brésil à 70 %. 
+Il est important d’analyser et d'identifier de façon 
+plus approfondie l’empreinte climatique relative à la 
+production pour la chaîne d’approvisionnement du 
+secteur de la santé dans ces pays-là, et de déterminer 
+quels pays sont les plus grands consommateurs de 
+biens et services. Par exemple, lorsqu’on évalue les 
+émissions du Périmètre 3, l’Unité de Développement 
+Durable (SDU) du Service National de Santé (NHS) 
+d’Angleterre révèle que les produits pharmaceutiques 
+sont responsables de la plus grosse part des émissions 
+climatiques. Comprendre la chaîne d’approvisionnement 
+dans son ensemble est une étape importante, et 
+notamment identifier quelles sont les zones à risques en 
+termes d’empreintes climatiques issues des émissions 
+du Périmètre 3 de nombreux pays. C’est un prérequis au 
+développement de l’approche pour aborder cet élément 
+majeur de l’empreinte climatique du secteur de la santé. 
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+En se basant sur les points de données de 43 pays, nous 
+avons pu établir, avec un haut niveau de confiance, une 
+série d’estimations régionales des émissions du secteur 
+de la santé (Graphique 9). Ces estimations sont pour 
+toutes les régions, hors Afrique et Moyen-Orient pour 
+lesquelles la base de données mondiale WIOD n’offre 
+pas suffisamment de données pour une estimation 
+solide. 
+Il est important de noter que ces estimations sont 
+basées sur des chiffres fournis par les pays à l’extrémité 
+supérieure de la distribution du revenu mondial. 
+Ainsi, alors que nous avons toute confiance dans les 
+estimations pour l’Union européenne, les valeurs des 
+régions telles que l’Amérique latine, qui ne bénéficie pas 
+d’une couverture exhaustive dans la base de données 
+WIOD, sont estimées sur la base des résultats des pays 
+détaillés dans WIOD, dont les pays voisins. (Voir Annexe 
+B pour plus de détails sur la méthodologie). Il existe 
+une opportunité d’affiner ces estimations lorsque des 
+données supplémentaires, spécifiques à chaque pays, 
+seront disponibles.
+Compte tenu de ces mises en garde, l’image dessinée 
+par ces estimations est celle d’une vaste majorité, 
+soit 78 % des émissions du secteur de la santé qui 
+proviennent d’Amérique du Nord (29 %), d’Asie de l’Est/
+Pacifique (30 %), et d’Europe/des régions d’Asie Centrale 
+(19 %). Des 22 % des émissions mondiales du secteur 
+de la santé restantes, nous estimons que l’Amérique 
+latine en génère 6 % et l’Asie du Sud 2 %. Bien que les 
+données soient manquantes, nous pouvons déduire que 
+les 14 % des émissions mondiales du secteur de la santé 
+restantes sont générés par 21 pays du Moyen-Orient et 
+d’Afrique du Nord et 48 pays d’Afrique subsaharienne. 
+5. La combustion d’énergies fossiles est au cœur 
+de l’empreinte climatique émise par le secteur 
+de la santé
+L’énergie, et principalement la combustion de 
+combustibles fossiles, représente plus de la moitié de 
+l’empreinte climatique du secteur de la santé. 
+Comme illustré sur le Graphique 6, 40 % de l’empreinte 
+climatique du secteur de la santé provient de 
+l’alimentation en électricité et en énergie thermique 
+imputable aux activités relatives à la santé. C’est 
+de l’énergie qui a été achetée à la fois par les 
+établissements sanitaires (émissions du Périmètre 2 du 
+Graphique 5), et par les fabricants et les fournisseurs 
+de biens et de services du secteur (Périmètre 3 du 
+Graphique 5). Ce qui inclut, par exemple, l’énergie 
+achetée par les industries d’équipements médicaux et de 
+produits pharmaceutiques. 
+28
+13 % de l’empreinte du secteur de la santé découlent 
+principalement de la production d’énergie des 
+établissements sanitaires comme indiqué sur le 
+Graphique 6 sous « émissions opérationnelles du secteur 
+de la santé ».  Ce qui nous amène à un total de 53 %. Ce 
+chiffre ne va cesser d’augmenter avec la prise en compte 
+de la combustion sur site des combustibles fossiles à 
+travers la chaîne d’approvisionnement, comme c’est le 
+cas pour les transports, le chauffage, le refroidissement 
+ou la fabrication. 
+Cette conclusion met en lumière l’importance d’une 
+transition sociétale globale vers des énergies propres 
+afin de remédier à l’empreinte climatique du secteur de 
+la santé tout en protégeant la santé publique d’une crise 
+climatique mondiale (Action 2). 
+6. Les dépenses du secteur de la santé et 
+leurs croissances sont un facteur clé de ces 
+émissions
+Il existe une forte corrélation entre l’empreinte climatique 
+du secteur de la santé d’un pays et ses dépenses 
+sanitaires. Comme illustré sur le Graphique 10, en règle 
+générale, plus les dépenses d’un pays dans le secteur de 
+la santé sont élevées (mesurées en pourcentage du PIB 
+du pays), plus les émissions du secteur par habitant sont 
+élevées.
+D'autres facteurs sont également à prendre en compte, 
+tels que l’intensité énergétique de l’économie d’un pays 
+ou l’intensité d’émissions de son système énergétique. 
+Par exemple, dans leur étude datée de 2019, Pichler et 
+al. révèlent qu’un groupe de « 14 pays majoritairement 
+européens sont parvenus à une dissociation absolue 
+entre leurs dépenses sanitaires et leurs émissions de 
+CO2 en combinant une augmentation des dépenses 
+sanitaires réelles avec une baisse de leur empreinte 
+climatique du secteur de la santé. » Dix autres pays, 
+dont les États-Unis, le Canada, l’Australie, la Corée du 
+Sud, le Japon et l’Inde sont parvenus à une dissociation 
+relative en augmentant leurs émissions et leurs 
+dépenses sanitaires, mais en ralentissant l’augmentation 
+des émissions par rapport à celle des dépenses. Ils en 
+ont conclu que l’intensité des émissions du système 
+énergétique domestique et l’intensité énergétique 
+de l’économie domestique ont une influence non 
+négligeable sur l’empreinte climatique du secteur de la 
+santé.16 
+À cet égard, le lien direct avec les dépenses sanitaires 
+est aussi manifeste qu’important à reconnaitre et à 
+prendre en considération. L’augmentation prévue des 
+dépenses sanitaires mondiales est de 3,8 % par an, on 
+va donc passer de 9,2 billions de dollars en 2014 à 24,2 
+billions de dollars en 2040, la plus forte croissance étant 
+attendue dans les pays à revenus élevés et moyens.33 En 
+effet, les dépenses sanitaires vont continuer à augmenter 
+avec le vieillissement de la population dans les pays 
+aux économies avancées et les pays aux revenus 
+moyens, qui vont investir des montants importants 
+dans le renforcement de leurs infrastructures et de 
+leurs services sanitaires. Les dépenses sanitaires vont 
+également augmenter dans les pays à faibles revenus 
+puisque ces nations développent et investissent des 
+milliards de dollars dans le secteur de la santé pour leurs 
+populations. Par exemple, l’Aide au Développement pour 
+la Santé (DAH) totalise plus de 37 milliards de dollars 
+annuels et a une influence majeure sur les systèmes de 
+santé dans les pays à faibles revenus.34
+La croissance et les investissements du secteur de la 
+santé ont besoin d’être dissociés des émissions de 
+GES, et mis en conformité avec la décarbonation de 
+tous les échelons de la santé, dont l’énergie qui est 
+produite sur site, achetée ou englobée dans la chaîne 
+d’approvisionnement. Cela est primordial pour diminuer 
+de façon significative l’empreinte du secteur dans 
+les décennies à venir. Un tel scénario peut permettre 
+aux trajectoires de croissance du secteur d’être en 
+cohérence avec les objectifs à atteindre, tels que 
+l’assurance maladie universelle. 
+Dissocier la croissance de la consommation de 
+ressources, dont les émissions climatiques, est le but 
+précis d’une transition vers une économie circulaire ; 
+une économie qui, au lieu de consommer et de polluer, 
+régénère et réintègre. Des organisations telles que 
+le Forum économique mondial, l’OCDE et l’Union 
+européenne ont reconnu l’importance d’une économie 
+circulaire pour atteindre les buts environnementaux et 
+socio-économiques.21,23,35 Les principes de l’économie 
+circulaire peuvent aider les organisations sanitaires à 
+s’attaquer aux aspects les plus difficiles de la réduction 
+de l’empreinte climatique.
+29
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+1,72
+0,44
+1,02
+0,46
+0,71
+0,79
+0,81
+0,21
+0,59
+0,83
+0,78
+0,49
+1,01
+0,66
+0,61
+0,64
+0,45
+0,60
+1,29
+0,36
+0,35
+0,35
+0,37
+0,45
+0,38
+0,35
+0,26
+0,19
+0,22
+0,73
+0,30
+0,84
+0,34
+0,66
+0,17
+0,52
+0,18
+0,25
+0,53
+0,15
+0,25
+0,19
+0,03
+0,05
+0,16
+CONCLUSION : L’EMPREINTE CLIMATIQUE  
+MONDIALE DU SECTEUR DE LA SANTÉ
+Graphique 10 : L’empreinte du secteur de la santé par habitant classé par pourcentage du PIB dépensé dans le secteur de la santé
+États-Unis d’Amérique (16,5 %)
+France (11,6 %)
+Suisse (11,5 %)
+Suède (11,1 %)
+Allemagne (11,0 %)
+Pays-Bas (10,9 %)
+Japon (10,8 %)
+Brésil (10,8 %)
+Autriche (10,4 %)
+Belgique (10,3 %)
+Danemark (10,2 %)
+Union européenne (10,0 %)
+Canada (10,0 %)
+Royaume-Uni (9,7 %)
+Irlande (9,7 %)
+Finlande (9,5 %)
+Malte (9,4 %)
+Norvège (9,3 %)
+Australie (9,1 %)
+Espagne (9,0 %)
+Portugal (9,0 %)
+Italie (9,0 %)
+Bulgarie (8,5 %)
+Slovénie (8,5 %)
+Grèce (8,0 %)
+République tchèque (7,8 %)
+Hongrie (7,1 %)
+Croatie (7,1 %)
+République Slovaque (6,9 %)
+Corée (6,8 %)
+Chypre (6,8 %)
+Luxembourg (6,4 %)
+Pologne (6,3 %)
+Estonie (6,2 %)
+Lituanie (6,2 %)
+Taïwan (6,2 %)
+Mexique (5,5 %)
+Lettonie (5,5 %)
+Russie (5,2 %)
+Roumanie (5,0 %)
+Chine (4,8 %)
+Turquie (4,4 %)
+Inde (3,6 %)
+Indonésie (3,1 %)
+Reste du monde
+Nation
+0,0 1,50,5 1,0 2,0
+Dioxyde de carbone Méthane Protoxyde d’azote
+Empreinte du secteur de la santé par habitant (t de CO2e/habitant)
+30
+Les gaz anesthésiques
+Les gaz utilisés pour les anesthésies sont de puissants 
+gaz à effet de serre. Les gaz anesthésiques les plus 
+couramment utilisés sont le protoxyde d’azote et les 
+gaz fluorés : sévoflurane, isoflurane et desflurane. Le 
+potentiel de réchauffement climatique varie de 130 kg 
+de CO2e/kg (sévoflurane) à 2 540 kg de CO 2e/kg 
+(desflurane). À l’heure actuelle, la majorité de ces gaz 
+pénètrent dans l’atmosphère.29
+Une recherche de l’Unité de Développement Durable 
+du NHS révèle que l’empreinte des gaz anesthésiques 
+au Royaume-Uni est de 1,7 %, dont la majorité est 
+imputable à l’utilisation du protoxyde d’azote.30 Les 
+données disponibles sur la consommation médicale 
+de protoxyde d’azote dans le cadre de l’anesthésie ne 
+sont pas mondiales. La CCNUCC présente un sous-
+ensemble de pays développés dans son groupement 
+d’Annexe 1.27 Le protoxyde d’azote médical utilisé par 
+ces nations représente 7 Mt de CO 2e, soit une empreinte 
+supplémentaire de 0,4 % pour le secteur de la santé mondial, et une empreinte additionnelle de 2,5 % au Périmètre 
+1 mondial. Ensemble, ces nations comptabilisent 15 % de la population mondiale, 57 % du PIB mondial, et 73 % 
+des dépenses sanitaires mondiales en 2014, et on peut donc s’attendre à ce que l’impact total de l’utilisation de 
+protoxyde d’azote comme anesthésiant dans l’empreinte mondiale du secteur de la santé soit bien plus élevé que les 
+chiffres présentés en Annexe 1.
+Pour les régions où la CCNUCC dispose de données complètes, les anesthésies au protoxyde d’azote viennent 
+ajouter 0,7 % à l’empreinte du secteur de la santé nord-américain, et 1,0 % à celle du secteur européen.
+Pour les gaz fluorés utilisés comme anesthésiants, les émissions mondiales dans l’atmosphère étaient estimées à 
+3,1±0,6 Mt de CO2e en 201427. Ce chiffre représente 0,2 % supplémentaire à l’empreinte mondiale du secteur de 
+la santé. En raison de l’augmentation de l’utilisation de ces gaz, qui sont préférés au protoxyde d’azote, on peut 
+s’attendre à une augmentation de l’empreinte des gaz anesthésiques.
+Les gaz anesthésiques contribuent donc à au moins 0,6 % de l’impact climatique mondial du secteur de la santé. 
+Une adoption plus large de systèmes de traitement des déchets anesthésiques pourrait aboutir à des mesures qui 
+auraient une incidence considérable sur la  
+réduction de l’impact climatique du secteur de la santé. 
+Pour de nombreux établissements sanitaires individuels et systèmes hospitaliers, la proportion et la contribution 
+du protoxyde d’azote et des gaz fluorés anesthésiques à l’empreinte climatique pourraient être sensiblement plus 
+élevées. Par exemple, l’Hôpital Albert Einstein de São Paulo au Brésil révèle que ses émissions de GES provenant du 
+protoxyde d’azote contribuent à 75 % des émissions de GES du Périmètre 1 et à presque 35 % du total des émissions 
+de GES déclarées en 2013.  Entre-temps, une étude des blocs opératoires de trois systèmes de santé aux États-Unis, 
+au Royaume-Uni et au Canada, a révélé que l’usage préférentiel de desflurane entraine une quantité d’émissions de 
+GES de type anesthésique dix fois supérieure dans tous les hôpitaux de l’étude.
+31
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+7. Un important déficit de données subsiste 
+Le système de santé mondial est un secteur varié et 
+complexe dont les émissions climatiques n’ont jamais 
+été cartographiées avant. Au fil de ce rapport, une série 
+d’écarts de données a vu le jour, mais nous n’avons pas 
+pu les traiter en raison du temps imparti, des ressources 
+limitées et/ou de la méthodologie utilisée. 
+Les estimations nationales et régionales sont limitées. 
+Un écart important existe entre les estimations mondiales 
+et les estimations nationales. En utilisant le modèle MRIO, 
+nous avons pu produire une estimation cohérente de 
+l’empreinte climatique mondiale du secteur de la santé 
+qui permet une comparaison entre les nations et les 
+régions. Cependant, les limites de ce modèle résident 
+dans le fait que nous n’avons pas pu utiliser de données 
+spécifiques aux pays. Par conséquent, les estimations 
+nationales de ce rapport diffèrent des estimations 
+nationales plus granulaires et précises qui ont été 
+menées par les pays eux-mêmes. 
+De plus, dans le cadre d’un modèle mondial, l’absence 
+de données spécifiques des pays d’Afrique, du 
+Moyen-Orient, ainsi que pour une partie des pays 
+d’Asie, d’Amérique latine et des Caraïbes ont favorisé 
+l'apparition d’un écart significatif. La piètre qualité des 
+données disponibles pour les pays d’Afrique représente 
+une excellente d’occasion d’améliorer l’étendue de 
+cette étude. Pour de nombreux pays à revenus faibles et 
+intermédiaires d’Amérique latine et d’Asie, les résultats 
+ont été répartis d’après les régions de la Banque 
+mondiale en utilisant les données de pays voisins. Définir 
+la capacité du secteur de la santé pour comprendre, 
+mesurer et suivre l’empreinte climatique dans chaque 
+région et pays, est une étape fondamentale pour la mise 
+en conformité du secteur avec la vision et les objectifs de 
+l’Accord de Paris. 
+Nous recommandons une solution en particulier : avoir 
+un cadre standardisé pour mesurer les empreintes 
+climatiques nationales et infranationales, qui soit 
+développé par l’OMS afin de garantir des mesures et un 
+suivi rigoureux de l’empreinte climatique du secteur de la 
+santé (Recommandations Politiques, Action 5). 
+Les catégories WIOD ne sont pas divisées par 
+périmètre du Greenhouse Gas Protocol. Alors que la 
+base de données WIOD offre une perspective importante 
+à l’appréciation de l’empreinte climatique mondiale 
+du secteur de la santé via un ensemble de catégories 
+de dépenses, ce rapport ne les affecte pas aux trois 
+périmètres du GHG Protocol. Une compréhension 
+approfondie de l’empreinte mondiale du secteur de la 
+santé verra le jour une fois que l’analyse de la trajectoire 
+structurelle aura été effectuée. 
+Une meilleure compréhension de la chaîne 
+d’approvisionnement du secteur de la santé est 
+nécessaire. Une analyse de trajectoire structurelle 
+peut offrir une compréhension plus fine des émissions 
+du Périmètre 3 du secteur de la santé et de la chaîne 
+d’approvisionnement mondiale de ce même secteur. 
+Il est important de noter que ce rapport ne fournit pas 
+une estimation mondiale de la contribution de l’industrie 
+pharmaceutique à l’empreinte climatique du secteur 
+de la santé. Cela est important puisque le NHS au 
+Royaume-Uni a révélé que les produits pharmaceutiques 
+représentent 11 % de l’empreinte climatique du secteur 
+de la santé et de la protection sociale en 2015.36
+L ’empreinte des gaz anesthésiques et des inhalateurs-
+doseurs doit être mesurée. Les données actuelles 
+disponibles pour 31 pays sont insuffisantes. Les gaz 
+anesthésiques pourraient également jouer un rôle bien 
+plus important dans l’empreinte des établissements 
+sanitaires que ce qui est présenté dans ce rapport et ils 
+ne devraient pas être ignorés. 
+L ’incompréhension de la trajectoire des émissions 
+du secteur de la santé. Ce rapport offre une analyse 
+basée sur les données annuelles de 2014. Il n’offre 
+pas une approche séquencée de manière temporelle 
+qui permettrait une compréhension de l’évolution de 
+l’empreinte du secteur de la santé ou une analyse de sa 
+trajectoire. 
+32
+33
+RECOMMANDATIONS POLITIQUES 
+La responsabilité du secteur de la santé 
+En considérant que le secteur de la santé contribue à 4,4 % des émissions mondiales de GES, il est impératif que ce 
+secteur commence à réduire sa propre empreinte climatique et opère une transition vers une empreinte carbone 
+neutre. 
+Les politiques et les investissements du secteur de la santé doivent être repensés pour soutenir la décarbonation. 
+Si le secteur de la santé (établissements de soins individuels, systèmes de santé, ministères de la Santé, agences 
+de développement internationales et bilatérales, et organisations sanitaires privées) s’engage à agir pour atteindre 
+cet objectif, alors il pourra être atteint. Si nous pouvons faire en sorte que le développement, la croissance et 
+les investissements du secteur de la santé concordent avec les objectifs climatiques mondiaux, alors les 10 % de 
+l’économie mondiale représentés par le secteur de la santé pourront aider à mener à bien la décarbonation et 
+offriront un futur plus sain, plus équitable et adapté au changement climatique. 
+L’ensemble des recommandations suivantes expliquent le chemin à suivre pour y arriver.
+Six zones d’action pour un secteur de la santé adapté aux changements climatiques
+Action 1 : Réduire dès maintenant l’empreinte climatique du secteur de la santé
+Ces actions pourraient inclure l’utilisation de technologies 
+adaptées à faibles émissions de carbone ; la conception et 
+la construction de bâtiments à faibles émissions ou à zéro 
+émission ; l’investissement dans les énergies renouvelables 
+et dans l’efficacité énergétique ; les technologies de 
+refroidissement adaptées au changement climatique ; la 
+gestion durable des transports, de l’eau et du traitement 
+des déchets ; et la réduction de l’utilisation de gaz 
+anesthésiques à fort potentiel de réchauffement climatique ; 
+parmi d’autres.37
+Les modèles de décentralisation des soins qui tirent parti 
+de la télémédecine et d’autres nouvelles technologies 
+peuvent aussi aider à réduire l’empreinte climatique 
+du secteur de la santé. Les systèmes de santé qui se 
+concentrent majoritairement sur la prévention plutôt que 
+sur le traitement des maladies vont aider à réduire les 
+émissions de carbone générées par les traitements et les 
+établissements. 
+Les stratégies et les investissements adaptés au 
+changement climatique peuvent aussi favoriser un 
+accès plus équitable à la santé, et servir d’ancrage aux 
+développements de collectivités durables ; des systèmes de 
+santé qui seraient non seulement plus résilients, mais des 
+communautés qui seraient aussi plus saines et résilientes. 
+Par exemple, des lieux pauvres en énergie, qui alimentent 
+la santé avec des solutions à faibles émissions de carbone, 
+peuvent faciliter l’accès aux soins, et contribuer à un 
+avancement de l’universalité des soins pour les pauvres et 
+les plus vulnérables.
+Des milliers d’hôpitaux et de systèmes de santé, à la fois 
+publics et privés, agissent déjà pour réduire leur empreinte 
+climatique, grâce au Health Care Climate Challenge de 
+Health Care Without Harm ou à des actions connexes. (Voir : 
+Un secteur de la santé adapté au changement climatique : 
+un cadre résilient et à faibles émissions de carbone pour 
+les actions du secteur de la santé, page 41). Ces acteurs 
+majeurs peuvent servir d’exemples pour le reste du secteur. 
+Le Greenhouse Gas Protocol offre un cadre pratique 
+pour que le secteur de la santé puisse progresser dans 
+ses efforts de réduction d’empreinte climatique, tout en 
+étant cohérent avec les autres secteurs. Des actions dans 
+chacun des trois périmètres, menées par tous les acteurs à 
+chaque échelon du secteur de la santé, vont permettre de 
+développer des trajectoires parallèles qui mèneront à une 
+empreinte carbone neutre.
+Périmètre 1 : Décarboner les établissements sanitaires. 
+L ’OMS devrait produire un guide qui résumerait les 
+actions que les établissements sanitaires peuvent mettre 
+en place pour réduire leurs empreintes climatiques et 
+devenir plus résilients.
+Un tel guide permettrait aux ministères nationaux et 
+infranationaux, qui gèrent les hôpitaux, les systèmes de 
+santé privés, ainsi que les cliniques et les centres de santé, 
+d’agir d’après des exemples concrets et de prendre des 
+initiatives rentables qui tendent vers l’objectif d’empreinte 
+carbone neutre depuis la base, tout en optimisant la 
+résilience au changement climatique. 
+34
+Périmètre 2. Les organisations de la santé, publiques et 
+privées, devraient investir et militer pour la décarbonation 
+locale et nationale des systèmes énergétiques, et pour 
+la mise en place d’énergies propres et renouvelables aux 
+niveaux locaux, infranationaux et nationaux.
+Avec 10 % de l’empreinte climatique des établissements 
+sanitaires qui provient des énergies achetées, et une 
+large part de la chaîne d’approvisionnement qui dépend 
+du réseau électrique, la décarbonation des systèmes 
+énergétiques nationaux est cruciale si on veut que le 
+secteur de la santé atteigne son objectif zéro émission. 
+Comme discuté dans ce rapport, le potentiel de réduction 
+de l’empreinte climatique du secteur de la santé en 
+décarbonant le système énergétique domestique est élevé. 
+Les systèmes de santé de plusieurs pays investissent dans 
+les énergies renouvelables via des accords sur l’achat 
+d’énergie et autres mécanismes, alors que d’autres peuvent 
+utiliser leurs influences politiques et éthiques pour avoir un 
+impact sur les politiques énergétiques dans leurs juridictions 
+(Action 2). Par exemple, le secteur de la santé peut 
+s’associer aux efforts des villes telles que celles du C40 
+qui adoptent des objectifs ambitieux en termes d’énergie 
+renouvelable. 
+Périmètre 3 : Décarboner la chaîne d’approvisionnement 
+du secteur de la santé. Les ministères de la santé, les 
+hôpitaux et les systèmes de santé devraient établir des 
+critères pour les approvisionnements à faibles émissions 
+ou neutres en carbone. Les fournisseurs et les fabricants 
+devraient décarboner leurs opérations et leurs chaînes de 
+production. 
+Plus de 71 % des émissions du Périmètre 3 du secteur de 
+la santé proviennent de la chaîne d’approvisionnement 
+mondiale. La transition vers un secteur de la santé à faibles 
+émissions ou neutre en carbone va exiger que la production 
+mondiale de tous les produits sanitaires, des produits 
+pharmaceutiques aux équipements médicaux, en passant 
+par la nourriture et les habits, ait une trajectoire qui vise le 
+zéro émission. 
+On trouve peu de directives ou de méthodologies 
+standardisées à suivre quant à la manière de calculer la 
+chaîne d’approvisionnement mondiale du secteur de la 
+santé, c’est pourquoi nous avons une compréhension 
+limitée des domaines d’action clés. Une étape importante 
+pour relever ce défi est d’identifier les zones à risques 
+d’émissions de GES sur la chaîne d’approvisionnement, en 
+termes de produits et d’emplacement géographique.
+Décarboner la chaîne d’approvisionnement du secteur de 
+la santé va exiger de la part des sociétés mondiales qui en 
+font partie, qu’elles prennent leur responsabilité et qu’elles 
+rendent des comptes. De telles obligations peuvent être 
+remplies via les actions de gouvernements nationaux et les 
+approches axées sur le marché, notamment en profitant 
+du levier de pouvoir d’achat du secteur de la santé sur 
+l’achat de sources d’énergies et de technologies à faibles 
+émissions de carbone, et de nourritures locales, durables et 
+végétales. 
+Par exemple, les systèmes de santé qui agissent de concert 
+autour du monde peuvent suivre une stratégie axée sur 
+la demande pour réclamer des produits sanitaires et des 
+appareils médicaux qui remplissent des critères d’émissions 
+spécifiques. Une telle approche peut aussi influencer des 
+marchés et des politiques plus larges et aider à accélérer la 
+transition vers un futur à faibles émissions de carbone, fait 
+d’énergies propres et renouvelables. 
+Les outils et les ressources ont besoin d’être développés 
+afin de promouvoir et de soutenir un effort aussi 
+conséquent. Le PNUD et Health Care Without Harm 
+agissent dans cette direction en travaillant ensemble à une 
+initiative financée par l’Agence suédoise de coopération 
+internationale au développement (Asdi) afin de développer 
+un ensemble de critères, de modèles de politiques (telles 
+que l’obligation de faire figurer les données carbones sur 
+les appels d’offre), et d’outils pour les ministères de la santé, 
+les systèmes de santé, et les hôpitaux afin de mettre en 
+place des approvisionnements durables à travers le secteur, 
+et réduire les émissions de carbone.38
+35
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+Action 2 : Le secteur de la santé doit soutenir une transition sociétale 
+vers des énergies propres et renouvelables
+Dans chaque pays, le secteur de la santé a ses propres 
+ministères gouvernementaux et siège à la table des 
+discussions du cabinet ; des institutions locales analogues 
+existent dans quasiment la totalité des villes, états ou 
+provinces. Ces organisations, conjointement avec des 
+systèmes de santé privés, des professionnels de la santé, 
+des étudiants en médecine, et des organisations de la 
+société civile, devraient toutes lutter pour une transition vers 
+des énergies et des transports propres et renouvelables, 
+qui représente un élément clé dans la protection de la santé 
+publique contre le changement climatique ; c’est aussi une 
+mesure centrale pour la réduction de l’empreinte climatique 
+du secteur de la santé. 
+Comme nous l’avons vu dans ce rapport, décarboner le 
+système énergétique d’un pays, et opérer une transition 
+vers des énergies propres et renouvelables, est nécessaire 
+à la décarbonation dans chaque pays. En aidant à favoriser 
+cette transition, le secteur de la santé contribuera à la 
+réduction de sa propre empreinte climatique.
+Ce type d’actions permettra également de protéger la 
+santé publique en initiant une transition des combustibles 
+fossiles vers des énergies propres et renouvelables, 
+réduisant ainsi la charge morbide liée à la pollution de l’air 
+et au changement climatique. Les coûts du secteur de la 
+santé seront quant à eux réduits. Par exemple, d’après le 
+Fonds monétaire international, environ la moitié des 5,3 
+billions de dollars dépensés annuellement aux États-Unis en 
+« subventions pour l’énergie » ne sont pas des subventions 
+financières directes, mais sont imputables aux coûts 
+sanitaires de la pollution de l’air. Inversement, fixer le prix du 
+carbone en cohérence avec ces conséquences sanitaires 
+réduirait d’environ 50 % les morts liées à la pollution de l’air 
+et de 20 % les émissions de CO 2.39
+Une telle réduction de la pollution de l’air et des pires 
+conséquences du changement climatique entrainera la 
+réduction des besoins du système de la santé quant à sa 
+consommation et ses dépenses de ressources pour traiter 
+les maladies dues à la pollution de l’air et au changement 
+climatique. Ce qui, à son tour, donnera naissance à un 
+cercle vertueux et réduira l’empreinte climatique du secteur 
+de la santé. 
+La transition vers des énergies propres et renouvelables a 
+déjà lieu, sous nos yeux, dans de nombreux pays. Il y a de 
+plus en plus de stratégies qui sont viables pour la plupart 
+des pays du monde et qui permettent d’évoluer vers des 
+énergies 100 % propres et renouvelables d’ici 2050 ; ce qui 
+permettra d’éviter un réchauffement mondial supérieur à 
+1,5°C et des millions de morts annuelles liées à la pollution 
+de l’air.40
+Le secteur de la santé de chaque pays devrait lutter pour une suppression rapide des énergies fossiles en faveur 
+d’une transition vers des énergies propres et renouvelables afin d’aider le secteur à atteindre son objectif zéro 
+émission, tout en protégeant la santé publique de la pollution locale et du changement climatique mondial. 
+Action 3 : Ouvrir la voie vers un secteur de la santé à émission zéro d’ici 2050 
+ Le plan d’action devrait être basé sur les principes d’équité mondiale pour le climat et la santé, une approche 
+unifiée, et adaptée au changement climatique, de la réduction et de la résilience, et une approche qui encourage 
+les actions à tous les niveaux. 
+Ainsi que le documente ce rapport, l’intensité des 
+émissions du secteur de la santé varie énormément d’un 
+pays ou d’une région à l’autre. La situation de chaque 
+pays est unique, et les défis à relever pour opérer une 
+transition vers la décarbonation et optimiser la résilience 
+au changement climatique sont propres à chacun. 
+Dans le même temps, étant donné le caractère mondial 
+du secteur de la santé, et notamment sa chaîne 
+d’approvisionnement, ainsi que l’impact significatif de 
+certains pays et régions, une feuille de route mondiale 
+pourrait aider à tracer la voie vers une amélioration de 
+l’impact climatique du secteur de la santé et sa transition 
+vers le zéro émission d’ici 2050. 
+Une telle feuille de route devrait être basée sur les 
+principes suivants :
+Équité mondiale pour le climat et la santé : Le principe 
+de « responsabilités communes mais différenciées et 
+de capacités respectives à la lumière des différentes 
+situations nationales » est utilisé par la Convention-
+cadre des Nations Unies sur les changements 
+climatiques et devrait s’appliquer ici.41 En d’autres 
+termes, une feuille de route devrait identifier des actions 
+majeures délimitées dans le temps et axées sur trois 
+trajectoires. Premièrement, ceux qui contribuent le 
+plus au problème devraient prendre les actions les 
+plus rapides. Deuxièmement, la feuille de route devrait 
+RECOMMANDATIONS POLITIQUES 
+36
+Action 4 : Mettre en place une aide au développement pour un secteur
+de la santé adapté aux changements climatiques
+Les organismes d’aide bilatéraux, les banques multilatérales de développement, et d’autres organismes 
+philanthropiques et de financement pour la santé, devraient intégrer les stratégies et principes adaptés au 
+changement climatique à leurs assistances sanitaires, leurs prêts, et leurs orientations politiques envers les pays 
+en développement. Ceux qui financent les actions en faveur de l’atténuation du changement climatique et de 
+l’adaptation devraient inclure la santé à leurs programmes.
+Les institutions mondiales commencent à agir dans ce sens. 
+Par exemple, la Banque mondiale, conjointement avec 
+Health Care Without Harm, a publié Climate-Smart Health 
+Care afin de donner un cadre à son aide au développement 
+du secteur de la santé. (Voir : Un secteur de la santé adapté 
+au changement climatique : un cadre résilient et à faibles 
+émissions de carbone pour les actions du secteur de la 
+santé, page 41). Au même moment, dans la perspective 
+du Sommet Action Climat 2019 à New Y ork, le Secrétaire 
+Général de l’ONU a, pour la première fois, mis l’accent sur 
+les dimensions sanitaires du changement climatique. 
+identifier des trajectoires qui soutiennent les pays à 
+revenus intermédiaires dont les secteurs de la santé vont 
+considérablement croître dans les années à venir, afin de 
+ne pas tomber dans le piège d’investir dans des modèles 
+à haute intensité carbone qui ne feront que reproduire 
+le problème ; il faut plutôt opter pour une trajectoire de 
+croissance des secteurs de la santé qui soit conforme 
+aux objectifs climatiques nationaux et internationaux. 
+Troisièmement, la feuille de route mondiale doit également 
+identifier comment les secteurs de la santé qui sont le 
+moins responsables des émissions climatiques peuvent 
+imaginer une transition vers un développement de 
+stratégies pour un secteur de la santé à faibles émissions 
+de carbone qui améliorent l’accès à la santé et son équité. 
+Il faut aussi identifier des mécanismes de financement 
+pour la transition. 
+Une approche unifiée vers la réduction et la résilience : 
+Alors que transformer le secteur de la santé en secteur 
+à émission zéro est essentiel, l’adaptation l’est tout 
+autant : construire des infrastructures et des systèmes 
+résilients au changement climatique. Les hôpitaux et les 
+centres de santé sont souvent directement touchés pat 
+les catastrophes naturelles, tandis que les professionnels 
+de la santé sont en première ligne pour remédier aux 
+conséquences du changement climatique au sein de 
+leurs communautés. Optimiser la résilience du secteur 
+de la santé est souvent l’action la plus décisive et la 
+plus urgente pour les secteurs lourdement impactés 
+par le changement climatique. Elle est particulièrement 
+importante pour les secteurs des pays à faibles revenus 
+dont l’empreinte climatique des systèmes de santé 
+peut être minime, et pourtant fortement impactée par 
+le changement climatique. Augmenter la résilience au 
+changement climatique et réduire les émissions de 
+carbone du secteur de la santé sont des objectifs qui 
+peuvent s’avérer complémentaires et non antagonistes. 
+(Voir : Un secteur de la santé adapté au changement 
+climatique : un cadre résilient et à faibles émissions de 
+carbone pour les actions du secteur de la santé, page 41). 
+Une feuille de route mondiale devrait ouvrir la voie.
+Un cadre mondial pour les actions à tous les échelons :  
+Les actions en faveur du climat du secteur de la santé 
+seront diverses, selon qu’elles sont opérées aux niveaux 
+locaux, nationaux ou régionaux du secteur. De telles 
+différences pourront être déterminées en fonction du 
+niveau de développement du secteur, de son profil 
+d’émissions et de sa composition. Par exemple, quel 
+pourcentage du secteur est public ou privé ? Est-ce que 
+le pays est un fabricant et fournisseur majeur de biens 
+et de services sanitaires ? Quelle est l’intensité carbone 
+du réseau électrique du pays et de l’ensemble de son 
+économie ? Cependant, il y a plusieurs principes et 
+approches génériques au secteur de la santé adapté au 
+changement climatique, qui peuvent s’appliquer à tous. 
+(Voir : Un secteur de la santé adapté au changement 
+climatique : un cadre résilient et à faibles émissions de 
+carbone pour les actions du secteur de la santé, page 
+41). Une feuille de route mondiale devrait établir un cadre 
+pour les actions locales, nationales et infranationales 
+qui soit conforme aux Contributions déterminées au 
+niveau national pour l’Accord de Paris (Action 5). Elle 
+peut aussi aider à ouvrir la voie pour une assistance et 
+un financement sanitaires bilatéraux et multilatéraux 
+(Action 4). Et elle peut commencer à fixer des objectifs et 
+à établir un calendrier pour la décarbonation de la chaîne 
+d’approvisionnement, dont les industries pharmaceutiques 
+et les fabricants d’appareils médicaux. 
+37
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+L’un des points d’actions encouragés par l’OMS, les 
+gouvernements du Pérou et d’Espagne, ainsi que d’autres, 
+durant le Sommet, est que les acteurs nommés ci-
+après s’engagent à accroître leurs investissements dans 
+des opérations qui favorisent des systèmes de santé 
+résilients au changement climatique, à faibles émissions 
+de carbone et durables sur le plan écologique : les 
+banques multilatérales de développement ; les fonds 
+de développement, sanitaires et pour le climat ; les 
+agences bilatérales de développement ; les organisations 
+philanthropiques ; et/ou les acteurs du secteur privé. 42
+Comme discuté précédemment, l’Aide au Développement 
+pour la Santé (DAH) totalise plus de 37 milliards de dollars 
+annuels.43 Bien qu’elle ne représente qu’une petite part 
+des dépenses mondiales en termes de santé, la DAH a 
+une influence majeure sur l’élaboration des systèmes de 
+santé et la mise en place des politiques sanitaires dans de 
+nombreux pays en développement, dont des pays à faibles 
+revenus. 
+En rendant l’Aide au Développement pour la Santé (DAH) 
+adaptée au changement climatique, ces puissantes 
+institutions peuvent garantir que le secteur de la santé 
+investira dans un modèle sanitaire à faibles émissions 
+de carbone et résilient au changement climatique, qui 
+permettra de suivre la trajectoire vers un secteur de la santé 
+à émission zéro, tout en renforçant l’accès aux systèmes de 
+santé. 
+Avec une telle approche, les secteurs de la santé qui sont 
+majoritairement financés par l’Aide au Développement 
+pour la Santé peuvent devenir de puissants mandataires 
+pour faire progresser la protection du climat, la résilience 
+des collectivités face au changement climatique, et le 
+développement des faibles émissions de carbone. Par 
+exemple, les énergies renouvelables, notamment dans 
+les endroits reculés, permettent de renforcer la résilience 
+des établissements sanitaires face au changement 
+climatique. Les établissements sanitaires alimentés par les 
+énergies solaires et éoliennes, ainsi que le déploiement 
+d’équipements médicaux de plus en plus efficaces en 
+termes énergétiques, peuvent être plus rentables à gérer, 
+plus productifs et peuvent améliorer l’accès aux soins, 
+contribuant ainsi à l’objectif d’une assurance maladie 
+universelle.44 En effet, les infrastructures et l’efficacité 
+opérationnelle des établissements de santé primaires du 
+monde devraient devenir des exemples éloquents des 
+énergies renouvelables et du développement durable. 
+Action 5 : Élaborer et mettre en place des plans d’actions gouvernementaux 
+pour un secteur de la santé adapté au changement climatique.
+Les gouvernements nationaux et infranationaux devraient mettre en place des plans d’actions afin de décarboner 
+leurs systèmes de santé, optimiser la résilience, et améliorer les résultats sanitaires. 
+Les ministères de la santé et les gouvernements nationaux 
+et infranationaux doivent être des moteurs et agir pour une 
+transition des systèmes de santé vers une décarbonation 
+et une résilience au changement climatique. Dans de 
+nombreux cas, il y aura besoin de financements et 
+d’investissements. Ils auront également besoin de soutien 
+politique de la part des secteurs du gouvernement qui 
+conduisent les travaux sur le changement climatique. 
+À l’inverse, ils peuvent influencer ces secteurs du 
+gouvernement. 
+Les organisations internationales et de la société civile 
+peuvent aider à faciliter ce procédé en créant des 
+cadres standardisés et modifiables pour ces plans, 
+et en encourageant les acteurs à les développer sur 
+plusieurs territoires. Les plans nationaux et infranationaux, 
+particulièrement dans les pays à revenus faibles et 
+intermédiaires, peuvent être associés aux Plans nationaux 
+d'adaptation de la CCNUCC et aux éléments sur la santé 
+des Plans nationaux d'adaptation que l’OMS encourage les 
+pays à mettre en place. 
+Les gouvernements peuvent aussi s’inspirer d’exemples 
+concrets, dont le travail de l’Unité de Développement 
+Durable du Service national de santé d’Angleterre ;45 la 
+stratégie nationale développée par l’OMS et Health Care 
+Without Harm pour les Maldives ; 46 le travail du Groupe de 
+travail pour la Santé de la Boston Green Ribbon Commission 
+pour développer une stratégie pour la ville de Boston ; 47 la 
+mise en place de Health Care Climate Alliances dans les 
+états du Massachussets et de Californie pour influencer 
+les politiques ; 48 et un effort de la société civile dirigé par 
+RECOMMANDATIONS POLITIQUES 
+38
+Action 6 : Approfondir les recherches dans le secteur de la santé
+et le changement climatique
+Les changements climatiques et sanitaires sont un nouveau sous-champ de recherche dans le domaine 
+relativement récent de la recherche sur le climat et la santé. Alors que Health Care Without Harm et Arup 
+travaillaient à ce rapport, il est devenu évident que des recherches plus approfondies seront nécessaires pour 
+mieux comprendre les tendances d’interaction entre le changement climatique et le secteur de la santé, afin de 
+faciliter la transition du secteur vers un futur adapté au changement climatique. 
+Quelques-uns des domaines de recherches que nous avons 
+identifiés : 
+• Une analyse de la trajectoire future des émissions 
+du secteur de la santé d’après différents scénarios 
+d’investissement, de développement et de croissance, et 
+leurs répercussions sur les émissions de carbone.
+• Les recherches aux niveaux nationaux et infranationaux 
+sur l’empreinte climatique du secteur de la santé basées 
+sur la méthodologie standardisée (Action 6).
+• Identifier les budgets carbone pour les systèmes de 
+santé nationaux. 
+• Développer une analyse de trajectoire structurelle 
+des émissions climatiques générées par la chaîne 
+d’approvisionnement du secteur de la santé et identifier 
+les leviers clés pour la décarbonation.
+• Développer une analyse plus poussée de l’empreinte 
+climatique du secteur de la santé d’après les catégories 
+de l’OMS qui définissent le secteur de la santé.
+• Conduire une analyse économique des coûts et 
+bénéfices de la transition vers un secteur de la santé 
+adapté au changement climatique, ainsi que les 
+investissements nécessaires et les mécanismes de 
+financement qui peuvent faciliter cette transaction. 
+Climate and Health Alliance of Australia pour mettre en 
+place une Stratégie Nationale pour le Climat, la Santé et le 
+Bien-être, est actuellement en train d’être mis en place par 
+plusieurs états australiens.49
+Les plans d’actions climatiques nationaux et infranationaux 
+peuvent servir d’outils pour rassembler divers acteurs du 
+secteur de la santé sur un même territoire donné, et pour 
+mobiliser le secteur afin qu’il contribue à une politique 
+nationale et infranationale ainsi qu’aux Contributions 
+déterminées au niveau national pour l’Accord de Paris. 
+Afin de mener à bien de tels plans, les gouvernements 
+nationaux et infranationaux auront besoin de mieux 
+comprendre leurs empreintes climatiques. Bien que ce 
+rapport soit la première analyse mondiale de l’empreinte 
+climatique du secteur de la santé jamais réalisée, il offre 
+une vue volontairement limitée de l’empreinte individuelle 
+des 43 pays, lorsque les données sont disponibles. Comme 
+mentionné précédemment, les études récentes réalisées 
+en Australie, au Canada, en Angleterre et aux États-Unis ont 
+permis d’obtenir des résultats plus détaillés de l’empreinte 
+climatique du secteur de la santé pour cette poignée de 
+pays. Cependant, dans la plupart des cas, les ministères 
+de la santé nationaux et infranationaux ont peu de moyens 
+pour calculer l’empreinte climatique du secteur qu’ils ont en 
+charge, et encore moins pour remonter à sa source. Dans 
+l’ensemble, ça n’est pas une approche standard du  
+secteur.
+C’est pourquoi l’OMS devrait mettre en place une 
+méthode de mesure et un système de traçabilité validés 
+qui permettent aux ministères de la santé de mener des 
+analyses granulaires de l’empreinte climatique du secteur 
+de la santé, de la tracer et d’agir en fonction ; un travail 
+qui s’effectue aux niveaux nationaux, infranationaux, 
+ainsi qu’au sein d’organismes de normalisation sanitaire 
+nationaux et régionaux.
+Un cadre de standardisation devrait être conçu afin de 
+permettre aux gouvernements de mesurer l’empreinte de 
+leur secteur de santé et de suivre leurs progrès vers une 
+décarbonation et plus de résilience. Un tel outil pourrait 
+aider à informer les départements ou les ministères de 
+la santé lorsqu’ils développent des plans d’actions qui 
+contribuent à la mise en place de politiques climatiques 
+municipales, étatiques/provinciales, et nationales, et qui 
+participent aux Contributions déterminées au niveau 
+national pour l’Accord de Paris. 
+39
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+LE MOT DE LA FIN
+La santé, comme chaque secteur de la société, est en 
+charge de la mise en cohérence de ses actions et de sa 
+trajectoire de développement avec l’Accord de Paris, afin 
+d’éviter les conséquences les plus désastreuses de la crise 
+climatique. 
+Étant donné sa mission de protection et de promotion de la 
+santé, le secteur a également pour responsabilité de faire 
+respecter le Serment d’Hippocrate : « tout d’abord, ne pas 
+nuire », qui fait écho à sa propre empreinte climatique.
+Résoudre la crise climatique est un défi colossal pour 
+toute la civilisation. Pour le secteur de la santé tout 
+particulièrement, les actions majeures en faveur du 
+climat vont nécessiter une organisation conjointe des 
+établissements, des systèmes, des ministères, des 
+fabricants et des fournisseurs pour atteindre le zéro 
+émission d’ici à 2050. 
+Le secteur doit fournir cet effort dans le cadre de sa propre 
+croissance et de sa demande de services sanitaires. 
+L’adaptation au changement climatique est nécessaire 
+pour ce secteur, qui doit également résoudre ses propres 
+inégalités, et participer à l’atteinte d’objectifs mondiaux, tels 
+que les Objectifs de développement durable. 
+S’il venait à échouer à agir concrètement, les émissions 
+du secteur de la santé pourraient accroître et représenter 
+une part encore plus importante de l’empreinte climatique 
+mondiale. Sans actions conjointes, la trajectoire du 
+secteur de la santé va se retrouver en contradiction avec 
+l’inquiétude générale grandissante vis-à-vis des dimensions 
+sociales, politiques, économiques et écologiques de la crise 
+climatique. Le changement climatique, dans sa globalité, va 
+devenir une priorité grandissante pour les consommateurs 
+et les décideurs de toutes les sociétés. Le secteur de 
+la santé doit devenir moteur dans la résolution de ce 
+problème. 
+Heureusement, de nombreuses institutions sanitaires, 
+dans plusieurs pays, ont déjà ouvert la voie vers une 
+décarbonation. (Voir : Un secteur de la santé adapté au 
+changement climatique : un cadre résilient et à faibles 
+émissions de carbone pour les actions du secteur 
+de la santé, page 41). De nombreuses institutions ont 
+également appelé le secteur de la santé à réduire son 
+propre impact climatique. L’OMS a appelé les systèmes 
+de santé à « montrer l’exemple, en faisant la promotion 
+de modèles sanitaires à faibles émissions de carbone » 50 
+et a suggéré que « le développement d’une trajectoire à 
+faibles émissions de carbone pour les systèmes de santé 
+et, à terme, une transition vers le zéro émission pour les 
+établissements sanitaires, sont deux points essentiels pour 
+atteindre les objectifs de l’Accord de Paris et maintenir le 
+réchauffement climatique sous les 1,5°C ou 2,0°C ». 51 La 
+Banque mondiale a mis en place un cadre pour les secteurs 
+de santé adaptés au changement climatique. (Voir : Un 
+secteur de la santé adapté au changement climatique : un 
+cadre résilient et à faibles émissions de carbone pour les 
+actions du secteur de la santé, page 41). Dans la perspective 
+du Sommet Action Climat 2019, le Secrétaire Général de 
+l’ONU, avec le soutien de l’OMS, et des gouvernements du 
+Pérou et d’Espagne, a préconisé que les acteurs suivants : 
+les banques multilatérales de développement ; les fonds 
+pour le climat ; les agences bilatérales de développement ; 
+les organisations philanthropiques ; et les acteurs du 
+secteur privé, « s’engagent à accroître leurs investissements 
+dans des opérations qui favorisent des systèmes de santé 
+résilients au changement climatique ». 52
+Ce sont seulement les étapes initiales pour le secteur de 
+la santé. Afin de résoudre le problème documenté dans ce 
+rapport, il est crucial que tous les systèmes de santé, dans 
+les pays à revenus faibles, moyens et élevés, conjointement 
+avec le secteur privé, les agences de développement, les 
+donateurs multilatéraux, les organisations internationales, 
+et la société civile, agissent ensemble pour que le secteur 
+de la santé suive la trajectoire vers le zéro émission, tout 
+en continuant à faire tout son possible pour atteindre les 
+objectifs sanitaires mondiaux. Chaque pays et chaque 
+segment du secteur de la santé doit faire sa part.
+En plus de la décarbonation du secteur lui-même, une 
+part importante de la solution réside dans la prévention 
+des maladies. En d’autres termes, réduire la charge 
+mondiale croissante des maladies non-transmissibles 
+revient à traiter les facteurs qui en sont à l’origine : le 
+tabac, l’alcool, la pollution de l’air, et la contamination de 
+notre environnement par des produits pétrochimiques. 
+En agissant ainsi, on réduira l’intensité carbone liée 
+aux hospitalisations, la demande pour des services 
+sanitaires, et l'utilisation de traitements à base de produits 
+pharmaceutiques à haute intensité. Une telle prévention 
+permettra aussi de réduire les coûts sanitaires. 
+Une grande partie de ces interventions sanitaires vont 
+également aider à réduire les émissions de carbone en 
+dehors du secteur de la santé. La pollution de l’air est 
+un exemple concret. Le facteur principal à l’origine de la 
+pollution de l’air et du changement climatique est le même : 
+la combustion de combustibles fossiles. Lutter contre le 
+fléau que représente la pollution de l’air et résoudre le 
+changement climatique appellent la même action : une 
+transition vers un futur 100 % énergies propres. Ces actions 
+de prévention vont sauver des millions de vies, réduire de 
+façon significative les émissions climatiques et réduire les 
+coûts du secteur de la santé. 
+À terme, les objectifs du secteur relatifs à la promotion de 
+la santé, la prévention des maladies, l’assurance maladie 
+universelle et l’objectif climatique mondial du zéro émission 
+doivent être interconnectés. Le secteur doit s’adapter au 
+changement climatique. La justice climatique et l’équité du 
+secteur de la santé en dépendent. 
+40
+Un secteur de la santé adapté au changement climatique : un cadre résilient 
+et à faibles émissions de carbone pour les actions du secteur de la santé. 
+Un rapport de la Banque mondiale daté de 2017, co-publié par Health Care Without Harm, met en place une approche qui 
+fait le pont entre les écarts d’adaptation et de réduction du secteur de la santé. Alors que la réduction et la résilience sont 
+souvent dissociées dans le monde climatique, l’approche pour un secteur de la santé adapté au changement climatique 
+englobe à la fois les stratégies à faibles émissions de carbone et les stratégies de résilience dans un cadre global.53
+L’adaptation du secteur de la santé au changement climatique est une approche pour concevoir, construire, exploiter 
+et investir dans les systèmes de santé et les établissements sanitaires qui génèrent un minimum de GES. Ce qui place 
+les systèmes de santé dans une optique de développement de l’adaptation au changement climatique, en accordant 
+le développement sanitaire et les prestations de soins avec les objectifs climatiques mondiaux. Cette approche permet 
+d’économiser de l’argent en réduisant les coûts en énergies et en ressources. Elle permet aussi d’améliorer la qualité des 
+soins sur de nombreux territoires. L’adaptation au changement climatique renforce les systèmes de santé en augmentant 
+la résilience des établissements sanitaires aux catastrophes naturelles et autres phénomènes météorologiques extrêmes, 
+tout en encourageant les approches d’adaptation. 
+Alors que les hôpitaux et les systèmes de santé explorent des possibilités pour remédier au changement climatique, ils 
+découvrent une synergie importante et un chevauchement significatif entre les mesures de réduction et les interventions 
+de la résilience au changement climatique. 
+De nombreuses stratégies de résilience contribuent aussi à l’atténuation du changement climatique et vice-versa. Par 
+exemple, implanter des établissements sanitaires avec un accès aux transports en commun, déployer la production 
+d’énergies sur site, dont l’énergie solaire et d’autres sources renouvelables, combiner la production de chaleur et 
+d'électricité, construire des bâtiments avec des aérations naturelles, acheter des appareils médicaux à haute efficacité 
+énergétique, et changer la prestation de soins avec la télémédecine ; tous ces exemples contribuent à rendre les systèmes 
+résilients et à réduire l’empreinte climatique. Les hôpitaux trouvent que les interventions qui leur permettent de réduire leur 
+dépendance aux larges réseaux d’électricité et aux infrastructures leur permettent aussi de mieux faire face aux situations, 
+comme le nombre grandissant d’ouragans qui mettent les infrastructures centrales hors d’usage. 
+41
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+NOTES
+1 Rapport spécial sur le réchauffement planétaire de 1,5°C du GIEC 
+(SR15) https://archive.ipcc.ch/pdf/special-reports/sr15/sr15_spm_final.
+pdf
+2 J Ellsmoor, Forbes Climate Emergency Declarations: How Cities 
+Are Leading The Charge (Déclarations de Forbes sur l’urgence 
+climatique : Comment les villes en sont les cheffes de file) 
+https://www.forbes.com/sites/jamesellsmoor/2019/07/20/climate-
+emergency-declarations-how-cities-are-leading-the-charge/
+3 Données de l’Observatoire Mondial de la Santé (GHO) de l’OMS 
+https://www.who.int/gho/health_financing/en/ 
+4 The Lancet : http://www.thelancet.com/journals/lancet/article/
+PIIS0140-6736(15)60931-X/abstract
+5 La Banque mondiale, 2015, Shock Waves: Managing the Impacts 
+of Climate Change on Poverty (Ondes de choc : Gérer les impacts 
+du changement climatique sur la pauvreté) https://openknowledge.
+worldbank.org/bitstream/handle/10986/22787/9781464806735.pdf
+6 N Watts et al. The 2018 report of the Lancet Countdown on health 
+and climate change: shaping the health of nations for centuries 
+to come (Le rapport 2018 du Lancet Countdown sur la santé et le 
+changement climatique : définir la santé des nations pour les siècles 
+à venir), P2479-2514, 08 DÉCEMBRE 2018, https://www.thelancet.
+com/journals/lancet/article/PIIS0140-6736(18)32594-7/fulltext 
+7 Organisation mondiale de la Santé,https://www.who.int/news-room/
+detail/02-05-2018-9-out-of-10-people-worldwide-breathe-polluted-
+air-but-more-countries-are-taking-action
+8 The Lancet : http://www.thelancet.com/journals/lancet/article/
+PIIS0140-6736(15)60931-X/abstract 
+9 Chung JW et Meltzer DO 2009 Estimate of the carbon footprint of 
+the US health care sector (Estimation de l’empreinte carbone du 
+secteur de la santé aux États-Unis), J. Am. Med. Assoc. 3021970–2
+10 Eckelman MJ, Sherman J (2016) Environmental Impacts of the U.S. 
+Healthcare System and Effects on Public Health (Conséquences 
+environnementales du système de la santé aux États-Unis et les 
+effets sur la santé publique). PLoS ONE 11(6): e0157014. doi:10.1371/
+journal.pone.0157014 
+11 Reducing the use of natural resources in health and social care 
+(Réduire l’utilisation de ressources naturelles dans le secteur de 
+la santé et de la protection sociale), rapport de 2018, Unité de 
+Développement Durable, Service National de Santé et Santé 
+Publique d’Angleterre. https://www.sduhealth.org.uk/documents/
+Policy%20and%20strategy/20180912_Health_and_Social_Care_
+NRF_web.pdf 
+12 Malik A, Lenzen M, McAlister S et McGain F 2018 The carbon 
+footprint of Australian health care (L’empreinte carbone du secteur 
+de la santé australien), Lancet Planet. Health 2 e27–35
+13 Eckelman MJ, Sherman JD et MacNeill AJ 2018 Life cycle 
+environmental emissions and health damages from the Canadian 
+healthcare system: an economic-environmentalepidemiological 
+analysis (Le cycle de vie des émissions environnementales et les 
+dommages sanitaires engendrés par le système de santé canadien : 
+une analyse économique, environnementale et épidémiologique) 
+PLoS Med. 15 e1002623
+14 La Banque mondiale, 2017, Climate Smart Health Care: Low Carbon 
+and Resilience Strategies for the Health Sector (Un secteur de 
+la santé adapté au changement climatique : stratégies à faibles 
+émissions de carbone et de résilience pour le secteur de la santé) 
+http://documents.worldbank.org/curated/en/322251495434571418/
+Climate-smart-healthcare-low-carbon-and-resilience-strategies-for-
+the-health-sector 
+15 Hovland Consulting LLC, Health Care Without Harm, avec le 
+Conseil de protection des ressources naturelles (2018), “Global 
+Climate Impact from Hospital Cooling” (« Conséquences climatiques 
+mondiales de la climatisation des hôpitaux »), Kigali Cooling 
+Efficiency Program, San Francisco. 
+16 Peter-Paul Pichler et al. 2019 Environ. Res. Lett. 14 064004 https://
+iopscience.iop.org/article/10.1088/1748-9326/ab19e1/meta
+17 J. Kitzes, “An Introduction to Environmentally-Extended Input-Output 
+Analysis” (« Une introduction à l’analyse d’entrées-sorties étendues 
+à l’environnement »), Ressources, n°2, p. 489-503, 2013.
+18 P.-P. Pichler, I. Jaccard, U. Weisz et H. Weisz, “International 
+comparison of health care carbon footprints” (« Comparaison 
+internationale des empreintes carbones des secteurs de la santé »), 
+Environmental Research Letters, n°14, p. 1-8, 2019.
+19 J. Gütschow, L. Jeffery et R. Gieseke, “The PRIMAP-hist national 
+historical emissions time series v2.0 (1850-2016)” (« Série 
+chronologique des émissions nationales historiques PRIMAP 
+v2 (1850-2016) »), GFZ Data Services, https://doi.org/10.5880/
+PIK.2019.001, 2019.
+20 Eurostat, « NACE Rév 2 : nomenclature statistique des activités 
+économiques dans la Communauté européenne », Office 
+des publications officielles des Communautés européennes, 
+Luxembourg, 2008.
+21 OCDE, Eurostat et OMS, “A system of health accounts 2011: revised 
+edition” (« Un système de comptes de la santé 2011 : édition 
+révisée »), Éditions OCDE, Paris, 2017.
+22 OCDE, « Statistiques de l’OCDE sur la santé 2019 » 2019. 
+[online]. Disponible sur : https://stats.oecd.org/index.
+aspx?DataSetCode=HEALTH_STAT. [Consulté le 6 Mai 2019].
+23 M. P. Timmer, E. Dietzenbacher, B. Los, R. Stehrer et G. J. de Vries, 
+“An Illustrated User Guide to the World Input–Output Database: 
+the Case of Global Automotive Production” (« Un guide d’utilisation 
+illustré pour les bases de données mondiales entrées-sorties : le 
+cas de la production automobile mondiale »), Review of International 
+Economics, n°23, p. 575–605, 2015.
+24 Calculateur d’équivalence de gaz à effet de serre de l’APE USA. 
+Calculé le 8/8/19.
+25 Unité de Développement Durable (NHS), “Carbon Footprint update 
+for NHS in England 2012” (« Mise à jour de l’empreinte carbone 
+pour le Service National de Santé d’Angleterre en 2012 »), Unité de 
+Développement Durable, Cambridge, 2013.
+ 26 Unité de Développement Durable, “Call for action on gases 
+used in inhalers” (« Appel à l’action sur les gaz utilisés dans les 
+inhalateurs »), Unité de Développement Durable, [online]. Disponible 
+sur : https://www.sduhealth.org.uk/news/605/call-for-action-on-
+gases-used-in-inhalers/. [Consulté le 19 Juillet 2019].
+27 CCNUCC, “National Inventory Submissions 2016” (« Proposition 
+d’inventaire national 2016 »), CCNUCC, 2019. [online]. Disponible 
+sur : https://unfccc.int/process/transparency-and-reporting/reporting-
+and-review-under-the-convention/greenhouse-gas-inventories/
+submissions-of-annual-greenhouse-gas-inventories-for-2017/
+submissions-of-annual-ghg-inventories-2016. [Consulté le 19 Juillet 
+2019].
+28 Organisation mondiale de la Santé, « Liste modèle des 
+médicaments essentiels de l’OMS » Organisation mondiale de la 
+Santé, Genève, 2019.
+42
+NOTES
+29 Vollmer, M. K., T. S. Rhee, M. Rigby, D. Hofstetter, M. Hill, F. 
+Schoenenberger et S. Reimann (2015), Modern inhalation 
+anesthetics: Potent greenhouse gases in the global atmosphere 
+(Anesthésiques modernes par inhalation : de puissants gaz à effet 
+de serre dans l’atmosphère mondiale »), Geophys. Res. Lett., 42, 
+1606–1611, doi:10.1002/2014GL062785.
+30 Unité de Développement Durable (NHS), “Carbon Footprint from 
+Anaesthetic gas use” (« Empreinte carbone générée par l’utilisation 
+de gaz anesthésiques »), Unité de Développement Durable, 
+Cambridge, 2013.
+31 PRIMAP 
+32 Le Calculateur d’équivalences de gaz à effet de serre de l’Agence 
+Américaine pour la Protection du Climat URL : https://www.epa.gov/
+energy/greenhouse-gas-equivalencies-calculator
+33 Institute for Health Metrics Evaluation, Financing Global Health, 
+(Financer la Santé Mondiale), 2016, https://issuu.com/ihme/docs/
+ihme_fgh2016_technical-report, p. 79
+34 https://issuu.com/ihme/docs/ihme_fgh2016_technical-report
+35 T. Corsatea, S. Lindner, I. Arto, M. Román, J. Rueda-Cantuche, 
+A. A. Velázquez, A. Amores et F. Neuwahl, “World Input-Output 
+Database Environmental Accounts. Update 2000-2016” (« Les 
+comptes environnementaux de la base de données WIOD. Mise à 
+jour 2000-2016 »), Office des publications de l'Union européenne, 
+Luxembourg, 2019.
+36 Unité de Développement Durable, “Carbon update for the health 
+and care sector in England 2015” (« Actualisation carbone pour le 
+secteur de la santé et des soins en Angleterre, 2015 »), Unité de 
+Développement Durable, Cambridge, 2016.
+37 Bouley, et al., Climate Smart Health Care, Groupe de la Banque 
+mondiale 2017 ; Diarmid Campbell-Lendrum, Nicola Wheeler 
+(consultant), Marina Maiero, Elena Villalobos Prats et Tara Neville, 
+« Rapport spécial à la COP 24 : santé et changement climatique », 
+Décembre 2018, Organisation mondiale de la Santé, Genève. 
+38 Voir Santé Durable dans les Projets d’Approvisionnement 
+(SHiPP). https://noharm-global.org/documents/sustainable-health-
+procurement-project-shipp-2018-2021.
+39 Fonds monétaire international : https://www.imf.org/en/News/
+Articles/2015/09/28/04/53/sonew070215a 
+40 Jacobson et al., “100% Clean and Renewable Wind, Water, and 
+Sunlight All-Sector Energy Roadmaps for 139 Countries of the World, 
+Joule 1, 1–14” (« Feuille de route de toutes les énergies éoliennes, 
+hydrauliques et solaires 100 % propres et renouvelables, pour 139 
+pays du monde, Joule 1, 1-14 »), 6 septembre 2017 ª 2017 Elsevier Inc. 
+http://dx.doi.org/10.1016/j.joule.2017.07.005
+41 Voir : https://climatenexus.org/climate-change-news/common-but-
+differentiated-responsibilities-and-respective-capabilities-cbdr-rc/ 
+Pour une explication succincte. 
+42 Voir : https://www.who.int/globalchange/commit/en/
+43 https://issuu.com/ihme/docs/ihme_fgh2016_technical-report
+44 Voir le Solaire pour la Santé du PNUD, https://stories.undp.org/
+solar-for-health ; Fondation des Nations Unies, Alimenter le secteur 
+de la santé, http://poweringhc.org/ ; et l’Organisation mondiale de 
+la Santé et la Banque mondiale. (2014). Access to modern energy 
+services for health facilities in resource-constrained settings: a 
+review of status, significance, challenges and measurement (Accès 
+aux services énergétiques modernes pour les établissements 
+sanitaires aux ressources limitées : un examen des conditions, des 
+portées, des défis et des mesures). Réimprimé en 2015 avec des 
+modifications. Organisation mondiale de la Santé. https://apps.who.
+int/iris/handle/10665/156847?locale-attribute=fr&
+45 https://www.sduhealth.org.uk/policy-strategy/
+46 Organisation mondiale de la Santé, Health Care Without Harm, 
+Maldives green climate-smart hospitals: policies and strategies 
+report (Les hôpitaux verts adaptés au changement climatique : 
+rapport sur les politiques et les stratégies), 2019 https://apps.who.int/
+iris/handle/10665/312046
+47 https://www.greenribboncommission.org/work/health-care-working-
+group/
+48 https://noharm-uscanada.org/content/us-canada/california-health-
+care-climate-alliance et https://noharm-uscanada.org/ Health Care 
+Without Harm-content-tags/massachusetts
+49 “Towards a National Strategy on Climate, Health and Well-Being 
+for Australia, Discussion Paper” (« Vers une stratégie nationale 
+pour le climat, la santé et le bien-être en Australie, document 
+de consultation »), Climate and Health Alliance of Australia, 
+juin 2016, http://s3-ap-southeast-2.amazonaws.com/caha-org/
+uploads/2016/06/CAHA-Discussion-Paper-v04.pdf
+50 Organisation mondiale de la Santé, « Conclusions de conférence et 
+Plan d’actions (version finale) », Deuxième Conférence mondiale sur 
+la santé et le climat, Paris, 7-8 juillet 2016. 
+51 Diarmid Campbell-Lendrum, Nicola Wheeler (consultant), Marina 
+Maiero, Elena Villalobos Prats et Tara Neville, « Rapport spécial à 
+la COP 24 : santé et changement climatique », Décembre 2018, 
+Organisation mondiale de la Santé, Genève. 
+52 Plan de travail des pilotes sociaux et politiques, https://www.un.org/
+sustainabledevelopment/wp-content/uploads/2019/05/WP-Social-
+and-political-drivers.pdf, Sommet Action Climat 2019, Bureau du 
+Secrétaire Général de l’ONU, https://www.un.org/en/climatechange/
+climate-action-areas.shtml, consulté le 18 juillet 2019
+53 Bouley T, Roschnik S, Karliner J, Wilburn S, Slotterback S, Guenther 
+R, et al. Climate smart healthcare: low-carbon and resilience 
+strategies for the health sector (Un secteur de la santé adapté au 
+changement climatique : stratégies à faibles émissions de carbone 
+et de résilience pour le secteur de la santé). Washington DC : 
+Banque mondiale ; 2017. http://documents.worldbank.org/curated/
+en/322251495434571418/Climate-smart-healthcare-low-carbon-and-
+resilience-strategies-for-the-health-sector
+54 Pour obtenir de plus amples informations, voir http://
+healthcareclimatechallenge.org/
+55 CDP URL : https://www.cdp.net/en/cities/world-renewable-energy-
+cities
+56 RE100 URL : http://there100.org/companies
+57 APE USA URL : https://www.epa.gov/greenpower/green-power-
+partnership-top-30-college-university-0
+58 Reducing the use of natural resources in health and social care 
+(Réduire l’utilisation de ressources naturelles dans le secteur de 
+la santé et de la protection sociale), rapport de 2018, Unité de 
+Développement Durable, Service National de Santé et Santé 
+Publique d’Angleterre. https://www.sduhealth.org.uk/documents/
+Policy%20and%20strategy/20180912_Health_and_Social_Care_
+NRF_web.pdf 
+59 La région Skåne - Zéro combustion fossile d’ici 2020, URL : https://
+www.skane.se/en/politics-and-organisation/environment-and-nature/
+skane--fossil-fuel-free-by-2020/ 
+60 https://practicegreenhealth.org/sites/default/files/201906/
+PracticeGreenhealth_GHG_Toolkit_Executive_Summary.pdf
+61 https://noharm-global.org/articles/news/global/united-nations-
+development-programme-and-health-care-without-harm-launch-new
+43
+Comment le secteur de la santé participe à la crise climatique mondiale et les possibilités d’action
+44
+Conçu par Kariza Cruz
+ 
+Photos :
+Couverture :  La Havane, Cuba à la suite de l’ouragan Irma, 2017.   Photo : EFE/Rolando Pujol
+p. 7.   Évacuation d’un hôpital, Tambaram, Chennai, Inde, photo PTI
+ 
+p. 14.  Centre de santé Kaara, Mali.   Photo : Abbie Trayler-Smith
+ 
+p. 31.   Image de Earth.com
+ 
+p. 33, Hôpital Universitaire Severance, Système de santé de l’Université de Y onsei, Séoul, Corée du Sud.
+        Photo :  Josh Karliner, Health Care Without Harm
+ 
+p. 33.   Centrale Thermique à charbon de 1500 MW, NTECL Vallur, Ennore, Chennai nord, Inde Photo : Amirtharaj Stephen,  
+         Healthy Energy Initiative, Inde
+ 
+p. 41.  Hôpital Bertha Gxowa, Johannesbourg, Afrique du Sud.  Photo : Susan Wilburn, Health Care Without Harm
+ 
+p. 44.  Hôpital Ditan de Pékin, Chine.   Photo : Josh Karliner, Health Care Without Harm
+ 
+Quatrième de couverture :  Centre médical Kaiser Permanente, Santa Clara, Californie, États-Unis.   Photo : avec la permission de Kaiser 
+Permanente. 
+Ce document a pu être traduit en français grâce à la Commission Communautaire Commune (CoCom) de Belgique
+
+www.noharm.org
+E D C M Q  
