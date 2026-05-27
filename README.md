@@ -16,6 +16,7 @@ All in `/` (repo root). HTML is the source of truth; PDFs are exported at **true
 |---|---|
 | `EcoDialysis_Final_Pitch_EN.html` / `.pdf` | English deck — 53 slides (35 main + 18 appendix). Fixed 1600 × 900 canvas, keyboard / arrow / hash navigation, progress bar, slide counter. Storyline: hidden water vulnerability → measurement & reuse → international & French proof → product & ecosystem → pilot ask. |
 | `EcoDialysis_Final_Pitch_FR.html` / `.pdf` | French parallel deck — 53 slides, same IDs as EN. Uses polished French terminology: résilience hydrique, vulnérabilité hydrique cachée, EICH, carnet sanitaire, GHT, sobriété hydrique, etc. |
+| `EcoDialysis_Final_Pitch_EN.pptx` / `EcoDialysis_Final_Pitch_FR.pptx` | Editable PowerPoint export of the 53-slide main deck, true 16:9 (13.333 × 7.5 in). Generated from the same `content_en.py` / `content_fr.py` Python sources via `ecodeck/build_pptx.py`. |
 | `EcoDialysis_Executive_Summary_EN.html` / `.pdf` | One-page A4 portrait executive summary — hook, 5 KPI tiles, what-we-deliver, proof base, three pilots, ask, claims discipline, source credit. |
 | `EcoDialysis_Executive_Summary_FR.html` / `.pdf` | French executive summary, same layout. |
 
@@ -42,6 +43,7 @@ All five Python sources used to generate the decks live in [`ecodeck/`](./ecodec
 | `content_en.py` | All 53 EN slides as `SLIDES_EN` list of tuples `(sid, kind, title, body_html, notes)`. Helper `C(*ids)` renders source chips. Helper `add(sid, kind, title, body, notes)` appends a slide. |
 | `content_fr.py` | French parallel — same slide IDs, same structure, polished FR wording. |
 | `build.py` | Assembler. Imports CSS+JS from `style_js`, slides from `content_en` / `content_fr`, emits the two final HTML files in the repo root. |
+| `build_pptx.py` | Converts the same `SLIDES_EN` / `SLIDES_FR` data to editable `.pptx` (53 slides, true 16:9). HTML in slide bodies is flattened to titles, bullets and real PPTX tables; speaker notes are preserved. Requires `python-pptx`. |
 | `exec.py` | Generator for the one-page executive summary (EN + FR). |
 
 ### Rebuild workflow
@@ -55,7 +57,11 @@ python3 build.py
 # 2 · regenerate executive summaries
 python3 exec.py
 
-# 3 · re-export PDFs at true 16:9
+# 3 · regenerate the editable .pptx (requires `pip install python-pptx`)
+python3 build_pptx.py
+# → writes ../EcoDialysis_Final_Pitch_EN.pptx and ..._FR.pptx (53 slides each, true 16:9)
+
+# 4 · re-export PDFs at true 16:9
 cd ..
 for L in EN FR; do
   google-chrome --headless --disable-gpu --no-sandbox --no-pdf-header-footer \
